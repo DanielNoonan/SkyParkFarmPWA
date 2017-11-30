@@ -15,12 +15,11 @@ const IndexPage = ({ data }) => {
   return (
     <div>
       <h1>Hi people</h1>
-      <p>Welcome to your new Gatsby site.</p>
-      <p>Now go build something great.</p>
-      <Link to="/page-2/">Go to page 2</Link>
+      <h1><Link to="/page-2/">Go to page 2</Link></h1>
 
     <TestElement>
       {content[0].node.openingParagraph.openingParagraph}
+     <img src={`https:${content[0].node.previewImage.file.url}`} style={{display: 'block'}}/>
     </TestElement>
 
     </div>
