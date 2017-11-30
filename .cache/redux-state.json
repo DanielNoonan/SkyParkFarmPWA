@@ -8,7 +8,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1512051086339,
+      "updatedAt": 1512057403521,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a178927ebc424410ee2bef3b6e3eb050",
+        "contentDigest": "a67ab9738c2cd32b606a157eacea09ce",
         "owner": "internal-data-bridge"
       }
     },
@@ -283,11 +283,156 @@
         "owner": "internal-data-bridge"
       }
     },
+    "Plugin gatsby-plugin-styled-components": {
+      "resolve": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby-plugin-styled-components",
+      "id": "Plugin gatsby-plugin-styled-components",
+      "name": "gatsby-plugin-styled-components",
+      "version": "2.0.3",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby-plugin-styled-components",
+      "packageJson": {
+        "name": "gatsby-plugin-styled-components",
+        "description": "Gatsby plugin to add support for styled components",
+        "version": "2.0.3",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "styled-components"
+        ],
+        "author": {
+          "name": "Guten Ye",
+          "email": "ywzhaifei@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "styled-components",
+            "version": ">= 2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d2a80e0abae953509d9e3ea6b9a68cec",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-source-contentful": {
+      "resolve": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby-source-contentful",
+      "id": "Plugin gatsby-source-contentful",
+      "name": "gatsby-source-contentful",
+      "version": "1.3.28",
+      "pluginOptions": {
+        "plugins": [],
+        "spaceId": "ca5g612z8zfu",
+        "accessToken": "aa230e6fa2c60d6fb1eb714b4949844b279249c2c151328c8c816386945a68f2"
+      },
+      "nodeAPIs": [
+        "setFieldsOnGraphQLNodeType",
+        "sourceNodes",
+        "onPreExtractQueries"
+      ],
+      "pluginFilepath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby-source-contentful",
+      "packageJson": {
+        "name": "gatsby-source-contentful",
+        "description": "Gatsby source plugin for building websites using the Contentful CMS as a data source",
+        "version": "1.3.28",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "gatsby-source-plugin"
+        ],
+        "author": {
+          "name": "Marcus Ericsson",
+          "email": "mericsson@gmail.com",
+          "url": "mericsson.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "axios",
+            "version": "^0.16.1"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "base64-img",
+            "version": "^1.0.3"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "contentful",
+            "version": "^4.3.0"
+          },
+          {
+            "name": "deep-map",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "json-stringify-safe",
+            "version": "^5.0.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "qs",
+            "version": "^6.4.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "4ca30a4fb9a0678fdd995a27f9cf7e7e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
     "Plugin default-site-plugin": {
       "resolve": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "8404ab04284227cde3d1aad4d9ca29a7",
+      "version": "d2eccc33f8955d7c948d5818e2896a96",
       "pluginOptions": {
         "plugins": []
       },
@@ -305,6 +450,10 @@
         "license": "MIT",
         "dependencies": [
           {
+            "name": "contentful",
+            "version": "^5.0.5"
+          },
+          {
             "name": "gatsby",
             "version": "^1.9.119"
           },
@@ -315,6 +464,18 @@
           {
             "name": "gatsby-plugin-react-helmet",
             "version": "^1.0.8"
+          },
+          {
+            "name": "gatsby-plugin-styled-components",
+            "version": "^2.0.3"
+          },
+          {
+            "name": "gatsby-source-contentful",
+            "version": "^1.3.28"
+          },
+          {
+            "name": "styled-components",
+            "version": "^2.2.4"
           }
         ],
         "devDependencies": [
@@ -330,27 +491,756 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "63edab3af6c3fd832d6fad52850e7720",
+        "contentDigest": "81606e9d257a8dd3a7171fa803a63a2e",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Site": {
       "siteMetadata": {
-        "title": "Gatsby Default Starter"
+        "title": "Sky Park Farm"
       },
       "port": "8000",
       "host": "localhost",
-      "pathPrefix": "",
-      "polyfill": true,
-      "buildTime": "2017-11-30T14:11:24.243Z",
+      "buildTime": "2017-11-30T15:56:11.080Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "89009bfbc77ffa526ac7fe1bd88fd95f",
+        "contentDigest": "7407aec2358958d0072ffe74d11ce3b6",
         "type": "Site",
         "owner": "internal-data-bridge"
+      }
+    },
+    "c6dbjWqNd9SqccegcqYq224productNameTextNode": {
+      "id": "c6dbjWqNd9SqccegcqYq224productNameTextNode",
+      "parent": "c6dbjWqNd9SqccegcqYq224",
+      "children": [],
+      "productName": "Whisk Beater",
+      "internal": {
+        "type": "contentfulProductProductNameTextNode",
+        "mediaType": "text/markdown",
+        "content": "Whisk Beater",
+        "contentDigest": "bfab59c3dba2ca3c2fce106049470741",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c6dbjWqNd9SqccegcqYq224productDescriptionTextNode": {
+      "id": "c6dbjWqNd9SqccegcqYq224productDescriptionTextNode",
+      "parent": "c6dbjWqNd9SqccegcqYq224",
+      "children": [],
+      "productDescription": "A creative little whisk that comes in 8 different colors. Handy and easy to clean after use. A great gift idea.",
+      "internal": {
+        "type": "contentfulProductProductDescriptionTextNode",
+        "mediaType": "text/markdown",
+        "content": "A creative little whisk that comes in 8 different colors. Handy and easy to clean after use. A great gift idea.",
+        "contentDigest": "223b5836966aa0ab2c43a9a870e7a631",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c3DVqIYj4dOwwcKu6sgqOggproductNameTextNode": {
+      "id": "c3DVqIYj4dOwwcKu6sgqOggproductNameTextNode",
+      "parent": "c3DVqIYj4dOwwcKu6sgqOgg",
+      "children": [],
+      "productName": "Hudson Wall Cup",
+      "internal": {
+        "type": "contentfulProductProductNameTextNode",
+        "mediaType": "text/markdown",
+        "content": "Hudson Wall Cup",
+        "contentDigest": "927daa584fb961e59edbd07f921b916c",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c3DVqIYj4dOwwcKu6sgqOggproductDescriptionTextNode": {
+      "id": "c3DVqIYj4dOwwcKu6sgqOggproductDescriptionTextNode",
+      "parent": "c3DVqIYj4dOwwcKu6sgqOgg",
+      "children": [],
+      "productDescription": "Wall Hanging Glass Flower Vase and Terrarium",
+      "internal": {
+        "type": "contentfulProductProductDescriptionTextNode",
+        "mediaType": "text/markdown",
+        "content": "Wall Hanging Glass Flower Vase and Terrarium",
+        "contentDigest": "da605021a35b1da89c6810fb46275a58",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "Product": {
+      "id": "Product",
+      "parent": null,
+      "children": [],
+      "name": "Product",
+      "displayField": "productName",
+      "description": null,
+      "internal": {
+        "type": "ContentfulContentType",
+        "contentDigest": "d9822da16231c6bd9df08d882174266f",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c6dbjWqNd9SqccegcqYq224": {
+      "slug": "whisk-beater",
+      "sizetypecolor": "0.8 x 0.8 x 11.2 inches; 1.6 ounces",
+      "tags": [
+        "kitchen",
+        "accessories",
+        "whisk",
+        "scandinavia",
+        "design"
+      ],
+      "price": 22,
+      "quantity": 89,
+      "sku": "B0081F2CCK",
+      "website": "http://www.amazon.com/dp/B0081F2CCK/",
+      "image___NODE": [
+        "c10TkaLheGeQG6qQGqWYqUI"
+      ],
+      "categories___NODE": [
+        "c7LAnCobuuWYSqks6wAwY2a"
+      ],
+      "brand___NODE": "c651CQ8rLoIYCeY6G0QG22q",
+      "productName___NODE": "c6dbjWqNd9SqccegcqYq224productNameTextNode",
+      "productDescription___NODE": "c6dbjWqNd9SqccegcqYq224productDescriptionTextNode",
+      "id": "c6dbjWqNd9SqccegcqYq224",
+      "createdAt": "2017-11-23T13:20:36.905Z",
+      "updatedAt": "2017-11-23T13:20:36.905Z",
+      "parent": "Product",
+      "children": [
+        "c6dbjWqNd9SqccegcqYq224productNameTextNode",
+        "c6dbjWqNd9SqccegcqYq224productDescriptionTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulProduct",
+        "contentDigest": "62f89eca46abc95df658bb174ac12cd1",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c3DVqIYj4dOwwcKu6sgqOgg": {
+      "slug": "hudson-wall-cup",
+      "sizetypecolor": "3 x 3 x 5 inches; 5.3 ounces",
+      "tags": [
+        "vase",
+        "flowers",
+        "accessories"
+      ],
+      "price": 11,
+      "quantity": 101,
+      "sku": "B00E82D7I8",
+      "website": "http://www.amazon.com/dp/B00E82D7I8/",
+      "image___NODE": [
+        "Xc0ny7GWsMEMCeASWO2um"
+      ],
+      "categories___NODE": [
+        "c7LAnCobuuWYSqks6wAwY2a"
+      ],
+      "brand___NODE": "c651CQ8rLoIYCeY6G0QG22q",
+      "productName___NODE": "c3DVqIYj4dOwwcKu6sgqOggproductNameTextNode",
+      "productDescription___NODE": "c3DVqIYj4dOwwcKu6sgqOggproductDescriptionTextNode",
+      "id": "c3DVqIYj4dOwwcKu6sgqOgg",
+      "createdAt": "2017-11-23T13:20:36.898Z",
+      "updatedAt": "2017-11-23T13:20:36.898Z",
+      "parent": "Product",
+      "children": [
+        "c3DVqIYj4dOwwcKu6sgqOggproductNameTextNode",
+        "c3DVqIYj4dOwwcKu6sgqOggproductDescriptionTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulProduct",
+        "contentDigest": "d47ac383f89067a2e8aea584863b5858",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c24DPGBDeGEaYy8ms4Y8QMQtitleTextNode": {
+      "id": "c24DPGBDeGEaYy8ms4Y8QMQtitleTextNode",
+      "parent": "c24DPGBDeGEaYy8ms4Y8QMQ",
+      "children": [],
+      "title": "Toys",
+      "internal": {
+        "type": "contentfulCategoryTitleTextNode",
+        "mediaType": "text/markdown",
+        "content": "Toys",
+        "contentDigest": "66d0af2d5da0109dc2aae67829f7d4d4",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c24DPGBDeGEaYy8ms4Y8QMQcategoryDescriptionTextNode": {
+      "id": "c24DPGBDeGEaYy8ms4Y8QMQcategoryDescriptionTextNode",
+      "parent": "c24DPGBDeGEaYy8ms4Y8QMQ",
+      "children": [],
+      "categoryDescription": "Shop for toys, games, educational aids",
+      "internal": {
+        "type": "contentfulCategoryCategoryDescriptionTextNode",
+        "mediaType": "text/markdown",
+        "content": "Shop for toys, games, educational aids",
+        "contentDigest": "c3cd3eaea58a115e968573664df3a603",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c7LAnCobuuWYSqks6wAwY2atitleTextNode": {
+      "id": "c7LAnCobuuWYSqks6wAwY2atitleTextNode",
+      "parent": "c7LAnCobuuWYSqks6wAwY2a",
+      "children": [],
+      "title": "Home & Kitchen",
+      "internal": {
+        "type": "contentfulCategoryTitleTextNode",
+        "mediaType": "text/markdown",
+        "content": "Home & Kitchen",
+        "contentDigest": "71520a45fe8b5ecded737e074a6b30a0",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c7LAnCobuuWYSqks6wAwY2acategoryDescriptionTextNode": {
+      "id": "c7LAnCobuuWYSqks6wAwY2acategoryDescriptionTextNode",
+      "parent": "c7LAnCobuuWYSqks6wAwY2a",
+      "children": [],
+      "categoryDescription": "Shop for furniture, bedding, bath, vacuums, kitchen products, and more",
+      "internal": {
+        "type": "contentfulCategoryCategoryDescriptionTextNode",
+        "mediaType": "text/markdown",
+        "content": "Shop for furniture, bedding, bath, vacuums, kitchen products, and more",
+        "contentDigest": "24709e2bdb88b89104c215e6b5492bf8",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "Category": {
+      "id": "Category",
+      "parent": null,
+      "children": [],
+      "name": "Category",
+      "displayField": "title",
+      "description": null,
+      "internal": {
+        "type": "ContentfulContentType",
+        "contentDigest": "0418f4c2792c0c223b79211e81387e4d",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c24DPGBDeGEaYy8ms4Y8QMQ": {
+      "icon___NODE": "c6t4HKjytPi0mYgs240wkG",
+      "title___NODE": "c24DPGBDeGEaYy8ms4Y8QMQtitleTextNode",
+      "categoryDescription___NODE": "c24DPGBDeGEaYy8ms4Y8QMQcategoryDescriptionTextNode",
+      "id": "c24DPGBDeGEaYy8ms4Y8QMQ",
+      "createdAt": "2017-11-23T13:20:37.872Z",
+      "updatedAt": "2017-11-23T13:20:37.872Z",
+      "parent": "Category",
+      "children": [
+        "c24DPGBDeGEaYy8ms4Y8QMQtitleTextNode",
+        "c24DPGBDeGEaYy8ms4Y8QMQcategoryDescriptionTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulCategory",
+        "contentDigest": "5c3ddad73fc5af65f926c35c1b5c4449",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c7LAnCobuuWYSqks6wAwY2a": {
+      "icon___NODE": "c6m5AJ9vMPKc8OUoQeoCS4o",
+      "product___NODE": [
+        "c6dbjWqNd9SqccegcqYq224",
+        "c3DVqIYj4dOwwcKu6sgqOgg"
+      ],
+      "title___NODE": "c7LAnCobuuWYSqks6wAwY2atitleTextNode",
+      "categoryDescription___NODE": "c7LAnCobuuWYSqks6wAwY2acategoryDescriptionTextNode",
+      "id": "c7LAnCobuuWYSqks6wAwY2a",
+      "createdAt": "2017-11-23T13:20:37.503Z",
+      "updatedAt": "2017-11-23T13:20:37.503Z",
+      "parent": "Category",
+      "children": [
+        "c7LAnCobuuWYSqks6wAwY2atitleTextNode",
+        "c7LAnCobuuWYSqks6wAwY2acategoryDescriptionTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulCategory",
+        "contentDigest": "30baeecdd8b2e32ca046a2c3dec8d43c",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "JrePkDVYomE8AwcuCUyMicompanyNameTextNode": {
+      "id": "JrePkDVYomE8AwcuCUyMicompanyNameTextNode",
+      "parent": "JrePkDVYomE8AwcuCUyMi",
+      "children": [],
+      "companyName": "Playsam",
+      "internal": {
+        "type": "contentfulBrandCompanyNameTextNode",
+        "mediaType": "text/markdown",
+        "content": "Playsam",
+        "contentDigest": "1d2de5c3096635ca01f6ab4131252039",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "JrePkDVYomE8AwcuCUyMicompanyDescriptionTextNode": {
+      "id": "JrePkDVYomE8AwcuCUyMicompanyDescriptionTextNode",
+      "parent": "JrePkDVYomE8AwcuCUyMi",
+      "children": [],
+      "companyDescription": "Playsam is the leading Scandinavian design company for executive wooden toy gift. Scandinavian design playful creativity, integrity and sophistication are Playsam. Scandinavian design and wooden toy makes Playsam gift lovely to the world of design since 1984.",
+      "internal": {
+        "type": "contentfulBrandCompanyDescriptionTextNode",
+        "mediaType": "text/markdown",
+        "content": "Playsam is the leading Scandinavian design company for executive wooden toy gift. Scandinavian design playful creativity, integrity and sophistication are Playsam. Scandinavian design and wooden toy makes Playsam gift lovely to the world of design since 1984.",
+        "contentDigest": "f27a71b7f2ee9eabad3335e0c03da951",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c4LgMotpNF6W20YKmuemW0acompanyNameTextNode": {
+      "id": "c4LgMotpNF6W20YKmuemW0acompanyNameTextNode",
+      "parent": "c4LgMotpNF6W20YKmuemW0a",
+      "children": [],
+      "companyName": "Lemnos",
+      "internal": {
+        "type": "contentfulBrandCompanyNameTextNode",
+        "mediaType": "text/markdown",
+        "content": "Lemnos",
+        "contentDigest": "7b0e3f7cc613d34aafa689516e96056e",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c4LgMotpNF6W20YKmuemW0acompanyDescriptionTextNode": {
+      "id": "c4LgMotpNF6W20YKmuemW0acompanyDescriptionTextNode",
+      "parent": "c4LgMotpNF6W20YKmuemW0a",
+      "children": [],
+      "companyDescription": "TAKATA Lemnos Inc. was founded in 1947 as a brass casting manufacturing industry in Takaoka-city, Toyama Prefecture, Japan and we launched out into the full-scale business trade with Seiko Clock Co., Ltd. since 1966.\n\nWe entered into the development for the original planning from late 1980 and \"Lemnos Brand\" recognized as the global design clock by a masterpiece \"HOLA\" designed by Kazuo KAWASAKI which released in 1989.\n\nAfterwards, we made a lot of projects with well-known designers who took in active in Japan and overseas such as Riki WATANABE, Kazuo KAWASAKI, Shin AZUMI, Tomoko AZUMI, Kanae TSUKAMOTO etc. and we made announcement of their fine works abounding in artistry and prominent designs. In addition, we realized to make a special project by the collaboration with Andrea Branzi, a well-known architect in the world.\n\nLemnos brand products are now highly praised from the design shops and the interior shops all over the world.\n\nIn recent years, we also have been given high priority to develop interior accessories making full use of our traditional techniques by the founding manufacturer and we always focus our minds on the development for the new Lemnos products in the new market.\n\nOur Lemnos products are made carefully by our craftsmen finely honed skillful techniques in Japan. They surely bring out the attractiveness of the materials to the maximum and create fine products not being influenced on the fashion trend accordingly. TAKATA Lemnos Inc. definitely would like to be innovative and continuously propose the beauty lasts forever.",
+      "internal": {
+        "type": "contentfulBrandCompanyDescriptionTextNode",
+        "mediaType": "text/markdown",
+        "content": "TAKATA Lemnos Inc. was founded in 1947 as a brass casting manufacturing industry in Takaoka-city, Toyama Prefecture, Japan and we launched out into the full-scale business trade with Seiko Clock Co., Ltd. since 1966.\n\nWe entered into the development for the original planning from late 1980 and \"Lemnos Brand\" recognized as the global design clock by a masterpiece \"HOLA\" designed by Kazuo KAWASAKI which released in 1989.\n\nAfterwards, we made a lot of projects with well-known designers who took in active in Japan and overseas such as Riki WATANABE, Kazuo KAWASAKI, Shin AZUMI, Tomoko AZUMI, Kanae TSUKAMOTO etc. and we made announcement of their fine works abounding in artistry and prominent designs. In addition, we realized to make a special project by the collaboration with Andrea Branzi, a well-known architect in the world.\n\nLemnos brand products are now highly praised from the design shops and the interior shops all over the world.\n\nIn recent years, we also have been given high priority to develop interior accessories making full use of our traditional techniques by the founding manufacturer and we always focus our minds on the development for the new Lemnos products in the new market.\n\nOur Lemnos products are made carefully by our craftsmen finely honed skillful techniques in Japan. They surely bring out the attractiveness of the materials to the maximum and create fine products not being influenced on the fashion trend accordingly. TAKATA Lemnos Inc. definitely would like to be innovative and continuously propose the beauty lasts forever.",
+        "contentDigest": "fa3b5588d6eb6ed5a367ea48e5e47be2",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c651CQ8rLoIYCeY6G0QG22qcompanyNameTextNode": {
+      "id": "c651CQ8rLoIYCeY6G0QG22qcompanyNameTextNode",
+      "parent": "c651CQ8rLoIYCeY6G0QG22q",
+      "children": [],
+      "companyName": "Normann Copenhagen",
+      "internal": {
+        "type": "contentfulBrandCompanyNameTextNode",
+        "mediaType": "text/markdown",
+        "content": "Normann Copenhagen",
+        "contentDigest": "5fb9d019c3646f6fee84172952337463",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c651CQ8rLoIYCeY6G0QG22qcompanyDescriptionTextNode": {
+      "id": "c651CQ8rLoIYCeY6G0QG22qcompanyDescriptionTextNode",
+      "parent": "c651CQ8rLoIYCeY6G0QG22q",
+      "children": [],
+      "companyDescription": "Normann Copenhagen is a way of living - a mindset. We love to challenge the conventional design rules. This is why you will find traditional materials put into untraditional use such as a Stone Hook made of Icelandic stones, a vase made out of silicon and last but not least a dog made out of plastic.",
+      "internal": {
+        "type": "contentfulBrandCompanyDescriptionTextNode",
+        "mediaType": "text/markdown",
+        "content": "Normann Copenhagen is a way of living - a mindset. We love to challenge the conventional design rules. This is why you will find traditional materials put into untraditional use such as a Stone Hook made of Icelandic stones, a vase made out of silicon and last but not least a dog made out of plastic.",
+        "contentDigest": "8010f6e93f3a7dbca56c041a46d4ab77",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "Brand": {
+      "id": "Brand",
+      "parent": null,
+      "children": [],
+      "name": "Brand",
+      "displayField": "companyName",
+      "description": null,
+      "internal": {
+        "type": "ContentfulContentType",
+        "contentDigest": "b7cc6c33f996216ec368e79794f50089",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "JrePkDVYomE8AwcuCUyMi": {
+      "website": "http://playsam.com/",
+      "logo___NODE": "c4zj1ZOfHgQ8oqgaSKm4Qo2",
+      "companyName___NODE": "JrePkDVYomE8AwcuCUyMicompanyNameTextNode",
+      "companyDescription___NODE": "JrePkDVYomE8AwcuCUyMicompanyDescriptionTextNode",
+      "id": "JrePkDVYomE8AwcuCUyMi",
+      "createdAt": "2017-11-23T13:20:37.678Z",
+      "updatedAt": "2017-11-23T13:20:37.678Z",
+      "parent": "Brand",
+      "children": [
+        "JrePkDVYomE8AwcuCUyMicompanyNameTextNode",
+        "JrePkDVYomE8AwcuCUyMicompanyDescriptionTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulBrand",
+        "contentDigest": "a67a5a3dfe3d7f26d8ac8f560a7216db",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c4LgMotpNF6W20YKmuemW0a": {
+      "website": "http://www.lemnos.jp/en/",
+      "email": "info@acgears.com",
+      "phone": [
+        "+1 212 260 2269"
+      ],
+      "logo___NODE": "c2Y8LhXLnYAYqKCGEWG4EKI",
+      "companyName___NODE": "c4LgMotpNF6W20YKmuemW0acompanyNameTextNode",
+      "companyDescription___NODE": "c4LgMotpNF6W20YKmuemW0acompanyDescriptionTextNode",
+      "id": "c4LgMotpNF6W20YKmuemW0a",
+      "createdAt": "2017-11-23T13:20:37.575Z",
+      "updatedAt": "2017-11-23T13:20:37.575Z",
+      "parent": "Brand",
+      "children": [
+        "c4LgMotpNF6W20YKmuemW0acompanyNameTextNode",
+        "c4LgMotpNF6W20YKmuemW0acompanyDescriptionTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulBrand",
+        "contentDigest": "5398997dcd5661523068950b8d902314",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c651CQ8rLoIYCeY6G0QG22q": {
+      "website": "http://www.normann-copenhagen.com/",
+      "twitter": "https://twitter.com/NormannCPH",
+      "email": "normann@normann-copenhagen.com",
+      "phone": [
+        "+45 35 55 44 59"
+      ],
+      "logo___NODE": "c3wtvPBbBjiMKqKKga8I2Cu",
+      "product___NODE": [
+        "c6dbjWqNd9SqccegcqYq224",
+        "c3DVqIYj4dOwwcKu6sgqOgg"
+      ],
+      "companyName___NODE": "c651CQ8rLoIYCeY6G0QG22qcompanyNameTextNode",
+      "companyDescription___NODE": "c651CQ8rLoIYCeY6G0QG22qcompanyDescriptionTextNode",
+      "id": "c651CQ8rLoIYCeY6G0QG22q",
+      "createdAt": "2017-11-23T13:20:37.213Z",
+      "updatedAt": "2017-11-23T13:20:37.213Z",
+      "parent": "Brand",
+      "children": [
+        "c651CQ8rLoIYCeY6G0QG22qcompanyNameTextNode",
+        "c651CQ8rLoIYCeY6G0QG22qcompanyDescriptionTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulBrand",
+        "contentDigest": "f0ea29eaaa583f14089676d8b63d6c3d",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c69chYIzbvGOsgi6kKIE4MSopeningParagraphTextNode": {
+      "id": "c69chYIzbvGOsgi6kKIE4MSopeningParagraphTextNode",
+      "parent": "c69chYIzbvGOsgi6kKIE4MS",
+      "children": [],
+      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "internal": {
+        "type": "contentfulNewsColumnOpeningParagraphTextNode",
+        "mediaType": "text/markdown",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "contentDigest": "db89bb5ceab87f9c0fcc2ab36c189c2c",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "News Column": {
+      "id": "News Column",
+      "parent": null,
+      "children": [],
+      "name": "News Column",
+      "displayField": "title",
+      "description": "News column article preview",
+      "internal": {
+        "type": "ContentfulContentType",
+        "contentDigest": "c465670219e45f39692eba3b1c6d0727",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c69chYIzbvGOsgi6kKIE4MS": {
+      "articleNumber": 1,
+      "title": "First News Column Article",
+      "openingSentence": "Deer gives birth today.",
+      "previewImage___NODE": "c2uqyFo9N8kYESGws4egoG4",
+      "openingParagraph___NODE": "c69chYIzbvGOsgi6kKIE4MSopeningParagraphTextNode",
+      "id": "c69chYIzbvGOsgi6kKIE4MS",
+      "createdAt": "2017-11-29T11:08:23.759Z",
+      "updatedAt": "2017-11-29T11:08:23.759Z",
+      "parent": "News Column",
+      "children": [
+        "c69chYIzbvGOsgi6kKIE4MSopeningParagraphTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulNewsColumn",
+        "contentDigest": "8130c92b3980f911d6460cb2624bfd36",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c2uqyFo9N8kYESGws4egoG4": {
+      "id": "c2uqyFo9N8kYESGws4egoG4",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/ca5g612z8zfu/2uqyFo9N8kYESGws4egoG4/2dba200bfac40089181bde31464a3907/mum-baby-deer-SMALL.jpg",
+        "details": {
+          "size": 192930,
+          "image": {
+            "width": 640,
+            "height": 587
+          }
+        },
+        "fileName": "mum-baby-deer-SMALL.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "Mother with baby deer",
+      "description": "Mother deer with her baby",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "70b414995305e707714824924910ef29",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c2Y8LhXLnYAYqKCGEWG4EKI": {
+      "id": "c2Y8LhXLnYAYqKCGEWG4EKI",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/ca5g612z8zfu/2Y8LhXLnYAYqKCGEWG4EKI/fe12ecd6f282637a9c81d84042988d08/lemnos-logo.jpg",
+        "details": {
+          "size": 7149,
+          "image": {
+            "width": 175,
+            "height": 32
+          }
+        },
+        "fileName": "lemnos-logo.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "Lemnos",
+      "description": "company logo",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "369592b49bc1dea95c15ea6885f6e614",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c3wtvPBbBjiMKqKKga8I2Cu": {
+      "id": "c3wtvPBbBjiMKqKKga8I2Cu",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/ca5g612z8zfu/3wtvPBbBjiMKqKKga8I2Cu/8fe0e380b3d3f1ed4d64e60eff88aa36/zJYzDlGk.jpeg",
+        "details": {
+          "size": 12302,
+          "image": {
+            "width": 353,
+            "height": 353
+          }
+        },
+        "fileName": "zJYzDlGk.jpeg",
+        "contentType": "image/jpeg"
+      },
+      "title": "Normann Copenhagen",
+      "description": "Brand logo",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "84c6bc3c1829627b1e4589e5988fb235",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "Xc0ny7GWsMEMCeASWO2um": {
+      "id": "Xc0ny7GWsMEMCeASWO2um",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/ca5g612z8zfu/Xc0ny7GWsMEMCeASWO2um/3127b262ab7b861fe63a1fcdfcea9b56/jqvtazcyfwseah9fmysz.jpg",
+        "details": {
+          "size": 48751,
+          "image": {
+            "width": 600,
+            "height": 600
+          }
+        },
+        "fileName": "jqvtazcyfwseah9fmysz.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "Hudson Wall Cup ",
+      "description": "Merchandise image",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "b615ec9b8aa2ef2ece36daa847591334",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c6t4HKjytPi0mYgs240wkG": {
+      "id": "c6t4HKjytPi0mYgs240wkG",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/ca5g612z8zfu/6t4HKjytPi0mYgs240wkG/5db83dfbe0c32a2ac4066233f73d1f9b/toys_512pxGREY.png",
+        "details": {
+          "size": 6744,
+          "image": {
+            "width": 128,
+            "height": 128
+          }
+        },
+        "fileName": "toys_512pxGREY.png",
+        "contentType": "image/png"
+      },
+      "title": "Toys",
+      "description": "Category icon set",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "c5c00b0996f7aed2ea576886bed88ccd",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c4zj1ZOfHgQ8oqgaSKm4Qo2": {
+      "id": "c4zj1ZOfHgQ8oqgaSKm4Qo2",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/ca5g612z8zfu/4zj1ZOfHgQ8oqgaSKm4Qo2/fd1f8f3a4e3dc6535326504a76b29ab9/playsam.jpg",
+        "details": {
+          "size": 7003,
+          "image": {
+            "width": 100,
+            "height": 100
+          }
+        },
+        "fileName": "playsam.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "Playsam",
+      "description": "Brand logo",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "833ab2acdfb10f7fe697fe246f19ee0f",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c6m5AJ9vMPKc8OUoQeoCS4o": {
+      "id": "c6m5AJ9vMPKc8OUoQeoCS4o",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/ca5g612z8zfu/6m5AJ9vMPKc8OUoQeoCS4o/48e305eca930aadaa05e91e6a247cb69/1418244847_Streamline-18-256.png",
+        "details": {
+          "size": 2977,
+          "image": {
+            "width": 256,
+            "height": 256
+          }
+        },
+        "fileName": "1418244847_Streamline-18-256.png",
+        "contentType": "image/png"
+      },
+      "title": "Home and Kitchen",
+      "description": "category icon",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "6f17e14f95e6a3ac0246c070994377e4",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "wtrHxeu3zEoEce2MokCSi": {
+      "id": "wtrHxeu3zEoEce2MokCSi",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/ca5g612z8zfu/wtrHxeu3zEoEce2MokCSi/61b01dcfb11af8e6f8031f8ae29daf26/quwowooybuqbl6ntboz3.jpg",
+        "details": {
+          "size": 27187,
+          "image": {
+            "width": 600,
+            "height": 446
+          }
+        },
+        "fileName": "quwowooybuqbl6ntboz3.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "Playsam Streamliner",
+      "description": "Merchandise photo",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "0770df3c2e461e2f7a6031a4c2b8f445",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c1MgbdJNTsMWKI0W68oYqkU": {
+      "id": "c1MgbdJNTsMWKI0W68oYqkU",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/ca5g612z8zfu/1MgbdJNTsMWKI0W68oYqkU/030d46658c5a1caa565fca6d8a12b877/9ef190c59f0d375c0dea58b58a4bc1f0.jpeg",
+        "details": {
+          "size": 44089,
+          "image": {
+            "width": 500,
+            "height": 500
+          }
+        },
+        "fileName": "9ef190c59f0d375c0dea58b58a4bc1f0.jpeg",
+        "contentType": "image/jpeg"
+      },
+      "title": "Chive logo",
+      "description": "Brand logo",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "bdb07c701ff56fa0c76d5abcd4814f34",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c10TkaLheGeQG6qQGqWYqUI": {
+      "id": "c10TkaLheGeQG6qQGqWYqUI",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/ca5g612z8zfu/10TkaLheGeQG6qQGqWYqUI/0188ad723ff0dc7496c6d7459714e614/ryugj83mqwa1asojwtwb.jpg",
+        "details": {
+          "size": 28435,
+          "image": {
+            "width": 450,
+            "height": 600
+          }
+        },
+        "fileName": "ryugj83mqwa1asojwtwb.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "Whisk beaters",
+      "description": "Merchandise photo",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "104e8fb11696868f38cf352862b24253",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c6s3iG2OVmoUcosmA8ocqsG": {
+      "id": "c6s3iG2OVmoUcosmA8ocqsG",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/ca5g612z8zfu/6s3iG2OVmoUcosmA8ocqsG/07cad3a6957dc8224cf4e1785ed90b05/1418244847_Streamline-18-256__1_.png",
+        "details": {
+          "size": 4244,
+          "image": {
+            "width": 250,
+            "height": 250
+          }
+        },
+        "fileName": "1418244847_Streamline-18-256 (1).png",
+        "contentType": "image/png"
+      },
+      "title": "House icon",
+      "description": "Category icon set",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "034577a0ac8aa46cc843c937b2f2c842",
+        "owner": "gatsby-source-contentful"
       }
     },
     "SitePage /404/": {
@@ -361,7 +1251,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1512051086351,
+      "updatedAt": 1512057373800,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
@@ -370,7 +1260,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1965b41483fb487bd132e02b4c189bd6",
+        "contentDigest": "4c175faef88e5a3b05fbef81ad82ff05",
         "owner": "internal-data-bridge"
       }
     },
@@ -382,7 +1272,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1512051086353,
+      "updatedAt": 1512057373802,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
@@ -391,7 +1281,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "485b0209b6442f4159a21385a368c683",
+        "contentDigest": "8ddaf564e880fd9084b3eafe62be0cf4",
         "owner": "internal-data-bridge"
       }
     },
@@ -403,7 +1293,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
       "componentChunkName": "component---src-pages-page-2-js",
       "context": {},
-      "updatedAt": 1512051086354,
+      "updatedAt": 1512057373803,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
@@ -412,7 +1302,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "da2a77adf75e499e8f028782945dc252",
+        "contentDigest": "a5d6a515cc29b16e8de5a0bdb0605a97",
         "owner": "internal-data-bridge"
       }
     },
@@ -424,7 +1314,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1512051086357,
+      "updatedAt": 1512057373805,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
@@ -433,20 +1323,41 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "eb9d49ea14f8fd1093c5e0616e6e4d53",
+        "contentDigest": "b3b73232efe1682b1bad08d6a032b184",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
-    "plugins": {},
-    "PLUGINS_HASH": "491fc49b246ca740170cf30e466b0146"
+    "plugins": {
+      "gatsby-source-contentful": {
+        "ca5g612z8zfu": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybCvGDCjybCuxxywpfDn3vDgAzDvysCdB_Cvj9nw5kiwprCk8KzMjVxwqzDlyvCkxPCkwg8wrtEw6LDtUHDpBEFw6VrGghXwqzCs3rDoT7ChcOmXMK6CsKYw5fDl8K1w5E"
+      }
+    },
+    "PLUGINS_HASH": "c541ce9c33e3324bd43c3e0b05669c06"
   },
   "componentDataDependencies": {
-    "nodes": {},
+    "nodes": {
+      "c6dbjWqNd9SqccegcqYq224productNameTextNode": [],
+      "c10TkaLheGeQG6qQGqWYqUI": [],
+      "c6dbjWqNd9SqccegcqYq224productDescriptionTextNode": [],
+      "c3DVqIYj4dOwwcKu6sgqOggproductNameTextNode": [],
+      "Xc0ny7GWsMEMCeASWO2um": [],
+      "c3DVqIYj4dOwwcKu6sgqOggproductDescriptionTextNode": [],
+      "c2uqyFo9N8kYESGws4egoG4": [
+        "/"
+      ],
+      "c69chYIzbvGOsgi6kKIE4MSopeningParagraphTextNode": [
+        "/"
+      ]
+    },
     "connections": {
+      "ContentfulProduct": [],
       "SitePage": [
         "/dev-404-page/"
+      ],
+      "ContentfulNewsColumn": [
+        "/"
       ]
     }
   }
