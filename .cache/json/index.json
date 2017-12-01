@@ -4,7 +4,7 @@
             "edges": [
                 {
                     "node": {
-                        "articleNumber": 1,
+                        "date": "20170508",
                         "title": "First News Column Article",
                         "previewImage": {
                             "file": {

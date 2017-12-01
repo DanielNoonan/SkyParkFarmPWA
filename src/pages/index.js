@@ -2,38 +2,55 @@ import React from 'react';
 import Link from 'gatsby-link';
 import styled from 'styled-components';
 
+import FrontPageContainer from '../Containers/FrontPageContainer';
 
-const TestElement = styled.div`
-  color: blue;
-  background: grey;
-  font-size: 25px;
-  font-weight: bold;
+
+// display: flex;
+// flex-wrap: wrap;
+// align-items: center;
+// justify-content: center;
+//flex: 0 0 calc(100% / 12 * 3);
+
+
+const FullPageWrapper = styled.div`
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
 `
 
+const Hero = styled.div`
+  flex: 0 0 100%;
+  height: 350px;
+  background: grey;
+  color: white;
+  border: 1px solid black;
+  text-align: center;
+  h1 {
+    margin-top: 150px;
+  }
+`
+
+
 const IndexPage = ({ data }) => {
-  const content = data.allContentfulNewsColumn.edges;
+  console.log(data);
   return (
-    <div>
-      <h1>Hi people</h1>
-      <h1><Link to="/page-2/">Go to page 2</Link></h1>
+    <FullPageWrapper>
+      <Hero><h1>Hero Image</h1></Hero>
 
-    <TestElement>
-      {content[0].node.openingParagraph.openingParagraph}
-     <img src={`https:${content[0].node.previewImage.file.url}`} style={{display: 'block'}}/>
-    </TestElement>
-
-    </div>
+      <FrontPageContainer data={data} />
+        
+    </FullPageWrapper>
   )
 
 }
 export default IndexPage
 
-export const TestQuery = graphql`
+export const query = graphql`
 query TestQuery {
   allContentfulNewsColumn {
     edges {
       node {
-        articleNumber
+        date
         title
         previewImage {
           file {
