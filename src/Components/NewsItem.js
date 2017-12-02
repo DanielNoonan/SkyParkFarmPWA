@@ -4,9 +4,9 @@ import styled from 'styled-components';
 
 
 const NewsItem = (props) => {
-  console.log('NewsItem.js: ', props.data);
+  console.log(props.index)
   return (
-    <NewsItemBox>
+    <NewsItemBox onClick={props.clicked}>
         <NewsItemHeadline>{props.title}</NewsItemHeadline>
         <NewsItemImage src={props.image} alt={props.altText} />
         <NewsItemIntroText>{props.intro}</NewsItemIntroText>
