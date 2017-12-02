@@ -3,10 +3,12 @@ import styled from 'styled-components';
 
 import NewsColumnItem from '../Components/NewsColumnItem';
 import NewsColumnArticle from '../Components/NewsColumnArticle';
+import DefaultFrontPage from '../Components/DefaultFrontPage';
 
 
 class FrontPageContainer extends Component {
     state = {
+        frontpage: true,
         articleData: {
             node: {
                 title: '',
@@ -26,9 +28,17 @@ class FrontPageContainer extends Component {
         console.log('CLICKED!!', index);
         console.log('PROP: ', this.props.data.allContentfulNewsColumn.edges[index])
         this.setState({
+            frontpage: false,
             articleData: this.props.data.allContentfulNewsColumn.edges[index],
         });
         window.scrollTo(0, 500);
+    }
+
+    reloadHomepageHandler = () => {
+        this.setState({
+            frontpage: true
+        });
+        window.scrollTo(0, 0);
     }
     
     render() {
@@ -44,13 +54,36 @@ class FrontPageContainer extends Component {
              <NewsColumnMainTitle>Latest News</NewsColumnMainTitle>
              {newsData.map((newsItem, index) => {
                  return (
-                    <NewsColumnItem clicked={this.articleDataHandler.bind(this, index)} key={newsItem.node.id} index={index} title={newsItem.node.title} image={`https:${newsItem.node.previewImage.file.url}`} intro={newsItem.node.openingSentence} altText={newsItem.node.previewImage.description} />
+                    <NewsColumnItem 
+                    clicked={this.articleDataHandler.bind(this, index)} 
+                    key={newsItem.node.id} 
+                    index={index} title={newsItem.node.title} 
+                    image={`https:${newsItem.node.previewImage.file.url}`} 
+                    intro={newsItem.node.openingSentence} 
+                    altText={newsItem.node.previewImage.description} 
+                    />
                  )
              })}
           </NewsColumnWrapper>
 
           <NewsColumnArticleWrapper>
-              <NewsColumnArticle title={this.state.articleData.node.title} image={`https:${this.state.articleData.node.previewImage.file.url}`} text={this.state.articleData.node.openingParagraph.openingParagraph} />
+            <NewsArticleBox>
+                {!this.state.frontpage ? 
+                <NewsColumnArticle 
+                title={this.state.articleData.node.title} 
+                image={`https:${this.state.articleData.node.previewImage.file.url}`} 
+                text={this.state.articleData.node.openingParagraph.openingParagraph}
+                clicked={this.reloadHomepageHandler} 
+                />
+                :null}
+
+                {this.state.frontpage ?
+                <DefaultFrontPage
+                title={this.props.data.allContentfulNewsColumn.edges[6].node.title}
+                />
+                : null}
+
+            </NewsArticleBox>
           </NewsColumnArticleWrapper>
 
         </FrontPageContentWrapper>
@@ -86,4 +119,8 @@ const NewsColumnArticleWrapper = styled.div`
     justify-content: center;
     flex: 0 0 calc(100% / 12 * 9);
     border: 1px solid black;
+`
+const NewsArticleBox = styled.div`
+flex: 0 0 calc(100% / 12 * 11);
+border: 1px solid black;
 `
