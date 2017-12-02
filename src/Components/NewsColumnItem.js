@@ -3,7 +3,7 @@ import styled from 'styled-components';
 
 
 
-const NewsItem = (props) => {
+const NewsColumnItem = (props) => {
   console.log(props.index)
   return (
     <NewsItemBox onClick={props.clicked}>
@@ -14,7 +14,7 @@ const NewsItem = (props) => {
   )
 }
 
-export default NewsItem;
+export default NewsColumnItem;
 
 
 //Styled Components
