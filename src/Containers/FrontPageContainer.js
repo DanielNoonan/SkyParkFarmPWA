@@ -33,6 +33,13 @@ class FrontPageContainer extends Component {
         });
         window.scrollTo(0, 500);
     }
+
+    reloadHomepageHandler = () => {
+        this.setState({
+            frontpage: true
+        });
+        window.scrollTo(0, 0);
+    }
     
     render() {
         //Slicing off the amount of news items desired for the News Column from the data array.
@@ -61,11 +68,14 @@ class FrontPageContainer extends Component {
 
           <NewsColumnArticleWrapper>
             <NewsArticleBox>
+                {!this.state.frontpage ? 
                 <NewsColumnArticle 
                 title={this.state.articleData.node.title} 
                 image={`https:${this.state.articleData.node.previewImage.file.url}`} 
-                text={this.state.articleData.node.openingParagraph.openingParagraph} 
+                text={this.state.articleData.node.openingParagraph.openingParagraph}
+                clicked={this.reloadHomepageHandler} 
                 />
+                :null}
 
                 {this.state.frontpage ?
                 <DefaultFrontPage
