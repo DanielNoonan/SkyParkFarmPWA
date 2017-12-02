@@ -32,7 +32,7 @@ const Hero = styled.div`
 
 
 const IndexPage = ({ data }) => {
-  console.log(data);
+  console.log('Index.js: ', data);
   return (
     <FullPageWrapper>
       <Hero><h1>Hero Image</h1></Hero>

@@ -8,11 +8,12 @@ class FrontPageContainer extends Component {
     
     
     render() {
+        const content = this.props.data.allContentfulNewsColumn.edges[0]
         return (
         <FrontPageContentWrapper>
           <NewsColumnWrapper>
              <NewsColumnMainTitle>Latest News</NewsColumnMainTitle>
-             <NewsItem title={this.props.data.allContentfulNewsColumn.edges[0].node.title} />
+             <NewsItem title={content.node.title} image={`https:${content.node.previewImage.file.url}`} intro={content.node.openingSentence} />
           </NewsColumnWrapper>
 
           <NewsArticleWrapper>
