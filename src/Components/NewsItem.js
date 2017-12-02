@@ -4,11 +4,12 @@ import styled from 'styled-components';
 
 
 const NewsItem = (props) => {
+  console.log('NewsItem.js: ', props.data);
   return (
     <NewsItemBox>
         <NewsItemHeadline>{props.title}</NewsItemHeadline>
-        <NewsItemImage alt='Mother and baby deer' />
-        <NewsItemIntroText>This is some intro text</NewsItemIntroText>
+        <NewsItemImage src={props.image} alt={props.altText} />
+        <NewsItemIntroText>{props.intro}</NewsItemIntroText>
     </NewsItemBox>
   )
 }
@@ -16,11 +17,11 @@ const NewsItem = (props) => {
 export default NewsItem;
 
 
-
+//Styled Components
 const NewsItemBox = styled.div`
-width: 94%;
-margin: 0 auto;
-border: 1px solid black;
+  width: 94%;
+  margin: 0 auto;
+  border: 1px solid black;
 `
 
 const NewsItemHeadline = styled.h1`
