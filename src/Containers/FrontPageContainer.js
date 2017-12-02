@@ -1,12 +1,25 @@
 import React, { Component } from 'react';
 import styled from 'styled-components';
 
-import NewsItem from '../Components/NewsItem';
+import NewsColumnItem from '../Components/NewsColumnItem';
+import NewsColumnArticle from '../Components/NewsColumnArticle';
 
 
 class FrontPageContainer extends Component {
     state = {
-        articleData: {},
+        articleData: {
+            node: {
+                title: '',
+                previewImage: {
+                    file: {
+                        url: ''
+                    }
+                },
+                openingParagraph: {
+                    openingParagraph: ''
+                }
+            }
+        }
     }
 
     articleDataHandler = (index) => {
@@ -14,7 +27,8 @@ class FrontPageContainer extends Component {
         console.log('PROP: ', this.props.data.allContentfulNewsColumn.edges[index])
         this.setState({
             articleData: this.props.data.allContentfulNewsColumn.edges[index],
-        })
+        });
+        window.scrollTo(0, 500);
     }
     
     render() {
@@ -30,12 +44,14 @@ class FrontPageContainer extends Component {
              <NewsColumnMainTitle>Latest News</NewsColumnMainTitle>
              {newsData.map((newsItem, index) => {
                  return (
-                    <NewsItem clicked={this.articleDataHandler.bind(this, index)} key={newsItem.node.id} index={index} title={newsItem.node.title} image={`https:${newsItem.node.previewImage.file.url}`} intro={newsItem.node.openingSentence} altText={newsItem.node.previewImage.description} />
+                    <NewsColumnItem clicked={this.articleDataHandler.bind(this, index)} key={newsItem.node.id} index={index} title={newsItem.node.title} image={`https:${newsItem.node.previewImage.file.url}`} intro={newsItem.node.openingSentence} altText={newsItem.node.previewImage.description} />
                  )
              })}
           </NewsColumnWrapper>
 
-          <NewsArticleWrapper></NewsArticleWrapper>
+          <NewsColumnArticleWrapper>
+              <NewsColumnArticle title={this.state.articleData.node.title} image={`https:${this.state.articleData.node.previewImage.file.url}`} text={this.state.articleData.node.openingParagraph.openingParagraph} />
+          </NewsColumnArticleWrapper>
 
         </FrontPageContentWrapper>
         )
@@ -64,7 +80,7 @@ const NewsColumnMainTitle = styled.h1`
     text-align: center;
 `
 
-const NewsArticleWrapper = styled.div`
+const NewsColumnArticleWrapper = styled.div`
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
