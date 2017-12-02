@@ -53,6 +53,7 @@ query TestQuery {
   allContentfulNewsColumn(sort: {fields: [date], order: DESC}) {
     edges {
       node {
+        id
         date
         title
         previewImage {
