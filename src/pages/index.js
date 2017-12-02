@@ -12,6 +12,22 @@ import FrontPageContainer from '../Containers/FrontPageContainer';
 //flex: 0 0 calc(100% / 12 * 3);
 
 
+const IndexPage = ({ data }) => {
+  console.log('Index.js: ', data);
+  return (
+    <FullPageWrapper>
+      <Hero><h1>Hero Image</h1></Hero>
+
+      <FrontPageContainer data={data} />
+        
+    </FullPageWrapper>
+  )
+
+}
+export default IndexPage
+
+
+//Styled Comonents
 const FullPageWrapper = styled.div`
 display: flex;
 flex-wrap: wrap;
@@ -31,23 +47,10 @@ const Hero = styled.div`
 `
 
 
-const IndexPage = ({ data }) => {
-  console.log('Index.js: ', data);
-  return (
-    <FullPageWrapper>
-      <Hero><h1>Hero Image</h1></Hero>
-
-      <FrontPageContainer data={data} />
-        
-    </FullPageWrapper>
-  )
-
-}
-export default IndexPage
-
+//GraphQL Query
 export const query = graphql`
 query TestQuery {
-  allContentfulNewsColumn {
+  allContentfulNewsColumn(sort: {fields: [date], order: DESC}) {
     edges {
       node {
         date

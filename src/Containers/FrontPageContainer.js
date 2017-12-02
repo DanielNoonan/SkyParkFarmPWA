@@ -8,12 +8,21 @@ class FrontPageContainer extends Component {
     
     
     render() {
-        const content = this.props.data.allContentfulNewsColumn.edges[0]
+        //reducing slicing off the amount of news item required for the News Column from the data array.
+        const newsData = this.props.data.allContentfulNewsColumn.edges.slice(0, 4);
+        console.log('newsData: ', newsData);
+
         return (
         <FrontPageContentWrapper>
           <NewsColumnWrapper>
              <NewsColumnMainTitle>Latest News</NewsColumnMainTitle>
-             <NewsItem title={content.node.title} image={`https:${content.node.previewImage.file.url}`} intro={content.node.openingSentence} />
+
+             {newsData.map(newsItem => {
+                 return (
+                    <NewsItem title={newsItem.node.title} image={`https:${newsItem.node.previewImage.file.url}`} intro={newsItem.node.openingSentence} />
+                 )
+             })}
+             
           </NewsColumnWrapper>
 
           <NewsArticleWrapper>
@@ -40,7 +49,6 @@ const FrontPageContentWrapper = styled.div`
 const NewsColumnWrapper = styled.div`
 flex: 0 0 calc(100% / 12 * 3);
 border: 1px solid black;
-height: 800px;
 `
 
 const NewsColumnMainTitle = styled.h1`

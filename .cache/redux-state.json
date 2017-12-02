@@ -8,7 +8,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1512209398798,
+      "updatedAt": 1512216805389,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0b6fb8406b3423305a32e07b2b63e016",
+        "contentDigest": "d4cfd1f7b88bcbe462b4ccaed434fbcf",
         "owner": "internal-data-bridge"
       }
     },
@@ -504,12 +504,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-12-02T10:09:53.393Z",
+      "buildTime": "2017-12-02T12:13:21.468Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "894c6db02fb26d1bca9f4125d3c946c6",
+        "contentDigest": "5c942172606f21d6b6ecfc4bc67f05ce",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1245,6 +1245,437 @@
         "owner": "gatsby-source-contentful"
       }
     },
+    "c3aEQonjc8wMgsqUKeWYwEAopeningParagraphTextNode": {
+      "id": "c3aEQonjc8wMgsqUKeWYwEAopeningParagraphTextNode",
+      "parent": "c3aEQonjc8wMgsqUKeWYwEA",
+      "children": [],
+      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "internal": {
+        "type": "contentfulNewsColumnOpeningParagraphTextNode",
+        "mediaType": "text/markdown",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "contentDigest": "db89bb5ceab87f9c0fcc2ab36c189c2c",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c4kGErU9IRG8m420AKMuAMOopeningParagraphTextNode": {
+      "id": "c4kGErU9IRG8m420AKMuAMOopeningParagraphTextNode",
+      "parent": "c4kGErU9IRG8m420AKMuAMO",
+      "children": [],
+      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "internal": {
+        "type": "contentfulNewsColumnOpeningParagraphTextNode",
+        "mediaType": "text/markdown",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "contentDigest": "db89bb5ceab87f9c0fcc2ab36c189c2c",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c1HBfgSkpPSCOUWOUa4iouaopeningParagraphTextNode": {
+      "id": "c1HBfgSkpPSCOUWOUa4iouaopeningParagraphTextNode",
+      "parent": "c1HBfgSkpPSCOUWOUa4ioua",
+      "children": [],
+      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "internal": {
+        "type": "contentfulNewsColumnOpeningParagraphTextNode",
+        "mediaType": "text/markdown",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "contentDigest": "db89bb5ceab87f9c0fcc2ab36c189c2c",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "FILM55vx6gOuoMaAm4QyQopeningParagraphTextNode": {
+      "id": "FILM55vx6gOuoMaAm4QyQopeningParagraphTextNode",
+      "parent": "FILM55vx6gOuoMaAm4QyQ",
+      "children": [],
+      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "internal": {
+        "type": "contentfulNewsColumnOpeningParagraphTextNode",
+        "mediaType": "text/markdown",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "contentDigest": "db89bb5ceab87f9c0fcc2ab36c189c2c",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c2TrNcgcinuI2UkiyA0Qs2gopeningParagraphTextNode": {
+      "id": "c2TrNcgcinuI2UkiyA0Qs2gopeningParagraphTextNode",
+      "parent": "c2TrNcgcinuI2UkiyA0Qs2g",
+      "children": [],
+      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "internal": {
+        "type": "contentfulNewsColumnOpeningParagraphTextNode",
+        "mediaType": "text/markdown",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "contentDigest": "db89bb5ceab87f9c0fcc2ab36c189c2c",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c4mTIhNKGZq88IyUmauikm6openingParagraphTextNode": {
+      "id": "c4mTIhNKGZq88IyUmauikm6openingParagraphTextNode",
+      "parent": "c4mTIhNKGZq88IyUmauikm6",
+      "children": [],
+      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "internal": {
+        "type": "contentfulNewsColumnOpeningParagraphTextNode",
+        "mediaType": "text/markdown",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "contentDigest": "db89bb5ceab87f9c0fcc2ab36c189c2c",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c3aEQonjc8wMgsqUKeWYwEA": {
+      "date": 20170605,
+      "title": "Deer Following Farm Manager",
+      "openingSentence": "Deer following the farm manager around the farm",
+      "previewImage___NODE": "c1jQ9u42vi8wgSwCag8koI0",
+      "openingParagraph___NODE": "c3aEQonjc8wMgsqUKeWYwEAopeningParagraphTextNode",
+      "id": "c3aEQonjc8wMgsqUKeWYwEA",
+      "createdAt": "2017-12-02T11:16:36.225Z",
+      "updatedAt": "2017-12-02T11:16:36.225Z",
+      "parent": "News Column",
+      "children": [
+        "c3aEQonjc8wMgsqUKeWYwEAopeningParagraphTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulNewsColumn",
+        "contentDigest": "b8ba34a31fe6d983f3cfb8e937e3127e",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c4kGErU9IRG8m420AKMuAMO": {
+      "date": 20170604,
+      "title": "Red Deer Close Up",
+      "openingSentence": "This is a Red Deer...",
+      "previewImage___NODE": "c6OQKqisUhyUAAIEuIaY0ok",
+      "openingParagraph___NODE": "c4kGErU9IRG8m420AKMuAMOopeningParagraphTextNode",
+      "id": "c4kGErU9IRG8m420AKMuAMO",
+      "createdAt": "2017-12-02T11:14:57.894Z",
+      "updatedAt": "2017-12-02T11:14:57.894Z",
+      "parent": "News Column",
+      "children": [
+        "c4kGErU9IRG8m420AKMuAMOopeningParagraphTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulNewsColumn",
+        "contentDigest": "d7240c0ac9f5b93484ba7255673e9cc9",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c1HBfgSkpPSCOUWOUa4ioua": {
+      "date": 20170603,
+      "title": "Quebec Cottage",
+      "openingSentence": "Summer picture of Quebec Cottage - luxury holiday accommodation",
+      "previewImage___NODE": "c3265y7wpJecwQcO2cU4AqQ",
+      "openingParagraph___NODE": "c1HBfgSkpPSCOUWOUa4iouaopeningParagraphTextNode",
+      "id": "c1HBfgSkpPSCOUWOUa4ioua",
+      "createdAt": "2017-12-02T11:11:47.115Z",
+      "updatedAt": "2017-12-02T11:11:47.115Z",
+      "parent": "News Column",
+      "children": [
+        "c1HBfgSkpPSCOUWOUa4iouaopeningParagraphTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulNewsColumn",
+        "contentDigest": "518f20a66c59eb5c1bd60ef3dae00460",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "FILM55vx6gOuoMaAm4QyQ": {
+      "date": 20170602,
+      "title": "Farm Renovation",
+      "openingSentence": "Farm renovation work during the summer of 2017",
+      "previewImage___NODE": "c7hDoIb3xrGs2MIuASgYmY",
+      "openingParagraph___NODE": "FILM55vx6gOuoMaAm4QyQopeningParagraphTextNode",
+      "id": "FILM55vx6gOuoMaAm4QyQ",
+      "createdAt": "2017-12-02T11:09:11.457Z",
+      "updatedAt": "2017-12-02T11:09:11.457Z",
+      "parent": "News Column",
+      "children": [
+        "FILM55vx6gOuoMaAm4QyQopeningParagraphTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulNewsColumn",
+        "contentDigest": "d0c37442763f7e29f7b4440d52c712fb",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c2TrNcgcinuI2UkiyA0Qs2g": {
+      "date": 20170601,
+      "title": "Stroking Deer",
+      "openingSentence": "Farm manager stroking a deer",
+      "previewImage___NODE": "c60WU9kWFbyW8swEemuemiS",
+      "openingParagraph___NODE": "c2TrNcgcinuI2UkiyA0Qs2gopeningParagraphTextNode",
+      "id": "c2TrNcgcinuI2UkiyA0Qs2g",
+      "createdAt": "2017-12-02T11:07:11.603Z",
+      "updatedAt": "2017-12-02T11:07:11.603Z",
+      "parent": "News Column",
+      "children": [
+        "c2TrNcgcinuI2UkiyA0Qs2gopeningParagraphTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulNewsColumn",
+        "contentDigest": "3153e6342f6f25076fb8d8a657f7155a",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c4mTIhNKGZq88IyUmauikm6": {
+      "date": 20170509,
+      "title": "Deer Grazing",
+      "openingSentence": "It's a deer eating some grass",
+      "previewImage___NODE": "c4WlAFg8k8oSoYuI80QM2WK",
+      "openingParagraph___NODE": "c4mTIhNKGZq88IyUmauikm6openingParagraphTextNode",
+      "id": "c4mTIhNKGZq88IyUmauikm6",
+      "createdAt": "2017-12-02T11:02:30.778Z",
+      "updatedAt": "2017-12-02T11:02:30.778Z",
+      "parent": "News Column",
+      "children": [
+        "c4mTIhNKGZq88IyUmauikm6openingParagraphTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulNewsColumn",
+        "contentDigest": "5f23af8b7f1caf590ae5a2d3e059ab3b",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c1jQ9u42vi8wgSwCag8koI0": {
+      "id": "c1jQ9u42vi8wgSwCag8koI0",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/ca5g612z8zfu/1jQ9u42vi8wgSwCag8koI0/0275efc11ef243b34b0203c799f8e3bb/deer-following-dom-SMALL.jpg",
+        "details": {
+          "size": 103479,
+          "image": {
+            "width": 640,
+            "height": 451
+          }
+        },
+        "fileName": "deer-following-dom-SMALL.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "deer-following-dom-SMALL",
+      "description": "Deer following Dom",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "47ba532417d966dc5ee095997ab2fcec",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c6OQKqisUhyUAAIEuIaY0ok": {
+      "id": "c6OQKqisUhyUAAIEuIaY0ok",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/ca5g612z8zfu/6OQKqisUhyUAAIEuIaY0ok/e2bb6b489fdca33f1d5a457643318069/red-deer-close-up-SMALL.jpg",
+        "details": {
+          "size": 120742,
+          "image": {
+            "width": 640,
+            "height": 427
+          }
+        },
+        "fileName": "red-deer-close-up-SMALL.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "red-deer-close-up-SMALL",
+      "description": "Red Deer Close Up",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "675b234f7a861bb794a307ab07bdfd5e",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c7pUCCUQkOAyyWwyAIQO2QU": {
+      "id": "c7pUCCUQkOAyyWwyAIQO2QU",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/ca5g612z8zfu/7pUCCUQkOAyyWwyAIQO2QU/befb910b8b34d282ee712cc5226d4947/red-deer-close-up-SMALL.jpg",
+        "details": {
+          "size": 120742,
+          "image": {
+            "width": 640,
+            "height": 427
+          }
+        },
+        "fileName": "red-deer-close-up-SMALL.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "red-deer-close-up-SMALL",
+      "description": "Red deer close up",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "8459358fdb8014d2ef3c9ef6857dfdff",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c3265y7wpJecwQcO2cU4AqQ": {
+      "id": "c3265y7wpJecwQcO2cU4AqQ",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/ca5g612z8zfu/3265y7wpJecwQcO2cU4AqQ/1e9f5e7aab2d2dc79faa18f6f1237c92/quebec-cottage-SMALL.jpg",
+        "details": {
+          "size": 148717,
+          "image": {
+            "width": 640,
+            "height": 427
+          }
+        },
+        "fileName": "quebec-cottage-SMALL.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "quebec-cottage-SMALL",
+      "description": "Quebec Cottage",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "99e860e1c65d6a2ae2e5ddf5a55d0d10",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c7hDoIb3xrGs2MIuASgYmY": {
+      "id": "c7hDoIb3xrGs2MIuASgYmY",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/ca5g612z8zfu/7hDoIb3xrGs2MIuASgYmY/4a327497be95c50b969e2c64be3dc921/farm-renovation-SMALL.jpg",
+        "details": {
+          "size": 121995,
+          "image": {
+            "width": 640,
+            "height": 421
+          }
+        },
+        "fileName": "farm-renovation-SMALL.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "farm-renovation-SMALL",
+      "description": "Farm renovations work during the summer",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "7c018f9011822b7824119d1142e32e0e",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c60WU9kWFbyW8swEemuemiS": {
+      "id": "c60WU9kWFbyW8swEemuemiS",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/ca5g612z8zfu/60WU9kWFbyW8swEemuemiS/d5a957ac0a164bab9f7621d40974058b/dom-stroking-deer-SMALL.jpg",
+        "details": {
+          "size": 137164,
+          "image": {
+            "width": 640,
+            "height": 427
+          }
+        },
+        "fileName": "dom-stroking-deer-SMALL.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "dom-stroking-deer-SMALL",
+      "description": "Dom Stroking A Deer",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "75e03338cf023a8ab768da2b1f79ec2d",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c4WlAFg8k8oSoYuI80QM2WK": {
+      "id": "c4WlAFg8k8oSoYuI80QM2WK",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/ca5g612z8zfu/4WlAFg8k8oSoYuI80QM2WK/54777219d302be7758baae84b4f2b4e4/deer-grazing-lensflare-SMALL.jpg",
+        "details": {
+          "size": 113154,
+          "image": {
+            "width": 640,
+            "height": 442
+          }
+        },
+        "fileName": "deer-grazing-lensflare-SMALL.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "Deer Grazing",
+      "description": "It's a deer eating some grass",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "cadb0cbdde28bcfbc8d731f3b6de807c",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "EYibztPOACuaA6aSKi0WgopeningParagraphTextNode": {
+      "id": "EYibztPOACuaA6aSKi0WgopeningParagraphTextNode",
+      "parent": "EYibztPOACuaA6aSKi0Wg",
+      "children": [],
+      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "internal": {
+        "type": "contentfulNewsColumnOpeningParagraphTextNode",
+        "mediaType": "text/markdown",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "contentDigest": "db89bb5ceab87f9c0fcc2ab36c189c2c",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "EYibztPOACuaA6aSKi0Wg": {
+      "date": 20170606,
+      "title": "Mob Of Deer",
+      "openingSentence": "A mob of deer hanging out at the edge of one of the fields",
+      "previewImage___NODE": "c5iK4YzQ50IA0ccsgUwem8o",
+      "openingParagraph___NODE": "EYibztPOACuaA6aSKi0WgopeningParagraphTextNode",
+      "id": "EYibztPOACuaA6aSKi0Wg",
+      "createdAt": "2017-12-02T12:01:32.495Z",
+      "updatedAt": "2017-12-02T12:01:32.495Z",
+      "parent": "News Column",
+      "children": [
+        "EYibztPOACuaA6aSKi0WgopeningParagraphTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulNewsColumn",
+        "contentDigest": "81ffe719e2952debdcb176589af6858a",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c5iK4YzQ50IA0ccsgUwem8o": {
+      "id": "c5iK4YzQ50IA0ccsgUwem8o",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/ca5g612z8zfu/5iK4YzQ50IA0ccsgUwem8o/e744681cc3f651d6f55b65386f7ac191/deer-group-SMALL.jpg",
+        "details": {
+          "size": 103463,
+          "image": {
+            "width": 640,
+            "height": 279
+          }
+        },
+        "fileName": "deer-group-SMALL.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "deer-group-SMALL",
+      "description": "Mob of deer",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "8fe29249a174bd24711925d77b4c3084",
+        "owner": "gatsby-source-contentful"
+      }
+    },
     "SitePage /404/": {
       "layout": "index",
       "jsonName": "404.json",
@@ -1253,7 +1684,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1512209398811,
+      "updatedAt": 1512216805401,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
@@ -1262,7 +1693,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "306de35ba5ea24672396915313c4d305",
+        "contentDigest": "bab74f6c076640c1d0d846f8abdb820e",
         "owner": "internal-data-bridge"
       }
     },
@@ -1274,7 +1705,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1512209398811,
+      "updatedAt": 1512216805405,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
@@ -1283,7 +1714,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4978ec01164f6003b46b2dd8c2368165",
+        "contentDigest": "73ba429c7e10f0ea062dc773a26214d2",
         "owner": "internal-data-bridge"
       }
     },
@@ -1295,7 +1726,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1512209398811,
+      "updatedAt": 1512216805405,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
@@ -1304,7 +1735,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0d8228fb3da8c08bcb1b354496b3929c",
+        "contentDigest": "5029a0d40fc88f08b43830f68c595a42",
         "owner": "internal-data-bridge"
       }
     },
@@ -1316,7 +1747,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
       "componentChunkName": "component---src-pages-page-2-js",
       "context": {},
-      "updatedAt": 1512209398814,
+      "updatedAt": 1512216805409,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
@@ -1325,7 +1756,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3154c5462260bb065c462ab6ff1c7f1e",
+        "contentDigest": "ef6831a26dbe80c4a675ac9f8e9d8226",
         "owner": "internal-data-bridge"
       }
     }
@@ -1333,7 +1764,7 @@
   "status": {
     "plugins": {
       "gatsby-source-contentful": {
-        "ca5g612z8zfu": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybCjErCoWfCscOoAwzCslTDrMKzEMObw5Ekwo98w5XChDPChMKuwq5KIFvCt8KecsO0wpnDg04Vwqh3woctw5tSacK_wr3ChkbCm8KCDSTDoQkkE3nDhMOze0jDmMOxw4vDs3M"
+        "ca5g612z8zfu": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybDssKVOnACwpkPXsKxwojCjcKgwqfDv8OPFHoiw7_DvsOPwqUFwqBYI8KBd8KBwpQAJcKWw6nCrsOkFMO6w4UwwoxSw4csewHDqsK4A8OxZsO3wo_DksK0w7LDq8KlDMOWw5NMwrMl"
       }
     },
     "PLUGINS_HASH": "6d224ae057e1a2d1bc5c8838cbc97a9c"
@@ -1344,6 +1775,48 @@
         "/"
       ],
       "c69chYIzbvGOsgi6kKIE4MSopeningParagraphTextNode": [
+        "/"
+      ],
+      "c1jQ9u42vi8wgSwCag8koI0": [
+        "/"
+      ],
+      "c3aEQonjc8wMgsqUKeWYwEAopeningParagraphTextNode": [
+        "/"
+      ],
+      "c6OQKqisUhyUAAIEuIaY0ok": [
+        "/"
+      ],
+      "c4kGErU9IRG8m420AKMuAMOopeningParagraphTextNode": [
+        "/"
+      ],
+      "c3265y7wpJecwQcO2cU4AqQ": [
+        "/"
+      ],
+      "c1HBfgSkpPSCOUWOUa4iouaopeningParagraphTextNode": [
+        "/"
+      ],
+      "c7hDoIb3xrGs2MIuASgYmY": [
+        "/"
+      ],
+      "FILM55vx6gOuoMaAm4QyQopeningParagraphTextNode": [
+        "/"
+      ],
+      "c60WU9kWFbyW8swEemuemiS": [
+        "/"
+      ],
+      "c2TrNcgcinuI2UkiyA0Qs2gopeningParagraphTextNode": [
+        "/"
+      ],
+      "c4WlAFg8k8oSoYuI80QM2WK": [
+        "/"
+      ],
+      "c4mTIhNKGZq88IyUmauikm6openingParagraphTextNode": [
+        "/"
+      ],
+      "c5iK4YzQ50IA0ccsgUwem8o": [
+        "/"
+      ],
+      "EYibztPOACuaA6aSKi0WgopeningParagraphTextNode": [
         "/"
       ]
     },
