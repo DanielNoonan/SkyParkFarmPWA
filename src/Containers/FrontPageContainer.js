@@ -19,7 +19,7 @@ class FrontPageContainer extends Component {
 
              {newsData.map(newsItem => {
                  return (
-                    <NewsItem title={newsItem.node.title} image={`https:${newsItem.node.previewImage.file.url}`} intro={newsItem.node.openingSentence} />
+                    <NewsItem title={newsItem.node.title} image={`https:${newsItem.node.previewImage.file.url}`} intro={newsItem.node.openingSentence} altText={newsItem.node.previewImage.description} />
                  )
              })}
              

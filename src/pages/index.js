@@ -56,6 +56,7 @@ query TestQuery {
         date
         title
         previewImage {
+          description
           file {
             url
           }

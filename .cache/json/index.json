@@ -7,6 +7,7 @@
                         "date": "20170606",
                         "title": "Mob Of Deer",
                         "previewImage": {
+                            "description": "Mob of deer",
                             "file": {
                                 "url": "//images.contentful.com/ca5g612z8zfu/5iK4YzQ50IA0ccsgUwem8o/e744681cc3f651d6f55b65386f7ac191/deer-group-SMALL.jpg"
                             }
@@ -22,6 +23,7 @@
                         "date": "20170605",
                         "title": "Deer Following Farm Manager",
                         "previewImage": {
+                            "description": "Deer following Dom",
                             "file": {
                                 "url": "//images.contentful.com/ca5g612z8zfu/1jQ9u42vi8wgSwCag8koI0/0275efc11ef243b34b0203c799f8e3bb/deer-following-dom-SMALL.jpg"
                             }
@@ -37,6 +39,7 @@
                         "date": "20170604",
                         "title": "Red Deer Close Up",
                         "previewImage": {
+                            "description": "Red Deer Close Up",
                             "file": {
                                 "url": "//images.contentful.com/ca5g612z8zfu/6OQKqisUhyUAAIEuIaY0ok/e2bb6b489fdca33f1d5a457643318069/red-deer-close-up-SMALL.jpg"
                             }
@@ -52,6 +55,7 @@
                         "date": "20170603",
                         "title": "Quebec Cottage",
                         "previewImage": {
+                            "description": "Quebec Cottage",
                             "file": {
                                 "url": "//images.contentful.com/ca5g612z8zfu/3265y7wpJecwQcO2cU4AqQ/1e9f5e7aab2d2dc79faa18f6f1237c92/quebec-cottage-SMALL.jpg"
                             }
@@ -67,6 +71,7 @@
                         "date": "20170602",
                         "title": "Farm Renovation",
                         "previewImage": {
+                            "description": "Farm renovations work during the summer",
                             "file": {
                                 "url": "//images.contentful.com/ca5g612z8zfu/7hDoIb3xrGs2MIuASgYmY/4a327497be95c50b969e2c64be3dc921/farm-renovation-SMALL.jpg"
                             }
@@ -82,6 +87,7 @@
                         "date": "20170601",
                         "title": "Stroking Deer",
                         "previewImage": {
+                            "description": "Dom Stroking A Deer",
                             "file": {
                                 "url": "//images.contentful.com/ca5g612z8zfu/60WU9kWFbyW8swEemuemiS/d5a957ac0a164bab9f7621d40974058b/dom-stroking-deer-SMALL.jpg"
                             }
@@ -97,6 +103,7 @@
                         "date": "20170509",
                         "title": "Deer Grazing",
                         "previewImage": {
+                            "description": "It's a deer eating some grass",
                             "file": {
                                 "url": "//images.contentful.com/ca5g612z8zfu/4WlAFg8k8oSoYuI80QM2WK/54777219d302be7758baae84b4f2b4e4/deer-grazing-lensflare-SMALL.jpg"
                             }
@@ -112,6 +119,7 @@
                         "date": "20170508",
                         "title": "First News Column Article",
                         "previewImage": {
+                            "description": "Mother deer with her baby",
                             "file": {
                                 "url": "//images.contentful.com/ca5g612z8zfu/2uqyFo9N8kYESGws4egoG4/2dba200bfac40089181bde31464a3907/mum-baby-deer-SMALL.jpg"
                             }

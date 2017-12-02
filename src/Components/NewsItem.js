@@ -8,7 +8,7 @@ const NewsItem = (props) => {
   return (
     <NewsItemBox>
         <NewsItemHeadline>{props.title}</NewsItemHeadline>
-        <NewsItemImage src={props.image} alt='Mother and baby deer' />
+        <NewsItemImage src={props.image} alt={props.altText} />
         <NewsItemIntroText>{props.intro}</NewsItemIntroText>
     </NewsItemBox>
   )
