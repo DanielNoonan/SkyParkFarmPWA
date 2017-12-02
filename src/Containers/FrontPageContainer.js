@@ -5,29 +5,37 @@ import NewsItem from '../Components/NewsItem';
 
 
 class FrontPageContainer extends Component {
-    
+    state = {
+        articleData: {},
+    }
+
+    articleDataHandler = (index) => {
+        console.log('CLICKED!!', index);
+        console.log('PROP: ', this.props.data.allContentfulNewsColumn.edges[index])
+        this.setState({
+            articleData: this.props.data.allContentfulNewsColumn.edges[index],
+        })
+    }
     
     render() {
-        //reducing slicing off the amount of news item required for the News Column from the data array.
+        //Slicing off the amount of news items desired for the News Column from the data array.
         const newsData = this.props.data.allContentfulNewsColumn.edges.slice(0, 4);
         console.log('newsData: ', newsData);
+        console.log('STATE: ', this.state.articleData)
 
         return (
         <FrontPageContentWrapper>
+
           <NewsColumnWrapper>
              <NewsColumnMainTitle>Latest News</NewsColumnMainTitle>
-
-             {newsData.map(newsItem => {
+             {newsData.map((newsItem, index) => {
                  return (
-                    <NewsItem key={newsItem.node.id} title={newsItem.node.title} image={`https:${newsItem.node.previewImage.file.url}`} intro={newsItem.node.openingSentence} altText={newsItem.node.previewImage.description} />
+                    <NewsItem clicked={this.articleDataHandler.bind(this, index)} key={newsItem.node.id} index={index} title={newsItem.node.title} image={`https:${newsItem.node.previewImage.file.url}`} intro={newsItem.node.openingSentence} altText={newsItem.node.previewImage.description} />
                  )
              })}
-             
           </NewsColumnWrapper>
 
-          <NewsArticleWrapper>
-              
-          </NewsArticleWrapper>
+          <NewsArticleWrapper></NewsArticleWrapper>
 
         </FrontPageContentWrapper>
         )
