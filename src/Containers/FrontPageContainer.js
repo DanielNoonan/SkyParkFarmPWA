@@ -27,7 +27,8 @@ class FrontPageContainer extends Component {
         console.log('PROP: ', this.props.data.allContentfulNewsColumn.edges[index])
         this.setState({
             articleData: this.props.data.allContentfulNewsColumn.edges[index],
-        })
+        });
+        window.scrollTo(0, 500);
     }
     
     render() {
