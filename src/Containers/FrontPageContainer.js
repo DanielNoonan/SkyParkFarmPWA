@@ -37,6 +37,7 @@ class FrontPageContainer extends Component {
 export default FrontPageContainer;
 
 
+//Styled Components
 const FrontPageContentWrapper = styled.div`
     display: flex;
     flex-wrap: wrap;
@@ -47,18 +48,18 @@ const FrontPageContentWrapper = styled.div`
 `
 
 const NewsColumnWrapper = styled.div`
-flex: 0 0 calc(100% / 12 * 3);
-border: 1px solid black;
+    flex: 0 0 calc(100% / 12 * 3);
+    border: 1px solid black;
 `
 
 const NewsColumnMainTitle = styled.h1`
-text-align: center;
+    text-align: center;
 `
 
 const NewsArticleWrapper = styled.div`
-display: flex;
-flex-wrap: wrap;
-justify-content: center;
-flex: 0 0 calc(100% / 12 * 9);
-border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex: 0 0 calc(100% / 12 * 9);
+    border: 1px solid black;
 `

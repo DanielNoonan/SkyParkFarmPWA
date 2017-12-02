@@ -17,11 +17,11 @@ const NewsItem = (props) => {
 export default NewsItem;
 
 
-
+//Styled Components
 const NewsItemBox = styled.div`
-width: 94%;
-margin: 0 auto;
-border: 1px solid black;
+  width: 94%;
+  margin: 0 auto;
+  border: 1px solid black;
 `
 
 const NewsItemHeadline = styled.h1`
