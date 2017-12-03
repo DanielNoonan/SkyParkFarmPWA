@@ -37,3 +37,7 @@ html {
   a {
     text-decoration: none;
   }
+
+  .SubMenuDisplay {
+    display: block;
+  }

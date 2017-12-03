@@ -1,4 +1,5 @@
-import React from 'react'
+import React, { Component } from 'react'
+import styled from 'styled-components'
 import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
 import Helmet from 'react-helmet'
@@ -18,6 +19,7 @@ const TemplateWrapper = ({data, children }) => (
         { name: 'keywords', content: 'sample, something' },
       ]}
     />
+
     <Navbar data={data} />
 
 
@@ -26,7 +28,6 @@ const TemplateWrapper = ({data, children }) => (
     </div>
 
       <Footer />
-
   </div>
 )
 
