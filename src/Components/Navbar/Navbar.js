@@ -145,7 +145,6 @@ position: relative;
   font-size: 1.6em;
   list-style: none;
   padding: 0 20px;
-  border: 1px solid white;
 `
 
 const TopItem = styled.p`
