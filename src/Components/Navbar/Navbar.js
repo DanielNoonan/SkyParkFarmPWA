@@ -76,13 +76,13 @@ class Navbar extends Component {
               <TopItem onClick={this.menuTwoToggleHandler}>NEWS</TopItem>
               <SubMenu className={this.state.menuTwo ? 'SubMenuDisplay' : null}>
                 <SubMenuItem>
-                  <SubItem>THE FUTURE</SubItem>
+                  <SubItem>ARCHIVE</SubItem>
                 </SubMenuItem>
                 <SubMenuItem>
-                  <SubItem>TODAY</SubItem>
+                  <SubItem>PRESS COVERAGE</SubItem>
                 </SubMenuItem>
                 <SubMenuItem>
-                  <SubItem>HISTORY</SubItem>
+                  <SubItem>PHOTO GALLERY</SubItem>
                 </SubMenuItem>
               </SubMenu>
             </MenuItem>
