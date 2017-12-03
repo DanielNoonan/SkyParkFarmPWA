@@ -100,7 +100,7 @@ const FrontPageContentWrapper = styled.div`
     flex-wrap: wrap;
     justify-content: center;
     flex: 0 0 98%;
-    border: 1px solid black;
+    border: 1px solid white;
     margin-top: 10px;
 `
 
@@ -111,6 +111,7 @@ const NewsColumnWrapper = styled.div`
 
 const NewsColumnMainTitle = styled.h1`
     text-align: center;
+    background: #F6F6F6;
 `
 
 const NewsColumnArticleWrapper = styled.div`
@@ -122,5 +123,6 @@ const NewsColumnArticleWrapper = styled.div`
 `
 const NewsArticleBox = styled.div`
 flex: 0 0 calc(100% / 12 * 11);
-border: 1px solid black;
+background: #F6F6F6;
+border: 1px solid white;
 `

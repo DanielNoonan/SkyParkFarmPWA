@@ -8,7 +8,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1512302273849,
+      "updatedAt": 1512304920431,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a8232b4fc5906fe999823d5584f33dae",
+        "contentDigest": "2468be858ab39c08e7763ab72dff030c",
         "owner": "internal-data-bridge"
       }
     },
@@ -504,12 +504,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-12-03T11:57:48.623Z",
+      "buildTime": "2017-12-03T12:41:56.267Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "587c6cbc770610fb91e6bdfdb03819f2",
+        "contentDigest": "4a25cb24b35c61da4415a8928fb106e4",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1676,25 +1676,107 @@
         "owner": "gatsby-source-contentful"
       }
     },
-    "SitePage /": {
-      "layout": "index",
-      "jsonName": "index.json",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
-      "componentChunkName": "component---src-pages-index-js",
-      "context": {},
-      "updatedAt": 1512302273861,
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
-      "id": "SitePage /",
-      "parent": "SOURCE",
+    "Logo": {
+      "id": "Logo",
+      "parent": null,
+      "children": [],
+      "name": "Logo",
+      "displayField": "title",
+      "description": "Company Logo",
+      "internal": {
+        "type": "ContentfulContentType",
+        "contentDigest": "430ac50046c40bd8c45a40cac7bc74de",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c1rPQlm5Qg8sqoU4wKq62mm": {
+      "title": "Logo",
+      "logo___NODE": "c325vyDnPx68m6asS86EKqo",
+      "id": "c1rPQlm5Qg8sqoU4wKq62mm",
+      "createdAt": "2017-12-03T12:24:28.899Z",
+      "updatedAt": "2017-12-03T12:24:28.899Z",
+      "parent": "Logo",
       "children": [],
       "internal": {
-        "type": "SitePage",
-        "contentDigest": "2b349561877e8755d54f002de16d06fd",
-        "owner": "internal-data-bridge"
+        "type": "ContentfulLogo",
+        "contentDigest": "93038ce7f5ddb20d24b6f5ad8493299d",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c325vyDnPx68m6asS86EKqo": {
+      "id": "c325vyDnPx68m6asS86EKqo",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/ca5g612z8zfu/325vyDnPx68m6asS86EKqo/aeec09eafb84ffcb563a80774493899f/BlueCircle_Logo_-_3.png",
+        "details": {
+          "size": 115977,
+          "image": {
+            "width": 593,
+            "height": 587
+          }
+        },
+        "fileName": "BlueCircle Logo - 3.png",
+        "contentType": "image/png"
+      },
+      "title": "Logo",
+      "description": "Company Logo",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "3ac094281256b2b15d79232481ebb96c",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "kw7yXos6YwKwiKYUmgGMy": {
+      "id": "kw7yXos6YwKwiKYUmgGMy",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/ca5g612z8zfu/kw7yXos6YwKwiKYUmgGMy/39859d7ab8c3e81f84c627b162bd5920/BlueCircle_Logo_-_3.png",
+        "details": {
+          "size": 115977,
+          "image": {
+            "width": 593,
+            "height": 587
+          }
+        },
+        "fileName": "BlueCircle Logo - 3.png",
+        "contentType": "image/png"
+      },
+      "title": "Logo",
+      "description": "Company Logo",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "36e3f2ba6232f2b1033b5ff5feff373e",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "BCenFvJyfIQw0gmAAEsgi": {
+      "id": "BCenFvJyfIQw0gmAAEsgi",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/ca5g612z8zfu/BCenFvJyfIQw0gmAAEsgi/d5054b054dbe51628a2c59445dd3c089/BlueCircle_Logo_-_3.png",
+        "details": {
+          "size": 115977,
+          "image": {
+            "width": 593,
+            "height": 587
+          }
+        },
+        "fileName": "BlueCircle Logo - 3.png",
+        "contentType": "image/png"
+      },
+      "title": "BlueCircle Logo - 3",
+      "description": "Company Logo",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "65c658bda78d5ab01627b372652be3fe",
+        "owner": "gatsby-source-contentful"
       }
     },
     "SitePage /404/": {
@@ -1705,7 +1787,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1512302273861,
+      "updatedAt": 1512304920443,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
@@ -1714,28 +1796,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "cd16908bc2181c5c858d8a23e20281ce",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404.html": {
-      "layout": "index",
-      "jsonName": "404-html.json",
-      "internalComponentName": "Component404Html",
-      "path": "/404.html",
-      "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "updatedAt": 1512302273865,
-      "pluginCreator___NODE": "Plugin prod-404",
-      "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
-      "id": "SitePage /404.html",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "41fc28ee66994805217f6571a79dfa10",
+        "contentDigest": "07ef74ae35ced3152c324a85d0636e4a",
         "owner": "internal-data-bridge"
       }
     },
@@ -1747,7 +1808,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
       "componentChunkName": "component---src-pages-page-2-js",
       "context": {},
-      "updatedAt": 1512302273865,
+      "updatedAt": 1512304920443,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
@@ -1756,7 +1817,49 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "570d25d2a86925387c7ce4ad89407dab",
+        "contentDigest": "0da591720bbe060904e9a10491f06d3d",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "updatedAt": 1512304920447,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7f60a284da01dc1d39445c0ee0a32f2f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "updatedAt": 1512304920451,
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d16b70fc6e346715c8818bdefcae602c",
         "owner": "internal-data-bridge"
       }
     }
@@ -1764,7 +1867,7 @@
   "status": {
     "plugins": {
       "gatsby-source-contentful": {
-        "ca5g612z8zfu": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybDssKVOnACwpkPXsKxwojCjcKgwqfDv8OPFHoiw7_DvsOPwqUFwqBYI8KBd8KBwpQAJcKWw6nCrsOkFMO6w4UwwoxSw4csewHDqsK4A8OxZsO3wo_DksK0w7LDq8KlDMOWw5NMwrMl"
+        "ca5g612z8zfu": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyY4BQEhwqHDg8KQEVjChsOQw4trJW3CsSrDuzJnwqzDp2gcC3ETwpZ5wq45BMKcw5ZewqfCkTsiw4J-ZMKCLMK2HMK7EcOIB8K_ITrCj0d0w7rDv8Okw5RvLsKHUA"
       }
     },
     "PLUGINS_HASH": "6d224ae057e1a2d1bc5c8838cbc97a9c"
@@ -1818,6 +1921,21 @@
       ],
       "EYibztPOACuaA6aSKi0WgopeningParagraphTextNode": [
         "/"
+      ],
+      "Product": [
+        "/"
+      ],
+      "c4zj1ZOfHgQ8oqgaSKm4Qo2": [
+        "/"
+      ],
+      "c2Y8LhXLnYAYqKCGEWG4EKI": [
+        "/"
+      ],
+      "c3wtvPBbBjiMKqKKga8I2Cu": [
+        "/"
+      ],
+      "c325vyDnPx68m6asS86EKqo": [
+        "/"
       ]
     },
     "connections": {
@@ -1826,6 +1944,9 @@
       ],
       "SitePage": [
         "/dev-404-page/"
+      ],
+      "ContentfulLogo": [
+        "LAYOUT___index"
       ]
     }
   }

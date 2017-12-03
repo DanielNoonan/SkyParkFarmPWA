@@ -1,3 +1,18 @@
 {
+    "data": {
+        "allContentfulLogo": {
+            "edges": [
+                {
+                    "node": {
+                        "logo": {
+                            "file": {
+                                "url": "//images.contentful.com/ca5g612z8zfu/325vyDnPx68m6asS86EKqo/aeec09eafb84ffcb563a80774493899f/BlueCircle_Logo_-_3.png"
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
     "layoutContext": {}
 }

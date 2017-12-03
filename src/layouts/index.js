@@ -9,7 +9,7 @@ import Footer from '../Components/Footer';
 import '../assets/global-styles/global-styles.css'
 
 
-const TemplateWrapper = ({ children }) => (
+const TemplateWrapper = ({data, children }) => (
   <div>
     <Helmet
       title="Sky Park Farm"
@@ -18,7 +18,7 @@ const TemplateWrapper = ({ children }) => (
         { name: 'keywords', content: 'sample, something' },
       ]}
     />
-    <Navbar />
+    <Navbar data={data} />
 
 
     <div>
@@ -35,3 +35,20 @@ TemplateWrapper.propTypes = {
 }
 
 export default TemplateWrapper
+
+
+export const query = graphql`
+  query LogoQuery {
+    allContentfulLogo {
+      edges {
+        node {
+          logo {
+            file {
+              url
+            }
+          }
+        }
+      }
+    }
+  }
+`
