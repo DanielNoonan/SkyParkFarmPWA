@@ -100,17 +100,22 @@ const FrontPageContentWrapper = styled.div`
     flex-wrap: wrap;
     justify-content: center;
     flex: 0 0 98%;
-    border: 1px solid black;
+    border: 1px solid white;
     margin-top: 10px;
 `
 
 const NewsColumnWrapper = styled.div`
+    display: none;
     flex: 0 0 calc(100% / 12 * 3);
     border: 1px solid black;
+    @media (min-width: 1024px) {
+        display: block;
+    }
 `
 
 const NewsColumnMainTitle = styled.h1`
     text-align: center;
+    background: #F6F6F6;
 `
 
 const NewsColumnArticleWrapper = styled.div`
@@ -121,6 +126,7 @@ const NewsColumnArticleWrapper = styled.div`
     border: 1px solid black;
 `
 const NewsArticleBox = styled.div`
-flex: 0 0 calc(100% / 12 * 11);
-border: 1px solid black;
+    flex: 0 0 calc(100% / 12 * 11);
+    background: #F6F6F6;
+    border: 1px solid white;
 `

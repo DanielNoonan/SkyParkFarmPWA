@@ -21,6 +21,7 @@ export default NewsColumnItem;
 const NewsItemBox = styled.div`
   width: 94%;
   margin: 0 auto;
+  background: #F6F6F6;
   border: 1px solid black;
 `
 
