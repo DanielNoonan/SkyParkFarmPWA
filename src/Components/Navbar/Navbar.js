@@ -162,7 +162,7 @@ class Navbar extends Component {
     const logoImage = this.props.data.allContentfulLogo.edges[0].node.logo.file.url;
     return (
       <NavbarWrapper>
-          <Link to='/' onClick={this.resetHandler}><Logo src={`https:${logoImage}`} /></Link>
+          <Link to='/' onClick={this.resetHandler} className='logo-link'><Logo src={`https:${logoImage}`} /></Link>
           <TitleAndMenu>
           <Title><Link to='/' onClick={this.resetHandler} className='main-title-link'>SKY PARK FARM</Link></Title>
           <NavToggler onClick={this.mobileMenuToggleHandler} >X</NavToggler>

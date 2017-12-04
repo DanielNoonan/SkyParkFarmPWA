@@ -12,49 +12,53 @@ html {
     font-size: 62.5%;
   }
   
-  *,
-  *:before,
-  *:after {
-    box-sizing: inherit;
-  }
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Garamond', serif;
+  /* background: #FAF4F1;  */
+  overflow-x: hidden; 
+}
   
-  body {
-    margin: 0;
-    padding: 0;
-    font-family: 'Garamond', serif;
-    /* background: #FAF4F1;  */
-    overflow-x: hidden; 
-  }
   
-  
-  /* vertical-align: bottom -- this removes white gap from bottom of images */
-  img {
-    max-width: 100%;
-    height: auto;
-    vertical-align:bottom;
-  }
-  
-  a {
-    text-decoration: none;
-  }
+/* vertical-align: bottom -- this removes white gap from bottom of images */
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align:bottom;
+}
 
-  .SubMenuDisplay {
-    display: block;
-  }
+a {
+  text-decoration: none;
+}
 
-  .navbar-link {
-    color: silver;
-  }
+.SubMenuDisplay {
+  display: block;
+}
 
-  .navbar-link:hover {
-    color: white;
-  }
+.main-title-link {
+  color: #BC7817;
+  transition: all 0.2s;
+}
 
-  .main-title-link {
-    color: #BC7817;
-    transition: all 0.2s;
-  }
+.main-title-link:hover {
+  color: silver;
+}
 
-  .main-title-link:hover {
-    color: silver;
-  }
+.logo-link {
+  min-width: 145px;
+}
+
+.navbar-link {
+  color: silver;
+}
+
+.navbar-link:hover {
+  color: white;
+}
