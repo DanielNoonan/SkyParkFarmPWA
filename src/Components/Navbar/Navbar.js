@@ -11,7 +11,7 @@ class Navbar extends Component {
   state = {
     menuOne: false,
     menuTwo: false,
-    mobileMenu: false
+    mobileMenu: false,
   }
 
   menuOneToggleHandler = () => {
@@ -59,6 +59,11 @@ class Navbar extends Component {
   //////////
 
   render () {
+
+    // if(window.matchMedia("(min-width: 1023px)").matches) {
+    //   console.log('PAGE SIZE CHANGE')
+    // }
+
     const logoImage = this.props.data.allContentfulLogo.edges[0].node.logo.file.url;
     return (
       <NavbarWrapper>
