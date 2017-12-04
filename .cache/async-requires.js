@@ -16,9 +16,9 @@ exports.json = {
   "layout-index.json": require("gatsby-module-loader?name=path---!C:\\Users\\danno\\Documents\\webDev\\my-websites\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\layout-index.json"),
   "index.json": require("gatsby-module-loader?name=path---index!C:\\Users\\danno\\Documents\\webDev\\my-websites\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\index.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!C:\\Users\\danno\\Documents\\webDev\\my-websites\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\layout-index.json"),
-  "404-html.json": require("gatsby-module-loader?name=path---404-html!C:\\Users\\danno\\Documents\\webDev\\my-websites\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\404-html.json"),
+  "page-2.json": require("gatsby-module-loader?name=path---page-2!C:\\Users\\danno\\Documents\\webDev\\my-websites\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\page-2.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!C:\\Users\\danno\\Documents\\webDev\\my-websites\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\layout-index.json"),
-  "page-2.json": require("gatsby-module-loader?name=path---page-2!C:\\Users\\danno\\Documents\\webDev\\my-websites\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\page-2.json")
+  "404-html.json": require("gatsby-module-loader?name=path---404-html!C:\\Users\\danno\\Documents\\webDev\\my-websites\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\404-html.json")
 }
 
 exports.layouts = {
