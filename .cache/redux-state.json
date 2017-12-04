@@ -8,7 +8,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1512395725894,
+      "updatedAt": 1512410185024,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bfbc8414225e0cfadafe9e8820191ab6",
+        "contentDigest": "c4bf4995565436ec4e932c21087cd0fa",
         "owner": "internal-data-bridge"
       }
     },
@@ -504,12 +504,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-12-04T13:55:22.883Z",
+      "buildTime": "2017-12-04T17:56:22.024Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "8d7db713f396ee2844aac40498fd5fa4",
+        "contentDigest": "466b24cc2580294ff28756518b04dd79",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1779,25 +1779,62 @@
         "owner": "gatsby-source-contentful"
       }
     },
-    "SitePage /": {
-      "layout": "index",
-      "jsonName": "index.json",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
-      "componentChunkName": "component---src-pages-index-js",
-      "context": {},
-      "updatedAt": 1512395725904,
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
-      "id": "SitePage /",
-      "parent": "SOURCE",
+    "c67EOSEa42AUi4USW2iMsaUopeningParagraphTextNode": {
+      "id": "c67EOSEa42AUi4USW2iMsaUopeningParagraphTextNode",
+      "parent": "c67EOSEa42AUi4USW2iMsaU",
       "children": [],
+      "openingParagraph": "Some text.  . . . . . .",
       "internal": {
-        "type": "SitePage",
-        "contentDigest": "8b878e44c0f57e0a67c74834c3fc1318",
-        "owner": "internal-data-bridge"
+        "type": "contentfulNewsColumnOpeningParagraphTextNode",
+        "mediaType": "text/markdown",
+        "content": "Some text.  . . . . . .",
+        "contentDigest": "4cf95c302b36aa09ca488edc703c795f",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c67EOSEa42AUi4USW2iMsaU": {
+      "date": 20171204,
+      "title": "From Phone",
+      "openingSentence": "Test post from Phone",
+      "previewImage___NODE": "c4vUSRCAfTqcCYCMcCOSISE",
+      "openingParagraph___NODE": "c67EOSEa42AUi4USW2iMsaUopeningParagraphTextNode",
+      "id": "c67EOSEa42AUi4USW2iMsaU",
+      "createdAt": "2017-12-04T14:50:08.060Z",
+      "updatedAt": "2017-12-04T14:50:08.060Z",
+      "parent": "News Column",
+      "children": [
+        "c67EOSEa42AUi4USW2iMsaUopeningParagraphTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulNewsColumn",
+        "contentDigest": "888ca9e50cbe1b230ce20b5d4d395598",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c4vUSRCAfTqcCYCMcCOSISE": {
+      "id": "c4vUSRCAfTqcCYCMcCOSISE",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/ca5g612z8zfu/4vUSRCAfTqcCYCMcCOSISE/cdf9c2ec9ddf3ac4ecd5b88179c32352/2_Knitting_Balls.jpg",
+        "details": {
+          "size": 4002602,
+          "image": {
+            "width": 2560,
+            "height": 1440
+          }
+        },
+        "fileName": "2_Knitting Balls.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "2 Knitting Balls",
+      "description": "Test from Phone",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "427c811259e55e061f5f9cc2666e9b6a",
+        "owner": "gatsby-source-contentful"
       }
     },
     "SitePage /404/": {
@@ -1808,7 +1845,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1512395725906,
+      "updatedAt": 1512410185036,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
@@ -1817,28 +1854,28 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7b09b0c3caab47ffacba2ea6624f0e5c",
+        "contentDigest": "8632d4f052a17ba2f043f4806e6a94d6",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /page-2/": {
+    "SitePage /": {
       "layout": "index",
-      "jsonName": "page-2.json",
-      "internalComponentName": "ComponentPage2",
-      "path": "/page-2/",
-      "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
-      "componentChunkName": "component---src-pages-page-2-js",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1512395725907,
+      "updatedAt": 1512410185038,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
-      "id": "SitePage /page-2/",
+      "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
+      "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "02df200627e79c278cb7d585b5b58e49",
+        "contentDigest": "b203490ae803c6980503572fdb03536c",
         "owner": "internal-data-bridge"
       }
     },
@@ -1850,7 +1887,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1512395725909,
+      "updatedAt": 1512410185040,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
@@ -1859,7 +1896,28 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "604efc2db64add9c5f63717c441617a3",
+        "contentDigest": "95d3f36823a3b2b0eb443673c4ab33a8",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /page-2/": {
+      "layout": "index",
+      "jsonName": "page-2.json",
+      "internalComponentName": "ComponentPage2",
+      "path": "/page-2/",
+      "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
+      "componentChunkName": "component---src-pages-page-2-js",
+      "context": {},
+      "updatedAt": 1512410185046,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
+      "id": "SitePage /page-2/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "27cb1e07e3e00f55b185655978f5b089",
         "owner": "internal-data-bridge"
       }
     }
@@ -1867,7 +1925,7 @@
   "status": {
     "plugins": {
       "gatsby-source-contentful": {
-        "ca5g612z8zfu": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyY4BQEhwqHDg8KQEVjChsOQw4trJW3CsSrDuzJnwqzDp2gcC3ETwpZ5wq45BMKcw5ZewqfCkTsiw4J-ZMKCLMK2HMK7EcOIB8K_ITrCj0d0w7rDv8Okw5RvLsKHUA"
+        "ca5g612z8zfu": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyZZwozCtcOAwqTChVEGA0UKwo_DjjDDhcOzc3FZIMOKfsOyHcK7fcKVKcKYZsKFwpTDsMO-QsOfw4jCjmFqSBpSwq7CkAJqwp1Uwo_DqsOuG0JHGMORw4lsNSBxw7ti"
       }
     },
     "PLUGINS_HASH": "6d224ae057e1a2d1bc5c8838cbc97a9c"
@@ -1935,6 +1993,12 @@
         "/"
       ],
       "c325vyDnPx68m6asS86EKqo": [
+        "/"
+      ],
+      "c4vUSRCAfTqcCYCMcCOSISE": [
+        "/"
+      ],
+      "c67EOSEa42AUi4USW2iMsaUopeningParagraphTextNode": [
         "/"
       ]
     },

@@ -41,3 +41,20 @@ html {
   .SubMenuDisplay {
     display: block;
   }
+
+  .navbar-link {
+    color: silver;
+  }
+
+  .navbar-link:hover {
+    color: white;
+  }
+
+  .main-title-link {
+    color: #BC7817;
+    transition: all 0.2s;
+  }
+
+  .main-title-link:hover {
+    color: silver;
+  }

@@ -124,6 +124,18 @@ class Navbar extends Component {
   }
   //////////
 
+    resetHandler = () => {
+      this.setState({
+        menuOne: false,
+        menuTwo: false,
+        menuThree: false,
+        menuFour: false,
+        menuFive: false,
+        menuSix: false,
+        mobileMenu: false
+      })
+    }
+
   
 
   render () {
@@ -150,54 +162,54 @@ class Navbar extends Component {
     const logoImage = this.props.data.allContentfulLogo.edges[0].node.logo.file.url;
     return (
       <NavbarWrapper>
-          <Logo src={`https:${logoImage}`} />
+          <Link to='/' onClick={this.resetHandler}><Logo src={`https:${logoImage}`} /></Link>
           <TitleAndMenu>
-          <Title>SKY PARK FARM</Title>
+          <Title><Link to='/' onClick={this.resetHandler} className='main-title-link'>SKY PARK FARM</Link></Title>
           <NavToggler onClick={this.mobileMenuToggleHandler} >X</NavToggler>
           <NavbarMenu className={this.state.mobileMenu ? 'SubMenuDisplay' : null} >
             <Menu>
-              <TopItem onClick={this.menuOneToggleHandler}>ABOUT US</TopItem>
+              <TopItem onClick={this.menuOneToggleHandler}>ABOUT US <DropdownArrow>&#9660;</DropdownArrow></TopItem>
               <SubMenu className={this.state.menuOne ? 'SubMenuDisplay' : null}>
-                <SubMenuItem>THE FUTURE</SubMenuItem>
-                <SubMenuItem>TODAY</SubMenuItem>
-                <SubMenuItem>HISTORY</SubMenuItem>
-                <SubMenuItem>THEN AND NOW</SubMenuItem>
+              <Link to='/page-2/' onClick={this.resetHandler} className='navbar-link'><SubMenuItem>THE FUTURE</SubMenuItem></Link>
+              <Link to='/page-2/' onClick={this.resetHandler} className='navbar-link'><SubMenuItem>TODAY</SubMenuItem></Link>
+              <Link to='/page-2/' onClick={this.resetHandler} className='navbar-link'><SubMenuItem>HISTORY</SubMenuItem></Link>
+              <Link to='/page-2/' onClick={this.resetHandler} className='navbar-link'><SubMenuItem>THEN AND NOW</SubMenuItem></Link>
               </SubMenu>
             </Menu>
             <Menu>
-              <TopItem onClick={this.menuTwoToggleHandler}>NEWS</TopItem>
+              <TopItem onClick={this.menuTwoToggleHandler}>NEWS <DropdownArrow>&#9660;</DropdownArrow></TopItem>
               <SubMenu className={this.state.menuTwo ? 'SubMenuDisplay' : null}>
-                <SubMenuItem>ARCHIVE</SubMenuItem>
-                <SubMenuItem>PRESS COVERAGE</SubMenuItem>
-                <SubMenuItem>PHOTO GALLERY</SubMenuItem>
+                <Link to='/page-2/' onClick={this.resetHandler} className='navbar-link'><SubMenuItem>ARCHIVE</SubMenuItem></Link>
+                <Link to='/page-2/' onClick={this.resetHandler} className='navbar-link'><SubMenuItem>PRESS COVERAGE</SubMenuItem></Link>
+                <Link to='/page-2/' onClick={this.resetHandler} className='navbar-link'><SubMenuItem>PHOTO GALLERY</SubMenuItem></Link>
               </SubMenu>
             </Menu>
             <Menu>
-              <TopItem onClick={this.menuThreeToggleHandler}>THE TEAM</TopItem>
+              <TopItem onClick={this.menuThreeToggleHandler}>THE TEAM <DropdownArrow>&#9660;</DropdownArrow></TopItem>
               <SubMenu className={this.state.menuThree ? 'SubMenuDisplay' : null}>
-                <SubMenuItem>OWNERS</SubMenuItem>
-                <SubMenuItem>ESTATE MANAGER</SubMenuItem>
-                <SubMenuItem>RANGER</SubMenuItem>
+                <Link to='/page-2/' onClick={this.resetHandler} className='navbar-link'><SubMenuItem>OWNERS</SubMenuItem></Link>
+                <Link to='/page-2/' onClick={this.resetHandler} className='navbar-link'><SubMenuItem>ESTATE MANAGER</SubMenuItem></Link>
+                <Link to='/page-2/' onClick={this.resetHandler} className='navbar-link'><SubMenuItem>RANGER</SubMenuItem></Link>
               </SubMenu>
             </Menu>
             <Menu>
-              <TopItem onClick={this.menuFourToggleHandler}>DEER FARM</TopItem>
+              <TopItem onClick={this.menuFourToggleHandler}>DEER FARM <DropdownArrow>&#9660;</DropdownArrow></TopItem>
               <SubMenu className={this.state.menuFour ? 'SubMenuDisplay' : null}>
-                <SubMenuItem>HOW IT WORKS</SubMenuItem>
-                <SubMenuItem>RED DEER</SubMenuItem>
-                <SubMenuItem>VENISON AND HEALTH</SubMenuItem>
+                <Link to='/page-2/' onClick={this.resetHandler} className='navbar-link'><SubMenuItem>HOW IT WORKS</SubMenuItem></Link>
+                <Link to='/page-2/' onClick={this.resetHandler} className='navbar-link'><SubMenuItem>RED DEER</SubMenuItem></Link>
+                <Link to='/page-2/' onClick={this.resetHandler} className='navbar-link'><SubMenuItem>VENISON AND HEALTH</SubMenuItem></Link>
               </SubMenu>
             </Menu>
             <Menu>
-              <TopItem onClick={this.menuFiveToggleHandler}>ACCOMMODATION</TopItem>
+              <TopItem onClick={this.menuFiveToggleHandler}>ACCOMMODATION <DropdownArrow>&#9660;</DropdownArrow></TopItem>
               <SubMenu className={this.state.menuFive ? 'SubMenuDisplay' : null}>
-                <SubMenuItem>QUEBEC COTTAGE</SubMenuItem>
+                <Link to='/page-2/' onClick={this.resetHandler} className='navbar-link'><SubMenuItem>QUEBEC COTTAGE</SubMenuItem></Link>
               </SubMenu>
             </Menu>
             <Menu>
-              <TopItem onClick={this.menuSixToggleHandler}>CONTACT</TopItem>
+              <TopItem onClick={this.menuSixToggleHandler}>CONTACT <DropdownArrow>&#9660;</DropdownArrow></TopItem>
               <SubMenu className={this.state.menuSix ? 'SubMenuDisplay' : null}>
-                <SubMenuItem>MAP AND EMAIL</SubMenuItem>
+                <Link to='/page-2/' onClick={this.resetHandler} className='navbar-link'><SubMenuItem>MAP AND EMAIL</SubMenuItem></Link>
               </SubMenu>
             </Menu>
           </NavbarMenu>
@@ -215,7 +227,8 @@ const NavbarWrapper = styled.div`
   position: relative;
   display: flex;
   align-items: center;
-  border: 1px solid black;
+  border-top: 1px solid #80D4F7;
+  border-bottom: 1px solid #80D4F7;
   background: #000034;
   `
   
@@ -233,10 +246,26 @@ const TitleAndMenu = styled.div`
 `
 
 const Title = styled.h1`
+  display: none;
   margin-top: 0;
   margin-bottom: 0;
   margin-left: 8%;
-  font-size: 6em;
+  @media (min-width: 450px) {
+    display: block;
+    font-size: 2em;
+  }
+  @media (min-width: 530px) {
+    font-size: 3em;
+  }
+  @media (min-width: 620px) {
+    font-size: 4em;
+  }
+  @media (min-width: 700px) {
+    font-size: 5em;
+  }
+  @media (min-width: 800px) {
+    font-size: 6em;
+  }
 `
 
 //Small Screen Navbar Toggle
@@ -284,6 +313,15 @@ position: relative;
 
 const TopItem = styled.p`
   cursor: pointer;
+  padding: 5px 0;
+  &:hover {
+    color: white;
+  }
+`
+
+const DropdownArrow = styled.span`
+  font-size: 0.7em;
+  transition: all 1s;
 `
 
 const SubMenu = styled.ul`

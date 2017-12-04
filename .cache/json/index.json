@@ -4,6 +4,23 @@
             "edges": [
                 {
                     "node": {
+                        "id": "c67EOSEa42AUi4USW2iMsaU",
+                        "date": "20171204",
+                        "title": "From Phone",
+                        "previewImage": {
+                            "description": "Test from Phone",
+                            "file": {
+                                "url": "//images.contentful.com/ca5g612z8zfu/4vUSRCAfTqcCYCMcCOSISE/cdf9c2ec9ddf3ac4ecd5b88179c32352/2_Knitting_Balls.jpg"
+                            }
+                        },
+                        "openingSentence": "Test post from Phone",
+                        "openingParagraph": {
+                            "openingParagraph": "Some text.  . . . . . ."
+                        }
+                    }
+                },
+                {
+                    "node": {
                         "id": "EYibztPOACuaA6aSKi0Wg",
                         "date": "20170606",
                         "title": "Mob Of Deer",
