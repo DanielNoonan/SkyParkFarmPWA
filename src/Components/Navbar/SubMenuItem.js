@@ -23,4 +23,5 @@ border: 1px solid white;
 
 const SubItem = styled.p`
 cursor: pointer;
+min-width: 150px;
 `

@@ -105,8 +105,12 @@ const FrontPageContentWrapper = styled.div`
 `
 
 const NewsColumnWrapper = styled.div`
+    display: none;
     flex: 0 0 calc(100% / 12 * 3);
     border: 1px solid black;
+    @media (min-width: 1024px) {
+        display: block;
+    }
 `
 
 const NewsColumnMainTitle = styled.h1`
@@ -122,7 +126,7 @@ const NewsColumnArticleWrapper = styled.div`
     border: 1px solid black;
 `
 const NewsArticleBox = styled.div`
-flex: 0 0 calc(100% / 12 * 11);
-background: #F6F6F6;
-border: 1px solid white;
+    flex: 0 0 calc(100% / 12 * 11);
+    background: #F6F6F6;
+    border: 1px solid white;
 `
