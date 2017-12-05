@@ -18,7 +18,7 @@ class Navbar extends Component {
     mobileMenu: false
   }
 //////////
-//Navbar submenu toggles
+//Navbar submenu toggles - deliberately WET code so that the Nav Bar is 'modular'. This makes it simple to add/remove menus/submenus/sub-sub menus etc.
   menuOneToggleHandler = () => {
     const currentState = this.state.menuOne;
     this.setState({

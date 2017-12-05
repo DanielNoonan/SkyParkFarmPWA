@@ -6,7 +6,7 @@ import styled from 'styled-components';
 const NewsColumnArticle = (props) => {
     return (
         <div>
-            <h2 onClick={props.clicked}>&#8656; Front Page Content</h2>
+            <h2 onClick={props.clicked}>&#8656; Front Page Story</h2>
             <NewsArticleHeadline>{props.title}</NewsArticleHeadline>
             <NewsArticleImage src={props.image} alt='Dummy Alt Text' />
             <NewsArticleText>{props.text}</NewsArticleText>
