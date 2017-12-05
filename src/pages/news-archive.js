@@ -4,13 +4,13 @@ import styled from 'styled-components';
 import NewsArchiveContainer from '../Containers/NewsArchiveContainer';
 
 const NewsArchive = ({ data }) => {
-    console.log('new-archive.js: ', data);
+    console.log('news-archive.js: ', data);
     return(
         <FullPageWrapper>
 
             <PageTitle>NEWS ARCHIVE</PageTitle>
 
-            <NewsArchiveContainer />
+            <NewsArchiveContainer data={data} />
 
         </FullPageWrapper>
     )
@@ -32,26 +32,25 @@ const PageTitle = styled.h1`
     border: 5px inset #E6E6E6;
 `
 
-// export const BlogQuery = graphql`
-// query BlogQuery {
-//   allContentfulNewsColumn(sort: {fields: [date], order: DESC}) {
-//     edges {
-//       node {
-//         id
-//         date
-//         title
-//         previewImage {
-//           description
-//           file {
-//             url
-//           }
-//         }
-//         openingSentence
-//         openingParagraph {
-//           openingParagraph
-//         }
-//       }
-//     }
-//   }
-// }
-// `
+export const BlogQuery = graphql`
+query BlogQuery {
+    allContentfulNewsBlog(sort: {fields: [date], order: DESC}) {
+        edges {
+          node {
+            id
+            date
+            title
+            previewImage {
+              file {
+                url
+              }
+            }
+            childContentfulNewsBlogFullArticleTextTextNode {
+              id
+              fullArticleText
+            }
+            }
+        }
+    }
+}
+`

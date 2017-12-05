@@ -26,10 +26,10 @@ class FrontPageContainer extends Component {
 
     articleDataHandler = (index) => {
         console.log('CLICKED!!', index);
-        console.log('PROP: ', this.props.data.allContentfulNewsColumn.edges[index])
+        console.log('PROP: ', this.props.data.allContentfulNewsBlog.edges[index])
         this.setState({
             frontpage: false,
-            articleData: this.props.data.allContentfulNewsColumn.edges[index],
+            articleData: this.props.data.allContentfulNewsBlog.edges[index],
         });
         window.scrollTo(0, 500);
     }
@@ -43,7 +43,7 @@ class FrontPageContainer extends Component {
     
     render() {
         //Slicing off the amount of news items desired for the News Column from the data array.
-        const newsData = this.props.data.allContentfulNewsColumn.edges.slice(0, 4);
+        const newsData = this.props.data.allContentfulNewsBlog.edges.slice(0, 4);
         console.log('newsData: ', newsData);
         console.log('STATE: ', this.state.articleData)
 
@@ -79,7 +79,7 @@ class FrontPageContainer extends Component {
 
                 {this.state.frontpage ?
                 <DefaultFrontPage
-                title={this.props.data.allContentfulNewsColumn.edges[6].node.title}
+                title={this.props.data.allContentfulNewsBlog.edges[6].node.title}
                 />
                 : null}
 

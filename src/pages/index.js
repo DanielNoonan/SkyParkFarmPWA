@@ -42,8 +42,8 @@ const Hero = styled.div`
 
 //GraphQL Query
 export const query = graphql`
-query PageQuery {
-  allContentfulNewsColumn(sort: {fields: [date], order: DESC}) {
+query TestQuery {
+  allContentfulNewsBlog(sort: {fields: [date], order: DESC}) {
     edges {
       node {
         id

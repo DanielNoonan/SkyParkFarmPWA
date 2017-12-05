@@ -5,10 +5,28 @@ import NewsArchiveArticle from '../Components/NewsArchiveArticle';
 
 class NewsArchiveContainer extends Component {
 
+    state = {
+        articleData: {}
+    }
+
     render() {
+        console.log('NewsArticleContainer: ', this.props.data)
+        const newsData = this.props.data.allContentfulNewsBlog.edges.slice(4);
+        console.log('newsData: ', newsData);
+        console.log('STATE: ', this.state.articleData)
         return (
             <NewsArchiveWrapper>
-                <NewsArchiveArticle />
+                {newsData.map((newsItem, index) => {
+                    return(
+                        <NewsArchiveArticle
+                        date={newsItem.node.date}
+                        title={newsItem.node.title}
+                        src={`https:${newsItem.node.previewImage.file.url}`}
+                        text={newsItem.node.childContentfulNewsBlogFullArticleTextTextNode.fullArticleText}
+                        />
+                    )
+                })}
+                
             </NewsArchiveWrapper>
         )
     }
