@@ -4,6 +4,23 @@
             "edges": [
                 {
                     "node": {
+                        "id": "c5paskRvC2Q2i0MmcyK04Sy",
+                        "date": "20171205",
+                        "title": "Cottage again",
+                        "previewImage": {
+                            "description": "Quebec Cottage",
+                            "file": {
+                                "url": "//images.contentful.com/ca5g612z8zfu/6Qv6CcGVZmmGwe8kamGKAK/9006db08545b66dd38638509d6ce12fa/quebec-cottage-SMALL.jpg"
+                            }
+                        },
+                        "openingSentence": "This is the cottage again",
+                        "openingParagraph": {
+                            "openingParagraph": "This is the opening paragraph................."
+                        }
+                    }
+                },
+                {
+                    "node": {
                         "id": "c67EOSEa42AUi4USW2iMsaU",
                         "date": "20171204",
                         "title": "From Phone",

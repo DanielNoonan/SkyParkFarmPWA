@@ -7,7 +7,7 @@ const NewsArchiveArticle = (props) => {
             <Date>{props.date}</Date>
             <ArticleTitle>{props.title}</ArticleTitle>
             <Image src={props.src} />
-            <Text>{props.text}</Text>
+            <Text dangerouslySetInnerHTML={{ __html: props.text }}></Text>
         </ArticleWrapper>
     )
 }
@@ -28,19 +28,25 @@ const Date = styled.p`
     margin-left: 1%;
     margin-bottom: 0;
     font-size: 2em;
+    font-weight: bold;
     flex: 0 0 90%;
 `
 const ArticleTitle = styled.h1`
+    text-align: center;
     margin: 0 auto;
-    flex: 0 0 100%;
+    flex: 0 0 60%;
     font-size: 4em;
     border-bottom: 5px double #E6E6E6;
+    margin-bottom: 20px;
 `
 
 const Image = styled.img`
-
+    margin: 0 auto 10px auto;
 `
 
-const Text = styled.p`
-
+const Text = styled.div`
+    flex: 0 0 80%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 2em;
 `

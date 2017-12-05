@@ -28,8 +28,10 @@ const PageTitle = styled.h1`
     text-align: center;
     font-size: 6em;
     letter-spacing: 0.2em;
-    flex: 0 0 70%;
+    width: 70%;
     border: 5px inset #E6E6E6;
+    margin-left: auto;
+    margin-right: auto;
 `
 
 export const BlogQuery = graphql`
@@ -46,8 +48,9 @@ query BlogQuery {
               }
             }
             childContentfulNewsBlogFullArticleTextTextNode {
-              id
-              fullArticleText
+                childMarkdownRemark {
+                    html
+                  }
             }
             }
         }

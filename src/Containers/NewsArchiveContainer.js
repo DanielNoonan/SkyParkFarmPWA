@@ -19,11 +19,12 @@ class NewsArchiveContainer extends Component {
                 {newsData.map((newsItem, index) => {
                     return(
                         <NewsArchiveArticle
+                        key={newsItem.node.id}
                         date={newsItem.node.date}
                         title={newsItem.node.title}
                         src={`https:${newsItem.node.previewImage.file.url}`}
-                        text={newsItem.node.childContentfulNewsBlogFullArticleTextTextNode.fullArticleText}
-                        />
+                        text={newsItem.node.childContentfulNewsBlogFullArticleTextTextNode.childMarkdownRemark.html}
+                        >{this.props.children}</NewsArchiveArticle>
                     )
                 })}
                 
@@ -41,5 +42,8 @@ const NewsArchiveWrapper = styled.div`
     flex-wrap: wrap;
     width: 94%;
     margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
     border: 1px solid black;
+    background: #000034;
 `
