@@ -7,6 +7,13 @@
         "path": "/dev-404-page/"
     },
     {
+        "componentChunkName": "component---src-pages-index-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "index.json",
+        "path": "/"
+    },
+    {
         "componentChunkName": "component---src-pages-404-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -14,11 +21,11 @@
         "path": "/404/"
     },
     {
-        "componentChunkName": "component---src-pages-index-js",
+        "componentChunkName": "component---src-pages-news-archive-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "index.json",
-        "path": "/"
+        "jsonName": "news-archive.json",
+        "path": "/news-archive/"
     },
     {
         "componentChunkName": "component---src-pages-page-2-js",
