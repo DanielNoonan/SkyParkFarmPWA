@@ -1,7 +1,58 @@
 {
     "data": {
-        "allContentfulNewsColumn": {
+        "allContentfulNewsBlog": {
             "edges": [
+                {
+                    "node": {
+                        "id": "c3i8EIZSlVuYUC8M0AsiYcE",
+                        "date": "20171207",
+                        "title": "Farm Renovation",
+                        "previewImage": {
+                            "description": "Farm renovations work during the summer",
+                            "file": {
+                                "url": "//images.contentful.com/ca5g612z8zfu/7hDoIb3xrGs2MIuASgYmY/4a327497be95c50b969e2c64be3dc921/farm-renovation-SMALL.jpg"
+                            }
+                        },
+                        "openingSentence": "Farm renovation work during the summer of 2017",
+                        "openingParagraph": {
+                            "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui"
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "c6DmftTMHrGC4akOkm4aGyy",
+                        "date": "20171206",
+                        "title": "Dom with deer",
+                        "previewImage": {
+                            "description": "Dom with deer",
+                            "file": {
+                                "url": "//images.contentful.com/ca5g612z8zfu/16Q5KoOTjq0Y6eQuE0aWU4/9a159460539ea4fd46b28bc8bc94fde9/dom-stroking-deer-SMALL.jpg"
+                            }
+                        },
+                        "openingSentence": "Another great opening sentence....",
+                        "openingParagraph": {
+                            "openingParagraph": "Another wonderful example of an opening paragraph..."
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "c5paskRvC2Q2i0MmcyK04Sy",
+                        "date": "20171205",
+                        "title": "Cottage again",
+                        "previewImage": {
+                            "description": "Quebec Cottage",
+                            "file": {
+                                "url": "//images.contentful.com/ca5g612z8zfu/6Qv6CcGVZmmGwe8kamGKAK/9006db08545b66dd38638509d6ce12fa/quebec-cottage-SMALL.jpg"
+                            }
+                        },
+                        "openingSentence": "This is the cottage again",
+                        "openingParagraph": {
+                            "openingParagraph": "This is the opening paragraph................."
+                        }
+                    }
+                },
                 {
                     "node": {
                         "id": "c67EOSEa42AUi4USW2iMsaU",
@@ -15,7 +66,7 @@
                         },
                         "openingSentence": "Test post from Phone",
                         "openingParagraph": {
-                            "openingParagraph": "Some text.  . . . . . ."
+                            "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
                         }
                     }
                 },
@@ -32,7 +83,7 @@
                         },
                         "openingSentence": "A mob of deer hanging out at the edge of one of the fields",
                         "openingParagraph": {
-                            "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                            "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui"
                         }
                     }
                 },
@@ -49,7 +100,7 @@
                         },
                         "openingSentence": "Deer following the farm manager around the farm",
                         "openingParagraph": {
-                            "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                            "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui"
                         }
                     }
                 },
@@ -66,7 +117,7 @@
                         },
                         "openingSentence": "This is a Red Deer...",
                         "openingParagraph": {
-                            "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                            "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui"
                         }
                     }
                 },
@@ -83,7 +134,7 @@
                         },
                         "openingSentence": "Summer picture of Quebec Cottage - luxury holiday accommodation",
                         "openingParagraph": {
-                            "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                            "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui"
                         }
                     }
                 },
@@ -100,7 +151,7 @@
                         },
                         "openingSentence": "Farm renovation work during the summer of 2017",
                         "openingParagraph": {
-                            "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                            "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui"
                         }
                     }
                 },
@@ -117,7 +168,7 @@
                         },
                         "openingSentence": "Farm manager stroking a deer",
                         "openingParagraph": {
-                            "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                            "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui"
                         }
                     }
                 },
@@ -134,7 +185,7 @@
                         },
                         "openingSentence": "It's a deer eating some grass",
                         "openingParagraph": {
-                            "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                            "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa"
                         }
                     }
                 },
@@ -151,7 +202,7 @@
                         },
                         "openingSentence": "Deer gives birth today.",
                         "openingParagraph": {
-                            "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                            "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in ralskdjhfdfjkhsdjfakjfdakj aljkdfhalfjh aljkh akjf ha kjhfadf jj;a ajkhdfj ;jhadkjhf a;jk a;jdfa ;ajkdsf;hahsf a;ljdf;asd;lf   a;dlkf; aldfjks."
                         }
                     }
                 }

@@ -1,7 +1,7 @@
 {
     "data": {
         "allSitePage": {
-            "totalCount": 4,
+            "totalCount": 5,
             "edges": [
                 {
                     "node": {
@@ -15,12 +15,17 @@
                 },
                 {
                     "node": {
-                        "path": "/page-2/"
+                        "path": "/news-archive/"
                     }
                 },
                 {
                     "node": {
                         "path": "/404.html"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/page-2/"
                     }
                 }
             ]

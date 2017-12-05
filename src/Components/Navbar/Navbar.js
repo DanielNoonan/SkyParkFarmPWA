@@ -179,7 +179,7 @@ class Navbar extends Component {
             <Menu>
               <TopItem onClick={this.menuTwoToggleHandler}>NEWS <DropdownArrow>&#9660;</DropdownArrow></TopItem>
               <SubMenu className={this.state.menuTwo ? 'SubMenuDisplay' : null}>
-                <Link to='/page-2/' onClick={this.resetHandler} className='navbar-link'><SubMenuItem>ARCHIVE</SubMenuItem></Link>
+                <Link to='/news-archive/' onClick={this.resetHandler} className='navbar-link'><SubMenuItem>ARCHIVE</SubMenuItem></Link>
                 <Link to='/page-2/' onClick={this.resetHandler} className='navbar-link'><SubMenuItem>PRESS COVERAGE</SubMenuItem></Link>
                 <Link to='/page-2/' onClick={this.resetHandler} className='navbar-link'><SubMenuItem>PHOTO GALLERY</SubMenuItem></Link>
               </SubMenu>
