@@ -8,7 +8,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1512494956361,
+      "updatedAt": 1512497273568,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "acb4f8f37e1999212a8df8b4e039bc18",
+        "contentDigest": "5b8230997b2dfc6286e932ae73d20f2f",
         "owner": "internal-data-bridge"
       }
     },
@@ -632,12 +632,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-12-05T17:29:13.281Z",
+      "buildTime": "2017-12-05T18:07:49.914Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "535c3b9fb30bfddad1ae7bb8b7e9a5c2",
+        "contentDigest": "ac09da7111b4e3a078c542175b5b71a4",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1161,12 +1161,12 @@
       "children": [
         "EYibztPOACuaA6aSKi0WgfullArticleTextTextNode >>> MarkdownRemark"
       ],
-      "fullArticleText": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "fullArticleText": "#Pommy Ipsum bit title\nPommy ipsum two weeks on't trot blummin' upper class in the goolies you 'avin a laugh fork out, stupendous unhand me sir red telephone box daft cow baffled alright duck red telephone box, have a gander penny-dreadful punter fake tan rubbish what a doddle. Red telephone box eton mess fake tan ee bah gum ey up chuck bobby superb on the beat\n\n##smaller title with some more pommy ipsum to follow:\nPommy ipsum two weeks on't trot blummin' upper class in the goolies you 'avin a laugh fork out, stupendous unhand me sir red telephone box daft cow baffled alright duck red telephone box, have a gander penny-dreadful punter fake tan rubbish what a doddle. Red telephone box eton mess fake tan ee bah gum ey up chuck bobby superb on the beat",
       "internal": {
         "type": "contentfulNewsBlogFullArticleTextTextNode",
         "mediaType": "text/markdown",
-        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "e4f53e7af4527326c34dcaca89fc1603",
+        "content": "#Pommy Ipsum bit title\nPommy ipsum two weeks on't trot blummin' upper class in the goolies you 'avin a laugh fork out, stupendous unhand me sir red telephone box daft cow baffled alright duck red telephone box, have a gander penny-dreadful punter fake tan rubbish what a doddle. Red telephone box eton mess fake tan ee bah gum ey up chuck bobby superb on the beat\n\n##smaller title with some more pommy ipsum to follow:\nPommy ipsum two weeks on't trot blummin' upper class in the goolies you 'avin a laugh fork out, stupendous unhand me sir red telephone box daft cow baffled alright duck red telephone box, have a gander penny-dreadful punter fake tan rubbish what a doddle. Red telephone box eton mess fake tan ee bah gum ey up chuck bobby superb on the beat",
+        "contentDigest": "65e40944346d6e4629ad7e43a5e91a4b",
         "owner": "gatsby-source-contentful"
       }
     },
@@ -1446,7 +1446,7 @@
       "fullArticleText___NODE": "EYibztPOACuaA6aSKi0WgfullArticleTextTextNode",
       "id": "EYibztPOACuaA6aSKi0Wg",
       "createdAt": "2017-12-02T12:01:32.495Z",
-      "updatedAt": "2017-12-05T14:33:50.556Z",
+      "updatedAt": "2017-12-05T18:06:04.025Z",
       "parent": "News Blog",
       "children": [
         "EYibztPOACuaA6aSKi0WgopeningParagraphTextNode",
@@ -1454,7 +1454,7 @@
       ],
       "internal": {
         "type": "ContentfulNewsBlog",
-        "contentDigest": "403be05a8ea2cdc10fb19e107f7d381c",
+        "contentDigest": "49b34b93b831b1b2baac2a1ea0a27d14",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
@@ -2550,8 +2550,8 @@
       "children": [],
       "parent": "EYibztPOACuaA6aSKi0WgfullArticleTextTextNode",
       "internal": {
-        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "84eba81d18c3da5d8b7b53577529477e",
+        "content": "#Pommy Ipsum bit title\nPommy ipsum two weeks on't trot blummin' upper class in the goolies you 'avin a laugh fork out, stupendous unhand me sir red telephone box daft cow baffled alright duck red telephone box, have a gander penny-dreadful punter fake tan rubbish what a doddle. Red telephone box eton mess fake tan ee bah gum ey up chuck bobby superb on the beat\n\n##smaller title with some more pommy ipsum to follow:\nPommy ipsum two weeks on't trot blummin' upper class in the goolies you 'avin a laugh fork out, stupendous unhand me sir red telephone box daft cow baffled alright duck red telephone box, have a gander penny-dreadful punter fake tan rubbish what a doddle. Red telephone box eton mess fake tan ee bah gum ey up chuck bobby superb on the beat",
+        "contentDigest": "97ed79c2b1ffead4c54362d3c3198d8c",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark"
       },
@@ -2785,6 +2785,199 @@
         "parent": "c69chYIzbvGOsgi6kKIE4MSfullArticleTextTextNode"
       }
     },
+    "c6DmftTMHrGC4akOkm4aGyyopeningParagraphTextNode": {
+      "id": "c6DmftTMHrGC4akOkm4aGyyopeningParagraphTextNode",
+      "parent": "c6DmftTMHrGC4akOkm4aGyy",
+      "children": [
+        "c6DmftTMHrGC4akOkm4aGyyopeningParagraphTextNode >>> MarkdownRemark"
+      ],
+      "openingParagraph": "Another wonderful example of an opening paragraph...",
+      "internal": {
+        "type": "contentfulNewsBlogOpeningParagraphTextNode",
+        "mediaType": "text/markdown",
+        "content": "Another wonderful example of an opening paragraph...",
+        "contentDigest": "aca2e430062f21c41eb272ea41202cc1",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c6DmftTMHrGC4akOkm4aGyyfullArticleTextTextNode": {
+      "id": "c6DmftTMHrGC4akOkm4aGyyfullArticleTextTextNode",
+      "parent": "c6DmftTMHrGC4akOkm4aGyy",
+      "children": [
+        "c6DmftTMHrGC4akOkm4aGyyfullArticleTextTextNode >>> MarkdownRemark"
+      ],
+      "fullArticleText": "#Big Heading For a Little Pose\n\nPommy ipsum two weeks on't trot blummin' upper class in the goolies you 'avin a laugh fork out, stupendous unhand me sir red telephone box daft cow baffled alright duck red telephone box, have a gander penny-dreadful punter fake tan rubbish what a doddle. Red telephone box eton mess fake tan ee bah gum ey up chuck bobby superb on the beat\n\n##A smaller heading... More pommyipsum to follow:\nPommy ipsum two weeks on't trot blummin' upper class in the goolies you 'avin a laugh fork out, stupendous unhand me sir red telephone box daft cow baffled alright duck red telephone box, have a gander penny-dreadful punter fake tan rubbish what a doddle. Red telephone box eton mess fake tan ee bah gum ey up chuck bobby superb on the beat",
+      "internal": {
+        "type": "contentfulNewsBlogFullArticleTextTextNode",
+        "mediaType": "text/markdown",
+        "content": "#Big Heading For a Little Pose\n\nPommy ipsum two weeks on't trot blummin' upper class in the goolies you 'avin a laugh fork out, stupendous unhand me sir red telephone box daft cow baffled alright duck red telephone box, have a gander penny-dreadful punter fake tan rubbish what a doddle. Red telephone box eton mess fake tan ee bah gum ey up chuck bobby superb on the beat\n\n##A smaller heading... More pommyipsum to follow:\nPommy ipsum two weeks on't trot blummin' upper class in the goolies you 'avin a laugh fork out, stupendous unhand me sir red telephone box daft cow baffled alright duck red telephone box, have a gander penny-dreadful punter fake tan rubbish what a doddle. Red telephone box eton mess fake tan ee bah gum ey up chuck bobby superb on the beat",
+        "contentDigest": "a0974c101a2b57621a7dcb5a59296220",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c6DmftTMHrGC4akOkm4aGyy": {
+      "date": 20171206,
+      "title": "Dom with deer",
+      "openingSentence": "Another great opening sentence....",
+      "previewImage___NODE": "c16Q5KoOTjq0Y6eQuE0aWU4",
+      "openingParagraph___NODE": "c6DmftTMHrGC4akOkm4aGyyopeningParagraphTextNode",
+      "fullArticleText___NODE": "c6DmftTMHrGC4akOkm4aGyyfullArticleTextTextNode",
+      "id": "c6DmftTMHrGC4akOkm4aGyy",
+      "createdAt": "2017-12-05T18:03:33.007Z",
+      "updatedAt": "2017-12-05T18:03:33.007Z",
+      "parent": "News Blog",
+      "children": [
+        "c6DmftTMHrGC4akOkm4aGyyopeningParagraphTextNode",
+        "c6DmftTMHrGC4akOkm4aGyyfullArticleTextTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulNewsBlog",
+        "contentDigest": "b93b7f671793ad12bc8da4f13b197343",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c16Q5KoOTjq0Y6eQuE0aWU4": {
+      "id": "c16Q5KoOTjq0Y6eQuE0aWU4",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/ca5g612z8zfu/16Q5KoOTjq0Y6eQuE0aWU4/9a159460539ea4fd46b28bc8bc94fde9/dom-stroking-deer-SMALL.jpg",
+        "details": {
+          "size": 137164,
+          "image": {
+            "width": 640,
+            "height": 427
+          }
+        },
+        "fileName": "dom-stroking-deer-SMALL.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "dom-stroking-deer-SMALL",
+      "description": "Dom with deer",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "1a704b215beb12e02edad146c61944c6",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c6DmftTMHrGC4akOkm4aGyyopeningParagraphTextNode >>> MarkdownRemark": {
+      "id": "c6DmftTMHrGC4akOkm4aGyyopeningParagraphTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c6DmftTMHrGC4akOkm4aGyyopeningParagraphTextNode",
+      "internal": {
+        "content": "Another wonderful example of an opening paragraph...",
+        "contentDigest": "dd76680fbfb079c3852550f17005ad03",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c6DmftTMHrGC4akOkm4aGyyopeningParagraphTextNode",
+        "parent": "c6DmftTMHrGC4akOkm4aGyyopeningParagraphTextNode"
+      }
+    },
+    "c6DmftTMHrGC4akOkm4aGyyfullArticleTextTextNode >>> MarkdownRemark": {
+      "id": "c6DmftTMHrGC4akOkm4aGyyfullArticleTextTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c6DmftTMHrGC4akOkm4aGyyfullArticleTextTextNode",
+      "internal": {
+        "content": "#Big Heading For a Little Pose\n\nPommy ipsum two weeks on't trot blummin' upper class in the goolies you 'avin a laugh fork out, stupendous unhand me sir red telephone box daft cow baffled alright duck red telephone box, have a gander penny-dreadful punter fake tan rubbish what a doddle. Red telephone box eton mess fake tan ee bah gum ey up chuck bobby superb on the beat\n\n##A smaller heading... More pommyipsum to follow:\nPommy ipsum two weeks on't trot blummin' upper class in the goolies you 'avin a laugh fork out, stupendous unhand me sir red telephone box daft cow baffled alright duck red telephone box, have a gander penny-dreadful punter fake tan rubbish what a doddle. Red telephone box eton mess fake tan ee bah gum ey up chuck bobby superb on the beat",
+        "contentDigest": "0bbca0e4db058668c8bdeb5be208a160",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c6DmftTMHrGC4akOkm4aGyyfullArticleTextTextNode",
+        "parent": "c6DmftTMHrGC4akOkm4aGyyfullArticleTextTextNode"
+      }
+    },
+    "c3i8EIZSlVuYUC8M0AsiYcEopeningParagraphTextNode": {
+      "id": "c3i8EIZSlVuYUC8M0AsiYcEopeningParagraphTextNode",
+      "parent": "c3i8EIZSlVuYUC8M0AsiYcE",
+      "children": [
+        "c3i8EIZSlVuYUC8M0AsiYcEopeningParagraphTextNode >>> MarkdownRemark"
+      ],
+      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
+      "internal": {
+        "type": "contentfulNewsBlogOpeningParagraphTextNode",
+        "mediaType": "text/markdown",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
+        "contentDigest": "6e311068f50b08e3ba1fcaad2f0318e1",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c3i8EIZSlVuYUC8M0AsiYcEfullArticleTextTextNode": {
+      "id": "c3i8EIZSlVuYUC8M0AsiYcEfullArticleTextTextNode",
+      "parent": "c3i8EIZSlVuYUC8M0AsiYcE",
+      "children": [
+        "c3i8EIZSlVuYUC8M0AsiYcEfullArticleTextTextNode >>> MarkdownRemark"
+      ],
+      "fullArticleText": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "internal": {
+        "type": "contentfulNewsBlogFullArticleTextTextNode",
+        "mediaType": "text/markdown",
+        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "contentDigest": "e4f53e7af4527326c34dcaca89fc1603",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c3i8EIZSlVuYUC8M0AsiYcE": {
+      "date": 20171207,
+      "title": "Farm Renovation",
+      "openingSentence": "Farm renovation work during the summer of 2017",
+      "previewImage___NODE": "c7hDoIb3xrGs2MIuASgYmY",
+      "openingParagraph___NODE": "c3i8EIZSlVuYUC8M0AsiYcEopeningParagraphTextNode",
+      "fullArticleText___NODE": "c3i8EIZSlVuYUC8M0AsiYcEfullArticleTextTextNode",
+      "id": "c3i8EIZSlVuYUC8M0AsiYcE",
+      "createdAt": "2017-12-05T18:07:33.237Z",
+      "updatedAt": "2017-12-05T18:07:33.237Z",
+      "parent": "News Blog",
+      "children": [
+        "c3i8EIZSlVuYUC8M0AsiYcEopeningParagraphTextNode",
+        "c3i8EIZSlVuYUC8M0AsiYcEfullArticleTextTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulNewsBlog",
+        "contentDigest": "94ea7458051710d16b9547c4f1af161e",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c3i8EIZSlVuYUC8M0AsiYcEopeningParagraphTextNode >>> MarkdownRemark": {
+      "id": "c3i8EIZSlVuYUC8M0AsiYcEopeningParagraphTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c3i8EIZSlVuYUC8M0AsiYcEopeningParagraphTextNode",
+      "internal": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
+        "contentDigest": "20e4df5cc5f47720c24a7804a37ba0eb",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c3i8EIZSlVuYUC8M0AsiYcEopeningParagraphTextNode",
+        "parent": "c3i8EIZSlVuYUC8M0AsiYcEopeningParagraphTextNode"
+      }
+    },
+    "c3i8EIZSlVuYUC8M0AsiYcEfullArticleTextTextNode >>> MarkdownRemark": {
+      "id": "c3i8EIZSlVuYUC8M0AsiYcEfullArticleTextTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c3i8EIZSlVuYUC8M0AsiYcEfullArticleTextTextNode",
+      "internal": {
+        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "contentDigest": "84eba81d18c3da5d8b7b53577529477e",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c3i8EIZSlVuYUC8M0AsiYcEfullArticleTextTextNode",
+        "parent": "c3i8EIZSlVuYUC8M0AsiYcEfullArticleTextTextNode"
+      }
+    },
     "SitePage /404/": {
       "layout": "index",
       "jsonName": "404.json",
@@ -2793,7 +2986,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1512494956372,
+      "updatedAt": 1512497273609,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
@@ -2802,7 +2995,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c9ef74b359f5dab00de323709ae9ec37",
+        "contentDigest": "54fc7ace9c15ca905757b87b97bbf89d",
         "owner": "internal-data-bridge"
       }
     },
@@ -2814,7 +3007,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1512494956374,
+      "updatedAt": 1512497273617,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
@@ -2823,7 +3016,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7f99847481202914af434dd67dd1d44c",
+        "contentDigest": "24046b04d82c91421d32b27d40cb392d",
         "owner": "internal-data-bridge"
       }
     },
@@ -2835,7 +3028,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
       "componentChunkName": "component---src-pages-news-archive-js",
       "context": {},
-      "updatedAt": 1512494956375,
+      "updatedAt": 1512497273618,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
@@ -2844,28 +3037,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "322ef1a2d4eb3254d394bcbe6e52e783",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /page-2/": {
-      "layout": "index",
-      "jsonName": "page-2.json",
-      "internalComponentName": "ComponentPage2",
-      "path": "/page-2/",
-      "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
-      "componentChunkName": "component---src-pages-page-2-js",
-      "context": {},
-      "updatedAt": 1512494956377,
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
-      "id": "SitePage /page-2/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "01ad611408642babe5c8c1fe73fe1dfc",
+        "contentDigest": "f21062f2d45c65b327e81de2b76821dc",
         "owner": "internal-data-bridge"
       }
     },
@@ -2877,7 +3049,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1512494956384,
+      "updatedAt": 1512497273626,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
@@ -2886,7 +3058,28 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "135acec6c995dfef3db095536597f099",
+        "contentDigest": "22801dabd2a515ab56a12bdf1c3d3f8b",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /page-2/": {
+      "layout": "index",
+      "jsonName": "page-2.json",
+      "internalComponentName": "ComponentPage2",
+      "path": "/page-2/",
+      "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
+      "componentChunkName": "component---src-pages-page-2-js",
+      "context": {},
+      "updatedAt": 1512497273640,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
+      "id": "SitePage /page-2/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "311f5bf6668498aff4ad056d666ef511",
         "owner": "internal-data-bridge"
       }
     }
@@ -2894,7 +3087,7 @@
   "status": {
     "plugins": {
       "gatsby-source-contentful": {
-        "ca5g612z8zfu": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyZQwpXCn8K5KMOACcK0VsOwwozDhhF2wrfDsMKpw5ZWL2rCu8OHwqPCtSc3Jj5gQcKhXcOBw40Gw6LCr07Di8KdwrzCvsKkecKwwqFsB8KPDTcPNsOow4fDpsOCHsKjwrLDgmUK"
+        "ca5g612z8zfu": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyZfMkQ3O0rDhCAewozCrl7DtMONw4kBw5TDumnDmRlwwp7DiMK_RwQnDC4Ww7jCvsKFP8OXZznDphwlasOhw4nCscKuwpliD2cEw6prw447VEw7EVbCoVvDmyM"
       }
     },
     "PLUGINS_HASH": "c0545c3e38141600158516db1a640fa5"
@@ -3121,6 +3314,28 @@
       ],
       "c69chYIzbvGOsgi6kKIE4MSfullArticleTextTextNode >>> MarkdownRemark": [
         "/",
+        "/news-archive/"
+      ],
+      "c16Q5KoOTjq0Y6eQuE0aWU4": [
+        "/",
+        "/news-archive/"
+      ],
+      "c6DmftTMHrGC4akOkm4aGyyopeningParagraphTextNode": [
+        "/"
+      ],
+      "c6DmftTMHrGC4akOkm4aGyyfullArticleTextTextNode": [
+        "/news-archive/"
+      ],
+      "c6DmftTMHrGC4akOkm4aGyyfullArticleTextTextNode >>> MarkdownRemark": [
+        "/news-archive/"
+      ],
+      "c3i8EIZSlVuYUC8M0AsiYcEopeningParagraphTextNode": [
+        "/"
+      ],
+      "c3i8EIZSlVuYUC8M0AsiYcEfullArticleTextTextNode": [
+        "/news-archive/"
+      ],
+      "c3i8EIZSlVuYUC8M0AsiYcEfullArticleTextTextNode >>> MarkdownRemark": [
         "/news-archive/"
       ]
     },
