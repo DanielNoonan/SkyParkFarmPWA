@@ -1,35 +1,3 @@
 {
-    "data": {
-        "allSitePage": {
-            "totalCount": 5,
-            "edges": [
-                {
-                    "node": {
-                        "path": "/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/404/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/news-archive/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/page-2/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/404.html"
-                    }
-                }
-            ]
-        }
-    },
     "pathContext": {}
 }

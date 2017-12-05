@@ -8,7 +8,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1512478277636,
+      "updatedAt": 1512485025199,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "27c6c6b46bbd1438c840b3c9f30b6193",
+        "contentDigest": "639165fb68c7d1eff0054c2d7f733ca7",
         "owner": "internal-data-bridge"
       }
     },
@@ -504,12 +504,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-12-05T12:51:15.111Z",
+      "buildTime": "2017-12-05T14:43:42.378Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "29676c949040d59e27f750296d1b388a",
+        "contentDigest": "7d7caaafc85fc8e80390466858d8c435",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -928,12 +928,12 @@
       "id": "c69chYIzbvGOsgi6kKIE4MSopeningParagraphTextNode",
       "parent": "c69chYIzbvGOsgi6kKIE4MS",
       "children": [],
-      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in ralskdjhfdfjkhsdjfakjfdakj aljkdfhalfjh aljkh akjf ha kjhfadf jj;a ajkhdfj ;jhadkjhf a;jk a;jdfa ;ajkdsf;hahsf a;ljdf;asd;lf   a;dlkf; aldfjks.",
       "internal": {
-        "type": "contentfulNewsColumnOpeningParagraphTextNode",
+        "type": "contentfulNewsBlogOpeningParagraphTextNode",
         "mediaType": "text/markdown",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "db89bb5ceab87f9c0fcc2ab36c189c2c",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in ralskdjhfdfjkhsdjfakjfdakj aljkdfhalfjh aljkh akjf ha kjhfadf jj;a ajkhdfj ;jhadkjhf a;jk a;jdfa ;ajkdsf;hahsf a;ljdf;asd;lf   a;dlkf; aldfjks.",
+        "contentDigest": "360e82a90b40f6132842dde75e6400c1",
         "owner": "gatsby-source-contentful"
       }
     },
@@ -956,16 +956,18 @@
       "openingSentence": "Deer gives birth today.",
       "previewImage___NODE": "c2uqyFo9N8kYESGws4egoG4",
       "openingParagraph___NODE": "c69chYIzbvGOsgi6kKIE4MSopeningParagraphTextNode",
+      "fullArticleText___NODE": "c69chYIzbvGOsgi6kKIE4MSfullArticleTextTextNode",
       "id": "c69chYIzbvGOsgi6kKIE4MS",
       "createdAt": "2017-11-29T11:08:23.759Z",
-      "updatedAt": "2017-12-01T10:18:45.934Z",
-      "parent": "News Column",
+      "updatedAt": "2017-12-05T14:28:47.210Z",
+      "parent": "News Blog",
       "children": [
-        "c69chYIzbvGOsgi6kKIE4MSopeningParagraphTextNode"
+        "c69chYIzbvGOsgi6kKIE4MSopeningParagraphTextNode",
+        "c69chYIzbvGOsgi6kKIE4MSfullArticleTextTextNode"
       ],
       "internal": {
-        "type": "ContentfulNewsColumn",
-        "contentDigest": "b612983853c5d9a85526af6ade731add",
+        "type": "ContentfulNewsBlog",
+        "contentDigest": "a9a015fba7d1a68c6ecf07022f73ba94",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
@@ -1249,12 +1251,12 @@
       "id": "c3aEQonjc8wMgsqUKeWYwEAopeningParagraphTextNode",
       "parent": "c3aEQonjc8wMgsqUKeWYwEA",
       "children": [],
-      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
       "internal": {
-        "type": "contentfulNewsColumnOpeningParagraphTextNode",
+        "type": "contentfulNewsBlogOpeningParagraphTextNode",
         "mediaType": "text/markdown",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "db89bb5ceab87f9c0fcc2ab36c189c2c",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
+        "contentDigest": "6e311068f50b08e3ba1fcaad2f0318e1",
         "owner": "gatsby-source-contentful"
       }
     },
@@ -1262,12 +1264,12 @@
       "id": "c4kGErU9IRG8m420AKMuAMOopeningParagraphTextNode",
       "parent": "c4kGErU9IRG8m420AKMuAMO",
       "children": [],
-      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
       "internal": {
-        "type": "contentfulNewsColumnOpeningParagraphTextNode",
+        "type": "contentfulNewsBlogOpeningParagraphTextNode",
         "mediaType": "text/markdown",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "db89bb5ceab87f9c0fcc2ab36c189c2c",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
+        "contentDigest": "6e311068f50b08e3ba1fcaad2f0318e1",
         "owner": "gatsby-source-contentful"
       }
     },
@@ -1275,12 +1277,12 @@
       "id": "c1HBfgSkpPSCOUWOUa4iouaopeningParagraphTextNode",
       "parent": "c1HBfgSkpPSCOUWOUa4ioua",
       "children": [],
-      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
       "internal": {
-        "type": "contentfulNewsColumnOpeningParagraphTextNode",
+        "type": "contentfulNewsBlogOpeningParagraphTextNode",
         "mediaType": "text/markdown",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "db89bb5ceab87f9c0fcc2ab36c189c2c",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
+        "contentDigest": "6e311068f50b08e3ba1fcaad2f0318e1",
         "owner": "gatsby-source-contentful"
       }
     },
@@ -1288,12 +1290,12 @@
       "id": "FILM55vx6gOuoMaAm4QyQopeningParagraphTextNode",
       "parent": "FILM55vx6gOuoMaAm4QyQ",
       "children": [],
-      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
       "internal": {
-        "type": "contentfulNewsColumnOpeningParagraphTextNode",
+        "type": "contentfulNewsBlogOpeningParagraphTextNode",
         "mediaType": "text/markdown",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "db89bb5ceab87f9c0fcc2ab36c189c2c",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
+        "contentDigest": "6e311068f50b08e3ba1fcaad2f0318e1",
         "owner": "gatsby-source-contentful"
       }
     },
@@ -1301,12 +1303,12 @@
       "id": "c2TrNcgcinuI2UkiyA0Qs2gopeningParagraphTextNode",
       "parent": "c2TrNcgcinuI2UkiyA0Qs2g",
       "children": [],
-      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
       "internal": {
-        "type": "contentfulNewsColumnOpeningParagraphTextNode",
+        "type": "contentfulNewsBlogOpeningParagraphTextNode",
         "mediaType": "text/markdown",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "db89bb5ceab87f9c0fcc2ab36c189c2c",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
+        "contentDigest": "6e311068f50b08e3ba1fcaad2f0318e1",
         "owner": "gatsby-source-contentful"
       }
     },
@@ -1314,34 +1316,14 @@
       "id": "c4mTIhNKGZq88IyUmauikm6openingParagraphTextNode",
       "parent": "c4mTIhNKGZq88IyUmauikm6",
       "children": [],
-      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa",
       "internal": {
-        "type": "contentfulNewsColumnOpeningParagraphTextNode",
+        "type": "contentfulNewsBlogOpeningParagraphTextNode",
         "mediaType": "text/markdown",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "db89bb5ceab87f9c0fcc2ab36c189c2c",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa",
+        "contentDigest": "5a1da7cc7c7941138e006919a0b072bd",
         "owner": "gatsby-source-contentful"
       }
-    },
-    "c3aEQonjc8wMgsqUKeWYwEA": {
-      "date": 20170605,
-      "title": "Deer Following Farm Manager",
-      "openingSentence": "Deer following the farm manager around the farm",
-      "previewImage___NODE": "c1jQ9u42vi8wgSwCag8koI0",
-      "openingParagraph___NODE": "c3aEQonjc8wMgsqUKeWYwEAopeningParagraphTextNode",
-      "id": "c3aEQonjc8wMgsqUKeWYwEA",
-      "createdAt": "2017-12-02T11:16:36.225Z",
-      "updatedAt": "2017-12-02T11:16:36.225Z",
-      "parent": "News Column",
-      "children": [
-        "c3aEQonjc8wMgsqUKeWYwEAopeningParagraphTextNode"
-      ],
-      "internal": {
-        "type": "ContentfulNewsColumn",
-        "contentDigest": "b8ba34a31fe6d983f3cfb8e937e3127e",
-        "owner": "gatsby-source-contentful"
-      },
-      "node_locale": "en-US"
     },
     "c4kGErU9IRG8m420AKMuAMO": {
       "date": 20170604,
@@ -1349,16 +1331,18 @@
       "openingSentence": "This is a Red Deer...",
       "previewImage___NODE": "c6OQKqisUhyUAAIEuIaY0ok",
       "openingParagraph___NODE": "c4kGErU9IRG8m420AKMuAMOopeningParagraphTextNode",
+      "fullArticleText___NODE": "c4kGErU9IRG8m420AKMuAMOfullArticleTextTextNode",
       "id": "c4kGErU9IRG8m420AKMuAMO",
       "createdAt": "2017-12-02T11:14:57.894Z",
-      "updatedAt": "2017-12-02T11:14:57.894Z",
-      "parent": "News Column",
+      "updatedAt": "2017-12-05T14:33:15.619Z",
+      "parent": "News Blog",
       "children": [
-        "c4kGErU9IRG8m420AKMuAMOopeningParagraphTextNode"
+        "c4kGErU9IRG8m420AKMuAMOopeningParagraphTextNode",
+        "c4kGErU9IRG8m420AKMuAMOfullArticleTextTextNode"
       ],
       "internal": {
-        "type": "ContentfulNewsColumn",
-        "contentDigest": "d7240c0ac9f5b93484ba7255673e9cc9",
+        "type": "ContentfulNewsBlog",
+        "contentDigest": "14afdc1aeddf7d96e698b0f0ef6cdce7",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
@@ -1369,16 +1353,18 @@
       "openingSentence": "Summer picture of Quebec Cottage - luxury holiday accommodation",
       "previewImage___NODE": "c3265y7wpJecwQcO2cU4AqQ",
       "openingParagraph___NODE": "c1HBfgSkpPSCOUWOUa4iouaopeningParagraphTextNode",
+      "fullArticleText___NODE": "c1HBfgSkpPSCOUWOUa4iouafullArticleTextTextNode",
       "id": "c1HBfgSkpPSCOUWOUa4ioua",
       "createdAt": "2017-12-02T11:11:47.115Z",
-      "updatedAt": "2017-12-02T11:11:47.115Z",
-      "parent": "News Column",
+      "updatedAt": "2017-12-05T14:32:52.318Z",
+      "parent": "News Blog",
       "children": [
-        "c1HBfgSkpPSCOUWOUa4iouaopeningParagraphTextNode"
+        "c1HBfgSkpPSCOUWOUa4iouaopeningParagraphTextNode",
+        "c1HBfgSkpPSCOUWOUa4iouafullArticleTextTextNode"
       ],
       "internal": {
-        "type": "ContentfulNewsColumn",
-        "contentDigest": "518f20a66c59eb5c1bd60ef3dae00460",
+        "type": "ContentfulNewsBlog",
+        "contentDigest": "c48ed8aad95c6b0a5bffa7cf982c0dd1",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
@@ -1389,16 +1375,18 @@
       "openingSentence": "Farm renovation work during the summer of 2017",
       "previewImage___NODE": "c7hDoIb3xrGs2MIuASgYmY",
       "openingParagraph___NODE": "FILM55vx6gOuoMaAm4QyQopeningParagraphTextNode",
+      "fullArticleText___NODE": "FILM55vx6gOuoMaAm4QyQfullArticleTextTextNode",
       "id": "FILM55vx6gOuoMaAm4QyQ",
       "createdAt": "2017-12-02T11:09:11.457Z",
-      "updatedAt": "2017-12-02T11:09:11.457Z",
-      "parent": "News Column",
+      "updatedAt": "2017-12-05T14:32:27.614Z",
+      "parent": "News Blog",
       "children": [
-        "FILM55vx6gOuoMaAm4QyQopeningParagraphTextNode"
+        "FILM55vx6gOuoMaAm4QyQopeningParagraphTextNode",
+        "FILM55vx6gOuoMaAm4QyQfullArticleTextTextNode"
       ],
       "internal": {
-        "type": "ContentfulNewsColumn",
-        "contentDigest": "d0c37442763f7e29f7b4440d52c712fb",
+        "type": "ContentfulNewsBlog",
+        "contentDigest": "bf0311eadba6686afdea2b5b1a875431",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
@@ -1409,16 +1397,18 @@
       "openingSentence": "Farm manager stroking a deer",
       "previewImage___NODE": "c60WU9kWFbyW8swEemuemiS",
       "openingParagraph___NODE": "c2TrNcgcinuI2UkiyA0Qs2gopeningParagraphTextNode",
+      "fullArticleText___NODE": "c2TrNcgcinuI2UkiyA0Qs2gfullArticleTextTextNode",
       "id": "c2TrNcgcinuI2UkiyA0Qs2g",
       "createdAt": "2017-12-02T11:07:11.603Z",
-      "updatedAt": "2017-12-02T11:07:11.603Z",
-      "parent": "News Column",
+      "updatedAt": "2017-12-05T14:31:34.647Z",
+      "parent": "News Blog",
       "children": [
-        "c2TrNcgcinuI2UkiyA0Qs2gopeningParagraphTextNode"
+        "c2TrNcgcinuI2UkiyA0Qs2gopeningParagraphTextNode",
+        "c2TrNcgcinuI2UkiyA0Qs2gfullArticleTextTextNode"
       ],
       "internal": {
-        "type": "ContentfulNewsColumn",
-        "contentDigest": "3153e6342f6f25076fb8d8a657f7155a",
+        "type": "ContentfulNewsBlog",
+        "contentDigest": "98abbdca2186cceba0a99b969a2c96b5",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
@@ -1429,16 +1419,18 @@
       "openingSentence": "It's a deer eating some grass",
       "previewImage___NODE": "c4WlAFg8k8oSoYuI80QM2WK",
       "openingParagraph___NODE": "c4mTIhNKGZq88IyUmauikm6openingParagraphTextNode",
+      "fullArticleText___NODE": "c4mTIhNKGZq88IyUmauikm6fullArticleTextTextNode",
       "id": "c4mTIhNKGZq88IyUmauikm6",
       "createdAt": "2017-12-02T11:02:30.778Z",
-      "updatedAt": "2017-12-02T11:02:30.778Z",
-      "parent": "News Column",
+      "updatedAt": "2017-12-05T14:31:11.152Z",
+      "parent": "News Blog",
       "children": [
-        "c4mTIhNKGZq88IyUmauikm6openingParagraphTextNode"
+        "c4mTIhNKGZq88IyUmauikm6openingParagraphTextNode",
+        "c4mTIhNKGZq88IyUmauikm6fullArticleTextTextNode"
       ],
       "internal": {
-        "type": "ContentfulNewsColumn",
-        "contentDigest": "5f23af8b7f1caf590ae5a2d3e059ab3b",
+        "type": "ContentfulNewsBlog",
+        "contentDigest": "e0a3f4ba9476980132e8d1dc36d3c394",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
@@ -1622,34 +1614,14 @@
       "id": "EYibztPOACuaA6aSKi0WgopeningParagraphTextNode",
       "parent": "EYibztPOACuaA6aSKi0Wg",
       "children": [],
-      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
       "internal": {
-        "type": "contentfulNewsColumnOpeningParagraphTextNode",
+        "type": "contentfulNewsBlogOpeningParagraphTextNode",
         "mediaType": "text/markdown",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "db89bb5ceab87f9c0fcc2ab36c189c2c",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
+        "contentDigest": "6e311068f50b08e3ba1fcaad2f0318e1",
         "owner": "gatsby-source-contentful"
       }
-    },
-    "EYibztPOACuaA6aSKi0Wg": {
-      "date": 20170606,
-      "title": "Mob Of Deer",
-      "openingSentence": "A mob of deer hanging out at the edge of one of the fields",
-      "previewImage___NODE": "c5iK4YzQ50IA0ccsgUwem8o",
-      "openingParagraph___NODE": "EYibztPOACuaA6aSKi0WgopeningParagraphTextNode",
-      "id": "EYibztPOACuaA6aSKi0Wg",
-      "createdAt": "2017-12-02T12:01:32.495Z",
-      "updatedAt": "2017-12-02T12:01:32.495Z",
-      "parent": "News Column",
-      "children": [
-        "EYibztPOACuaA6aSKi0WgopeningParagraphTextNode"
-      ],
-      "internal": {
-        "type": "ContentfulNewsColumn",
-        "contentDigest": "81ffe719e2952debdcb176589af6858a",
-        "owner": "gatsby-source-contentful"
-      },
-      "node_locale": "en-US"
     },
     "c5iK4YzQ50IA0ccsgUwem8o": {
       "id": "c5iK4YzQ50IA0ccsgUwem8o",
@@ -1783,34 +1755,14 @@
       "id": "c67EOSEa42AUi4USW2iMsaUopeningParagraphTextNode",
       "parent": "c67EOSEa42AUi4USW2iMsaU",
       "children": [],
-      "openingParagraph": "Some text.  . . . . . .",
+      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
       "internal": {
-        "type": "contentfulNewsColumnOpeningParagraphTextNode",
+        "type": "contentfulNewsBlogOpeningParagraphTextNode",
         "mediaType": "text/markdown",
-        "content": "Some text.  . . . . . .",
-        "contentDigest": "4cf95c302b36aa09ca488edc703c795f",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+        "contentDigest": "bc52235341cac5ace6105e42f9a12605",
         "owner": "gatsby-source-contentful"
       }
-    },
-    "c67EOSEa42AUi4USW2iMsaU": {
-      "date": 20171204,
-      "title": "From Phone",
-      "openingSentence": "Test post from Phone",
-      "previewImage___NODE": "c4vUSRCAfTqcCYCMcCOSISE",
-      "openingParagraph___NODE": "c67EOSEa42AUi4USW2iMsaUopeningParagraphTextNode",
-      "id": "c67EOSEa42AUi4USW2iMsaU",
-      "createdAt": "2017-12-04T14:50:08.060Z",
-      "updatedAt": "2017-12-04T14:50:08.060Z",
-      "parent": "News Column",
-      "children": [
-        "c67EOSEa42AUi4USW2iMsaUopeningParagraphTextNode"
-      ],
-      "internal": {
-        "type": "ContentfulNewsColumn",
-        "contentDigest": "888ca9e50cbe1b230ce20b5d4d395598",
-        "owner": "gatsby-source-contentful"
-      },
-      "node_locale": "en-US"
     },
     "c4vUSRCAfTqcCYCMcCOSISE": {
       "id": "c4vUSRCAfTqcCYCMcCOSISE",
@@ -1837,6 +1789,202 @@
         "owner": "gatsby-source-contentful"
       }
     },
+    "News Blog": {
+      "id": "News Blog",
+      "parent": null,
+      "children": [],
+      "name": "News Blog",
+      "displayField": "title",
+      "description": "Content will automatically populate the News Column.",
+      "internal": {
+        "type": "ContentfulContentType",
+        "contentDigest": "cbfa9324cb277bc391c70ccefa915b6b",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c67EOSEa42AUi4USW2iMsaUfullArticleTextTextNode": {
+      "id": "c67EOSEa42AUi4USW2iMsaUfullArticleTextTextNode",
+      "parent": "c67EOSEa42AUi4USW2iMsaU",
+      "children": [],
+      "fullArticleText": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "internal": {
+        "type": "contentfulNewsBlogFullArticleTextTextNode",
+        "mediaType": "text/markdown",
+        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "contentDigest": "e4f53e7af4527326c34dcaca89fc1603",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "EYibztPOACuaA6aSKi0WgfullArticleTextTextNode": {
+      "id": "EYibztPOACuaA6aSKi0WgfullArticleTextTextNode",
+      "parent": "EYibztPOACuaA6aSKi0Wg",
+      "children": [],
+      "fullArticleText": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "internal": {
+        "type": "contentfulNewsBlogFullArticleTextTextNode",
+        "mediaType": "text/markdown",
+        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "contentDigest": "e4f53e7af4527326c34dcaca89fc1603",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c3aEQonjc8wMgsqUKeWYwEAfullArticleTextTextNode": {
+      "id": "c3aEQonjc8wMgsqUKeWYwEAfullArticleTextTextNode",
+      "parent": "c3aEQonjc8wMgsqUKeWYwEA",
+      "children": [],
+      "fullArticleText": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "internal": {
+        "type": "contentfulNewsBlogFullArticleTextTextNode",
+        "mediaType": "text/markdown",
+        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "contentDigest": "e4f53e7af4527326c34dcaca89fc1603",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c4kGErU9IRG8m420AKMuAMOfullArticleTextTextNode": {
+      "id": "c4kGErU9IRG8m420AKMuAMOfullArticleTextTextNode",
+      "parent": "c4kGErU9IRG8m420AKMuAMO",
+      "children": [],
+      "fullArticleText": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "internal": {
+        "type": "contentfulNewsBlogFullArticleTextTextNode",
+        "mediaType": "text/markdown",
+        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "contentDigest": "e4f53e7af4527326c34dcaca89fc1603",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c1HBfgSkpPSCOUWOUa4iouafullArticleTextTextNode": {
+      "id": "c1HBfgSkpPSCOUWOUa4iouafullArticleTextTextNode",
+      "parent": "c1HBfgSkpPSCOUWOUa4ioua",
+      "children": [],
+      "fullArticleText": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "internal": {
+        "type": "contentfulNewsBlogFullArticleTextTextNode",
+        "mediaType": "text/markdown",
+        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "contentDigest": "e4f53e7af4527326c34dcaca89fc1603",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "FILM55vx6gOuoMaAm4QyQfullArticleTextTextNode": {
+      "id": "FILM55vx6gOuoMaAm4QyQfullArticleTextTextNode",
+      "parent": "FILM55vx6gOuoMaAm4QyQ",
+      "children": [],
+      "fullArticleText": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "internal": {
+        "type": "contentfulNewsBlogFullArticleTextTextNode",
+        "mediaType": "text/markdown",
+        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "contentDigest": "e4f53e7af4527326c34dcaca89fc1603",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c2TrNcgcinuI2UkiyA0Qs2gfullArticleTextTextNode": {
+      "id": "c2TrNcgcinuI2UkiyA0Qs2gfullArticleTextTextNode",
+      "parent": "c2TrNcgcinuI2UkiyA0Qs2g",
+      "children": [],
+      "fullArticleText": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "internal": {
+        "type": "contentfulNewsBlogFullArticleTextTextNode",
+        "mediaType": "text/markdown",
+        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "contentDigest": "e4f53e7af4527326c34dcaca89fc1603",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c4mTIhNKGZq88IyUmauikm6fullArticleTextTextNode": {
+      "id": "c4mTIhNKGZq88IyUmauikm6fullArticleTextTextNode",
+      "parent": "c4mTIhNKGZq88IyUmauikm6",
+      "children": [],
+      "fullArticleText": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "internal": {
+        "type": "contentfulNewsBlogFullArticleTextTextNode",
+        "mediaType": "text/markdown",
+        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "contentDigest": "e4f53e7af4527326c34dcaca89fc1603",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c69chYIzbvGOsgi6kKIE4MSfullArticleTextTextNode": {
+      "id": "c69chYIzbvGOsgi6kKIE4MSfullArticleTextTextNode",
+      "parent": "c69chYIzbvGOsgi6kKIE4MS",
+      "children": [],
+      "fullArticleText": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "internal": {
+        "type": "contentfulNewsBlogFullArticleTextTextNode",
+        "mediaType": "text/markdown",
+        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "contentDigest": "e4f53e7af4527326c34dcaca89fc1603",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c67EOSEa42AUi4USW2iMsaU": {
+      "date": 20171204,
+      "title": "From Phone",
+      "openingSentence": "Test post from Phone",
+      "previewImage___NODE": "c4vUSRCAfTqcCYCMcCOSISE",
+      "openingParagraph___NODE": "c67EOSEa42AUi4USW2iMsaUopeningParagraphTextNode",
+      "fullArticleText___NODE": "c67EOSEa42AUi4USW2iMsaUfullArticleTextTextNode",
+      "id": "c67EOSEa42AUi4USW2iMsaU",
+      "createdAt": "2017-12-04T14:50:08.060Z",
+      "updatedAt": "2017-12-05T14:34:19.731Z",
+      "parent": "News Blog",
+      "children": [
+        "c67EOSEa42AUi4USW2iMsaUopeningParagraphTextNode",
+        "c67EOSEa42AUi4USW2iMsaUfullArticleTextTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulNewsBlog",
+        "contentDigest": "36fc7d7cd71470b733c7b414fadc2df0",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "EYibztPOACuaA6aSKi0Wg": {
+      "date": 20170606,
+      "title": "Mob Of Deer",
+      "openingSentence": "A mob of deer hanging out at the edge of one of the fields",
+      "previewImage___NODE": "c5iK4YzQ50IA0ccsgUwem8o",
+      "openingParagraph___NODE": "EYibztPOACuaA6aSKi0WgopeningParagraphTextNode",
+      "fullArticleText___NODE": "EYibztPOACuaA6aSKi0WgfullArticleTextTextNode",
+      "id": "EYibztPOACuaA6aSKi0Wg",
+      "createdAt": "2017-12-02T12:01:32.495Z",
+      "updatedAt": "2017-12-05T14:33:50.556Z",
+      "parent": "News Blog",
+      "children": [
+        "EYibztPOACuaA6aSKi0WgopeningParagraphTextNode",
+        "EYibztPOACuaA6aSKi0WgfullArticleTextTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulNewsBlog",
+        "contentDigest": "403be05a8ea2cdc10fb19e107f7d381c",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c3aEQonjc8wMgsqUKeWYwEA": {
+      "date": 20170605,
+      "title": "Deer Following Farm Manager",
+      "openingSentence": "Deer following the farm manager around the farm",
+      "previewImage___NODE": "c1jQ9u42vi8wgSwCag8koI0",
+      "openingParagraph___NODE": "c3aEQonjc8wMgsqUKeWYwEAopeningParagraphTextNode",
+      "fullArticleText___NODE": "c3aEQonjc8wMgsqUKeWYwEAfullArticleTextTextNode",
+      "id": "c3aEQonjc8wMgsqUKeWYwEA",
+      "createdAt": "2017-12-02T11:16:36.225Z",
+      "updatedAt": "2017-12-05T14:33:34.852Z",
+      "parent": "News Blog",
+      "children": [
+        "c3aEQonjc8wMgsqUKeWYwEAopeningParagraphTextNode",
+        "c3aEQonjc8wMgsqUKeWYwEAfullArticleTextTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulNewsBlog",
+        "contentDigest": "375a2b08cb3b2d115d133e868a6d629c",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
     "SitePage /": {
       "layout": "index",
       "jsonName": "index.json",
@@ -1845,7 +1993,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1512478277646,
+      "updatedAt": 1512485025210,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
@@ -1854,7 +2002,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a522c2c2741625f21bb1b4e30c39302f",
+        "contentDigest": "455238a09e1c451b019edb9901316693",
         "owner": "internal-data-bridge"
       }
     },
@@ -1866,7 +2014,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1512478277648,
+      "updatedAt": 1512485025211,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
@@ -1875,7 +2023,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "01f9378cfd388d9d9b7c64a41194dfb3",
+        "contentDigest": "357b9b0198fa3700ffb5bf8ae45cefd5",
         "owner": "internal-data-bridge"
       }
     },
@@ -1887,7 +2035,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
       "componentChunkName": "component---src-pages-news-archive-js",
       "context": {},
-      "updatedAt": 1512478277649,
+      "updatedAt": 1512485025212,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
@@ -1896,7 +2044,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c4de67fad417141c643b2ccc07e6af95",
+        "contentDigest": "d1b766102cd322b4bbeca6d904ca1b5c",
         "owner": "internal-data-bridge"
       }
     },
@@ -1908,7 +2056,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
       "componentChunkName": "component---src-pages-page-2-js",
       "context": {},
-      "updatedAt": 1512478277650,
+      "updatedAt": 1512485025213,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
@@ -1917,7 +2065,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0f52e6bbb5608a94cf90719bd51601f3",
+        "contentDigest": "7196d01a0ee2d002c19031ed801c7edf",
         "owner": "internal-data-bridge"
       }
     },
@@ -1929,7 +2077,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1512478277652,
+      "updatedAt": 1512485025215,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
@@ -1938,7 +2086,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8dc3c721f9b585f77af11e29bb683061",
+        "contentDigest": "3b5847dfd72f072cd87b039f65b846e4",
         "owner": "internal-data-bridge"
       }
     }
@@ -1946,7 +2094,7 @@
   "status": {
     "plugins": {
       "gatsby-source-contentful": {
-        "ca5g612z8zfu": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyZZwozCtcOAwqTChVEGA0UKwo_DjjDDhcOzc3FZIMOKfsOyHcK7fcKVKcKYZsKFwpTDsMO-QsOfw4jCjmFqSBpSwq7CkAJqwp1Uwo_DqsOuG0JHGMORw4lsNSBxw7ti"
+        "ca5g612z8zfu": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyZJVD7Dvm18F1V3w7pxUsKlw7HCjsOiw7taEkdwIiAPcGzCojR-ShEKLSRow7jDkcOlwrZ-w7XDscKywoxKwrQew60dd8OKdMKWOVzCo2zChcK0w6gzNnzDqQ"
       }
     },
     "PLUGINS_HASH": "6d224ae057e1a2d1bc5c8838cbc97a9c"
@@ -1954,78 +2102,87 @@
   "componentDataDependencies": {
     "nodes": {
       "c2uqyFo9N8kYESGws4egoG4": [
-        "/"
+        "/",
+        "/news-archive/"
       ],
       "c69chYIzbvGOsgi6kKIE4MSopeningParagraphTextNode": [
-        "/"
+        "/",
+        "/news-archive/"
       ],
       "c1jQ9u42vi8wgSwCag8koI0": [
-        "/"
+        "/",
+        "/news-archive/"
       ],
       "c3aEQonjc8wMgsqUKeWYwEAopeningParagraphTextNode": [
-        "/"
+        "/",
+        "/news-archive/"
       ],
       "c6OQKqisUhyUAAIEuIaY0ok": [
-        "/"
+        "/",
+        "/news-archive/"
       ],
       "c4kGErU9IRG8m420AKMuAMOopeningParagraphTextNode": [
-        "/"
+        "/",
+        "/news-archive/"
       ],
       "c3265y7wpJecwQcO2cU4AqQ": [
-        "/"
+        "/",
+        "/news-archive/"
       ],
       "c1HBfgSkpPSCOUWOUa4iouaopeningParagraphTextNode": [
-        "/"
+        "/",
+        "/news-archive/"
       ],
       "c7hDoIb3xrGs2MIuASgYmY": [
-        "/"
+        "/",
+        "/news-archive/"
       ],
       "FILM55vx6gOuoMaAm4QyQopeningParagraphTextNode": [
-        "/"
+        "/",
+        "/news-archive/"
       ],
       "c60WU9kWFbyW8swEemuemiS": [
-        "/"
+        "/",
+        "/news-archive/"
       ],
       "c2TrNcgcinuI2UkiyA0Qs2gopeningParagraphTextNode": [
-        "/"
+        "/",
+        "/news-archive/"
       ],
       "c4WlAFg8k8oSoYuI80QM2WK": [
-        "/"
+        "/",
+        "/news-archive/"
       ],
       "c4mTIhNKGZq88IyUmauikm6openingParagraphTextNode": [
-        "/"
+        "/",
+        "/news-archive/"
       ],
       "c5iK4YzQ50IA0ccsgUwem8o": [
-        "/"
+        "/",
+        "/news-archive/"
       ],
       "EYibztPOACuaA6aSKi0WgopeningParagraphTextNode": [
-        "/"
+        "/",
+        "/news-archive/"
       ],
-      "Product": [
-        "/"
-      ],
-      "c4zj1ZOfHgQ8oqgaSKm4Qo2": [
-        "/"
-      ],
-      "c2Y8LhXLnYAYqKCGEWG4EKI": [
-        "/"
-      ],
-      "c3wtvPBbBjiMKqKKga8I2Cu": [
-        "/"
-      ],
-      "c325vyDnPx68m6asS86EKqo": [
-        "/"
-      ],
+      "Product": [],
+      "c4zj1ZOfHgQ8oqgaSKm4Qo2": [],
+      "c2Y8LhXLnYAYqKCGEWG4EKI": [],
+      "c3wtvPBbBjiMKqKKga8I2Cu": [],
+      "c325vyDnPx68m6asS86EKqo": [],
       "c4vUSRCAfTqcCYCMcCOSISE": [
-        "/"
+        "/",
+        "/news-archive/"
       ],
       "c67EOSEa42AUi4USW2iMsaUopeningParagraphTextNode": [
-        "/"
+        "/",
+        "/news-archive/"
       ]
     },
     "connections": {
       "ContentfulNewsColumn": [
-        "/"
+        "/",
+        "/news-archive/"
       ],
       "SitePage": [
         "/dev-404-page/"
