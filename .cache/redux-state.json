@@ -8,7 +8,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1512564494600,
+      "updatedAt": 1512579002023,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6aadc6881939c903fc189ce96d0f6cfc",
+        "contentDigest": "1668f497844670b3314b4af17e234fa5",
         "owner": "internal-data-bridge"
       }
     },
@@ -632,12 +632,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-12-06T12:48:11.056Z",
+      "buildTime": "2017-12-06T16:49:59.067Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "c55d33a836652de147408862164a97ba",
+        "contentDigest": "fd43a7f4d947ea94cf0c57ab058cd21a",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2982,7 +2982,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1512564494609,
+      "updatedAt": 1512579002039,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
@@ -2991,7 +2991,28 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a0126ca43e1198db787d112773d3b611",
+        "contentDigest": "313b38f11310361f3f834f116dc06bde",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /bookings-accommodation/": {
+      "layout": "index",
+      "jsonName": "bookings-accommodation.json",
+      "internalComponentName": "ComponentBookingsAccommodation",
+      "path": "/bookings-accommodation/",
+      "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/bookings-accommodation.js",
+      "componentChunkName": "component---src-pages-bookings-accommodation-js",
+      "context": {},
+      "updatedAt": 1512579002040,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/bookings-accommodation.js",
+      "id": "SitePage /bookings-accommodation/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6ece8d8cc58bd6fdce992e4e53cfe2a2",
         "owner": "internal-data-bridge"
       }
     },
@@ -3003,7 +3024,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1512564494612,
+      "updatedAt": 1512579002041,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
@@ -3012,7 +3033,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "606e79385be44fe86884100e275c4704",
+        "contentDigest": "aac5c20758283981d0269c3d4cb0c3c5",
         "owner": "internal-data-bridge"
       }
     },
@@ -3024,7 +3045,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
       "componentChunkName": "component---src-pages-news-archive-js",
       "context": {},
-      "updatedAt": 1512564494614,
+      "updatedAt": 1512579002042,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
@@ -3033,28 +3054,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1ac05ad6ba01ba857ba31448b17d24c0",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404.html": {
-      "layout": "index",
-      "jsonName": "404-html.json",
-      "internalComponentName": "Component404Html",
-      "path": "/404.html",
-      "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "updatedAt": 1512564494616,
-      "pluginCreator___NODE": "Plugin prod-404",
-      "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
-      "id": "SitePage /404.html",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "1007c73261a5894cfab754353461b8dd",
+        "contentDigest": "330173a33cacaa360ec59a27b586cf7b",
         "owner": "internal-data-bridge"
       }
     },
@@ -3066,7 +3066,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
       "componentChunkName": "component---src-pages-page-2-js",
       "context": {},
-      "updatedAt": 1512564494620,
+      "updatedAt": 1512579002043,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
@@ -3075,7 +3075,28 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "cf6fa87453003bd30104f97194c08ad3",
+        "contentDigest": "5cbf26e41214244fb7c0323bb8227bec",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "updatedAt": 1512579002046,
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "53c580eb383f892540a0f55fe5b67f85",
         "owner": "internal-data-bridge"
       }
     }
