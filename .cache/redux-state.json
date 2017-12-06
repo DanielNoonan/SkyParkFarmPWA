@@ -8,7 +8,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1512497273568,
+      "updatedAt": 1512559266866,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5b8230997b2dfc6286e932ae73d20f2f",
+        "contentDigest": "486afbb241ec09db76f590bdb5d18c7a",
         "owner": "internal-data-bridge"
       }
     },
@@ -632,12 +632,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-12-05T18:07:49.914Z",
+      "buildTime": "2017-12-06T11:21:03.070Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "ac09da7111b4e3a078c542175b5b71a4",
+        "contentDigest": "66752bd52373bfce6d3b766677366580",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1394,7 +1394,7 @@
       }
     },
     "c67EOSEa42AUi4USW2iMsaU": {
-      "date": 20171204,
+      "todaysDate": "2017-12-06",
       "title": "From Phone",
       "openingSentence": "Test post from Phone",
       "previewImage___NODE": "c4vUSRCAfTqcCYCMcCOSISE",
@@ -1402,7 +1402,7 @@
       "fullArticleText___NODE": "c67EOSEa42AUi4USW2iMsaUfullArticleTextTextNode",
       "id": "c67EOSEa42AUi4USW2iMsaU",
       "createdAt": "2017-12-04T14:50:08.060Z",
-      "updatedAt": "2017-12-05T16:12:29.555Z",
+      "updatedAt": "2017-12-06T11:06:26.390Z",
       "parent": "News Blog",
       "children": [
         "c67EOSEa42AUi4USW2iMsaUopeningParagraphTextNode",
@@ -1410,13 +1410,13 @@
       ],
       "internal": {
         "type": "ContentfulNewsBlog",
-        "contentDigest": "3bba0079ccc02c7119ef2d82ec80a468",
+        "contentDigest": "7329a22d6eccd734c5af9acdcbc55cf8",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
     },
     "c5paskRvC2Q2i0MmcyK04Sy": {
-      "date": 20171205,
+      "todaysDate": "2017-12-06",
       "title": "Cottage again",
       "openingSentence": "This is the cottage again",
       "previewImage___NODE": "c6Qv6CcGVZmmGwe8kamGKAK",
@@ -1424,7 +1424,7 @@
       "fullArticleText___NODE": "c5paskRvC2Q2i0MmcyK04SyfullArticleTextTextNode",
       "id": "c5paskRvC2Q2i0MmcyK04Sy",
       "createdAt": "2017-12-05T16:12:19.704Z",
-      "updatedAt": "2017-12-05T16:12:19.704Z",
+      "updatedAt": "2017-12-06T11:06:14.294Z",
       "parent": "News Blog",
       "children": [
         "c5paskRvC2Q2i0MmcyK04SyopeningParagraphTextNode",
@@ -1432,13 +1432,13 @@
       ],
       "internal": {
         "type": "ContentfulNewsBlog",
-        "contentDigest": "ac2b10d8957ae5b6baba5c09e6d182f2",
+        "contentDigest": "c973b18d0c7bab8f62e7c088b37c2626",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
     },
     "EYibztPOACuaA6aSKi0Wg": {
-      "date": 20170606,
+      "todaysDate": "2017-12-06",
       "title": "Mob Of Deer",
       "openingSentence": "A mob of deer hanging out at the edge of one of the fields",
       "previewImage___NODE": "c5iK4YzQ50IA0ccsgUwem8o",
@@ -1446,7 +1446,7 @@
       "fullArticleText___NODE": "EYibztPOACuaA6aSKi0WgfullArticleTextTextNode",
       "id": "EYibztPOACuaA6aSKi0Wg",
       "createdAt": "2017-12-02T12:01:32.495Z",
-      "updatedAt": "2017-12-05T18:06:04.025Z",
+      "updatedAt": "2017-12-06T11:07:29.900Z",
       "parent": "News Blog",
       "children": [
         "EYibztPOACuaA6aSKi0WgopeningParagraphTextNode",
@@ -1454,13 +1454,13 @@
       ],
       "internal": {
         "type": "ContentfulNewsBlog",
-        "contentDigest": "49b34b93b831b1b2baac2a1ea0a27d14",
+        "contentDigest": "47b5b4f9f46e570c9dba3dc0d95292f6",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
     },
     "c3aEQonjc8wMgsqUKeWYwEA": {
-      "date": 20170605,
+      "todaysDate": "2017-12-06",
       "title": "Deer Following Farm Manager",
       "openingSentence": "Deer following the farm manager around the farm",
       "previewImage___NODE": "c1jQ9u42vi8wgSwCag8koI0",
@@ -1468,7 +1468,7 @@
       "fullArticleText___NODE": "c3aEQonjc8wMgsqUKeWYwEAfullArticleTextTextNode",
       "id": "c3aEQonjc8wMgsqUKeWYwEA",
       "createdAt": "2017-12-02T11:16:36.225Z",
-      "updatedAt": "2017-12-05T14:33:34.852Z",
+      "updatedAt": "2017-12-06T11:06:55.167Z",
       "parent": "News Blog",
       "children": [
         "c3aEQonjc8wMgsqUKeWYwEAopeningParagraphTextNode",
@@ -1476,13 +1476,13 @@
       ],
       "internal": {
         "type": "ContentfulNewsBlog",
-        "contentDigest": "375a2b08cb3b2d115d133e868a6d629c",
+        "contentDigest": "22c211daaeb338bc63ecf684ca8ba70b",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
     },
     "c4kGErU9IRG8m420AKMuAMO": {
-      "date": 20170604,
+      "todaysDate": "2017-12-06",
       "title": "Red Deer Close Up",
       "openingSentence": "This is a Red Deer...",
       "previewImage___NODE": "c6OQKqisUhyUAAIEuIaY0ok",
@@ -1490,7 +1490,7 @@
       "fullArticleText___NODE": "c4kGErU9IRG8m420AKMuAMOfullArticleTextTextNode",
       "id": "c4kGErU9IRG8m420AKMuAMO",
       "createdAt": "2017-12-02T11:14:57.894Z",
-      "updatedAt": "2017-12-05T14:33:15.619Z",
+      "updatedAt": "2017-12-06T11:07:07.423Z",
       "parent": "News Blog",
       "children": [
         "c4kGErU9IRG8m420AKMuAMOopeningParagraphTextNode",
@@ -1498,13 +1498,13 @@
       ],
       "internal": {
         "type": "ContentfulNewsBlog",
-        "contentDigest": "14afdc1aeddf7d96e698b0f0ef6cdce7",
+        "contentDigest": "bd45e0f22e28eefc3448d0bfac192772",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
     },
     "c1HBfgSkpPSCOUWOUa4ioua": {
-      "date": 20170603,
+      "todaysDate": "2017-12-06",
       "title": "Quebec Cottage",
       "openingSentence": "Summer picture of Quebec Cottage - luxury holiday accommodation",
       "previewImage___NODE": "c3265y7wpJecwQcO2cU4AqQ",
@@ -1512,7 +1512,7 @@
       "fullArticleText___NODE": "c1HBfgSkpPSCOUWOUa4iouafullArticleTextTextNode",
       "id": "c1HBfgSkpPSCOUWOUa4ioua",
       "createdAt": "2017-12-02T11:11:47.115Z",
-      "updatedAt": "2017-12-05T14:32:52.318Z",
+      "updatedAt": "2017-12-06T11:06:45.211Z",
       "parent": "News Blog",
       "children": [
         "c1HBfgSkpPSCOUWOUa4iouaopeningParagraphTextNode",
@@ -1520,13 +1520,13 @@
       ],
       "internal": {
         "type": "ContentfulNewsBlog",
-        "contentDigest": "c48ed8aad95c6b0a5bffa7cf982c0dd1",
+        "contentDigest": "696959f534cc0a36dbe12cd250a98207",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
     },
     "FILM55vx6gOuoMaAm4QyQ": {
-      "date": 20170602,
+      "todaysDate": "2017-12-06",
       "title": "Farm Renovation",
       "openingSentence": "Farm renovation work during the summer of 2017",
       "previewImage___NODE": "c7hDoIb3xrGs2MIuASgYmY",
@@ -1534,7 +1534,7 @@
       "fullArticleText___NODE": "FILM55vx6gOuoMaAm4QyQfullArticleTextTextNode",
       "id": "FILM55vx6gOuoMaAm4QyQ",
       "createdAt": "2017-12-02T11:09:11.457Z",
-      "updatedAt": "2017-12-05T14:32:27.614Z",
+      "updatedAt": "2017-12-06T11:07:38.703Z",
       "parent": "News Blog",
       "children": [
         "FILM55vx6gOuoMaAm4QyQopeningParagraphTextNode",
@@ -1542,13 +1542,13 @@
       ],
       "internal": {
         "type": "ContentfulNewsBlog",
-        "contentDigest": "bf0311eadba6686afdea2b5b1a875431",
+        "contentDigest": "efe6b2a741f9ce1379bdc891c2cfcc32",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
     },
     "c2TrNcgcinuI2UkiyA0Qs2g": {
-      "date": 20170601,
+      "todaysDate": "2017-12-06",
       "title": "Stroking Deer",
       "openingSentence": "Farm manager stroking a deer",
       "previewImage___NODE": "c60WU9kWFbyW8swEemuemiS",
@@ -1556,7 +1556,7 @@
       "fullArticleText___NODE": "c2TrNcgcinuI2UkiyA0Qs2gfullArticleTextTextNode",
       "id": "c2TrNcgcinuI2UkiyA0Qs2g",
       "createdAt": "2017-12-02T11:07:11.603Z",
-      "updatedAt": "2017-12-05T14:31:34.647Z",
+      "updatedAt": "2017-12-06T11:14:14.280Z",
       "parent": "News Blog",
       "children": [
         "c2TrNcgcinuI2UkiyA0Qs2gopeningParagraphTextNode",
@@ -1564,13 +1564,13 @@
       ],
       "internal": {
         "type": "ContentfulNewsBlog",
-        "contentDigest": "98abbdca2186cceba0a99b969a2c96b5",
+        "contentDigest": "784d1fa2ef157f38896dc994ba976cf2",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
     },
     "c4mTIhNKGZq88IyUmauikm6": {
-      "date": 20170509,
+      "todaysDate": "2017-12-06",
       "title": "Deer Grazing",
       "openingSentence": "It's a deer eating some grass",
       "previewImage___NODE": "c4WlAFg8k8oSoYuI80QM2WK",
@@ -1578,7 +1578,7 @@
       "fullArticleText___NODE": "c4mTIhNKGZq88IyUmauikm6fullArticleTextTextNode",
       "id": "c4mTIhNKGZq88IyUmauikm6",
       "createdAt": "2017-12-02T11:02:30.778Z",
-      "updatedAt": "2017-12-05T14:31:11.152Z",
+      "updatedAt": "2017-12-06T11:14:25.312Z",
       "parent": "News Blog",
       "children": [
         "c4mTIhNKGZq88IyUmauikm6openingParagraphTextNode",
@@ -1586,13 +1586,13 @@
       ],
       "internal": {
         "type": "ContentfulNewsBlog",
-        "contentDigest": "e0a3f4ba9476980132e8d1dc36d3c394",
+        "contentDigest": "ddf7b9707f27e9a802bf1e0335dd6768",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
     },
     "c69chYIzbvGOsgi6kKIE4MS": {
-      "date": 20170508,
+      "todaysDate": "2017-12-06",
       "title": "First News Column Article",
       "openingSentence": "Deer gives birth today.",
       "previewImage___NODE": "c2uqyFo9N8kYESGws4egoG4",
@@ -1600,7 +1600,7 @@
       "fullArticleText___NODE": "c69chYIzbvGOsgi6kKIE4MSfullArticleTextTextNode",
       "id": "c69chYIzbvGOsgi6kKIE4MS",
       "createdAt": "2017-11-29T11:08:23.759Z",
-      "updatedAt": "2017-12-05T14:28:47.210Z",
+      "updatedAt": "2017-12-06T11:14:35.069Z",
       "parent": "News Blog",
       "children": [
         "c69chYIzbvGOsgi6kKIE4MSopeningParagraphTextNode",
@@ -1608,7 +1608,7 @@
       ],
       "internal": {
         "type": "ContentfulNewsBlog",
-        "contentDigest": "a9a015fba7d1a68c6ecf07022f73ba94",
+        "contentDigest": "d97e1066ca91c294cf778ec0bd41dd65",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
@@ -2816,7 +2816,7 @@
       }
     },
     "c6DmftTMHrGC4akOkm4aGyy": {
-      "date": 20171206,
+      "todaysDate": "2017-12-06",
       "title": "Dom with deer",
       "openingSentence": "Another great opening sentence....",
       "previewImage___NODE": "c16Q5KoOTjq0Y6eQuE0aWU4",
@@ -2824,7 +2824,7 @@
       "fullArticleText___NODE": "c6DmftTMHrGC4akOkm4aGyyfullArticleTextTextNode",
       "id": "c6DmftTMHrGC4akOkm4aGyy",
       "createdAt": "2017-12-05T18:03:33.007Z",
-      "updatedAt": "2017-12-05T18:03:33.007Z",
+      "updatedAt": "2017-12-06T11:07:17.221Z",
       "parent": "News Blog",
       "children": [
         "c6DmftTMHrGC4akOkm4aGyyopeningParagraphTextNode",
@@ -2832,7 +2832,7 @@
       ],
       "internal": {
         "type": "ContentfulNewsBlog",
-        "contentDigest": "b93b7f671793ad12bc8da4f13b197343",
+        "contentDigest": "36c7d885b33c9e5a400509ef7686bd9e",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
@@ -2925,7 +2925,7 @@
       }
     },
     "c3i8EIZSlVuYUC8M0AsiYcE": {
-      "date": 20171207,
+      "todaysDate": "2017-12-06",
       "title": "Farm Renovation",
       "openingSentence": "Farm renovation work during the summer of 2017",
       "previewImage___NODE": "c7hDoIb3xrGs2MIuASgYmY",
@@ -2933,7 +2933,7 @@
       "fullArticleText___NODE": "c3i8EIZSlVuYUC8M0AsiYcEfullArticleTextTextNode",
       "id": "c3i8EIZSlVuYUC8M0AsiYcE",
       "createdAt": "2017-12-05T18:07:33.237Z",
-      "updatedAt": "2017-12-05T18:07:33.237Z",
+      "updatedAt": "2017-12-06T11:06:36.472Z",
       "parent": "News Blog",
       "children": [
         "c3i8EIZSlVuYUC8M0AsiYcEopeningParagraphTextNode",
@@ -2941,7 +2941,7 @@
       ],
       "internal": {
         "type": "ContentfulNewsBlog",
-        "contentDigest": "94ea7458051710d16b9547c4f1af161e",
+        "contentDigest": "12ca0873b7ca5119aaee86dd659db20c",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
@@ -2978,27 +2978,6 @@
         "parent": "c3i8EIZSlVuYUC8M0AsiYcEfullArticleTextTextNode"
       }
     },
-    "SitePage /404/": {
-      "layout": "index",
-      "jsonName": "404.json",
-      "internalComponentName": "Component404",
-      "path": "/404/",
-      "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "updatedAt": 1512497273609,
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
-      "id": "SitePage /404/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "54fc7ace9c15ca905757b87b97bbf89d",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /": {
       "layout": "index",
       "jsonName": "index.json",
@@ -3007,7 +2986,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1512497273617,
+      "updatedAt": 1512559266877,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
@@ -3016,7 +2995,28 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "24046b04d82c91421d32b27d40cb392d",
+        "contentDigest": "5f8ac0f8586a74af7cf5605e3b6d92f1",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "updatedAt": 1512559266878,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7f88590ef52f3fa97e163007ec89cf62",
         "owner": "internal-data-bridge"
       }
     },
@@ -3028,7 +3028,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
       "componentChunkName": "component---src-pages-news-archive-js",
       "context": {},
-      "updatedAt": 1512497273618,
+      "updatedAt": 1512559266879,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
@@ -3037,28 +3037,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f21062f2d45c65b327e81de2b76821dc",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404.html": {
-      "layout": "index",
-      "jsonName": "404-html.json",
-      "internalComponentName": "Component404Html",
-      "path": "/404.html",
-      "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "updatedAt": 1512497273626,
-      "pluginCreator___NODE": "Plugin prod-404",
-      "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
-      "id": "SitePage /404.html",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "22801dabd2a515ab56a12bdf1c3d3f8b",
+        "contentDigest": "218ad6b78997d436d14a55c7317d346d",
         "owner": "internal-data-bridge"
       }
     },
@@ -3070,7 +3049,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
       "componentChunkName": "component---src-pages-page-2-js",
       "context": {},
-      "updatedAt": 1512497273640,
+      "updatedAt": 1512559266880,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
@@ -3079,7 +3058,28 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "311f5bf6668498aff4ad056d666ef511",
+        "contentDigest": "f780bf6af80a4a89ac90d596d36eaea8",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "updatedAt": 1512559266882,
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "edb7cc6aa8a4d350760ea7cb5288d09d",
         "owner": "internal-data-bridge"
       }
     }
@@ -3087,7 +3087,7 @@
   "status": {
     "plugins": {
       "gatsby-source-contentful": {
-        "ca5g612z8zfu": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyZfMkQ3O0rDhCAewozCrl7DtMONw4kBw5TDumnDmRlwwp7DiMK_RwQnDC4Ww7jCvsKFP8OXZznDphwlasOhw4nCscKuwpliD2cEw6prw447VEw7EVbCoVvDmyM"
+        "ca5g612z8zfu": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyYKFW0POE96wrTCnSVkEMKdGT9mcsKzQcKbXsOkdcKBwrbCpGoqOjrDiQrCm8O8RcOmNWPDu2_Dv8KxwoMXw5DCscODZn3Cr8OXw4JhwoUxHmXDmMOqw77DmsOldlo"
       }
     },
     "PLUGINS_HASH": "c0545c3e38141600158516db1a640fa5"
@@ -3165,155 +3165,87 @@
         "/"
       ],
       "c5paskRvC2Q2i0MmcyK04SyfullArticleTextTextNode": [
-        "/",
         "/news-archive/"
       ],
       "c67EOSEa42AUi4USW2iMsaUfullArticleTextTextNode": [
-        "/",
         "/news-archive/"
       ],
       "EYibztPOACuaA6aSKi0WgfullArticleTextTextNode": [
-        "/",
         "/news-archive/"
       ],
       "c3aEQonjc8wMgsqUKeWYwEAfullArticleTextTextNode": [
-        "/",
         "/news-archive/"
       ],
       "c4kGErU9IRG8m420AKMuAMOfullArticleTextTextNode": [
-        "/",
         "/news-archive/"
       ],
       "c1HBfgSkpPSCOUWOUa4iouafullArticleTextTextNode": [
-        "/",
         "/news-archive/"
       ],
       "FILM55vx6gOuoMaAm4QyQfullArticleTextTextNode": [
-        "/",
         "/news-archive/"
       ],
       "c2TrNcgcinuI2UkiyA0Qs2gfullArticleTextTextNode": [
-        "/",
         "/news-archive/"
       ],
       "c4mTIhNKGZq88IyUmauikm6fullArticleTextTextNode": [
-        "/",
         "/news-archive/"
       ],
       "c69chYIzbvGOsgi6kKIE4MSfullArticleTextTextNode": [
-        "/",
         "/news-archive/"
       ],
-      "c6dbjWqNd9SqccegcqYq224productNameTextNode": [
-        "/"
-      ],
-      "c6dbjWqNd9SqccegcqYq224productDescriptionTextNode": [
-        "/"
-      ],
-      "c3DVqIYj4dOwwcKu6sgqOggproductNameTextNode": [
-        "/"
-      ],
-      "c3DVqIYj4dOwwcKu6sgqOggproductDescriptionTextNode": [
-        "/"
-      ],
-      "c24DPGBDeGEaYy8ms4Y8QMQtitleTextNode": [
-        "/"
-      ],
-      "c24DPGBDeGEaYy8ms4Y8QMQcategoryDescriptionTextNode": [
-        "/"
-      ],
-      "c7LAnCobuuWYSqks6wAwY2atitleTextNode": [
-        "/"
-      ],
-      "c7LAnCobuuWYSqks6wAwY2acategoryDescriptionTextNode": [
-        "/"
-      ],
-      "JrePkDVYomE8AwcuCUyMicompanyNameTextNode": [
-        "/"
-      ],
-      "JrePkDVYomE8AwcuCUyMicompanyDescriptionTextNode": [
-        "/"
-      ],
-      "c4LgMotpNF6W20YKmuemW0acompanyNameTextNode": [
-        "/"
-      ],
-      "c4LgMotpNF6W20YKmuemW0acompanyDescriptionTextNode": [
-        "/"
-      ],
-      "c651CQ8rLoIYCeY6G0QG22qcompanyNameTextNode": [
-        "/"
-      ],
-      "c651CQ8rLoIYCeY6G0QG22qcompanyDescriptionTextNode": [
-        "/"
-      ],
-      "c5paskRvC2Q2i0MmcyK04SyopeningParagraphTextNode >>> MarkdownRemark": [
-        "/"
-      ],
+      "c6dbjWqNd9SqccegcqYq224productNameTextNode": [],
+      "c6dbjWqNd9SqccegcqYq224productDescriptionTextNode": [],
+      "c3DVqIYj4dOwwcKu6sgqOggproductNameTextNode": [],
+      "c3DVqIYj4dOwwcKu6sgqOggproductDescriptionTextNode": [],
+      "c24DPGBDeGEaYy8ms4Y8QMQtitleTextNode": [],
+      "c24DPGBDeGEaYy8ms4Y8QMQcategoryDescriptionTextNode": [],
+      "c7LAnCobuuWYSqks6wAwY2atitleTextNode": [],
+      "c7LAnCobuuWYSqks6wAwY2acategoryDescriptionTextNode": [],
+      "JrePkDVYomE8AwcuCUyMicompanyNameTextNode": [],
+      "JrePkDVYomE8AwcuCUyMicompanyDescriptionTextNode": [],
+      "c4LgMotpNF6W20YKmuemW0acompanyNameTextNode": [],
+      "c4LgMotpNF6W20YKmuemW0acompanyDescriptionTextNode": [],
+      "c651CQ8rLoIYCeY6G0QG22qcompanyNameTextNode": [],
+      "c651CQ8rLoIYCeY6G0QG22qcompanyDescriptionTextNode": [],
+      "c5paskRvC2Q2i0MmcyK04SyopeningParagraphTextNode >>> MarkdownRemark": [],
       "c5paskRvC2Q2i0MmcyK04SyfullArticleTextTextNode >>> MarkdownRemark": [
-        "/",
         "/news-archive/"
       ],
-      "c67EOSEa42AUi4USW2iMsaUopeningParagraphTextNode >>> MarkdownRemark": [
-        "/"
-      ],
+      "c67EOSEa42AUi4USW2iMsaUopeningParagraphTextNode >>> MarkdownRemark": [],
       "c67EOSEa42AUi4USW2iMsaUfullArticleTextTextNode >>> MarkdownRemark": [
-        "/",
         "/news-archive/"
       ],
-      "EYibztPOACuaA6aSKi0WgopeningParagraphTextNode >>> MarkdownRemark": [
-        "/"
-      ],
+      "EYibztPOACuaA6aSKi0WgopeningParagraphTextNode >>> MarkdownRemark": [],
       "EYibztPOACuaA6aSKi0WgfullArticleTextTextNode >>> MarkdownRemark": [
-        "/",
         "/news-archive/"
       ],
-      "c3aEQonjc8wMgsqUKeWYwEAopeningParagraphTextNode >>> MarkdownRemark": [
-        "/"
-      ],
+      "c3aEQonjc8wMgsqUKeWYwEAopeningParagraphTextNode >>> MarkdownRemark": [],
       "c3aEQonjc8wMgsqUKeWYwEAfullArticleTextTextNode >>> MarkdownRemark": [
-        "/",
         "/news-archive/"
       ],
-      "c4kGErU9IRG8m420AKMuAMOopeningParagraphTextNode >>> MarkdownRemark": [
-        "/"
-      ],
+      "c4kGErU9IRG8m420AKMuAMOopeningParagraphTextNode >>> MarkdownRemark": [],
       "c4kGErU9IRG8m420AKMuAMOfullArticleTextTextNode >>> MarkdownRemark": [
-        "/",
         "/news-archive/"
       ],
-      "c1HBfgSkpPSCOUWOUa4iouaopeningParagraphTextNode >>> MarkdownRemark": [
-        "/"
-      ],
+      "c1HBfgSkpPSCOUWOUa4iouaopeningParagraphTextNode >>> MarkdownRemark": [],
       "c1HBfgSkpPSCOUWOUa4iouafullArticleTextTextNode >>> MarkdownRemark": [
-        "/",
         "/news-archive/"
       ],
-      "FILM55vx6gOuoMaAm4QyQopeningParagraphTextNode >>> MarkdownRemark": [
-        "/"
-      ],
+      "FILM55vx6gOuoMaAm4QyQopeningParagraphTextNode >>> MarkdownRemark": [],
       "FILM55vx6gOuoMaAm4QyQfullArticleTextTextNode >>> MarkdownRemark": [
-        "/",
         "/news-archive/"
       ],
-      "c2TrNcgcinuI2UkiyA0Qs2gopeningParagraphTextNode >>> MarkdownRemark": [
-        "/"
-      ],
+      "c2TrNcgcinuI2UkiyA0Qs2gopeningParagraphTextNode >>> MarkdownRemark": [],
       "c2TrNcgcinuI2UkiyA0Qs2gfullArticleTextTextNode >>> MarkdownRemark": [
-        "/",
         "/news-archive/"
       ],
-      "c4mTIhNKGZq88IyUmauikm6openingParagraphTextNode >>> MarkdownRemark": [
-        "/"
-      ],
+      "c4mTIhNKGZq88IyUmauikm6openingParagraphTextNode >>> MarkdownRemark": [],
       "c4mTIhNKGZq88IyUmauikm6fullArticleTextTextNode >>> MarkdownRemark": [
-        "/",
         "/news-archive/"
       ],
-      "c69chYIzbvGOsgi6kKIE4MSopeningParagraphTextNode >>> MarkdownRemark": [
-        "/"
-      ],
+      "c69chYIzbvGOsgi6kKIE4MSopeningParagraphTextNode >>> MarkdownRemark": [],
       "c69chYIzbvGOsgi6kKIE4MSfullArticleTextTextNode >>> MarkdownRemark": [
-        "/",
         "/news-archive/"
       ],
       "c16Q5KoOTjq0Y6eQuE0aWU4": [
@@ -3337,7 +3269,9 @@
       ],
       "c3i8EIZSlVuYUC8M0AsiYcEfullArticleTextTextNode >>> MarkdownRemark": [
         "/news-archive/"
-      ]
+      ],
+      "c3i8EIZSlVuYUC8M0AsiYcEopeningParagraphTextNode >>> MarkdownRemark": [],
+      "c6DmftTMHrGC4akOkm4aGyyopeningParagraphTextNode >>> MarkdownRemark": []
     },
     "connections": {
       "ContentfulNewsBlog": [

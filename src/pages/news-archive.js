@@ -36,11 +36,11 @@ const PageTitle = styled.h1`
 
 export const BlogQuery = graphql`
 query BlogQuery {
-    allContentfulNewsBlog(sort: {fields: [date], order: DESC}) {
+    allContentfulNewsBlog(sort: {fields: [createdAt], order: DESC}) {
         edges {
           node {
+            todaysDate(formatString: "DD MMMM, YYYY")
             id
-            date
             title
             previewImage {
               file {

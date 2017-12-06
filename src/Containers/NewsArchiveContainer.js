@@ -20,7 +20,7 @@ class NewsArchiveContainer extends Component {
                     return(
                         <NewsArchiveArticle
                         key={newsItem.node.id}
-                        date={newsItem.node.date}
+                        todaysDate={newsItem.node.todaysDate}
                         title={newsItem.node.title}
                         src={`https:${newsItem.node.previewImage.file.url}`}
                         text={newsItem.node.childContentfulNewsBlogFullArticleTextTextNode.childMarkdownRemark.html}

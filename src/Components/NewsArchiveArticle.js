@@ -4,7 +4,7 @@ import styled from 'styled-components';
 const NewsArchiveArticle = (props) => {
     return (
         <ArticleWrapper>
-            <Date>{props.date}</Date>
+            <Date>{props.todaysDate}</Date>
             <ArticleTitle>{props.title}</ArticleTitle>
             <Image src={props.src} />
             <Text dangerouslySetInnerHTML={{ __html: props.text }}></Text>
