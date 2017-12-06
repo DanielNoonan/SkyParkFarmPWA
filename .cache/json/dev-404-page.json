@@ -1,11 +1,16 @@
 {
     "data": {
         "allSitePage": {
-            "totalCount": 5,
+            "totalCount": 6,
             "edges": [
                 {
                     "node": {
                         "path": "/404/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/bookings-accommodation/"
                     }
                 },
                 {
@@ -20,12 +25,12 @@
                 },
                 {
                     "node": {
-                        "path": "/404.html"
+                        "path": "/page-2/"
                     }
                 },
                 {
                     "node": {
-                        "path": "/page-2/"
+                        "path": "/404.html"
                     }
                 }
             ]
