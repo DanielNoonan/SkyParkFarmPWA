@@ -5,12 +5,12 @@
             "edges": [
                 {
                     "node": {
-                        "path": "/404/"
+                        "path": "/"
                     }
                 },
                 {
                     "node": {
-                        "path": "/"
+                        "path": "/404/"
                     }
                 },
                 {
@@ -20,12 +20,12 @@
                 },
                 {
                     "node": {
-                        "path": "/404.html"
+                        "path": "/page-2/"
                     }
                 },
                 {
                     "node": {
-                        "path": "/page-2/"
+                        "path": "/404.html"
                     }
                 }
             ]
