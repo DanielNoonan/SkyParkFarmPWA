@@ -58,7 +58,7 @@ class FrontPageContainer extends Component {
                     clicked={this.articleDataHandler.bind(this, index)} 
                     key={newsItem.node.id} 
                     index={index} title={newsItem.node.title} 
-                    image={`https:${newsItem.node.previewImage.file.url}`} 
+                    image={`https:${newsItem.node.previewImage.file.url}?w=500`}
                     intro={newsItem.node.openingSentence} 
                     altText={newsItem.node.previewImage.description} 
                     />
@@ -71,7 +71,7 @@ class FrontPageContainer extends Component {
                 {!this.state.frontpage ? 
                 <NewsColumnArticle 
                 title={this.state.articleData.node.title} 
-                image={`https:${this.state.articleData.node.previewImage.file.url}`} 
+                image={`https:${this.state.articleData.node.previewImage.file.url}?w=1000`} 
                 text={this.state.articleData.node.openingParagraph.openingParagraph}
                 clicked={this.reloadHomepageHandler} 
                 />
