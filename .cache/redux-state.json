@@ -3416,7 +3416,9 @@
       "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode >>> MarkdownRemark": [
         "/news-archive/"
       ],
-      "c3lrmkJDeruKiaAeAkmoG6W": []
+      "c3lrmkJDeruKiaAeAkmoG6W": [
+        "/"
+      ]
     },
     "connections": {
       "ContentfulNewsBlog": [
@@ -3429,7 +3431,9 @@
       "SitePage": [
         "/dev-404-page/"
       ],
-      "ContentfulHeroImage": []
+      "ContentfulHeroImage": [
+        "/"
+      ]
     }
   }
 }
