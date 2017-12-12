@@ -4,6 +4,23 @@
             "edges": [
                 {
                     "node": {
+                        "todaysDate": "08 December, 2017",
+                        "id": "c2vusF4mPcAckEYiumkiG0M",
+                        "title": "New Post",
+                        "previewImage": {
+                            "file": {
+                                "url": "//images.contentful.com/ca5g612z8zfu/4cQGTrz9KwUQqk4EKo246c/cd0977bcd4e293e24a06584b3335067e/quebec-cottage-SMALL.jpg"
+                            }
+                        },
+                        "childContentfulNewsBlogFullArticleTextTextNode": {
+                            "childMarkdownRemark": {
+                                "html": "<p>dsfdsfsdfdsfdfd</p>"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
                         "todaysDate": "06 December, 2017",
                         "id": "c2rVTX3qjvqiYqAkyOSAASA",
                         "title": "Deer Grazing",
@@ -49,23 +66,6 @@
                         "childContentfulNewsBlogFullArticleTextTextNode": {
                             "childMarkdownRemark": {
                                 "html": "<h1>Big Heading For a Little Pose</h1>\n<p>Pommy ipsum two weeks on't trot blummin' upper class in the goolies you 'avin a laugh fork out, stupendous unhand me sir red telephone box daft cow baffled alright duck red telephone box, have a gander penny-dreadful punter fake tan rubbish what a doddle. Red telephone box eton mess fake tan ee bah gum ey up chuck bobby superb on the beat</p>\n<h2>A smaller heading... More pommyipsum to follow:</h2>\n<p>Pommy ipsum two weeks on't trot blummin' upper class in the goolies you 'avin a laugh fork out, stupendous unhand me sir red telephone box daft cow baffled alright duck red telephone box, have a gander penny-dreadful punter fake tan rubbish what a doddle. Red telephone box eton mess fake tan ee bah gum ey up chuck bobby superb on the beat</p>"
-                            }
-                        }
-                    }
-                },
-                {
-                    "node": {
-                        "todaysDate": "06 December, 2017",
-                        "id": "c5paskRvC2Q2i0MmcyK04Sy",
-                        "title": "Cottage again",
-                        "previewImage": {
-                            "file": {
-                                "url": "//images.contentful.com/ca5g612z8zfu/6Qv6CcGVZmmGwe8kamGKAK/9006db08545b66dd38638509d6ce12fa/quebec-cottage-SMALL.jpg"
-                            }
-                        },
-                        "childContentfulNewsBlogFullArticleTextTextNode": {
-                            "childMarkdownRemark": {
-                                "html": "<h1>Heading!!</h1>\n<h2>Sub-Heading!!</h2>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>\n<p>NEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
                             }
                         }
                     }
@@ -146,57 +146,6 @@
                         "previewImage": {
                             "file": {
                                 "url": "//images.contentful.com/ca5g612z8zfu/3265y7wpJecwQcO2cU4AqQ/1e9f5e7aab2d2dc79faa18f6f1237c92/quebec-cottage-SMALL.jpg"
-                            }
-                        },
-                        "childContentfulNewsBlogFullArticleTextTextNode": {
-                            "childMarkdownRemark": {
-                                "html": "<h1>Heading!!</h1>\n<h2>Sub-Heading!!</h2>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>\n<p>NEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
-                            }
-                        }
-                    }
-                },
-                {
-                    "node": {
-                        "todaysDate": "06 December, 2017",
-                        "id": "FILM55vx6gOuoMaAm4QyQ",
-                        "title": "Farm Renovation",
-                        "previewImage": {
-                            "file": {
-                                "url": "//images.contentful.com/ca5g612z8zfu/7hDoIb3xrGs2MIuASgYmY/4a327497be95c50b969e2c64be3dc921/farm-renovation-SMALL.jpg"
-                            }
-                        },
-                        "childContentfulNewsBlogFullArticleTextTextNode": {
-                            "childMarkdownRemark": {
-                                "html": "<h1>Heading!!</h1>\n<h2>Sub-Heading!!</h2>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>\n<p>NEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
-                            }
-                        }
-                    }
-                },
-                {
-                    "node": {
-                        "todaysDate": "06 December, 2017",
-                        "id": "c2TrNcgcinuI2UkiyA0Qs2g",
-                        "title": "Stroking Deer",
-                        "previewImage": {
-                            "file": {
-                                "url": "//images.contentful.com/ca5g612z8zfu/60WU9kWFbyW8swEemuemiS/d5a957ac0a164bab9f7621d40974058b/dom-stroking-deer-SMALL.jpg"
-                            }
-                        },
-                        "childContentfulNewsBlogFullArticleTextTextNode": {
-                            "childMarkdownRemark": {
-                                "html": "<h1>Heading!!</h1>\n<h2>Sub-Heading!!</h2>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>\n<p>NEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
-                            }
-                        }
-                    }
-                },
-                {
-                    "node": {
-                        "todaysDate": "06 December, 2017",
-                        "id": "c4mTIhNKGZq88IyUmauikm6",
-                        "title": "Deer Grazing",
-                        "previewImage": {
-                            "file": {
-                                "url": "//images.contentful.com/ca5g612z8zfu/4WlAFg8k8oSoYuI80QM2WK/54777219d302be7758baae84b4f2b4e4/deer-grazing-lensflare-SMALL.jpg"
                             }
                         },
                         "childContentfulNewsBlogFullArticleTextTextNode": {

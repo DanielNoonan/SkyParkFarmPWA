@@ -8,7 +8,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1512579002023,
+      "updatedAt": 1513086012062,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1668f497844670b3314b4af17e234fa5",
+        "contentDigest": "6e274bb89c845cf2801a8f7bc4abf381",
         "owner": "internal-data-bridge"
       }
     },
@@ -632,12 +632,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-12-06T16:49:59.067Z",
+      "buildTime": "2017-12-12T13:40:08.958Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "fd43a7f4d947ea94cf0c57ab058cd21a",
+        "contentDigest": "61d62ac61770165e649fc00fb1c53e13",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2974,6 +2974,167 @@
         "parent": "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode"
       }
     },
+    "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode": {
+      "id": "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode",
+      "parent": "c2vusF4mPcAckEYiumkiG0M",
+      "children": [
+        "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode >>> MarkdownRemark"
+      ],
+      "openingParagraph": "some text here...",
+      "internal": {
+        "type": "contentfulNewsBlogOpeningParagraphTextNode",
+        "mediaType": "text/markdown",
+        "content": "some text here...",
+        "contentDigest": "94e599e956fa88b87a7937784d8b26c4",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode": {
+      "id": "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode",
+      "parent": "c2vusF4mPcAckEYiumkiG0M",
+      "children": [
+        "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode >>> MarkdownRemark"
+      ],
+      "fullArticleText": "dsfdsfsdfdsfdfd",
+      "internal": {
+        "type": "contentfulNewsBlogFullArticleTextTextNode",
+        "mediaType": "text/markdown",
+        "content": "dsfdsfsdfdsfdfd",
+        "contentDigest": "bbd2c0d66a281ce04d94e052e6873423",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c2vusF4mPcAckEYiumkiG0M": {
+      "todaysDate": "2017-12-08",
+      "title": "New Post",
+      "openingSentence": "an opening sentence...",
+      "previewImage___NODE": "c4cQGTrz9KwUQqk4EKo246c",
+      "openingParagraph___NODE": "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode",
+      "fullArticleText___NODE": "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode",
+      "id": "c2vusF4mPcAckEYiumkiG0M",
+      "createdAt": "2017-12-08T10:42:46.679Z",
+      "updatedAt": "2017-12-08T10:42:46.679Z",
+      "parent": "News Blog",
+      "children": [
+        "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode",
+        "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulNewsBlog",
+        "contentDigest": "bdad6b931f1da6e826d0eac8f5a3a406",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c4cQGTrz9KwUQqk4EKo246c": {
+      "id": "c4cQGTrz9KwUQqk4EKo246c",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/ca5g612z8zfu/4cQGTrz9KwUQqk4EKo246c/cd0977bcd4e293e24a06584b3335067e/quebec-cottage-SMALL.jpg",
+        "details": {
+          "size": 148717,
+          "image": {
+            "width": 640,
+            "height": 427
+          }
+        },
+        "fileName": "quebec-cottage-SMALL.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "quebec-cottage-SMALL",
+      "description": "Quebec Cottage",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "7554e853c21f317efe86a81ac8597869",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode >>> MarkdownRemark": {
+      "id": "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode",
+      "internal": {
+        "content": "some text here...",
+        "contentDigest": "f869974ab67a9300ff8113fda1a2200e",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode",
+        "parent": "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode"
+      }
+    },
+    "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode >>> MarkdownRemark": {
+      "id": "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode",
+      "internal": {
+        "content": "dsfdsfsdfdsfdfd",
+        "contentDigest": "19f38343f6e006f975a361872188903e",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode",
+        "parent": "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode"
+      }
+    },
+    "Hero Image": {
+      "id": "Hero Image",
+      "parent": null,
+      "children": [],
+      "name": "Hero Image",
+      "displayField": null,
+      "description": "Front Page Hero Image",
+      "internal": {
+        "type": "ContentfulContentType",
+        "contentDigest": "1dc5414e11659539034d78063335abef",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c7FdjctHVE4Iouuiu6mSG6C": {
+      "heroImage___NODE": "c3lrmkJDeruKiaAeAkmoG6W",
+      "id": "c7FdjctHVE4Iouuiu6mSG6C",
+      "createdAt": "2017-12-12T13:18:47.350Z",
+      "updatedAt": "2017-12-12T13:18:47.350Z",
+      "parent": "Hero Image",
+      "children": [],
+      "internal": {
+        "type": "ContentfulHeroImage",
+        "contentDigest": "814f9f204501d37c8322ff6bf8a9d47c",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c3lrmkJDeruKiaAeAkmoG6W": {
+      "id": "c3lrmkJDeruKiaAeAkmoG6W",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/ca5g612z8zfu/3lrmkJDeruKiaAeAkmoG6W/401f707aa77f003c68f4aa4123b7b139/hero3crop.jpg",
+        "details": {
+          "size": 722019,
+          "image": {
+            "width": 5472,
+            "height": 1101
+          }
+        },
+        "fileName": "hero3crop.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "Hero Image",
+      "description": "Front Page Hero Image",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "90e7f83635d1a299c809ee1c96920804",
+        "owner": "gatsby-source-contentful"
+      }
+    },
     "SitePage /404/": {
       "layout": "index",
       "jsonName": "404.json",
@@ -2982,7 +3143,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1512579002039,
+      "updatedAt": 1513086012072,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
@@ -2991,7 +3152,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "313b38f11310361f3f834f116dc06bde",
+        "contentDigest": "0413bb3b316ac77331b759d75d49b87d",
         "owner": "internal-data-bridge"
       }
     },
@@ -3003,7 +3164,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/bookings-accommodation.js",
       "componentChunkName": "component---src-pages-bookings-accommodation-js",
       "context": {},
-      "updatedAt": 1512579002040,
+      "updatedAt": 1513086012074,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/bookings-accommodation.js",
@@ -3012,7 +3173,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6ece8d8cc58bd6fdce992e4e53cfe2a2",
+        "contentDigest": "53a73dfd19541dd5f7063bd022e5b1f9",
         "owner": "internal-data-bridge"
       }
     },
@@ -3024,7 +3185,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1512579002041,
+      "updatedAt": 1513086012076,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
@@ -3033,28 +3194,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "aac5c20758283981d0269c3d4cb0c3c5",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /news-archive/": {
-      "layout": "index",
-      "jsonName": "news-archive.json",
-      "internalComponentName": "ComponentNewsArchive",
-      "path": "/news-archive/",
-      "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
-      "componentChunkName": "component---src-pages-news-archive-js",
-      "context": {},
-      "updatedAt": 1512579002042,
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
-      "id": "SitePage /news-archive/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "330173a33cacaa360ec59a27b586cf7b",
+        "contentDigest": "2a19d9b4faeb861876585ad6b4e46c36",
         "owner": "internal-data-bridge"
       }
     },
@@ -3066,7 +3206,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
       "componentChunkName": "component---src-pages-page-2-js",
       "context": {},
-      "updatedAt": 1512579002043,
+      "updatedAt": 1513086012078,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
@@ -3075,7 +3215,28 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5cbf26e41214244fb7c0323bb8227bec",
+        "contentDigest": "f3bf5f38964f569343c332bfa788377e",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /news-archive/": {
+      "layout": "index",
+      "jsonName": "news-archive.json",
+      "internalComponentName": "ComponentNewsArchive",
+      "path": "/news-archive/",
+      "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
+      "componentChunkName": "component---src-pages-news-archive-js",
+      "context": {},
+      "updatedAt": 1513086012079,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
+      "id": "SitePage /news-archive/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "42cbab0603b72ee284894d8851654932",
         "owner": "internal-data-bridge"
       }
     },
@@ -3087,7 +3248,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1512579002046,
+      "updatedAt": 1513086012081,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
@@ -3096,7 +3257,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "53c580eb383f892540a0f55fe5b67f85",
+        "contentDigest": "beebc72e6757eec104f7ed13cc269df9",
         "owner": "internal-data-bridge"
       }
     }
@@ -3104,7 +3265,7 @@
   "status": {
     "plugins": {
       "gatsby-source-contentful": {
-        "ca5g612z8zfu": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyYLOsOewovDrMKhwp8VIMO8wr_CsS3CmMOww7sfQcOlcjbCvhhvbcO9wr_CvcO1wq7CnX7DrBjDl2_Cs8OVcHHCosOcw7LCscOGwq_Dp8OqwpjDt8OMScKHwpfDoMKRKAVaPMOAN8Oew58"
+        "ca5g612z8zfu": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybDtmlOw6LDiVXDhS_DsH7DkcKKwot2woLCuMKbG0sMWmPChsK5GDHDrMK4wozDnzgUMMKOAcOlAELDpcO_w7lQwolPw6DCjQTDp8OLfh9FwppdDBIiK8ORTMKow5kOwpI"
       }
     },
     "PLUGINS_HASH": "37170e11b9b35129779ac356b48c805a"
@@ -3125,13 +3286,8 @@
       "c6DmftTMHrGC4akOkm4aGyyopeningParagraphTextNode": [
         "/"
       ],
-      "c6Qv6CcGVZmmGwe8kamGKAK": [
-        "/",
-        "/news-archive/"
-      ],
-      "c5paskRvC2Q2i0MmcyK04SyopeningParagraphTextNode": [
-        "/"
-      ],
+      "c6Qv6CcGVZmmGwe8kamGKAK": [],
+      "c5paskRvC2Q2i0MmcyK04SyopeningParagraphTextNode": [],
       "c4vUSRCAfTqcCYCMcCOSISE": [
         "/",
         "/news-archive/"
@@ -3167,23 +3323,14 @@
       "c1HBfgSkpPSCOUWOUa4iouaopeningParagraphTextNode": [
         "/"
       ],
-      "FILM55vx6gOuoMaAm4QyQopeningParagraphTextNode": [
-        "/"
-      ],
-      "c60WU9kWFbyW8swEemuemiS": [
-        "/",
-        "/news-archive/"
-      ],
-      "c2TrNcgcinuI2UkiyA0Qs2gopeningParagraphTextNode": [
-        "/"
-      ],
+      "FILM55vx6gOuoMaAm4QyQopeningParagraphTextNode": [],
+      "c60WU9kWFbyW8swEemuemiS": [],
+      "c2TrNcgcinuI2UkiyA0Qs2gopeningParagraphTextNode": [],
       "c4WlAFg8k8oSoYuI80QM2WK": [
         "/",
         "/news-archive/"
       ],
-      "c4mTIhNKGZq88IyUmauikm6openingParagraphTextNode": [
-        "/"
-      ],
+      "c4mTIhNKGZq88IyUmauikm6openingParagraphTextNode": [],
       "c2uqyFo9N8kYESGws4egoG4": [
         "/",
         "/news-archive/"
@@ -3203,12 +3350,8 @@
       "c6DmftTMHrGC4akOkm4aGyyfullArticleTextTextNode >>> MarkdownRemark": [
         "/news-archive/"
       ],
-      "c5paskRvC2Q2i0MmcyK04SyfullArticleTextTextNode": [
-        "/news-archive/"
-      ],
-      "c5paskRvC2Q2i0MmcyK04SyfullArticleTextTextNode >>> MarkdownRemark": [
-        "/news-archive/"
-      ],
+      "c5paskRvC2Q2i0MmcyK04SyfullArticleTextTextNode": [],
+      "c5paskRvC2Q2i0MmcyK04SyfullArticleTextTextNode >>> MarkdownRemark": [],
       "c67EOSEa42AUi4USW2iMsaUfullArticleTextTextNode": [
         "/news-archive/"
       ],
@@ -3239,24 +3382,12 @@
       "c1HBfgSkpPSCOUWOUa4iouafullArticleTextTextNode >>> MarkdownRemark": [
         "/news-archive/"
       ],
-      "FILM55vx6gOuoMaAm4QyQfullArticleTextTextNode": [
-        "/news-archive/"
-      ],
-      "FILM55vx6gOuoMaAm4QyQfullArticleTextTextNode >>> MarkdownRemark": [
-        "/news-archive/"
-      ],
-      "c2TrNcgcinuI2UkiyA0Qs2gfullArticleTextTextNode": [
-        "/news-archive/"
-      ],
-      "c2TrNcgcinuI2UkiyA0Qs2gfullArticleTextTextNode >>> MarkdownRemark": [
-        "/news-archive/"
-      ],
-      "c4mTIhNKGZq88IyUmauikm6fullArticleTextTextNode": [
-        "/news-archive/"
-      ],
-      "c4mTIhNKGZq88IyUmauikm6fullArticleTextTextNode >>> MarkdownRemark": [
-        "/news-archive/"
-      ],
+      "FILM55vx6gOuoMaAm4QyQfullArticleTextTextNode": [],
+      "FILM55vx6gOuoMaAm4QyQfullArticleTextTextNode >>> MarkdownRemark": [],
+      "c2TrNcgcinuI2UkiyA0Qs2gfullArticleTextTextNode": [],
+      "c2TrNcgcinuI2UkiyA0Qs2gfullArticleTextTextNode >>> MarkdownRemark": [],
+      "c4mTIhNKGZq88IyUmauikm6fullArticleTextTextNode": [],
+      "c4mTIhNKGZq88IyUmauikm6fullArticleTextTextNode >>> MarkdownRemark": [],
       "c69chYIzbvGOsgi6kKIE4MSfullArticleTextTextNode": [
         "/news-archive/"
       ],
@@ -3271,7 +3402,21 @@
       ],
       "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode >>> MarkdownRemark": [
         "/news-archive/"
-      ]
+      ],
+      "c4cQGTrz9KwUQqk4EKo246c": [
+        "/",
+        "/news-archive/"
+      ],
+      "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode": [
+        "/"
+      ],
+      "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode": [
+        "/news-archive/"
+      ],
+      "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode >>> MarkdownRemark": [
+        "/news-archive/"
+      ],
+      "c3lrmkJDeruKiaAeAkmoG6W": []
     },
     "connections": {
       "ContentfulNewsBlog": [
@@ -3283,7 +3428,8 @@
       ],
       "SitePage": [
         "/dev-404-page/"
-      ]
+      ],
+      "ContentfulHeroImage": []
     }
   }
 }
