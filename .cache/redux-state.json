@@ -8,7 +8,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1512828822121,
+      "updatedAt": 1513086012062,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bc514d55ed92df805b22b7bbf68417b4",
+        "contentDigest": "6e274bb89c845cf2801a8f7bc4abf381",
         "owner": "internal-data-bridge"
       }
     },
@@ -632,12 +632,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-12-09T14:13:36.238Z",
+      "buildTime": "2017-12-12T13:40:08.958Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "16e15ce4a2372fd663750b99993d06cd",
+        "contentDigest": "61d62ac61770165e649fc00fb1c53e13",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -3083,6 +3083,58 @@
         "parent": "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode"
       }
     },
+    "Hero Image": {
+      "id": "Hero Image",
+      "parent": null,
+      "children": [],
+      "name": "Hero Image",
+      "displayField": null,
+      "description": "Front Page Hero Image",
+      "internal": {
+        "type": "ContentfulContentType",
+        "contentDigest": "1dc5414e11659539034d78063335abef",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c7FdjctHVE4Iouuiu6mSG6C": {
+      "heroImage___NODE": "c3lrmkJDeruKiaAeAkmoG6W",
+      "id": "c7FdjctHVE4Iouuiu6mSG6C",
+      "createdAt": "2017-12-12T13:18:47.350Z",
+      "updatedAt": "2017-12-12T13:18:47.350Z",
+      "parent": "Hero Image",
+      "children": [],
+      "internal": {
+        "type": "ContentfulHeroImage",
+        "contentDigest": "814f9f204501d37c8322ff6bf8a9d47c",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c3lrmkJDeruKiaAeAkmoG6W": {
+      "id": "c3lrmkJDeruKiaAeAkmoG6W",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/ca5g612z8zfu/3lrmkJDeruKiaAeAkmoG6W/401f707aa77f003c68f4aa4123b7b139/hero3crop.jpg",
+        "details": {
+          "size": 722019,
+          "image": {
+            "width": 5472,
+            "height": 1101
+          }
+        },
+        "fileName": "hero3crop.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "Hero Image",
+      "description": "Front Page Hero Image",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "90e7f83635d1a299c809ee1c96920804",
+        "owner": "gatsby-source-contentful"
+      }
+    },
     "SitePage /404/": {
       "layout": "index",
       "jsonName": "404.json",
@@ -3091,7 +3143,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1512828822133,
+      "updatedAt": 1513086012072,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
@@ -3100,7 +3152,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1fe131de305cdfebb5eb65dcbd0b312c",
+        "contentDigest": "0413bb3b316ac77331b759d75d49b87d",
         "owner": "internal-data-bridge"
       }
     },
@@ -3112,7 +3164,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/bookings-accommodation.js",
       "componentChunkName": "component---src-pages-bookings-accommodation-js",
       "context": {},
-      "updatedAt": 1512828822133,
+      "updatedAt": 1513086012074,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/bookings-accommodation.js",
@@ -3121,7 +3173,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e35ebcd1a969a86bfa30a91347dfcd26",
+        "contentDigest": "53a73dfd19541dd5f7063bd022e5b1f9",
         "owner": "internal-data-bridge"
       }
     },
@@ -3133,7 +3185,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1512828822133,
+      "updatedAt": 1513086012076,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
@@ -3142,28 +3194,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d44d73dab504980e6a82c9006d44bb9e",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /news-archive/": {
-      "layout": "index",
-      "jsonName": "news-archive.json",
-      "internalComponentName": "ComponentNewsArchive",
-      "path": "/news-archive/",
-      "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
-      "componentChunkName": "component---src-pages-news-archive-js",
-      "context": {},
-      "updatedAt": 1512828822137,
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
-      "id": "SitePage /news-archive/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "fcef68524ced455fd487b3e14af1fba7",
+        "contentDigest": "2a19d9b4faeb861876585ad6b4e46c36",
         "owner": "internal-data-bridge"
       }
     },
@@ -3175,7 +3206,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
       "componentChunkName": "component---src-pages-page-2-js",
       "context": {},
-      "updatedAt": 1512828822137,
+      "updatedAt": 1513086012078,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
@@ -3184,7 +3215,28 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3fdea967da9c9144d4c5e16e076cb892",
+        "contentDigest": "f3bf5f38964f569343c332bfa788377e",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /news-archive/": {
+      "layout": "index",
+      "jsonName": "news-archive.json",
+      "internalComponentName": "ComponentNewsArchive",
+      "path": "/news-archive/",
+      "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
+      "componentChunkName": "component---src-pages-news-archive-js",
+      "context": {},
+      "updatedAt": 1513086012079,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
+      "id": "SitePage /news-archive/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "42cbab0603b72ee284894d8851654932",
         "owner": "internal-data-bridge"
       }
     },
@@ -3196,7 +3248,7 @@
       "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1512828822141,
+      "updatedAt": 1513086012081,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
@@ -3205,7 +3257,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "349a5d1e58eaba7bab4cab171bf6b2f1",
+        "contentDigest": "beebc72e6757eec104f7ed13cc269df9",
         "owner": "internal-data-bridge"
       }
     }
@@ -3213,7 +3265,7 @@
   "status": {
     "plugins": {
       "gatsby-source-contentful": {
-        "ca5g612z8zfu": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybCpsO1wrHDmwHDo8O7wpweIC3DqMK_woXCtjrDt3ZDw7bDj8KLwoU6w5ksb2E6woHCjMOlwqhuZGzDngLDrwYgw7PCs0_DocKCMXp-ZsKlw6kpwpTCgjpRZ2PDhyDCrMKVMg"
+        "ca5g612z8zfu": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybDtmlOw6LDiVXDhS_DsH7DkcKKwot2woLCuMKbG0sMWmPChsK5GDHDrMK4wozDnzgUMMKOAcOlAELDpcO_w7lQwolPw6DCjQTDp8OLfh9FwppdDBIiK8ORTMKow5kOwpI"
       }
     },
     "PLUGINS_HASH": "37170e11b9b35129779ac356b48c805a"
@@ -3363,6 +3415,9 @@
       ],
       "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode >>> MarkdownRemark": [
         "/news-archive/"
+      ],
+      "c3lrmkJDeruKiaAeAkmoG6W": [
+        "/"
       ]
     },
     "connections": {
@@ -3375,6 +3430,9 @@
       ],
       "SitePage": [
         "/dev-404-page/"
+      ],
+      "ContentfulHeroImage": [
+        "/"
       ]
     }
   }

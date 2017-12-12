@@ -10,7 +10,7 @@ const IndexPage = ({ data }) => {
   return (
     <FullPageWrapper>
 
-      <Hero><h1>Hero Image</h1></Hero>
+      <Hero><img src={`https:${data.allContentfulHeroImage.edges[0].node.heroImage.file.url}`} /></Hero>
 
       <FrontPageContainer data={data} />
         
@@ -29,7 +29,6 @@ justify-content: center;
 
 const Hero = styled.div`
   flex: 0 0 100%;
-  height: 350px;
   background: grey;
   color: white;
   border: 1px solid black;
@@ -61,5 +60,16 @@ query TestQuery {
       }
     }
   }
-}
+    allContentfulHeroImage {
+      edges {
+        node {
+         heroImage {
+           file {
+             url
+           }
+         }
+        }
+      }
+    }
+  }
 `

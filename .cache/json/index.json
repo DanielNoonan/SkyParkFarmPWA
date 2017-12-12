@@ -163,6 +163,19 @@
                     }
                 }
             ]
+        },
+        "allContentfulHeroImage": {
+            "edges": [
+                {
+                    "node": {
+                        "heroImage": {
+                            "file": {
+                                "url": "//images.contentful.com/ca5g612z8zfu/3lrmkJDeruKiaAeAkmoG6W/401f707aa77f003c68f4aa4123b7b139/hero3crop.jpg"
+                            }
+                        }
+                    }
+                }
+            ]
         }
     },
     "pathContext": {}
