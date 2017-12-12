@@ -51,7 +51,7 @@ class FrontPageContainer extends Component {
         <FrontPageContentWrapper>
 
           <NewsColumnWrapper>
-             <NewsColumnMainTitle>Latest News</NewsColumnMainTitle>
+             <NewsColumnMainTitle>LATEST NEWS</NewsColumnMainTitle>
              {newsData.map((newsItem, index) => {
                  return (
                     <NewsColumnItem 
@@ -59,8 +59,9 @@ class FrontPageContainer extends Component {
                     key={newsItem.node.id} 
                     index={index} title={newsItem.node.title} 
                     image={`https:${newsItem.node.previewImage.file.url}?w=500`}
-                    intro={newsItem.node.openingSentence} 
                     altText={newsItem.node.previewImage.description} 
+                    intro={newsItem.node.openingSentence}
+                    itemBack={newsItem.node.openingParagraph.openingParagraph}
                     />
                  )
              })}
@@ -100,22 +101,28 @@ const FrontPageContentWrapper = styled.div`
     flex-wrap: wrap;
     justify-content: center;
     flex: 0 0 98%;
-    border: 1px solid white;
     margin-top: 10px;
 `
 
 const NewsColumnWrapper = styled.div`
     display: none;
     flex: 0 0 calc(100% / 12 * 3);
-    border: 1px solid black;
     @media (min-width: 1024px) {
         display: block;
     }
 `
 
 const NewsColumnMainTitle = styled.h1`
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    color: #BC7817;
+    font-size: 3em;
+    font-weight: bold;
     text-align: center;
     background: #F6F6F6;
+    border: 1px solid #80D4F7;
+    border-radius: 8%;
 `
 
 const NewsColumnArticleWrapper = styled.div`
@@ -123,10 +130,9 @@ const NewsColumnArticleWrapper = styled.div`
     flex-wrap: wrap;
     justify-content: center;
     flex: 0 0 calc(100% / 12 * 9);
-    border: 1px solid black;
 `
 const NewsArticleBox = styled.div`
     flex: 0 0 calc(100% / 12 * 11);
     background: #F6F6F6;
-    border: 1px solid white;
+    border-radius: 2%;
 `
