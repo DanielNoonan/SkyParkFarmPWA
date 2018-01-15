@@ -25,12 +25,12 @@
                 },
                 {
                     "node": {
-                        "path": "/news-archive/"
+                        "path": "/404.html"
                     }
                 },
                 {
                     "node": {
-                        "path": "/404.html"
+                        "path": "/news-archive/"
                     }
                 }
             ]

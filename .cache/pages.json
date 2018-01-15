@@ -35,17 +35,17 @@
         "path": "/page-2/"
     },
     {
-        "componentChunkName": "component---src-pages-news-archive-js",
-        "layout": "index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "news-archive.json",
-        "path": "/news-archive/"
-    },
-    {
         "componentChunkName": "component---src-pages-404-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "404-html.json",
         "path": "/404.html"
+    },
+    {
+        "componentChunkName": "component---src-pages-news-archive-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "news-archive.json",
+        "path": "/news-archive/"
     }
 ]

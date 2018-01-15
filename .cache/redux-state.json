@@ -5,24 +5,24 @@
       "jsonName": "dev-404-page.json",
       "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
+      "component": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1513086012062,
+      "updatedAt": 1516025632030,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
+      "componentPath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6e274bb89c845cf2801a8f7bc4abf381",
+        "contentDigest": "f32ccf4aae3763f34437e7000dce2fc5",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-page-creator": {
-      "resolve": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "resolve": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "id": "Plugin component-page-creator",
       "name": "component-page-creator",
       "version": "1.0.0",
@@ -32,7 +32,7 @@
       "nodeAPIs": [
         "createPagesStatefully"
       ],
-      "pluginFilepath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "pluginFilepath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "packageJson": {
         "name": "component-page-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
@@ -53,13 +53,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "fb09f9206564a483f1320ba4628e22fd",
+        "contentDigest": "fa86ed28425b004373c1b9a79d14da38",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-layout-creator": {
-      "resolve": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "resolve": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "id": "Plugin component-layout-creator",
       "name": "component-layout-creator",
       "version": "1.0.0",
@@ -69,7 +69,7 @@
       "nodeAPIs": [
         "createLayouts"
       ],
-      "pluginFilepath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "pluginFilepath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "packageJson": {
         "name": "component-layout-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
@@ -90,13 +90,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "8a3bcf993811568bc17ab34ddb43ba2f",
+        "contentDigest": "83b3ef84dd45b0618414d6840d64411c",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
-      "resolve": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "Plugin internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -107,7 +107,7 @@
         "sourceNodes",
         "onCreatePage"
       ],
-      "pluginFilepath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -124,13 +124,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "8584a73aeecb2f5964271a3f43c78690",
+        "contentDigest": "933027b86865bd15ecf1c32c57c72bbd",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin dev-404-page": {
-      "resolve": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "Plugin dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -140,7 +140,7 @@
       "nodeAPIs": [
         "createPages"
       ],
-      "pluginFilepath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -157,13 +157,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "5ad0ed9a0ca91102910eceb94432d8ab",
+        "contentDigest": "fa9a5bcbba9f1048b348b6abbbd8e45d",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
-      "resolve": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "Plugin prod-404",
       "name": "prod-404",
       "version": "1.0.0",
@@ -173,7 +173,7 @@
       "nodeAPIs": [
         "onCreatePage"
       ],
-      "pluginFilepath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -190,13 +190,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "d512cac693f71d661afc4ca992bd7f51",
+        "contentDigest": "8d2b5e25888d2f4256648a84940d08af",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
-      "resolve": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "Plugin query-runner",
       "name": "query-runner",
       "version": "1.0.0",
@@ -207,7 +207,7 @@
         "onCreatePage",
         "onCreateLayout"
       ],
-      "pluginFilepath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -224,13 +224,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "42c9c3eb918bcfbb6d4278e3e567036a",
+        "contentDigest": "3ea0583c9b378bb0d5879e0245b0df49",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-react-helmet": {
-      "resolve": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby-plugin-react-helmet",
+      "resolve": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby-plugin-react-helmet",
       "id": "Plugin gatsby-plugin-react-helmet",
       "name": "gatsby-plugin-react-helmet",
       "version": "1.0.8",
@@ -238,7 +238,7 @@
         "plugins": []
       },
       "nodeAPIs": [],
-      "pluginFilepath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Stub description for gatsby-plugin-react-helmet",
@@ -278,13 +278,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "e8bec48c0024660096d32baa770707ef",
+        "contentDigest": "3868232f1da105175600e9c096f9db71",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-styled-components": {
-      "resolve": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby-plugin-styled-components",
+      "resolve": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby-plugin-styled-components",
       "id": "Plugin gatsby-plugin-styled-components",
       "name": "gatsby-plugin-styled-components",
       "version": "2.0.3",
@@ -292,7 +292,7 @@
         "plugins": []
       },
       "nodeAPIs": [],
-      "pluginFilepath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby-plugin-styled-components",
+      "pluginFilepath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby-plugin-styled-components",
       "packageJson": {
         "name": "gatsby-plugin-styled-components",
         "description": "Gatsby plugin to add support for styled components",
@@ -332,13 +332,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "d2a80e0abae953509d9e3ea6b9a68cec",
+        "contentDigest": "e8e39397c1f2213799328b2fe85748c2",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-source-contentful": {
-      "resolve": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby-source-contentful",
+      "resolve": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby-source-contentful",
       "id": "Plugin gatsby-source-contentful",
       "name": "gatsby-source-contentful",
       "version": "1.3.28",
@@ -352,7 +352,7 @@
         "sourceNodes",
         "onPreExtractQueries"
       ],
-      "pluginFilepath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby-source-contentful",
+      "pluginFilepath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby-source-contentful",
       "packageJson": {
         "name": "gatsby-source-contentful",
         "description": "Gatsby source plugin for building websites using the Contentful CMS as a data source",
@@ -423,13 +423,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "4ca30a4fb9a0678fdd995a27f9cf7e7e",
+        "contentDigest": "a68f9badff60bc3232e60956e0e84f89",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-transformer-remark": {
-      "resolve": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby-transformer-remark",
+      "resolve": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby-transformer-remark",
       "id": "Plugin gatsby-transformer-remark",
       "name": "gatsby-transformer-remark",
       "version": "1.7.23",
@@ -440,7 +440,7 @@
         "onCreateNode",
         "setFieldsOnGraphQLNodeType"
       ],
-      "pluginFilepath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby-transformer-remark",
+      "pluginFilepath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby-transformer-remark",
       "packageJson": {
         "name": "gatsby-transformer-remark",
         "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
@@ -547,13 +547,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "581744d442410cec938516ed53e783d0",
+        "contentDigest": "798892d89c81d57f2bd0736886456c41",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
-      "resolve": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo",
+      "resolve": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
       "version": "8273536552cc7e423cc59f533c6afa95",
@@ -561,7 +561,7 @@
         "plugins": []
       },
       "nodeAPIs": [],
-      "pluginFilepath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo",
+      "pluginFilepath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo",
       "packageJson": {
         "name": "gatsby-starter-default",
         "description": "Gatsby default starter",
@@ -619,7 +619,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "b1fa0bd563bfeee581cf216a101a75f2",
+        "contentDigest": "97eeb332ec994b10d48e72f7099f2acc",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -632,12 +632,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-12-12T13:40:08.958Z",
+      "buildTime": "2018-01-15T14:13:47.603Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "61d62ac61770165e649fc00fb1c53e13",
+        "contentDigest": "325633f86657a05ffb7c9258d612192b",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1080,6 +1080,66 @@
       },
       "node_locale": "en-US"
     },
+    "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode": {
+      "id": "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode",
+      "parent": "c2vusF4mPcAckEYiumkiG0M",
+      "children": [
+        "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode >>> MarkdownRemark"
+      ],
+      "openingParagraph": "some text here...",
+      "internal": {
+        "type": "contentfulNewsBlogOpeningParagraphTextNode",
+        "mediaType": "text/markdown",
+        "content": "some text here...",
+        "contentDigest": "94e599e956fa88b87a7937784d8b26c4",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode": {
+      "id": "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode",
+      "parent": "c2vusF4mPcAckEYiumkiG0M",
+      "children": [
+        "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode >>> MarkdownRemark"
+      ],
+      "fullArticleText": "dsfdsfsdfdsfdfd",
+      "internal": {
+        "type": "contentfulNewsBlogFullArticleTextTextNode",
+        "mediaType": "text/markdown",
+        "content": "dsfdsfsdfdsfdfd",
+        "contentDigest": "bbd2c0d66a281ce04d94e052e6873423",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode": {
+      "id": "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode",
+      "parent": "c2rVTX3qjvqiYqAkyOSAASA",
+      "children": [
+        "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode >>> MarkdownRemark"
+      ],
+      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa",
+      "internal": {
+        "type": "contentfulNewsBlogOpeningParagraphTextNode",
+        "mediaType": "text/markdown",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa",
+        "contentDigest": "5a1da7cc7c7941138e006919a0b072bd",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode": {
+      "id": "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode",
+      "parent": "c2rVTX3qjvqiYqAkyOSAASA",
+      "children": [
+        "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode >>> MarkdownRemark"
+      ],
+      "fullArticleText": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "internal": {
+        "type": "contentfulNewsBlogFullArticleTextTextNode",
+        "mediaType": "text/markdown",
+        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "contentDigest": "e4f53e7af4527326c34dcaca89fc1603",
+        "owner": "gatsby-source-contentful"
+      }
+    },
     "c69chYIzbvGOsgi6kKIE4MSopeningParagraphTextNode": {
       "id": "c69chYIzbvGOsgi6kKIE4MSopeningParagraphTextNode",
       "parent": "c69chYIzbvGOsgi6kKIE4MS",
@@ -1100,96 +1160,6 @@
       "parent": "c69chYIzbvGOsgi6kKIE4MS",
       "children": [
         "c69chYIzbvGOsgi6kKIE4MSfullArticleTextTextNode >>> MarkdownRemark"
-      ],
-      "fullArticleText": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "internal": {
-        "type": "contentfulNewsBlogFullArticleTextTextNode",
-        "mediaType": "text/markdown",
-        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "e4f53e7af4527326c34dcaca89fc1603",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c4mTIhNKGZq88IyUmauikm6openingParagraphTextNode": {
-      "id": "c4mTIhNKGZq88IyUmauikm6openingParagraphTextNode",
-      "parent": "c4mTIhNKGZq88IyUmauikm6",
-      "children": [
-        "c4mTIhNKGZq88IyUmauikm6openingParagraphTextNode >>> MarkdownRemark"
-      ],
-      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa",
-      "internal": {
-        "type": "contentfulNewsBlogOpeningParagraphTextNode",
-        "mediaType": "text/markdown",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa",
-        "contentDigest": "5a1da7cc7c7941138e006919a0b072bd",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c4mTIhNKGZq88IyUmauikm6fullArticleTextTextNode": {
-      "id": "c4mTIhNKGZq88IyUmauikm6fullArticleTextTextNode",
-      "parent": "c4mTIhNKGZq88IyUmauikm6",
-      "children": [
-        "c4mTIhNKGZq88IyUmauikm6fullArticleTextTextNode >>> MarkdownRemark"
-      ],
-      "fullArticleText": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "internal": {
-        "type": "contentfulNewsBlogFullArticleTextTextNode",
-        "mediaType": "text/markdown",
-        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "e4f53e7af4527326c34dcaca89fc1603",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c2TrNcgcinuI2UkiyA0Qs2gopeningParagraphTextNode": {
-      "id": "c2TrNcgcinuI2UkiyA0Qs2gopeningParagraphTextNode",
-      "parent": "c2TrNcgcinuI2UkiyA0Qs2g",
-      "children": [
-        "c2TrNcgcinuI2UkiyA0Qs2gopeningParagraphTextNode >>> MarkdownRemark"
-      ],
-      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
-      "internal": {
-        "type": "contentfulNewsBlogOpeningParagraphTextNode",
-        "mediaType": "text/markdown",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
-        "contentDigest": "6e311068f50b08e3ba1fcaad2f0318e1",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c2TrNcgcinuI2UkiyA0Qs2gfullArticleTextTextNode": {
-      "id": "c2TrNcgcinuI2UkiyA0Qs2gfullArticleTextTextNode",
-      "parent": "c2TrNcgcinuI2UkiyA0Qs2g",
-      "children": [
-        "c2TrNcgcinuI2UkiyA0Qs2gfullArticleTextTextNode >>> MarkdownRemark"
-      ],
-      "fullArticleText": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "internal": {
-        "type": "contentfulNewsBlogFullArticleTextTextNode",
-        "mediaType": "text/markdown",
-        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "e4f53e7af4527326c34dcaca89fc1603",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "FILM55vx6gOuoMaAm4QyQopeningParagraphTextNode": {
-      "id": "FILM55vx6gOuoMaAm4QyQopeningParagraphTextNode",
-      "parent": "FILM55vx6gOuoMaAm4QyQ",
-      "children": [
-        "FILM55vx6gOuoMaAm4QyQopeningParagraphTextNode >>> MarkdownRemark"
-      ],
-      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
-      "internal": {
-        "type": "contentfulNewsBlogOpeningParagraphTextNode",
-        "mediaType": "text/markdown",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
-        "contentDigest": "6e311068f50b08e3ba1fcaad2f0318e1",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "FILM55vx6gOuoMaAm4QyQfullArticleTextTextNode": {
-      "id": "FILM55vx6gOuoMaAm4QyQfullArticleTextTextNode",
-      "parent": "FILM55vx6gOuoMaAm4QyQ",
-      "children": [
-        "FILM55vx6gOuoMaAm4QyQfullArticleTextTextNode >>> MarkdownRemark"
       ],
       "fullArticleText": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "internal": {
@@ -1410,36 +1380,6 @@
         "owner": "gatsby-source-contentful"
       }
     },
-    "c5paskRvC2Q2i0MmcyK04SyopeningParagraphTextNode": {
-      "id": "c5paskRvC2Q2i0MmcyK04SyopeningParagraphTextNode",
-      "parent": "c5paskRvC2Q2i0MmcyK04Sy",
-      "children": [
-        "c5paskRvC2Q2i0MmcyK04SyopeningParagraphTextNode >>> MarkdownRemark"
-      ],
-      "openingParagraph": "This is the opening paragraph.................",
-      "internal": {
-        "type": "contentfulNewsBlogOpeningParagraphTextNode",
-        "mediaType": "text/markdown",
-        "content": "This is the opening paragraph.................",
-        "contentDigest": "fb1afbdffc08ce6776833ea277d52ae1",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c5paskRvC2Q2i0MmcyK04SyfullArticleTextTextNode": {
-      "id": "c5paskRvC2Q2i0MmcyK04SyfullArticleTextTextNode",
-      "parent": "c5paskRvC2Q2i0MmcyK04Sy",
-      "children": [
-        "c5paskRvC2Q2i0MmcyK04SyfullArticleTextTextNode >>> MarkdownRemark"
-      ],
-      "fullArticleText": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "internal": {
-        "type": "contentfulNewsBlogFullArticleTextTextNode",
-        "mediaType": "text/markdown",
-        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "e4f53e7af4527326c34dcaca89fc1603",
-        "owner": "gatsby-source-contentful"
-      }
-    },
     "News Blog": {
       "id": "News Blog",
       "parent": null,
@@ -1452,6 +1392,50 @@
         "contentDigest": "cbfa9324cb277bc391c70ccefa915b6b",
         "owner": "gatsby-source-contentful"
       }
+    },
+    "c2vusF4mPcAckEYiumkiG0M": {
+      "todaysDate": "2017-12-08",
+      "title": "New Post",
+      "openingSentence": "an opening sentence...",
+      "previewImage___NODE": "c4cQGTrz9KwUQqk4EKo246c",
+      "openingParagraph___NODE": "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode",
+      "fullArticleText___NODE": "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode",
+      "id": "c2vusF4mPcAckEYiumkiG0M",
+      "createdAt": "2017-12-08T10:42:46.679Z",
+      "updatedAt": "2017-12-08T10:42:46.679Z",
+      "parent": "News Blog",
+      "children": [
+        "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode",
+        "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulNewsBlog",
+        "contentDigest": "bdad6b931f1da6e826d0eac8f5a3a406",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c2rVTX3qjvqiYqAkyOSAASA": {
+      "todaysDate": "2017-12-06",
+      "title": "Deer Grazing",
+      "openingSentence": "It's a deer eating some grass",
+      "previewImage___NODE": "c4WlAFg8k8oSoYuI80QM2WK",
+      "openingParagraph___NODE": "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode",
+      "fullArticleText___NODE": "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode",
+      "id": "c2rVTX3qjvqiYqAkyOSAASA",
+      "createdAt": "2017-12-06T12:35:57.950Z",
+      "updatedAt": "2017-12-06T12:35:57.950Z",
+      "parent": "News Blog",
+      "children": [
+        "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode",
+        "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulNewsBlog",
+        "contentDigest": "28799a9eff2f0e9d9d6caeb2a31a93f3",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
     },
     "c69chYIzbvGOsgi6kKIE4MS": {
       "todaysDate": "2017-12-06",
@@ -1656,6 +1640,83 @@
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
+    },
+    "Hero Image": {
+      "id": "Hero Image",
+      "parent": null,
+      "children": [],
+      "name": "Hero Image",
+      "displayField": null,
+      "description": "Front Page Hero Image",
+      "internal": {
+        "type": "ContentfulContentType",
+        "contentDigest": "1dc5414e11659539034d78063335abef",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c7FdjctHVE4Iouuiu6mSG6C": {
+      "heroImage___NODE": "c3lrmkJDeruKiaAeAkmoG6W",
+      "id": "c7FdjctHVE4Iouuiu6mSG6C",
+      "createdAt": "2017-12-12T13:18:47.350Z",
+      "updatedAt": "2017-12-12T13:18:47.350Z",
+      "parent": "Hero Image",
+      "children": [],
+      "internal": {
+        "type": "ContentfulHeroImage",
+        "contentDigest": "814f9f204501d37c8322ff6bf8a9d47c",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c3lrmkJDeruKiaAeAkmoG6W": {
+      "id": "c3lrmkJDeruKiaAeAkmoG6W",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/ca5g612z8zfu/3lrmkJDeruKiaAeAkmoG6W/401f707aa77f003c68f4aa4123b7b139/hero3crop.jpg",
+        "details": {
+          "size": 722019,
+          "image": {
+            "width": 5472,
+            "height": 1101
+          }
+        },
+        "fileName": "hero3crop.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "Hero Image",
+      "description": "Front Page Hero Image",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "90e7f83635d1a299c809ee1c96920804",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c4cQGTrz9KwUQqk4EKo246c": {
+      "id": "c4cQGTrz9KwUQqk4EKo246c",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/ca5g612z8zfu/4cQGTrz9KwUQqk4EKo246c/cd0977bcd4e293e24a06584b3335067e/quebec-cottage-SMALL.jpg",
+        "details": {
+          "size": 148717,
+          "image": {
+            "width": 640,
+            "height": 427
+          }
+        },
+        "fileName": "quebec-cottage-SMALL.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "quebec-cottage-SMALL",
+      "description": "Quebec Cottage",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "7554e853c21f317efe86a81ac8597869",
+        "owner": "gatsby-source-contentful"
+      }
     },
     "c16Q5KoOTjq0Y6eQuE0aWU4": {
       "id": "c16Q5KoOTjq0Y6eQuE0aWU4",
@@ -2506,6 +2567,70 @@
         "parent": "c651CQ8rLoIYCeY6G0QG22qcompanyDescriptionTextNode"
       }
     },
+    "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode >>> MarkdownRemark": {
+      "id": "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode",
+      "internal": {
+        "content": "some text here...",
+        "contentDigest": "f869974ab67a9300ff8113fda1a2200e",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode",
+        "parent": "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode"
+      }
+    },
+    "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode >>> MarkdownRemark": {
+      "id": "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode",
+      "internal": {
+        "content": "dsfdsfsdfdsfdfd",
+        "contentDigest": "19f38343f6e006f975a361872188903e",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode",
+        "parent": "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode"
+      }
+    },
+    "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode >>> MarkdownRemark": {
+      "id": "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode",
+      "internal": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa",
+        "contentDigest": "70429362161d1424ef83820557dda398",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode",
+        "parent": "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode"
+      }
+    },
+    "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode >>> MarkdownRemark": {
+      "id": "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode",
+      "internal": {
+        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "contentDigest": "84eba81d18c3da5d8b7b53577529477e",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode",
+        "parent": "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode"
+      }
+    },
     "c69chYIzbvGOsgi6kKIE4MSopeningParagraphTextNode >>> MarkdownRemark": {
       "id": "c69chYIzbvGOsgi6kKIE4MSopeningParagraphTextNode >>> MarkdownRemark",
       "children": [],
@@ -2536,102 +2661,6 @@
         "title": "",
         "_PARENT": "c69chYIzbvGOsgi6kKIE4MSfullArticleTextTextNode",
         "parent": "c69chYIzbvGOsgi6kKIE4MSfullArticleTextTextNode"
-      }
-    },
-    "c4mTIhNKGZq88IyUmauikm6openingParagraphTextNode >>> MarkdownRemark": {
-      "id": "c4mTIhNKGZq88IyUmauikm6openingParagraphTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c4mTIhNKGZq88IyUmauikm6openingParagraphTextNode",
-      "internal": {
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa",
-        "contentDigest": "70429362161d1424ef83820557dda398",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c4mTIhNKGZq88IyUmauikm6openingParagraphTextNode",
-        "parent": "c4mTIhNKGZq88IyUmauikm6openingParagraphTextNode"
-      }
-    },
-    "c4mTIhNKGZq88IyUmauikm6fullArticleTextTextNode >>> MarkdownRemark": {
-      "id": "c4mTIhNKGZq88IyUmauikm6fullArticleTextTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c4mTIhNKGZq88IyUmauikm6fullArticleTextTextNode",
-      "internal": {
-        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "84eba81d18c3da5d8b7b53577529477e",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c4mTIhNKGZq88IyUmauikm6fullArticleTextTextNode",
-        "parent": "c4mTIhNKGZq88IyUmauikm6fullArticleTextTextNode"
-      }
-    },
-    "c2TrNcgcinuI2UkiyA0Qs2gopeningParagraphTextNode >>> MarkdownRemark": {
-      "id": "c2TrNcgcinuI2UkiyA0Qs2gopeningParagraphTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c2TrNcgcinuI2UkiyA0Qs2gopeningParagraphTextNode",
-      "internal": {
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
-        "contentDigest": "20e4df5cc5f47720c24a7804a37ba0eb",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c2TrNcgcinuI2UkiyA0Qs2gopeningParagraphTextNode",
-        "parent": "c2TrNcgcinuI2UkiyA0Qs2gopeningParagraphTextNode"
-      }
-    },
-    "c2TrNcgcinuI2UkiyA0Qs2gfullArticleTextTextNode >>> MarkdownRemark": {
-      "id": "c2TrNcgcinuI2UkiyA0Qs2gfullArticleTextTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c2TrNcgcinuI2UkiyA0Qs2gfullArticleTextTextNode",
-      "internal": {
-        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "84eba81d18c3da5d8b7b53577529477e",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c2TrNcgcinuI2UkiyA0Qs2gfullArticleTextTextNode",
-        "parent": "c2TrNcgcinuI2UkiyA0Qs2gfullArticleTextTextNode"
-      }
-    },
-    "FILM55vx6gOuoMaAm4QyQopeningParagraphTextNode >>> MarkdownRemark": {
-      "id": "FILM55vx6gOuoMaAm4QyQopeningParagraphTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "FILM55vx6gOuoMaAm4QyQopeningParagraphTextNode",
-      "internal": {
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
-        "contentDigest": "20e4df5cc5f47720c24a7804a37ba0eb",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "FILM55vx6gOuoMaAm4QyQopeningParagraphTextNode",
-        "parent": "FILM55vx6gOuoMaAm4QyQopeningParagraphTextNode"
-      }
-    },
-    "FILM55vx6gOuoMaAm4QyQfullArticleTextTextNode >>> MarkdownRemark": {
-      "id": "FILM55vx6gOuoMaAm4QyQfullArticleTextTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "FILM55vx6gOuoMaAm4QyQfullArticleTextTextNode",
-      "internal": {
-        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "84eba81d18c3da5d8b7b53577529477e",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "FILM55vx6gOuoMaAm4QyQfullArticleTextTextNode",
-        "parent": "FILM55vx6gOuoMaAm4QyQfullArticleTextTextNode"
       }
     },
     "EYibztPOACuaA6aSKi0WgopeningParagraphTextNode >>> MarkdownRemark": {
@@ -2858,301 +2887,24 @@
         "parent": "c67EOSEa42AUi4USW2iMsaUfullArticleTextTextNode"
       }
     },
-    "c5paskRvC2Q2i0MmcyK04SyopeningParagraphTextNode >>> MarkdownRemark": {
-      "id": "c5paskRvC2Q2i0MmcyK04SyopeningParagraphTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c5paskRvC2Q2i0MmcyK04SyopeningParagraphTextNode",
-      "internal": {
-        "content": "This is the opening paragraph.................",
-        "contentDigest": "cd1c0fb5349563dfbac723f007cd85fc",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c5paskRvC2Q2i0MmcyK04SyopeningParagraphTextNode",
-        "parent": "c5paskRvC2Q2i0MmcyK04SyopeningParagraphTextNode"
-      }
-    },
-    "c5paskRvC2Q2i0MmcyK04SyfullArticleTextTextNode >>> MarkdownRemark": {
-      "id": "c5paskRvC2Q2i0MmcyK04SyfullArticleTextTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c5paskRvC2Q2i0MmcyK04SyfullArticleTextTextNode",
-      "internal": {
-        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "84eba81d18c3da5d8b7b53577529477e",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c5paskRvC2Q2i0MmcyK04SyfullArticleTextTextNode",
-        "parent": "c5paskRvC2Q2i0MmcyK04SyfullArticleTextTextNode"
-      }
-    },
-    "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode": {
-      "id": "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode",
-      "parent": "c2rVTX3qjvqiYqAkyOSAASA",
-      "children": [
-        "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode >>> MarkdownRemark"
-      ],
-      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa",
-      "internal": {
-        "type": "contentfulNewsBlogOpeningParagraphTextNode",
-        "mediaType": "text/markdown",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa",
-        "contentDigest": "5a1da7cc7c7941138e006919a0b072bd",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode": {
-      "id": "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode",
-      "parent": "c2rVTX3qjvqiYqAkyOSAASA",
-      "children": [
-        "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode >>> MarkdownRemark"
-      ],
-      "fullArticleText": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "internal": {
-        "type": "contentfulNewsBlogFullArticleTextTextNode",
-        "mediaType": "text/markdown",
-        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "e4f53e7af4527326c34dcaca89fc1603",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c2rVTX3qjvqiYqAkyOSAASA": {
-      "todaysDate": "2017-12-06",
-      "title": "Deer Grazing",
-      "openingSentence": "It's a deer eating some grass",
-      "previewImage___NODE": "c4WlAFg8k8oSoYuI80QM2WK",
-      "openingParagraph___NODE": "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode",
-      "fullArticleText___NODE": "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode",
-      "id": "c2rVTX3qjvqiYqAkyOSAASA",
-      "createdAt": "2017-12-06T12:35:57.950Z",
-      "updatedAt": "2017-12-06T12:35:57.950Z",
-      "parent": "News Blog",
-      "children": [
-        "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode",
-        "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode"
-      ],
-      "internal": {
-        "type": "ContentfulNewsBlog",
-        "contentDigest": "28799a9eff2f0e9d9d6caeb2a31a93f3",
-        "owner": "gatsby-source-contentful"
-      },
-      "node_locale": "en-US"
-    },
-    "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode >>> MarkdownRemark": {
-      "id": "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode",
-      "internal": {
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa",
-        "contentDigest": "70429362161d1424ef83820557dda398",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode",
-        "parent": "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode"
-      }
-    },
-    "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode >>> MarkdownRemark": {
-      "id": "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode",
-      "internal": {
-        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "84eba81d18c3da5d8b7b53577529477e",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode",
-        "parent": "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode"
-      }
-    },
-    "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode": {
-      "id": "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode",
-      "parent": "c2vusF4mPcAckEYiumkiG0M",
-      "children": [
-        "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode >>> MarkdownRemark"
-      ],
-      "openingParagraph": "some text here...",
-      "internal": {
-        "type": "contentfulNewsBlogOpeningParagraphTextNode",
-        "mediaType": "text/markdown",
-        "content": "some text here...",
-        "contentDigest": "94e599e956fa88b87a7937784d8b26c4",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode": {
-      "id": "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode",
-      "parent": "c2vusF4mPcAckEYiumkiG0M",
-      "children": [
-        "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode >>> MarkdownRemark"
-      ],
-      "fullArticleText": "dsfdsfsdfdsfdfd",
-      "internal": {
-        "type": "contentfulNewsBlogFullArticleTextTextNode",
-        "mediaType": "text/markdown",
-        "content": "dsfdsfsdfdsfdfd",
-        "contentDigest": "bbd2c0d66a281ce04d94e052e6873423",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c2vusF4mPcAckEYiumkiG0M": {
-      "todaysDate": "2017-12-08",
-      "title": "New Post",
-      "openingSentence": "an opening sentence...",
-      "previewImage___NODE": "c4cQGTrz9KwUQqk4EKo246c",
-      "openingParagraph___NODE": "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode",
-      "fullArticleText___NODE": "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode",
-      "id": "c2vusF4mPcAckEYiumkiG0M",
-      "createdAt": "2017-12-08T10:42:46.679Z",
-      "updatedAt": "2017-12-08T10:42:46.679Z",
-      "parent": "News Blog",
-      "children": [
-        "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode",
-        "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode"
-      ],
-      "internal": {
-        "type": "ContentfulNewsBlog",
-        "contentDigest": "bdad6b931f1da6e826d0eac8f5a3a406",
-        "owner": "gatsby-source-contentful"
-      },
-      "node_locale": "en-US"
-    },
-    "c4cQGTrz9KwUQqk4EKo246c": {
-      "id": "c4cQGTrz9KwUQqk4EKo246c",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/ca5g612z8zfu/4cQGTrz9KwUQqk4EKo246c/cd0977bcd4e293e24a06584b3335067e/quebec-cottage-SMALL.jpg",
-        "details": {
-          "size": 148717,
-          "image": {
-            "width": 640,
-            "height": 427
-          }
-        },
-        "fileName": "quebec-cottage-SMALL.jpg",
-        "contentType": "image/jpeg"
-      },
-      "title": "quebec-cottage-SMALL",
-      "description": "Quebec Cottage",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "7554e853c21f317efe86a81ac8597869",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode >>> MarkdownRemark": {
-      "id": "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode",
-      "internal": {
-        "content": "some text here...",
-        "contentDigest": "f869974ab67a9300ff8113fda1a2200e",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode",
-        "parent": "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode"
-      }
-    },
-    "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode >>> MarkdownRemark": {
-      "id": "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode",
-      "internal": {
-        "content": "dsfdsfsdfdsfdfd",
-        "contentDigest": "19f38343f6e006f975a361872188903e",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode",
-        "parent": "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode"
-      }
-    },
-    "Hero Image": {
-      "id": "Hero Image",
-      "parent": null,
-      "children": [],
-      "name": "Hero Image",
-      "displayField": null,
-      "description": "Front Page Hero Image",
-      "internal": {
-        "type": "ContentfulContentType",
-        "contentDigest": "1dc5414e11659539034d78063335abef",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c7FdjctHVE4Iouuiu6mSG6C": {
-      "heroImage___NODE": "c3lrmkJDeruKiaAeAkmoG6W",
-      "id": "c7FdjctHVE4Iouuiu6mSG6C",
-      "createdAt": "2017-12-12T13:18:47.350Z",
-      "updatedAt": "2017-12-12T13:18:47.350Z",
-      "parent": "Hero Image",
-      "children": [],
-      "internal": {
-        "type": "ContentfulHeroImage",
-        "contentDigest": "814f9f204501d37c8322ff6bf8a9d47c",
-        "owner": "gatsby-source-contentful"
-      },
-      "node_locale": "en-US"
-    },
-    "c3lrmkJDeruKiaAeAkmoG6W": {
-      "id": "c3lrmkJDeruKiaAeAkmoG6W",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/ca5g612z8zfu/3lrmkJDeruKiaAeAkmoG6W/401f707aa77f003c68f4aa4123b7b139/hero3crop.jpg",
-        "details": {
-          "size": 722019,
-          "image": {
-            "width": 5472,
-            "height": 1101
-          }
-        },
-        "fileName": "hero3crop.jpg",
-        "contentType": "image/jpeg"
-      },
-      "title": "Hero Image",
-      "description": "Front Page Hero Image",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "90e7f83635d1a299c809ee1c96920804",
-        "owner": "gatsby-source-contentful"
-      }
-    },
     "SitePage /404/": {
       "layout": "index",
       "jsonName": "404.json",
       "internalComponentName": "Component404",
       "path": "/404/",
-      "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
+      "component": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1513086012072,
+      "updatedAt": 1516025632041,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
+      "componentPath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/src/pages/404.js",
       "id": "SitePage /404/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0413bb3b316ac77331b759d75d49b87d",
+        "contentDigest": "cb568b78b9cdb65bfe9ae61703384228",
         "owner": "internal-data-bridge"
       }
     },
@@ -3161,19 +2913,19 @@
       "jsonName": "bookings-accommodation.json",
       "internalComponentName": "ComponentBookingsAccommodation",
       "path": "/bookings-accommodation/",
-      "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/bookings-accommodation.js",
+      "component": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/src/pages/bookings-accommodation.js",
       "componentChunkName": "component---src-pages-bookings-accommodation-js",
       "context": {},
-      "updatedAt": 1513086012074,
+      "updatedAt": 1516025632043,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/bookings-accommodation.js",
+      "componentPath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/src/pages/bookings-accommodation.js",
       "id": "SitePage /bookings-accommodation/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "53a73dfd19541dd5f7063bd022e5b1f9",
+        "contentDigest": "8fad21b8c6a17102bfa0821ed0230170",
         "owner": "internal-data-bridge"
       }
     },
@@ -3182,19 +2934,19 @@
       "jsonName": "index.json",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
+      "component": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1513086012076,
+      "updatedAt": 1516025632044,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
+      "componentPath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/src/pages/index.js",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2a19d9b4faeb861876585ad6b4e46c36",
+        "contentDigest": "852e004cf8f6031d142f78d0bd40302c",
         "owner": "internal-data-bridge"
       }
     },
@@ -3203,40 +2955,19 @@
       "jsonName": "page-2.json",
       "internalComponentName": "ComponentPage2",
       "path": "/page-2/",
-      "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
+      "component": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/src/pages/page-2.js",
       "componentChunkName": "component---src-pages-page-2-js",
       "context": {},
-      "updatedAt": 1513086012078,
+      "updatedAt": 1516025632046,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
+      "componentPath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/src/pages/page-2.js",
       "id": "SitePage /page-2/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f3bf5f38964f569343c332bfa788377e",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /news-archive/": {
-      "layout": "index",
-      "jsonName": "news-archive.json",
-      "internalComponentName": "ComponentNewsArchive",
-      "path": "/news-archive/",
-      "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
-      "componentChunkName": "component---src-pages-news-archive-js",
-      "context": {},
-      "updatedAt": 1513086012079,
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
-      "id": "SitePage /news-archive/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "42cbab0603b72ee284894d8851654932",
+        "contentDigest": "72143d06e3377c925badb82bab2ee5b2",
         "owner": "internal-data-bridge"
       }
     },
@@ -3245,19 +2976,40 @@
       "jsonName": "404-html.json",
       "internalComponentName": "Component404Html",
       "path": "/404.html",
-      "component": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
+      "component": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1513086012081,
+      "updatedAt": 1516025632049,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "C:/Users/danno/Documents/webDev/my-websites/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
+      "componentPath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/src/pages/404.js",
       "id": "SitePage /404.html",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "beebc72e6757eec104f7ed13cc269df9",
+        "contentDigest": "0153b8cde8cffcd9312fec599996eeeb",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /news-archive/": {
+      "layout": "index",
+      "jsonName": "news-archive.json",
+      "internalComponentName": "ComponentNewsArchive",
+      "path": "/news-archive/",
+      "component": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/src/pages/news-archive.js",
+      "componentChunkName": "component---src-pages-news-archive-js",
+      "context": {},
+      "updatedAt": 1516025632054,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/src/pages/news-archive.js",
+      "id": "SitePage /news-archive/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3e2c09c593da3b49527bcc29185c377f",
         "owner": "internal-data-bridge"
       }
     }
@@ -3268,31 +3020,29 @@
         "ca5g612z8zfu": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybDtmlOw6LDiVXDhS_DsH7DkcKKwot2woLCuMKbG0sMWmPChsK5GDHDrMK4wozDnzgUMMKOAcOlAELDpcO_w7lQwolPw6DCjQTDp8OLfh9FwppdDBIiK8ORTMKow5kOwpI"
       }
     },
-    "PLUGINS_HASH": "37170e11b9b35129779ac356b48c805a"
+    "PLUGINS_HASH": "c0545c3e38141600158516db1a640fa5"
   },
   "componentDataDependencies": {
     "nodes": {
-      "c7hDoIb3xrGs2MIuASgYmY": [
+      "c4cQGTrz9KwUQqk4EKo246c": [
         "/",
         "/news-archive/"
       ],
-      "c3i8EIZSlVuYUC8M0AsiYcEopeningParagraphTextNode": [
+      "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode": [
         "/"
       ],
-      "c16Q5KoOTjq0Y6eQuE0aWU4": [
+      "c4WlAFg8k8oSoYuI80QM2WK": [
         "/",
         "/news-archive/"
       ],
-      "c6DmftTMHrGC4akOkm4aGyyopeningParagraphTextNode": [
+      "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode": [
         "/"
       ],
-      "c6Qv6CcGVZmmGwe8kamGKAK": [],
-      "c5paskRvC2Q2i0MmcyK04SyopeningParagraphTextNode": [],
-      "c4vUSRCAfTqcCYCMcCOSISE": [
+      "c2uqyFo9N8kYESGws4egoG4": [
         "/",
         "/news-archive/"
       ],
-      "c67EOSEa42AUi4USW2iMsaUopeningParagraphTextNode": [
+      "c69chYIzbvGOsgi6kKIE4MSopeningParagraphTextNode": [
         "/"
       ],
       "c5iK4YzQ50IA0ccsgUwem8o": [
@@ -3302,11 +3052,11 @@
       "EYibztPOACuaA6aSKi0WgopeningParagraphTextNode": [
         "/"
       ],
-      "c1jQ9u42vi8wgSwCag8koI0": [
+      "c16Q5KoOTjq0Y6eQuE0aWU4": [
         "/",
         "/news-archive/"
       ],
-      "c3aEQonjc8wMgsqUKeWYwEAopeningParagraphTextNode": [
+      "c6DmftTMHrGC4akOkm4aGyyopeningParagraphTextNode": [
         "/"
       ],
       "c6OQKqisUhyUAAIEuIaY0ok": [
@@ -3316,6 +3066,13 @@
       "c4kGErU9IRG8m420AKMuAMOopeningParagraphTextNode": [
         "/"
       ],
+      "c1jQ9u42vi8wgSwCag8koI0": [
+        "/",
+        "/news-archive/"
+      ],
+      "c3aEQonjc8wMgsqUKeWYwEAopeningParagraphTextNode": [
+        "/"
+      ],
       "c3265y7wpJecwQcO2cU4AqQ": [
         "/",
         "/news-archive/"
@@ -3323,91 +3080,21 @@
       "c1HBfgSkpPSCOUWOUa4iouaopeningParagraphTextNode": [
         "/"
       ],
-      "FILM55vx6gOuoMaAm4QyQopeningParagraphTextNode": [],
-      "c60WU9kWFbyW8swEemuemiS": [],
-      "c2TrNcgcinuI2UkiyA0Qs2gopeningParagraphTextNode": [],
-      "c4WlAFg8k8oSoYuI80QM2WK": [
+      "c7hDoIb3xrGs2MIuASgYmY": [
         "/",
         "/news-archive/"
       ],
-      "c4mTIhNKGZq88IyUmauikm6openingParagraphTextNode": [],
-      "c2uqyFo9N8kYESGws4egoG4": [
-        "/",
-        "/news-archive/"
-      ],
-      "c69chYIzbvGOsgi6kKIE4MSopeningParagraphTextNode": [
+      "c3i8EIZSlVuYUC8M0AsiYcEopeningParagraphTextNode": [
         "/"
       ],
-      "c3i8EIZSlVuYUC8M0AsiYcEfullArticleTextTextNode": [
-        "/news-archive/"
-      ],
-      "c3i8EIZSlVuYUC8M0AsiYcEfullArticleTextTextNode >>> MarkdownRemark": [
-        "/news-archive/"
-      ],
-      "c6DmftTMHrGC4akOkm4aGyyfullArticleTextTextNode": [
-        "/news-archive/"
-      ],
-      "c6DmftTMHrGC4akOkm4aGyyfullArticleTextTextNode >>> MarkdownRemark": [
-        "/news-archive/"
-      ],
-      "c5paskRvC2Q2i0MmcyK04SyfullArticleTextTextNode": [],
-      "c5paskRvC2Q2i0MmcyK04SyfullArticleTextTextNode >>> MarkdownRemark": [],
-      "c67EOSEa42AUi4USW2iMsaUfullArticleTextTextNode": [
-        "/news-archive/"
-      ],
-      "c67EOSEa42AUi4USW2iMsaUfullArticleTextTextNode >>> MarkdownRemark": [
-        "/news-archive/"
-      ],
-      "EYibztPOACuaA6aSKi0WgfullArticleTextTextNode": [
-        "/news-archive/"
-      ],
-      "EYibztPOACuaA6aSKi0WgfullArticleTextTextNode >>> MarkdownRemark": [
-        "/news-archive/"
-      ],
-      "c3aEQonjc8wMgsqUKeWYwEAfullArticleTextTextNode": [
-        "/news-archive/"
-      ],
-      "c3aEQonjc8wMgsqUKeWYwEAfullArticleTextTextNode >>> MarkdownRemark": [
-        "/news-archive/"
-      ],
-      "c4kGErU9IRG8m420AKMuAMOfullArticleTextTextNode": [
-        "/news-archive/"
-      ],
-      "c4kGErU9IRG8m420AKMuAMOfullArticleTextTextNode >>> MarkdownRemark": [
-        "/news-archive/"
-      ],
-      "c1HBfgSkpPSCOUWOUa4iouafullArticleTextTextNode": [
-        "/news-archive/"
-      ],
-      "c1HBfgSkpPSCOUWOUa4iouafullArticleTextTextNode >>> MarkdownRemark": [
-        "/news-archive/"
-      ],
-      "FILM55vx6gOuoMaAm4QyQfullArticleTextTextNode": [],
-      "FILM55vx6gOuoMaAm4QyQfullArticleTextTextNode >>> MarkdownRemark": [],
-      "c2TrNcgcinuI2UkiyA0Qs2gfullArticleTextTextNode": [],
-      "c2TrNcgcinuI2UkiyA0Qs2gfullArticleTextTextNode >>> MarkdownRemark": [],
-      "c4mTIhNKGZq88IyUmauikm6fullArticleTextTextNode": [],
-      "c4mTIhNKGZq88IyUmauikm6fullArticleTextTextNode >>> MarkdownRemark": [],
-      "c69chYIzbvGOsgi6kKIE4MSfullArticleTextTextNode": [
-        "/news-archive/"
-      ],
-      "c69chYIzbvGOsgi6kKIE4MSfullArticleTextTextNode >>> MarkdownRemark": [
-        "/news-archive/"
-      ],
-      "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode": [
-        "/"
-      ],
-      "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode": [
-        "/news-archive/"
-      ],
-      "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode >>> MarkdownRemark": [
-        "/news-archive/"
-      ],
-      "c4cQGTrz9KwUQqk4EKo246c": [
+      "c4vUSRCAfTqcCYCMcCOSISE": [
         "/",
         "/news-archive/"
       ],
-      "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode": [
+      "c67EOSEa42AUi4USW2iMsaUopeningParagraphTextNode": [
+        "/"
+      ],
+      "c3lrmkJDeruKiaAeAkmoG6W": [
         "/"
       ],
       "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode": [
@@ -3416,8 +3103,59 @@
       "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode >>> MarkdownRemark": [
         "/news-archive/"
       ],
-      "c3lrmkJDeruKiaAeAkmoG6W": [
-        "/"
+      "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode": [
+        "/news-archive/"
+      ],
+      "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode >>> MarkdownRemark": [
+        "/news-archive/"
+      ],
+      "c69chYIzbvGOsgi6kKIE4MSfullArticleTextTextNode": [
+        "/news-archive/"
+      ],
+      "c69chYIzbvGOsgi6kKIE4MSfullArticleTextTextNode >>> MarkdownRemark": [
+        "/news-archive/"
+      ],
+      "EYibztPOACuaA6aSKi0WgfullArticleTextTextNode": [
+        "/news-archive/"
+      ],
+      "EYibztPOACuaA6aSKi0WgfullArticleTextTextNode >>> MarkdownRemark": [
+        "/news-archive/"
+      ],
+      "c6DmftTMHrGC4akOkm4aGyyfullArticleTextTextNode": [
+        "/news-archive/"
+      ],
+      "c6DmftTMHrGC4akOkm4aGyyfullArticleTextTextNode >>> MarkdownRemark": [
+        "/news-archive/"
+      ],
+      "c4kGErU9IRG8m420AKMuAMOfullArticleTextTextNode": [
+        "/news-archive/"
+      ],
+      "c4kGErU9IRG8m420AKMuAMOfullArticleTextTextNode >>> MarkdownRemark": [
+        "/news-archive/"
+      ],
+      "c3aEQonjc8wMgsqUKeWYwEAfullArticleTextTextNode": [
+        "/news-archive/"
+      ],
+      "c3aEQonjc8wMgsqUKeWYwEAfullArticleTextTextNode >>> MarkdownRemark": [
+        "/news-archive/"
+      ],
+      "c1HBfgSkpPSCOUWOUa4iouafullArticleTextTextNode": [
+        "/news-archive/"
+      ],
+      "c1HBfgSkpPSCOUWOUa4iouafullArticleTextTextNode >>> MarkdownRemark": [
+        "/news-archive/"
+      ],
+      "c3i8EIZSlVuYUC8M0AsiYcEfullArticleTextTextNode": [
+        "/news-archive/"
+      ],
+      "c3i8EIZSlVuYUC8M0AsiYcEfullArticleTextTextNode >>> MarkdownRemark": [
+        "/news-archive/"
+      ],
+      "c67EOSEa42AUi4USW2iMsaUfullArticleTextTextNode": [
+        "/news-archive/"
+      ],
+      "c67EOSEa42AUi4USW2iMsaUfullArticleTextTextNode >>> MarkdownRemark": [
+        "/news-archive/"
       ]
     },
     "connections": {
@@ -3425,14 +3163,14 @@
         "/",
         "/news-archive/"
       ],
+      "ContentfulHeroImage": [
+        "/"
+      ],
       "ContentfulLogo": [
         "LAYOUT___index"
       ],
       "SitePage": [
         "/dev-404-page/"
-      ],
-      "ContentfulHeroImage": [
-        "/"
       ]
     }
   }
