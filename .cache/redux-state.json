@@ -5,24 +5,24 @@
       "jsonName": "dev-404-page.json",
       "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/.cache/dev-404-page.js",
+      "component": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1516025632030,
+      "updatedAt": 1516201264961,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/.cache/dev-404-page.js",
+      "componentPath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f32ccf4aae3763f34437e7000dce2fc5",
+        "contentDigest": "ae1ce4de650ada29a4b04c5bdf0e7de7",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-page-creator": {
-      "resolve": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "resolve": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "id": "Plugin component-page-creator",
       "name": "component-page-creator",
       "version": "1.0.0",
@@ -32,7 +32,7 @@
       "nodeAPIs": [
         "createPagesStatefully"
       ],
-      "pluginFilepath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "pluginFilepath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "packageJson": {
         "name": "component-page-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
@@ -53,13 +53,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "fa86ed28425b004373c1b9a79d14da38",
+        "contentDigest": "2afbad2d85627a67fe670e5aab06da09",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-layout-creator": {
-      "resolve": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "resolve": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "id": "Plugin component-layout-creator",
       "name": "component-layout-creator",
       "version": "1.0.0",
@@ -69,7 +69,7 @@
       "nodeAPIs": [
         "createLayouts"
       ],
-      "pluginFilepath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "pluginFilepath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "packageJson": {
         "name": "component-layout-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
@@ -90,13 +90,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "83b3ef84dd45b0618414d6840d64411c",
+        "contentDigest": "13a9ac66c3e837e40e9b29fc0ba0dc6d",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
-      "resolve": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "Plugin internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -107,7 +107,7 @@
         "sourceNodes",
         "onCreatePage"
       ],
-      "pluginFilepath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -124,13 +124,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "933027b86865bd15ecf1c32c57c72bbd",
+        "contentDigest": "7e46ba9de51057f17865f4a1b91bf671",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin dev-404-page": {
-      "resolve": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "Plugin dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -140,7 +140,7 @@
       "nodeAPIs": [
         "createPages"
       ],
-      "pluginFilepath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -157,13 +157,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "fa9a5bcbba9f1048b348b6abbbd8e45d",
+        "contentDigest": "801ae17bf2f2888a19b5bc4adda35941",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
-      "resolve": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "Plugin prod-404",
       "name": "prod-404",
       "version": "1.0.0",
@@ -173,7 +173,7 @@
       "nodeAPIs": [
         "onCreatePage"
       ],
-      "pluginFilepath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -190,13 +190,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "8d2b5e25888d2f4256648a84940d08af",
+        "contentDigest": "1dcd59cb22e2d9a5e4e5877a646c335d",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
-      "resolve": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "Plugin query-runner",
       "name": "query-runner",
       "version": "1.0.0",
@@ -207,7 +207,7 @@
         "onCreatePage",
         "onCreateLayout"
       ],
-      "pluginFilepath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -224,13 +224,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "3ea0583c9b378bb0d5879e0245b0df49",
+        "contentDigest": "d3b7418cffe3b539ab003d9d25b09e96",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-react-helmet": {
-      "resolve": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby-plugin-react-helmet",
+      "resolve": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby-plugin-react-helmet",
       "id": "Plugin gatsby-plugin-react-helmet",
       "name": "gatsby-plugin-react-helmet",
       "version": "1.0.8",
@@ -238,7 +238,7 @@
         "plugins": []
       },
       "nodeAPIs": [],
-      "pluginFilepath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Stub description for gatsby-plugin-react-helmet",
@@ -278,13 +278,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "3868232f1da105175600e9c096f9db71",
+        "contentDigest": "7ee83722ac169a06f803a79da8e99391",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-styled-components": {
-      "resolve": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby-plugin-styled-components",
+      "resolve": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby-plugin-styled-components",
       "id": "Plugin gatsby-plugin-styled-components",
       "name": "gatsby-plugin-styled-components",
       "version": "2.0.3",
@@ -292,7 +292,7 @@
         "plugins": []
       },
       "nodeAPIs": [],
-      "pluginFilepath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby-plugin-styled-components",
+      "pluginFilepath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby-plugin-styled-components",
       "packageJson": {
         "name": "gatsby-plugin-styled-components",
         "description": "Gatsby plugin to add support for styled components",
@@ -332,27 +332,27 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "e8e39397c1f2213799328b2fe85748c2",
+        "contentDigest": "a4f7c7b7a108e436fc012e9b48e7f331",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-source-contentful": {
-      "resolve": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby-source-contentful",
+      "resolve": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby-source-contentful",
       "id": "Plugin gatsby-source-contentful",
       "name": "gatsby-source-contentful",
       "version": "1.3.28",
       "pluginOptions": {
         "plugins": [],
-        "spaceId": "ca5g612z8zfu",
-        "accessToken": "aa230e6fa2c60d6fb1eb714b4949844b279249c2c151328c8c816386945a68f2"
+        "spaceId": "vs9k02isgfes",
+        "accessToken": "1a7cb78dfe4130d9fb157cb5baee3130ccfc3f078d6a1ab7ba299ea0d8683b4e"
       },
       "nodeAPIs": [
         "setFieldsOnGraphQLNodeType",
         "sourceNodes",
         "onPreExtractQueries"
       ],
-      "pluginFilepath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby-source-contentful",
+      "pluginFilepath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby-source-contentful",
       "packageJson": {
         "name": "gatsby-source-contentful",
         "description": "Gatsby source plugin for building websites using the Contentful CMS as a data source",
@@ -423,13 +423,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a68f9badff60bc3232e60956e0e84f89",
+        "contentDigest": "9a3293539063d70b2f995b507dfd1d3e",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-transformer-remark": {
-      "resolve": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby-transformer-remark",
+      "resolve": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby-transformer-remark",
       "id": "Plugin gatsby-transformer-remark",
       "name": "gatsby-transformer-remark",
       "version": "1.7.23",
@@ -440,7 +440,7 @@
         "onCreateNode",
         "setFieldsOnGraphQLNodeType"
       ],
-      "pluginFilepath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby-transformer-remark",
+      "pluginFilepath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby-transformer-remark",
       "packageJson": {
         "name": "gatsby-transformer-remark",
         "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
@@ -547,21 +547,21 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "798892d89c81d57f2bd0736886456c41",
+        "contentDigest": "b31d7bc395eef0864a01b89c2b0b782b",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
-      "resolve": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo",
+      "resolve": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "8273536552cc7e423cc59f533c6afa95",
+      "version": "f7426dd3c20d2e62f11d6252bddf5e06",
       "pluginOptions": {
         "plugins": []
       },
       "nodeAPIs": [],
-      "pluginFilepath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo",
+      "pluginFilepath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo",
       "packageJson": {
         "name": "gatsby-starter-default",
         "description": "Gatsby default starter",
@@ -619,7 +619,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "97eeb332ec994b10d48e72f7099f2acc",
+        "contentDigest": "05ccf2381ed53a40b80bd792d05b3ce8",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -632,221 +632,14 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-01-15T14:13:47.603Z",
+      "buildTime": "2018-01-17T15:00:59.566Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "325633f86657a05ffb7c9258d612192b",
+        "contentDigest": "6f4bd4be5e148f889f28deb4b82a8deb",
         "type": "Site",
         "owner": "internal-data-bridge"
-      }
-    },
-    "c6dbjWqNd9SqccegcqYq224productNameTextNode": {
-      "id": "c6dbjWqNd9SqccegcqYq224productNameTextNode",
-      "parent": "c6dbjWqNd9SqccegcqYq224",
-      "children": [
-        "c6dbjWqNd9SqccegcqYq224productNameTextNode >>> MarkdownRemark"
-      ],
-      "productName": "Whisk Beater",
-      "internal": {
-        "type": "contentfulProductProductNameTextNode",
-        "mediaType": "text/markdown",
-        "content": "Whisk Beater",
-        "contentDigest": "bfab59c3dba2ca3c2fce106049470741",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c6dbjWqNd9SqccegcqYq224productDescriptionTextNode": {
-      "id": "c6dbjWqNd9SqccegcqYq224productDescriptionTextNode",
-      "parent": "c6dbjWqNd9SqccegcqYq224",
-      "children": [
-        "c6dbjWqNd9SqccegcqYq224productDescriptionTextNode >>> MarkdownRemark"
-      ],
-      "productDescription": "A creative little whisk that comes in 8 different colors. Handy and easy to clean after use. A great gift idea.",
-      "internal": {
-        "type": "contentfulProductProductDescriptionTextNode",
-        "mediaType": "text/markdown",
-        "content": "A creative little whisk that comes in 8 different colors. Handy and easy to clean after use. A great gift idea.",
-        "contentDigest": "223b5836966aa0ab2c43a9a870e7a631",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c3DVqIYj4dOwwcKu6sgqOggproductNameTextNode": {
-      "id": "c3DVqIYj4dOwwcKu6sgqOggproductNameTextNode",
-      "parent": "c3DVqIYj4dOwwcKu6sgqOgg",
-      "children": [
-        "c3DVqIYj4dOwwcKu6sgqOggproductNameTextNode >>> MarkdownRemark"
-      ],
-      "productName": "Hudson Wall Cup",
-      "internal": {
-        "type": "contentfulProductProductNameTextNode",
-        "mediaType": "text/markdown",
-        "content": "Hudson Wall Cup",
-        "contentDigest": "927daa584fb961e59edbd07f921b916c",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c3DVqIYj4dOwwcKu6sgqOggproductDescriptionTextNode": {
-      "id": "c3DVqIYj4dOwwcKu6sgqOggproductDescriptionTextNode",
-      "parent": "c3DVqIYj4dOwwcKu6sgqOgg",
-      "children": [
-        "c3DVqIYj4dOwwcKu6sgqOggproductDescriptionTextNode >>> MarkdownRemark"
-      ],
-      "productDescription": "Wall Hanging Glass Flower Vase and Terrarium",
-      "internal": {
-        "type": "contentfulProductProductDescriptionTextNode",
-        "mediaType": "text/markdown",
-        "content": "Wall Hanging Glass Flower Vase and Terrarium",
-        "contentDigest": "da605021a35b1da89c6810fb46275a58",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "Product": {
-      "id": "Product",
-      "parent": null,
-      "children": [],
-      "name": "Product",
-      "displayField": "productName",
-      "description": null,
-      "internal": {
-        "type": "ContentfulContentType",
-        "contentDigest": "d9822da16231c6bd9df08d882174266f",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c6dbjWqNd9SqccegcqYq224": {
-      "slug": "whisk-beater",
-      "sizetypecolor": "0.8 x 0.8 x 11.2 inches; 1.6 ounces",
-      "tags": [
-        "kitchen",
-        "accessories",
-        "whisk",
-        "scandinavia",
-        "design"
-      ],
-      "price": 22,
-      "quantity": 89,
-      "sku": "B0081F2CCK",
-      "website": "http://www.amazon.com/dp/B0081F2CCK/",
-      "image___NODE": [
-        "c10TkaLheGeQG6qQGqWYqUI"
-      ],
-      "categories___NODE": [
-        "c7LAnCobuuWYSqks6wAwY2a"
-      ],
-      "brand___NODE": "c651CQ8rLoIYCeY6G0QG22q",
-      "productName___NODE": "c6dbjWqNd9SqccegcqYq224productNameTextNode",
-      "productDescription___NODE": "c6dbjWqNd9SqccegcqYq224productDescriptionTextNode",
-      "id": "c6dbjWqNd9SqccegcqYq224",
-      "createdAt": "2017-11-23T13:20:36.905Z",
-      "updatedAt": "2017-11-23T13:20:36.905Z",
-      "parent": "Product",
-      "children": [
-        "c6dbjWqNd9SqccegcqYq224productNameTextNode",
-        "c6dbjWqNd9SqccegcqYq224productDescriptionTextNode"
-      ],
-      "internal": {
-        "type": "ContentfulProduct",
-        "contentDigest": "62f89eca46abc95df658bb174ac12cd1",
-        "owner": "gatsby-source-contentful"
-      },
-      "node_locale": "en-US"
-    },
-    "c3DVqIYj4dOwwcKu6sgqOgg": {
-      "slug": "hudson-wall-cup",
-      "sizetypecolor": "3 x 3 x 5 inches; 5.3 ounces",
-      "tags": [
-        "vase",
-        "flowers",
-        "accessories"
-      ],
-      "price": 11,
-      "quantity": 101,
-      "sku": "B00E82D7I8",
-      "website": "http://www.amazon.com/dp/B00E82D7I8/",
-      "image___NODE": [
-        "Xc0ny7GWsMEMCeASWO2um"
-      ],
-      "categories___NODE": [
-        "c7LAnCobuuWYSqks6wAwY2a"
-      ],
-      "brand___NODE": "c651CQ8rLoIYCeY6G0QG22q",
-      "productName___NODE": "c3DVqIYj4dOwwcKu6sgqOggproductNameTextNode",
-      "productDescription___NODE": "c3DVqIYj4dOwwcKu6sgqOggproductDescriptionTextNode",
-      "id": "c3DVqIYj4dOwwcKu6sgqOgg",
-      "createdAt": "2017-11-23T13:20:36.898Z",
-      "updatedAt": "2017-11-23T13:20:36.898Z",
-      "parent": "Product",
-      "children": [
-        "c3DVqIYj4dOwwcKu6sgqOggproductNameTextNode",
-        "c3DVqIYj4dOwwcKu6sgqOggproductDescriptionTextNode"
-      ],
-      "internal": {
-        "type": "ContentfulProduct",
-        "contentDigest": "d47ac383f89067a2e8aea584863b5858",
-        "owner": "gatsby-source-contentful"
-      },
-      "node_locale": "en-US"
-    },
-    "c24DPGBDeGEaYy8ms4Y8QMQtitleTextNode": {
-      "id": "c24DPGBDeGEaYy8ms4Y8QMQtitleTextNode",
-      "parent": "c24DPGBDeGEaYy8ms4Y8QMQ",
-      "children": [
-        "c24DPGBDeGEaYy8ms4Y8QMQtitleTextNode >>> MarkdownRemark"
-      ],
-      "title": "Toys",
-      "internal": {
-        "type": "contentfulCategoryTitleTextNode",
-        "mediaType": "text/markdown",
-        "content": "Toys",
-        "contentDigest": "66d0af2d5da0109dc2aae67829f7d4d4",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c24DPGBDeGEaYy8ms4Y8QMQcategoryDescriptionTextNode": {
-      "id": "c24DPGBDeGEaYy8ms4Y8QMQcategoryDescriptionTextNode",
-      "parent": "c24DPGBDeGEaYy8ms4Y8QMQ",
-      "children": [
-        "c24DPGBDeGEaYy8ms4Y8QMQcategoryDescriptionTextNode >>> MarkdownRemark"
-      ],
-      "categoryDescription": "Shop for toys, games, educational aids",
-      "internal": {
-        "type": "contentfulCategoryCategoryDescriptionTextNode",
-        "mediaType": "text/markdown",
-        "content": "Shop for toys, games, educational aids",
-        "contentDigest": "c3cd3eaea58a115e968573664df3a603",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c7LAnCobuuWYSqks6wAwY2atitleTextNode": {
-      "id": "c7LAnCobuuWYSqks6wAwY2atitleTextNode",
-      "parent": "c7LAnCobuuWYSqks6wAwY2a",
-      "children": [
-        "c7LAnCobuuWYSqks6wAwY2atitleTextNode >>> MarkdownRemark"
-      ],
-      "title": "Home & Kitchen",
-      "internal": {
-        "type": "contentfulCategoryTitleTextNode",
-        "mediaType": "text/markdown",
-        "content": "Home & Kitchen",
-        "contentDigest": "71520a45fe8b5ecded737e074a6b30a0",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c7LAnCobuuWYSqks6wAwY2acategoryDescriptionTextNode": {
-      "id": "c7LAnCobuuWYSqks6wAwY2acategoryDescriptionTextNode",
-      "parent": "c7LAnCobuuWYSqks6wAwY2a",
-      "children": [
-        "c7LAnCobuuWYSqks6wAwY2acategoryDescriptionTextNode >>> MarkdownRemark"
-      ],
-      "categoryDescription": "Shop for furniture, bedding, bath, vacuums, kitchen products, and more",
-      "internal": {
-        "type": "contentfulCategoryCategoryDescriptionTextNode",
-        "mediaType": "text/markdown",
-        "content": "Shop for furniture, bedding, bath, vacuums, kitchen products, and more",
-        "contentDigest": "24709e2bdb88b89104c215e6b5492bf8",
-        "owner": "gatsby-source-contentful"
       }
     },
     "Category": {
@@ -859,138 +652,6 @@
       "internal": {
         "type": "ContentfulContentType",
         "contentDigest": "0418f4c2792c0c223b79211e81387e4d",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c24DPGBDeGEaYy8ms4Y8QMQ": {
-      "icon___NODE": "c6t4HKjytPi0mYgs240wkG",
-      "title___NODE": "c24DPGBDeGEaYy8ms4Y8QMQtitleTextNode",
-      "categoryDescription___NODE": "c24DPGBDeGEaYy8ms4Y8QMQcategoryDescriptionTextNode",
-      "id": "c24DPGBDeGEaYy8ms4Y8QMQ",
-      "createdAt": "2017-11-23T13:20:37.872Z",
-      "updatedAt": "2017-11-23T13:20:37.872Z",
-      "parent": "Category",
-      "children": [
-        "c24DPGBDeGEaYy8ms4Y8QMQtitleTextNode",
-        "c24DPGBDeGEaYy8ms4Y8QMQcategoryDescriptionTextNode"
-      ],
-      "internal": {
-        "type": "ContentfulCategory",
-        "contentDigest": "5c3ddad73fc5af65f926c35c1b5c4449",
-        "owner": "gatsby-source-contentful"
-      },
-      "node_locale": "en-US"
-    },
-    "c7LAnCobuuWYSqks6wAwY2a": {
-      "icon___NODE": "c6m5AJ9vMPKc8OUoQeoCS4o",
-      "product___NODE": [
-        "c6dbjWqNd9SqccegcqYq224",
-        "c3DVqIYj4dOwwcKu6sgqOgg"
-      ],
-      "title___NODE": "c7LAnCobuuWYSqks6wAwY2atitleTextNode",
-      "categoryDescription___NODE": "c7LAnCobuuWYSqks6wAwY2acategoryDescriptionTextNode",
-      "id": "c7LAnCobuuWYSqks6wAwY2a",
-      "createdAt": "2017-11-23T13:20:37.503Z",
-      "updatedAt": "2017-11-23T13:20:37.503Z",
-      "parent": "Category",
-      "children": [
-        "c7LAnCobuuWYSqks6wAwY2atitleTextNode",
-        "c7LAnCobuuWYSqks6wAwY2acategoryDescriptionTextNode"
-      ],
-      "internal": {
-        "type": "ContentfulCategory",
-        "contentDigest": "30baeecdd8b2e32ca046a2c3dec8d43c",
-        "owner": "gatsby-source-contentful"
-      },
-      "node_locale": "en-US"
-    },
-    "JrePkDVYomE8AwcuCUyMicompanyNameTextNode": {
-      "id": "JrePkDVYomE8AwcuCUyMicompanyNameTextNode",
-      "parent": "JrePkDVYomE8AwcuCUyMi",
-      "children": [
-        "JrePkDVYomE8AwcuCUyMicompanyNameTextNode >>> MarkdownRemark"
-      ],
-      "companyName": "Playsam",
-      "internal": {
-        "type": "contentfulBrandCompanyNameTextNode",
-        "mediaType": "text/markdown",
-        "content": "Playsam",
-        "contentDigest": "1d2de5c3096635ca01f6ab4131252039",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "JrePkDVYomE8AwcuCUyMicompanyDescriptionTextNode": {
-      "id": "JrePkDVYomE8AwcuCUyMicompanyDescriptionTextNode",
-      "parent": "JrePkDVYomE8AwcuCUyMi",
-      "children": [
-        "JrePkDVYomE8AwcuCUyMicompanyDescriptionTextNode >>> MarkdownRemark"
-      ],
-      "companyDescription": "Playsam is the leading Scandinavian design company for executive wooden toy gift. Scandinavian design playful creativity, integrity and sophistication are Playsam. Scandinavian design and wooden toy makes Playsam gift lovely to the world of design since 1984.",
-      "internal": {
-        "type": "contentfulBrandCompanyDescriptionTextNode",
-        "mediaType": "text/markdown",
-        "content": "Playsam is the leading Scandinavian design company for executive wooden toy gift. Scandinavian design playful creativity, integrity and sophistication are Playsam. Scandinavian design and wooden toy makes Playsam gift lovely to the world of design since 1984.",
-        "contentDigest": "f27a71b7f2ee9eabad3335e0c03da951",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c4LgMotpNF6W20YKmuemW0acompanyNameTextNode": {
-      "id": "c4LgMotpNF6W20YKmuemW0acompanyNameTextNode",
-      "parent": "c4LgMotpNF6W20YKmuemW0a",
-      "children": [
-        "c4LgMotpNF6W20YKmuemW0acompanyNameTextNode >>> MarkdownRemark"
-      ],
-      "companyName": "Lemnos",
-      "internal": {
-        "type": "contentfulBrandCompanyNameTextNode",
-        "mediaType": "text/markdown",
-        "content": "Lemnos",
-        "contentDigest": "7b0e3f7cc613d34aafa689516e96056e",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c4LgMotpNF6W20YKmuemW0acompanyDescriptionTextNode": {
-      "id": "c4LgMotpNF6W20YKmuemW0acompanyDescriptionTextNode",
-      "parent": "c4LgMotpNF6W20YKmuemW0a",
-      "children": [
-        "c4LgMotpNF6W20YKmuemW0acompanyDescriptionTextNode >>> MarkdownRemark"
-      ],
-      "companyDescription": "TAKATA Lemnos Inc. was founded in 1947 as a brass casting manufacturing industry in Takaoka-city, Toyama Prefecture, Japan and we launched out into the full-scale business trade with Seiko Clock Co., Ltd. since 1966.\n\nWe entered into the development for the original planning from late 1980 and \"Lemnos Brand\" recognized as the global design clock by a masterpiece \"HOLA\" designed by Kazuo KAWASAKI which released in 1989.\n\nAfterwards, we made a lot of projects with well-known designers who took in active in Japan and overseas such as Riki WATANABE, Kazuo KAWASAKI, Shin AZUMI, Tomoko AZUMI, Kanae TSUKAMOTO etc. and we made announcement of their fine works abounding in artistry and prominent designs. In addition, we realized to make a special project by the collaboration with Andrea Branzi, a well-known architect in the world.\n\nLemnos brand products are now highly praised from the design shops and the interior shops all over the world.\n\nIn recent years, we also have been given high priority to develop interior accessories making full use of our traditional techniques by the founding manufacturer and we always focus our minds on the development for the new Lemnos products in the new market.\n\nOur Lemnos products are made carefully by our craftsmen finely honed skillful techniques in Japan. They surely bring out the attractiveness of the materials to the maximum and create fine products not being influenced on the fashion trend accordingly. TAKATA Lemnos Inc. definitely would like to be innovative and continuously propose the beauty lasts forever.",
-      "internal": {
-        "type": "contentfulBrandCompanyDescriptionTextNode",
-        "mediaType": "text/markdown",
-        "content": "TAKATA Lemnos Inc. was founded in 1947 as a brass casting manufacturing industry in Takaoka-city, Toyama Prefecture, Japan and we launched out into the full-scale business trade with Seiko Clock Co., Ltd. since 1966.\n\nWe entered into the development for the original planning from late 1980 and \"Lemnos Brand\" recognized as the global design clock by a masterpiece \"HOLA\" designed by Kazuo KAWASAKI which released in 1989.\n\nAfterwards, we made a lot of projects with well-known designers who took in active in Japan and overseas such as Riki WATANABE, Kazuo KAWASAKI, Shin AZUMI, Tomoko AZUMI, Kanae TSUKAMOTO etc. and we made announcement of their fine works abounding in artistry and prominent designs. In addition, we realized to make a special project by the collaboration with Andrea Branzi, a well-known architect in the world.\n\nLemnos brand products are now highly praised from the design shops and the interior shops all over the world.\n\nIn recent years, we also have been given high priority to develop interior accessories making full use of our traditional techniques by the founding manufacturer and we always focus our minds on the development for the new Lemnos products in the new market.\n\nOur Lemnos products are made carefully by our craftsmen finely honed skillful techniques in Japan. They surely bring out the attractiveness of the materials to the maximum and create fine products not being influenced on the fashion trend accordingly. TAKATA Lemnos Inc. definitely would like to be innovative and continuously propose the beauty lasts forever.",
-        "contentDigest": "fa3b5588d6eb6ed5a367ea48e5e47be2",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c651CQ8rLoIYCeY6G0QG22qcompanyNameTextNode": {
-      "id": "c651CQ8rLoIYCeY6G0QG22qcompanyNameTextNode",
-      "parent": "c651CQ8rLoIYCeY6G0QG22q",
-      "children": [
-        "c651CQ8rLoIYCeY6G0QG22qcompanyNameTextNode >>> MarkdownRemark"
-      ],
-      "companyName": "Normann Copenhagen",
-      "internal": {
-        "type": "contentfulBrandCompanyNameTextNode",
-        "mediaType": "text/markdown",
-        "content": "Normann Copenhagen",
-        "contentDigest": "5fb9d019c3646f6fee84172952337463",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c651CQ8rLoIYCeY6G0QG22qcompanyDescriptionTextNode": {
-      "id": "c651CQ8rLoIYCeY6G0QG22qcompanyDescriptionTextNode",
-      "parent": "c651CQ8rLoIYCeY6G0QG22q",
-      "children": [
-        "c651CQ8rLoIYCeY6G0QG22qcompanyDescriptionTextNode >>> MarkdownRemark"
-      ],
-      "companyDescription": "Normann Copenhagen is a way of living - a mindset. We love to challenge the conventional design rules. This is why you will find traditional materials put into untraditional use such as a Stone Hook made of Icelandic stones, a vase made out of silicon and last but not least a dog made out of plastic.",
-      "internal": {
-        "type": "contentfulBrandCompanyDescriptionTextNode",
-        "mediaType": "text/markdown",
-        "content": "Normann Copenhagen is a way of living - a mindset. We love to challenge the conventional design rules. This is why you will find traditional materials put into untraditional use such as a Stone Hook made of Icelandic stones, a vase made out of silicon and last but not least a dog made out of plastic.",
-        "contentDigest": "8010f6e93f3a7dbca56c041a46d4ab77",
         "owner": "gatsby-source-contentful"
       }
     },
@@ -1007,376 +668,16 @@
         "owner": "gatsby-source-contentful"
       }
     },
-    "JrePkDVYomE8AwcuCUyMi": {
-      "website": "http://playsam.com/",
-      "logo___NODE": "c4zj1ZOfHgQ8oqgaSKm4Qo2",
-      "companyName___NODE": "JrePkDVYomE8AwcuCUyMicompanyNameTextNode",
-      "companyDescription___NODE": "JrePkDVYomE8AwcuCUyMicompanyDescriptionTextNode",
-      "id": "JrePkDVYomE8AwcuCUyMi",
-      "createdAt": "2017-11-23T13:20:37.678Z",
-      "updatedAt": "2017-11-23T13:20:37.678Z",
-      "parent": "Brand",
-      "children": [
-        "JrePkDVYomE8AwcuCUyMicompanyNameTextNode",
-        "JrePkDVYomE8AwcuCUyMicompanyDescriptionTextNode"
-      ],
+    "Product": {
+      "id": "Product",
+      "parent": null,
+      "children": [],
+      "name": "Product",
+      "displayField": "productName",
+      "description": null,
       "internal": {
-        "type": "ContentfulBrand",
-        "contentDigest": "a67a5a3dfe3d7f26d8ac8f560a7216db",
-        "owner": "gatsby-source-contentful"
-      },
-      "node_locale": "en-US"
-    },
-    "c4LgMotpNF6W20YKmuemW0a": {
-      "website": "http://www.lemnos.jp/en/",
-      "email": "info@acgears.com",
-      "phone": [
-        "+1 212 260 2269"
-      ],
-      "logo___NODE": "c2Y8LhXLnYAYqKCGEWG4EKI",
-      "companyName___NODE": "c4LgMotpNF6W20YKmuemW0acompanyNameTextNode",
-      "companyDescription___NODE": "c4LgMotpNF6W20YKmuemW0acompanyDescriptionTextNode",
-      "id": "c4LgMotpNF6W20YKmuemW0a",
-      "createdAt": "2017-11-23T13:20:37.575Z",
-      "updatedAt": "2017-11-23T13:20:37.575Z",
-      "parent": "Brand",
-      "children": [
-        "c4LgMotpNF6W20YKmuemW0acompanyNameTextNode",
-        "c4LgMotpNF6W20YKmuemW0acompanyDescriptionTextNode"
-      ],
-      "internal": {
-        "type": "ContentfulBrand",
-        "contentDigest": "5398997dcd5661523068950b8d902314",
-        "owner": "gatsby-source-contentful"
-      },
-      "node_locale": "en-US"
-    },
-    "c651CQ8rLoIYCeY6G0QG22q": {
-      "website": "http://www.normann-copenhagen.com/",
-      "twitter": "https://twitter.com/NormannCPH",
-      "email": "normann@normann-copenhagen.com",
-      "phone": [
-        "+45 35 55 44 59"
-      ],
-      "logo___NODE": "c3wtvPBbBjiMKqKKga8I2Cu",
-      "product___NODE": [
-        "c6dbjWqNd9SqccegcqYq224",
-        "c3DVqIYj4dOwwcKu6sgqOgg"
-      ],
-      "companyName___NODE": "c651CQ8rLoIYCeY6G0QG22qcompanyNameTextNode",
-      "companyDescription___NODE": "c651CQ8rLoIYCeY6G0QG22qcompanyDescriptionTextNode",
-      "id": "c651CQ8rLoIYCeY6G0QG22q",
-      "createdAt": "2017-11-23T13:20:37.213Z",
-      "updatedAt": "2017-11-23T13:20:37.213Z",
-      "parent": "Brand",
-      "children": [
-        "c651CQ8rLoIYCeY6G0QG22qcompanyNameTextNode",
-        "c651CQ8rLoIYCeY6G0QG22qcompanyDescriptionTextNode"
-      ],
-      "internal": {
-        "type": "ContentfulBrand",
-        "contentDigest": "f0ea29eaaa583f14089676d8b63d6c3d",
-        "owner": "gatsby-source-contentful"
-      },
-      "node_locale": "en-US"
-    },
-    "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode": {
-      "id": "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode",
-      "parent": "c2vusF4mPcAckEYiumkiG0M",
-      "children": [
-        "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode >>> MarkdownRemark"
-      ],
-      "openingParagraph": "some text here...",
-      "internal": {
-        "type": "contentfulNewsBlogOpeningParagraphTextNode",
-        "mediaType": "text/markdown",
-        "content": "some text here...",
-        "contentDigest": "94e599e956fa88b87a7937784d8b26c4",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode": {
-      "id": "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode",
-      "parent": "c2vusF4mPcAckEYiumkiG0M",
-      "children": [
-        "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode >>> MarkdownRemark"
-      ],
-      "fullArticleText": "dsfdsfsdfdsfdfd",
-      "internal": {
-        "type": "contentfulNewsBlogFullArticleTextTextNode",
-        "mediaType": "text/markdown",
-        "content": "dsfdsfsdfdsfdfd",
-        "contentDigest": "bbd2c0d66a281ce04d94e052e6873423",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode": {
-      "id": "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode",
-      "parent": "c2rVTX3qjvqiYqAkyOSAASA",
-      "children": [
-        "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode >>> MarkdownRemark"
-      ],
-      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa",
-      "internal": {
-        "type": "contentfulNewsBlogOpeningParagraphTextNode",
-        "mediaType": "text/markdown",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa",
-        "contentDigest": "5a1da7cc7c7941138e006919a0b072bd",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode": {
-      "id": "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode",
-      "parent": "c2rVTX3qjvqiYqAkyOSAASA",
-      "children": [
-        "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode >>> MarkdownRemark"
-      ],
-      "fullArticleText": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "internal": {
-        "type": "contentfulNewsBlogFullArticleTextTextNode",
-        "mediaType": "text/markdown",
-        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "e4f53e7af4527326c34dcaca89fc1603",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c69chYIzbvGOsgi6kKIE4MSopeningParagraphTextNode": {
-      "id": "c69chYIzbvGOsgi6kKIE4MSopeningParagraphTextNode",
-      "parent": "c69chYIzbvGOsgi6kKIE4MS",
-      "children": [
-        "c69chYIzbvGOsgi6kKIE4MSopeningParagraphTextNode >>> MarkdownRemark"
-      ],
-      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in ralskdjhfdfjkhsdjfakjfdakj aljkdfhalfjh aljkh akjf ha kjhfadf jj;a ajkhdfj ;jhadkjhf a;jk a;jdfa ;ajkdsf;hahsf a;ljdf;asd;lf   a;dlkf; aldfjks.",
-      "internal": {
-        "type": "contentfulNewsBlogOpeningParagraphTextNode",
-        "mediaType": "text/markdown",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in ralskdjhfdfjkhsdjfakjfdakj aljkdfhalfjh aljkh akjf ha kjhfadf jj;a ajkhdfj ;jhadkjhf a;jk a;jdfa ;ajkdsf;hahsf a;ljdf;asd;lf   a;dlkf; aldfjks.",
-        "contentDigest": "360e82a90b40f6132842dde75e6400c1",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c69chYIzbvGOsgi6kKIE4MSfullArticleTextTextNode": {
-      "id": "c69chYIzbvGOsgi6kKIE4MSfullArticleTextTextNode",
-      "parent": "c69chYIzbvGOsgi6kKIE4MS",
-      "children": [
-        "c69chYIzbvGOsgi6kKIE4MSfullArticleTextTextNode >>> MarkdownRemark"
-      ],
-      "fullArticleText": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "internal": {
-        "type": "contentfulNewsBlogFullArticleTextTextNode",
-        "mediaType": "text/markdown",
-        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "e4f53e7af4527326c34dcaca89fc1603",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "EYibztPOACuaA6aSKi0WgopeningParagraphTextNode": {
-      "id": "EYibztPOACuaA6aSKi0WgopeningParagraphTextNode",
-      "parent": "EYibztPOACuaA6aSKi0Wg",
-      "children": [
-        "EYibztPOACuaA6aSKi0WgopeningParagraphTextNode >>> MarkdownRemark"
-      ],
-      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
-      "internal": {
-        "type": "contentfulNewsBlogOpeningParagraphTextNode",
-        "mediaType": "text/markdown",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
-        "contentDigest": "6e311068f50b08e3ba1fcaad2f0318e1",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "EYibztPOACuaA6aSKi0WgfullArticleTextTextNode": {
-      "id": "EYibztPOACuaA6aSKi0WgfullArticleTextTextNode",
-      "parent": "EYibztPOACuaA6aSKi0Wg",
-      "children": [
-        "EYibztPOACuaA6aSKi0WgfullArticleTextTextNode >>> MarkdownRemark"
-      ],
-      "fullArticleText": "#Pommy Ipsum bit title\nPommy ipsum two weeks on't trot blummin' upper class in the goolies you 'avin a laugh fork out, stupendous unhand me sir red telephone box daft cow baffled alright duck red telephone box, have a gander penny-dreadful punter fake tan rubbish what a doddle. Red telephone box eton mess fake tan ee bah gum ey up chuck bobby superb on the beat\n\n##smaller title with some more pommy ipsum to follow:\nPommy ipsum two weeks on't trot blummin' upper class in the goolies you 'avin a laugh fork out, stupendous unhand me sir red telephone box daft cow baffled alright duck red telephone box, have a gander penny-dreadful punter fake tan rubbish what a doddle. Red telephone box eton mess fake tan ee bah gum ey up chuck bobby superb on the beat",
-      "internal": {
-        "type": "contentfulNewsBlogFullArticleTextTextNode",
-        "mediaType": "text/markdown",
-        "content": "#Pommy Ipsum bit title\nPommy ipsum two weeks on't trot blummin' upper class in the goolies you 'avin a laugh fork out, stupendous unhand me sir red telephone box daft cow baffled alright duck red telephone box, have a gander penny-dreadful punter fake tan rubbish what a doddle. Red telephone box eton mess fake tan ee bah gum ey up chuck bobby superb on the beat\n\n##smaller title with some more pommy ipsum to follow:\nPommy ipsum two weeks on't trot blummin' upper class in the goolies you 'avin a laugh fork out, stupendous unhand me sir red telephone box daft cow baffled alright duck red telephone box, have a gander penny-dreadful punter fake tan rubbish what a doddle. Red telephone box eton mess fake tan ee bah gum ey up chuck bobby superb on the beat",
-        "contentDigest": "65e40944346d6e4629ad7e43a5e91a4b",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c6DmftTMHrGC4akOkm4aGyyopeningParagraphTextNode": {
-      "id": "c6DmftTMHrGC4akOkm4aGyyopeningParagraphTextNode",
-      "parent": "c6DmftTMHrGC4akOkm4aGyy",
-      "children": [
-        "c6DmftTMHrGC4akOkm4aGyyopeningParagraphTextNode >>> MarkdownRemark"
-      ],
-      "openingParagraph": "Another wonderful example of an opening paragraph...",
-      "internal": {
-        "type": "contentfulNewsBlogOpeningParagraphTextNode",
-        "mediaType": "text/markdown",
-        "content": "Another wonderful example of an opening paragraph...",
-        "contentDigest": "aca2e430062f21c41eb272ea41202cc1",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c6DmftTMHrGC4akOkm4aGyyfullArticleTextTextNode": {
-      "id": "c6DmftTMHrGC4akOkm4aGyyfullArticleTextTextNode",
-      "parent": "c6DmftTMHrGC4akOkm4aGyy",
-      "children": [
-        "c6DmftTMHrGC4akOkm4aGyyfullArticleTextTextNode >>> MarkdownRemark"
-      ],
-      "fullArticleText": "#Big Heading For a Little Pose\n\nPommy ipsum two weeks on't trot blummin' upper class in the goolies you 'avin a laugh fork out, stupendous unhand me sir red telephone box daft cow baffled alright duck red telephone box, have a gander penny-dreadful punter fake tan rubbish what a doddle. Red telephone box eton mess fake tan ee bah gum ey up chuck bobby superb on the beat\n\n##A smaller heading... More pommyipsum to follow:\nPommy ipsum two weeks on't trot blummin' upper class in the goolies you 'avin a laugh fork out, stupendous unhand me sir red telephone box daft cow baffled alright duck red telephone box, have a gander penny-dreadful punter fake tan rubbish what a doddle. Red telephone box eton mess fake tan ee bah gum ey up chuck bobby superb on the beat",
-      "internal": {
-        "type": "contentfulNewsBlogFullArticleTextTextNode",
-        "mediaType": "text/markdown",
-        "content": "#Big Heading For a Little Pose\n\nPommy ipsum two weeks on't trot blummin' upper class in the goolies you 'avin a laugh fork out, stupendous unhand me sir red telephone box daft cow baffled alright duck red telephone box, have a gander penny-dreadful punter fake tan rubbish what a doddle. Red telephone box eton mess fake tan ee bah gum ey up chuck bobby superb on the beat\n\n##A smaller heading... More pommyipsum to follow:\nPommy ipsum two weeks on't trot blummin' upper class in the goolies you 'avin a laugh fork out, stupendous unhand me sir red telephone box daft cow baffled alright duck red telephone box, have a gander penny-dreadful punter fake tan rubbish what a doddle. Red telephone box eton mess fake tan ee bah gum ey up chuck bobby superb on the beat",
-        "contentDigest": "a0974c101a2b57621a7dcb5a59296220",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c4kGErU9IRG8m420AKMuAMOopeningParagraphTextNode": {
-      "id": "c4kGErU9IRG8m420AKMuAMOopeningParagraphTextNode",
-      "parent": "c4kGErU9IRG8m420AKMuAMO",
-      "children": [
-        "c4kGErU9IRG8m420AKMuAMOopeningParagraphTextNode >>> MarkdownRemark"
-      ],
-      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
-      "internal": {
-        "type": "contentfulNewsBlogOpeningParagraphTextNode",
-        "mediaType": "text/markdown",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
-        "contentDigest": "6e311068f50b08e3ba1fcaad2f0318e1",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c4kGErU9IRG8m420AKMuAMOfullArticleTextTextNode": {
-      "id": "c4kGErU9IRG8m420AKMuAMOfullArticleTextTextNode",
-      "parent": "c4kGErU9IRG8m420AKMuAMO",
-      "children": [
-        "c4kGErU9IRG8m420AKMuAMOfullArticleTextTextNode >>> MarkdownRemark"
-      ],
-      "fullArticleText": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "internal": {
-        "type": "contentfulNewsBlogFullArticleTextTextNode",
-        "mediaType": "text/markdown",
-        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "e4f53e7af4527326c34dcaca89fc1603",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c3aEQonjc8wMgsqUKeWYwEAopeningParagraphTextNode": {
-      "id": "c3aEQonjc8wMgsqUKeWYwEAopeningParagraphTextNode",
-      "parent": "c3aEQonjc8wMgsqUKeWYwEA",
-      "children": [
-        "c3aEQonjc8wMgsqUKeWYwEAopeningParagraphTextNode >>> MarkdownRemark"
-      ],
-      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
-      "internal": {
-        "type": "contentfulNewsBlogOpeningParagraphTextNode",
-        "mediaType": "text/markdown",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
-        "contentDigest": "6e311068f50b08e3ba1fcaad2f0318e1",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c3aEQonjc8wMgsqUKeWYwEAfullArticleTextTextNode": {
-      "id": "c3aEQonjc8wMgsqUKeWYwEAfullArticleTextTextNode",
-      "parent": "c3aEQonjc8wMgsqUKeWYwEA",
-      "children": [
-        "c3aEQonjc8wMgsqUKeWYwEAfullArticleTextTextNode >>> MarkdownRemark"
-      ],
-      "fullArticleText": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "internal": {
-        "type": "contentfulNewsBlogFullArticleTextTextNode",
-        "mediaType": "text/markdown",
-        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "e4f53e7af4527326c34dcaca89fc1603",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c1HBfgSkpPSCOUWOUa4iouaopeningParagraphTextNode": {
-      "id": "c1HBfgSkpPSCOUWOUa4iouaopeningParagraphTextNode",
-      "parent": "c1HBfgSkpPSCOUWOUa4ioua",
-      "children": [
-        "c1HBfgSkpPSCOUWOUa4iouaopeningParagraphTextNode >>> MarkdownRemark"
-      ],
-      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
-      "internal": {
-        "type": "contentfulNewsBlogOpeningParagraphTextNode",
-        "mediaType": "text/markdown",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
-        "contentDigest": "6e311068f50b08e3ba1fcaad2f0318e1",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c1HBfgSkpPSCOUWOUa4iouafullArticleTextTextNode": {
-      "id": "c1HBfgSkpPSCOUWOUa4iouafullArticleTextTextNode",
-      "parent": "c1HBfgSkpPSCOUWOUa4ioua",
-      "children": [
-        "c1HBfgSkpPSCOUWOUa4iouafullArticleTextTextNode >>> MarkdownRemark"
-      ],
-      "fullArticleText": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "internal": {
-        "type": "contentfulNewsBlogFullArticleTextTextNode",
-        "mediaType": "text/markdown",
-        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "e4f53e7af4527326c34dcaca89fc1603",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c3i8EIZSlVuYUC8M0AsiYcEopeningParagraphTextNode": {
-      "id": "c3i8EIZSlVuYUC8M0AsiYcEopeningParagraphTextNode",
-      "parent": "c3i8EIZSlVuYUC8M0AsiYcE",
-      "children": [
-        "c3i8EIZSlVuYUC8M0AsiYcEopeningParagraphTextNode >>> MarkdownRemark"
-      ],
-      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
-      "internal": {
-        "type": "contentfulNewsBlogOpeningParagraphTextNode",
-        "mediaType": "text/markdown",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
-        "contentDigest": "6e311068f50b08e3ba1fcaad2f0318e1",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c3i8EIZSlVuYUC8M0AsiYcEfullArticleTextTextNode": {
-      "id": "c3i8EIZSlVuYUC8M0AsiYcEfullArticleTextTextNode",
-      "parent": "c3i8EIZSlVuYUC8M0AsiYcE",
-      "children": [
-        "c3i8EIZSlVuYUC8M0AsiYcEfullArticleTextTextNode >>> MarkdownRemark"
-      ],
-      "fullArticleText": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "internal": {
-        "type": "contentfulNewsBlogFullArticleTextTextNode",
-        "mediaType": "text/markdown",
-        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "e4f53e7af4527326c34dcaca89fc1603",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c67EOSEa42AUi4USW2iMsaUopeningParagraphTextNode": {
-      "id": "c67EOSEa42AUi4USW2iMsaUopeningParagraphTextNode",
-      "parent": "c67EOSEa42AUi4USW2iMsaU",
-      "children": [
-        "c67EOSEa42AUi4USW2iMsaUopeningParagraphTextNode >>> MarkdownRemark"
-      ],
-      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-      "internal": {
-        "type": "contentfulNewsBlogOpeningParagraphTextNode",
-        "mediaType": "text/markdown",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-        "contentDigest": "bc52235341cac5ace6105e42f9a12605",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c67EOSEa42AUi4USW2iMsaUfullArticleTextTextNode": {
-      "id": "c67EOSEa42AUi4USW2iMsaUfullArticleTextTextNode",
-      "parent": "c67EOSEa42AUi4USW2iMsaU",
-      "children": [
-        "c67EOSEa42AUi4USW2iMsaUfullArticleTextTextNode >>> MarkdownRemark"
-      ],
-      "fullArticleText": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "internal": {
-        "type": "contentfulNewsBlogFullArticleTextTextNode",
-        "mediaType": "text/markdown",
-        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "e4f53e7af4527326c34dcaca89fc1603",
+        "type": "ContentfulContentType",
+        "contentDigest": "d9822da16231c6bd9df08d882174266f",
         "owner": "gatsby-source-contentful"
       }
     },
@@ -1386,260 +687,12 @@
       "children": [],
       "name": "News Blog",
       "displayField": "title",
-      "description": "Content will automatically populate the News Column.",
+      "description": "This defines the content for the individual News Blog Posts that initially appear on the front page in the News Column and then automatically move and re-build themselves into the News Archive page.",
       "internal": {
         "type": "ContentfulContentType",
-        "contentDigest": "cbfa9324cb277bc391c70ccefa915b6b",
+        "contentDigest": "fc8cd56d93ce2bdeadf2e85cf27c1094",
         "owner": "gatsby-source-contentful"
       }
-    },
-    "c2vusF4mPcAckEYiumkiG0M": {
-      "todaysDate": "2017-12-08",
-      "title": "New Post",
-      "openingSentence": "an opening sentence...",
-      "previewImage___NODE": "c4cQGTrz9KwUQqk4EKo246c",
-      "openingParagraph___NODE": "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode",
-      "fullArticleText___NODE": "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode",
-      "id": "c2vusF4mPcAckEYiumkiG0M",
-      "createdAt": "2017-12-08T10:42:46.679Z",
-      "updatedAt": "2017-12-08T10:42:46.679Z",
-      "parent": "News Blog",
-      "children": [
-        "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode",
-        "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode"
-      ],
-      "internal": {
-        "type": "ContentfulNewsBlog",
-        "contentDigest": "bdad6b931f1da6e826d0eac8f5a3a406",
-        "owner": "gatsby-source-contentful"
-      },
-      "node_locale": "en-US"
-    },
-    "c2rVTX3qjvqiYqAkyOSAASA": {
-      "todaysDate": "2017-12-06",
-      "title": "Deer Grazing",
-      "openingSentence": "It's a deer eating some grass",
-      "previewImage___NODE": "c4WlAFg8k8oSoYuI80QM2WK",
-      "openingParagraph___NODE": "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode",
-      "fullArticleText___NODE": "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode",
-      "id": "c2rVTX3qjvqiYqAkyOSAASA",
-      "createdAt": "2017-12-06T12:35:57.950Z",
-      "updatedAt": "2017-12-06T12:35:57.950Z",
-      "parent": "News Blog",
-      "children": [
-        "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode",
-        "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode"
-      ],
-      "internal": {
-        "type": "ContentfulNewsBlog",
-        "contentDigest": "28799a9eff2f0e9d9d6caeb2a31a93f3",
-        "owner": "gatsby-source-contentful"
-      },
-      "node_locale": "en-US"
-    },
-    "c69chYIzbvGOsgi6kKIE4MS": {
-      "todaysDate": "2017-12-06",
-      "title": "First News Column Article",
-      "openingSentence": "Deer gives birth today.",
-      "previewImage___NODE": "c2uqyFo9N8kYESGws4egoG4",
-      "openingParagraph___NODE": "c69chYIzbvGOsgi6kKIE4MSopeningParagraphTextNode",
-      "fullArticleText___NODE": "c69chYIzbvGOsgi6kKIE4MSfullArticleTextTextNode",
-      "id": "c69chYIzbvGOsgi6kKIE4MS",
-      "createdAt": "2017-11-29T11:08:23.759Z",
-      "updatedAt": "2017-12-06T11:14:35.069Z",
-      "parent": "News Blog",
-      "children": [
-        "c69chYIzbvGOsgi6kKIE4MSopeningParagraphTextNode",
-        "c69chYIzbvGOsgi6kKIE4MSfullArticleTextTextNode"
-      ],
-      "internal": {
-        "type": "ContentfulNewsBlog",
-        "contentDigest": "d97e1066ca91c294cf778ec0bd41dd65",
-        "owner": "gatsby-source-contentful"
-      },
-      "node_locale": "en-US"
-    },
-    "EYibztPOACuaA6aSKi0Wg": {
-      "todaysDate": "2017-12-06",
-      "title": "Mob Of Deer",
-      "openingSentence": "A mob of deer hanging out at the edge of one of the fields",
-      "previewImage___NODE": "c5iK4YzQ50IA0ccsgUwem8o",
-      "openingParagraph___NODE": "EYibztPOACuaA6aSKi0WgopeningParagraphTextNode",
-      "fullArticleText___NODE": "EYibztPOACuaA6aSKi0WgfullArticleTextTextNode",
-      "id": "EYibztPOACuaA6aSKi0Wg",
-      "createdAt": "2017-12-02T12:01:32.495Z",
-      "updatedAt": "2017-12-06T11:07:29.900Z",
-      "parent": "News Blog",
-      "children": [
-        "EYibztPOACuaA6aSKi0WgopeningParagraphTextNode",
-        "EYibztPOACuaA6aSKi0WgfullArticleTextTextNode"
-      ],
-      "internal": {
-        "type": "ContentfulNewsBlog",
-        "contentDigest": "47b5b4f9f46e570c9dba3dc0d95292f6",
-        "owner": "gatsby-source-contentful"
-      },
-      "node_locale": "en-US"
-    },
-    "c6DmftTMHrGC4akOkm4aGyy": {
-      "todaysDate": "2017-12-06",
-      "title": "Dom with deer",
-      "openingSentence": "Another great opening sentence....",
-      "previewImage___NODE": "c16Q5KoOTjq0Y6eQuE0aWU4",
-      "openingParagraph___NODE": "c6DmftTMHrGC4akOkm4aGyyopeningParagraphTextNode",
-      "fullArticleText___NODE": "c6DmftTMHrGC4akOkm4aGyyfullArticleTextTextNode",
-      "id": "c6DmftTMHrGC4akOkm4aGyy",
-      "createdAt": "2017-12-05T18:03:33.007Z",
-      "updatedAt": "2017-12-06T11:07:17.221Z",
-      "parent": "News Blog",
-      "children": [
-        "c6DmftTMHrGC4akOkm4aGyyopeningParagraphTextNode",
-        "c6DmftTMHrGC4akOkm4aGyyfullArticleTextTextNode"
-      ],
-      "internal": {
-        "type": "ContentfulNewsBlog",
-        "contentDigest": "36c7d885b33c9e5a400509ef7686bd9e",
-        "owner": "gatsby-source-contentful"
-      },
-      "node_locale": "en-US"
-    },
-    "c4kGErU9IRG8m420AKMuAMO": {
-      "todaysDate": "2017-12-06",
-      "title": "Red Deer Close Up",
-      "openingSentence": "This is a Red Deer...",
-      "previewImage___NODE": "c6OQKqisUhyUAAIEuIaY0ok",
-      "openingParagraph___NODE": "c4kGErU9IRG8m420AKMuAMOopeningParagraphTextNode",
-      "fullArticleText___NODE": "c4kGErU9IRG8m420AKMuAMOfullArticleTextTextNode",
-      "id": "c4kGErU9IRG8m420AKMuAMO",
-      "createdAt": "2017-12-02T11:14:57.894Z",
-      "updatedAt": "2017-12-06T11:07:07.423Z",
-      "parent": "News Blog",
-      "children": [
-        "c4kGErU9IRG8m420AKMuAMOopeningParagraphTextNode",
-        "c4kGErU9IRG8m420AKMuAMOfullArticleTextTextNode"
-      ],
-      "internal": {
-        "type": "ContentfulNewsBlog",
-        "contentDigest": "bd45e0f22e28eefc3448d0bfac192772",
-        "owner": "gatsby-source-contentful"
-      },
-      "node_locale": "en-US"
-    },
-    "c3aEQonjc8wMgsqUKeWYwEA": {
-      "todaysDate": "2017-12-06",
-      "title": "Deer Following Farm Manager",
-      "openingSentence": "Deer following the farm manager around the farm",
-      "previewImage___NODE": "c1jQ9u42vi8wgSwCag8koI0",
-      "openingParagraph___NODE": "c3aEQonjc8wMgsqUKeWYwEAopeningParagraphTextNode",
-      "fullArticleText___NODE": "c3aEQonjc8wMgsqUKeWYwEAfullArticleTextTextNode",
-      "id": "c3aEQonjc8wMgsqUKeWYwEA",
-      "createdAt": "2017-12-02T11:16:36.225Z",
-      "updatedAt": "2017-12-06T11:06:55.167Z",
-      "parent": "News Blog",
-      "children": [
-        "c3aEQonjc8wMgsqUKeWYwEAopeningParagraphTextNode",
-        "c3aEQonjc8wMgsqUKeWYwEAfullArticleTextTextNode"
-      ],
-      "internal": {
-        "type": "ContentfulNewsBlog",
-        "contentDigest": "22c211daaeb338bc63ecf684ca8ba70b",
-        "owner": "gatsby-source-contentful"
-      },
-      "node_locale": "en-US"
-    },
-    "c1HBfgSkpPSCOUWOUa4ioua": {
-      "todaysDate": "2017-12-06",
-      "title": "Quebec Cottage",
-      "openingSentence": "Summer picture of Quebec Cottage - luxury holiday accommodation",
-      "previewImage___NODE": "c3265y7wpJecwQcO2cU4AqQ",
-      "openingParagraph___NODE": "c1HBfgSkpPSCOUWOUa4iouaopeningParagraphTextNode",
-      "fullArticleText___NODE": "c1HBfgSkpPSCOUWOUa4iouafullArticleTextTextNode",
-      "id": "c1HBfgSkpPSCOUWOUa4ioua",
-      "createdAt": "2017-12-02T11:11:47.115Z",
-      "updatedAt": "2017-12-06T11:06:45.211Z",
-      "parent": "News Blog",
-      "children": [
-        "c1HBfgSkpPSCOUWOUa4iouaopeningParagraphTextNode",
-        "c1HBfgSkpPSCOUWOUa4iouafullArticleTextTextNode"
-      ],
-      "internal": {
-        "type": "ContentfulNewsBlog",
-        "contentDigest": "696959f534cc0a36dbe12cd250a98207",
-        "owner": "gatsby-source-contentful"
-      },
-      "node_locale": "en-US"
-    },
-    "c3i8EIZSlVuYUC8M0AsiYcE": {
-      "todaysDate": "2017-12-06",
-      "title": "Farm Renovation",
-      "openingSentence": "Farm renovation work during the summer of 2017",
-      "previewImage___NODE": "c7hDoIb3xrGs2MIuASgYmY",
-      "openingParagraph___NODE": "c3i8EIZSlVuYUC8M0AsiYcEopeningParagraphTextNode",
-      "fullArticleText___NODE": "c3i8EIZSlVuYUC8M0AsiYcEfullArticleTextTextNode",
-      "id": "c3i8EIZSlVuYUC8M0AsiYcE",
-      "createdAt": "2017-12-05T18:07:33.237Z",
-      "updatedAt": "2017-12-06T11:06:36.472Z",
-      "parent": "News Blog",
-      "children": [
-        "c3i8EIZSlVuYUC8M0AsiYcEopeningParagraphTextNode",
-        "c3i8EIZSlVuYUC8M0AsiYcEfullArticleTextTextNode"
-      ],
-      "internal": {
-        "type": "ContentfulNewsBlog",
-        "contentDigest": "12ca0873b7ca5119aaee86dd659db20c",
-        "owner": "gatsby-source-contentful"
-      },
-      "node_locale": "en-US"
-    },
-    "c67EOSEa42AUi4USW2iMsaU": {
-      "todaysDate": "2017-12-06",
-      "title": "From Phone",
-      "openingSentence": "Test post from Phone",
-      "previewImage___NODE": "c4vUSRCAfTqcCYCMcCOSISE",
-      "openingParagraph___NODE": "c67EOSEa42AUi4USW2iMsaUopeningParagraphTextNode",
-      "fullArticleText___NODE": "c67EOSEa42AUi4USW2iMsaUfullArticleTextTextNode",
-      "id": "c67EOSEa42AUi4USW2iMsaU",
-      "createdAt": "2017-12-04T14:50:08.060Z",
-      "updatedAt": "2017-12-06T11:06:26.390Z",
-      "parent": "News Blog",
-      "children": [
-        "c67EOSEa42AUi4USW2iMsaUopeningParagraphTextNode",
-        "c67EOSEa42AUi4USW2iMsaUfullArticleTextTextNode"
-      ],
-      "internal": {
-        "type": "ContentfulNewsBlog",
-        "contentDigest": "7329a22d6eccd734c5af9acdcbc55cf8",
-        "owner": "gatsby-source-contentful"
-      },
-      "node_locale": "en-US"
-    },
-    "Logo": {
-      "id": "Logo",
-      "parent": null,
-      "children": [],
-      "name": "Logo",
-      "displayField": "title",
-      "description": "Company Logo",
-      "internal": {
-        "type": "ContentfulContentType",
-        "contentDigest": "430ac50046c40bd8c45a40cac7bc74de",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c1rPQlm5Qg8sqoU4wKq62mm": {
-      "title": "Logo",
-      "logo___NODE": "c325vyDnPx68m6asS86EKqo",
-      "id": "c1rPQlm5Qg8sqoU4wKq62mm",
-      "createdAt": "2017-12-03T12:24:28.899Z",
-      "updatedAt": "2017-12-03T12:24:28.899Z",
-      "parent": "Logo",
-      "children": [],
-      "internal": {
-        "type": "ContentfulLogo",
-        "contentDigest": "93038ce7f5ddb20d24b6f5ad8493299d",
-        "owner": "gatsby-source-contentful"
-      },
-      "node_locale": "en-US"
     },
     "Hero Image": {
       "id": "Hero Image",
@@ -1647,33 +700,138 @@
       "children": [],
       "name": "Hero Image",
       "displayField": null,
-      "description": "Front Page Hero Image",
+      "description": "Front page hero image",
       "internal": {
         "type": "ContentfulContentType",
-        "contentDigest": "1dc5414e11659539034d78063335abef",
+        "contentDigest": "430ad50fe97ede7ab440ac55c1e5f995",
         "owner": "gatsby-source-contentful"
       }
     },
-    "c7FdjctHVE4Iouuiu6mSG6C": {
-      "heroImage___NODE": "c3lrmkJDeruKiaAeAkmoG6W",
-      "id": "c7FdjctHVE4Iouuiu6mSG6C",
-      "createdAt": "2017-12-12T13:18:47.350Z",
-      "updatedAt": "2017-12-12T13:18:47.350Z",
-      "parent": "Hero Image",
+    "Logo": {
+      "id": "Logo",
+      "parent": null,
       "children": [],
+      "name": "Logo",
+      "displayField": "title",
+      "description": "",
       "internal": {
-        "type": "ContentfulHeroImage",
-        "contentDigest": "814f9f204501d37c8322ff6bf8a9d47c",
+        "type": "ContentfulContentType",
+        "contentDigest": "0ad792c7de9f4e600a758f94b27558eb",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c3rhG2dob44KaOK2wU8IKoaopeningParagraphTextNode": {
+      "id": "c3rhG2dob44KaOK2wU8IKoaopeningParagraphTextNode",
+      "parent": "c3rhG2dob44KaOK2wU8IKoa",
+      "children": [
+        "c3rhG2dob44KaOK2wU8IKoaopeningParagraphTextNode >>> MarkdownRemark"
+      ],
+      "openingParagraph": "Newly refurbished, luxury accomodation in the beautiful South Downs...",
+      "internal": {
+        "type": "contentfulNewsBlogOpeningParagraphTextNode",
+        "mediaType": "text/markdown",
+        "content": "Newly refurbished, luxury accomodation in the beautiful South Downs...",
+        "contentDigest": "6793bed6c6504cb7af6e6696d00c9dc7",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c3rhG2dob44KaOK2wU8IKoafullArticleTextTextNode": {
+      "id": "c3rhG2dob44KaOK2wU8IKoafullArticleTextTextNode",
+      "parent": "c3rhG2dob44KaOK2wU8IKoa",
+      "children": [
+        "c3rhG2dob44KaOK2wU8IKoafullArticleTextTextNode >>> MarkdownRemark"
+      ],
+      "fullArticleText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\n",
+      "internal": {
+        "type": "contentfulNewsBlogFullArticleTextTextNode",
+        "mediaType": "text/markdown",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\n",
+        "contentDigest": "522d638ad6b33d6aef1056e2974b486a",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c3rhG2dob44KaOK2wU8IKoa": {
+      "todaysDate": "2018-01-17",
+      "title": "Quebec Cottage",
+      "openingSentence": "Beautiful holiday accommodation",
+      "articleImage___NODE": "c35yP6Ub9iEs82Qu2EGuam4",
+      "openingParagraph___NODE": "c3rhG2dob44KaOK2wU8IKoaopeningParagraphTextNode",
+      "fullArticleText___NODE": "c3rhG2dob44KaOK2wU8IKoafullArticleTextTextNode",
+      "id": "c3rhG2dob44KaOK2wU8IKoa",
+      "createdAt": "2018-01-17T14:42:21.038Z",
+      "updatedAt": "2018-01-17T14:42:21.038Z",
+      "parent": "News Blog",
+      "children": [
+        "c3rhG2dob44KaOK2wU8IKoaopeningParagraphTextNode",
+        "c3rhG2dob44KaOK2wU8IKoafullArticleTextTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulNewsBlog",
+        "contentDigest": "4c561bb1db57182ff1d8da48c9ed59bd",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
     },
-    "c3lrmkJDeruKiaAeAkmoG6W": {
-      "id": "c3lrmkJDeruKiaAeAkmoG6W",
+    "c4B2vmuWEHuOsUWME2kQ0oy": {
+      "heroImage___NODE": "c6siXnYRLjyCSuyM6W4gAko",
+      "id": "c4B2vmuWEHuOsUWME2kQ0oy",
+      "createdAt": "2018-01-17T14:43:39.643Z",
+      "updatedAt": "2018-01-17T14:43:39.643Z",
+      "parent": "Hero Image",
+      "children": [],
+      "internal": {
+        "type": "ContentfulHeroImage",
+        "contentDigest": "499d4c8027cc09ce64b71cb2fe81150c",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c5rZSbcCPBYKWa8Kc6O2YKG": {
+      "title": "Logo",
+      "logo___NODE": "c4TDkNOHSjSso484qEweQI0",
+      "id": "c5rZSbcCPBYKWa8Kc6O2YKG",
+      "createdAt": "2018-01-17T14:45:33.815Z",
+      "updatedAt": "2018-01-17T14:45:33.815Z",
+      "parent": "Logo",
+      "children": [],
+      "internal": {
+        "type": "ContentfulLogo",
+        "contentDigest": "f7e3c817dae4c1b699c2d75ec1931583",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c4TDkNOHSjSso484qEweQI0": {
+      "id": "c4TDkNOHSjSso484qEweQI0",
       "parent": null,
       "children": [],
       "file": {
-        "url": "//images.contentful.com/ca5g612z8zfu/3lrmkJDeruKiaAeAkmoG6W/401f707aa77f003c68f4aa4123b7b139/hero3crop.jpg",
+        "url": "//images.contentful.com/vs9k02isgfes/4TDkNOHSjSso484qEweQI0/cfa7926f4fc415f7236ae086d2426695/BlueCircle_Logo_-_3.png",
+        "details": {
+          "size": 115977,
+          "image": {
+            "width": 593,
+            "height": 587
+          }
+        },
+        "fileName": "BlueCircle Logo - 3.png",
+        "contentType": "image/png"
+      },
+      "title": "Logo",
+      "description": "Navbar Logo",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "15286cfbf5591e9d82b37a1067a67fb4",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c6siXnYRLjyCSuyM6W4gAko": {
+      "id": "c6siXnYRLjyCSuyM6W4gAko",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/6siXnYRLjyCSuyM6W4gAko/0b939527b44aa38f601788cf8d730372/hero3crop.jpg",
         "details": {
           "size": 722019,
           "image": {
@@ -1684,21 +842,21 @@
         "fileName": "hero3crop.jpg",
         "contentType": "image/jpeg"
       },
-      "title": "Hero Image",
-      "description": "Front Page Hero Image",
+      "title": "Hero image",
+      "description": "Front page hero image",
       "node_locale": "en-US",
       "internal": {
         "type": "ContentfulAsset",
-        "contentDigest": "90e7f83635d1a299c809ee1c96920804",
+        "contentDigest": "8892eaafff7c2ffd95cdd5675b78ffd7",
         "owner": "gatsby-source-contentful"
       }
     },
-    "c4cQGTrz9KwUQqk4EKo246c": {
-      "id": "c4cQGTrz9KwUQqk4EKo246c",
+    "c35yP6Ub9iEs82Qu2EGuam4": {
+      "id": "c35yP6Ub9iEs82Qu2EGuam4",
       "parent": null,
       "children": [],
       "file": {
-        "url": "//images.contentful.com/ca5g612z8zfu/4cQGTrz9KwUQqk4EKo246c/cd0977bcd4e293e24a06584b3335067e/quebec-cottage-SMALL.jpg",
+        "url": "//images.contentful.com/vs9k02isgfes/35yP6Ub9iEs82Qu2EGuam4/1d8e84a62f56b86a90cbfc1d11dd960b/quebec-cottage-SMALL.jpg",
         "details": {
           "size": 148717,
           "image": {
@@ -1709,1182 +867,45 @@
         "fileName": "quebec-cottage-SMALL.jpg",
         "contentType": "image/jpeg"
       },
-      "title": "quebec-cottage-SMALL",
-      "description": "Quebec Cottage",
+      "title": "Quebec Cottage",
+      "description": "Picture of Quebec Cottage",
       "node_locale": "en-US",
       "internal": {
         "type": "ContentfulAsset",
-        "contentDigest": "7554e853c21f317efe86a81ac8597869",
+        "contentDigest": "68e5657ef5f0051835f0d9ad33ba551f",
         "owner": "gatsby-source-contentful"
       }
     },
-    "c16Q5KoOTjq0Y6eQuE0aWU4": {
-      "id": "c16Q5KoOTjq0Y6eQuE0aWU4",
-      "parent": null,
+    "c3rhG2dob44KaOK2wU8IKoaopeningParagraphTextNode >>> MarkdownRemark": {
+      "id": "c3rhG2dob44KaOK2wU8IKoaopeningParagraphTextNode >>> MarkdownRemark",
       "children": [],
-      "file": {
-        "url": "//images.contentful.com/ca5g612z8zfu/16Q5KoOTjq0Y6eQuE0aWU4/9a159460539ea4fd46b28bc8bc94fde9/dom-stroking-deer-SMALL.jpg",
-        "details": {
-          "size": 137164,
-          "image": {
-            "width": 640,
-            "height": 427
-          }
-        },
-        "fileName": "dom-stroking-deer-SMALL.jpg",
-        "contentType": "image/jpeg"
-      },
-      "title": "dom-stroking-deer-SMALL",
-      "description": "Dom with deer",
-      "node_locale": "en-US",
+      "parent": "c3rhG2dob44KaOK2wU8IKoaopeningParagraphTextNode",
       "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "1a704b215beb12e02edad146c61944c6",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c6Qv6CcGVZmmGwe8kamGKAK": {
-      "id": "c6Qv6CcGVZmmGwe8kamGKAK",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/ca5g612z8zfu/6Qv6CcGVZmmGwe8kamGKAK/9006db08545b66dd38638509d6ce12fa/quebec-cottage-SMALL.jpg",
-        "details": {
-          "size": 148717,
-          "image": {
-            "width": 640,
-            "height": 427
-          }
-        },
-        "fileName": "quebec-cottage-SMALL.jpg",
-        "contentType": "image/jpeg"
-      },
-      "title": "quebec-cottage-SMALL",
-      "description": "Quebec Cottage",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "faab0db6817c6c2d5a6d94d9bcac71b5",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c4vUSRCAfTqcCYCMcCOSISE": {
-      "id": "c4vUSRCAfTqcCYCMcCOSISE",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/ca5g612z8zfu/4vUSRCAfTqcCYCMcCOSISE/cdf9c2ec9ddf3ac4ecd5b88179c32352/2_Knitting_Balls.jpg",
-        "details": {
-          "size": 4002602,
-          "image": {
-            "width": 2560,
-            "height": 1440
-          }
-        },
-        "fileName": "2_Knitting Balls.jpg",
-        "contentType": "image/jpeg"
-      },
-      "title": "2 Knitting Balls",
-      "description": "Test from Phone",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "427c811259e55e061f5f9cc2666e9b6a",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c325vyDnPx68m6asS86EKqo": {
-      "id": "c325vyDnPx68m6asS86EKqo",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/ca5g612z8zfu/325vyDnPx68m6asS86EKqo/aeec09eafb84ffcb563a80774493899f/BlueCircle_Logo_-_3.png",
-        "details": {
-          "size": 115977,
-          "image": {
-            "width": 593,
-            "height": 587
-          }
-        },
-        "fileName": "BlueCircle Logo - 3.png",
-        "contentType": "image/png"
-      },
-      "title": "Logo",
-      "description": "Company Logo",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "3ac094281256b2b15d79232481ebb96c",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "kw7yXos6YwKwiKYUmgGMy": {
-      "id": "kw7yXos6YwKwiKYUmgGMy",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/ca5g612z8zfu/kw7yXos6YwKwiKYUmgGMy/39859d7ab8c3e81f84c627b162bd5920/BlueCircle_Logo_-_3.png",
-        "details": {
-          "size": 115977,
-          "image": {
-            "width": 593,
-            "height": 587
-          }
-        },
-        "fileName": "BlueCircle Logo - 3.png",
-        "contentType": "image/png"
-      },
-      "title": "Logo",
-      "description": "Company Logo",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "36e3f2ba6232f2b1033b5ff5feff373e",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "BCenFvJyfIQw0gmAAEsgi": {
-      "id": "BCenFvJyfIQw0gmAAEsgi",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/ca5g612z8zfu/BCenFvJyfIQw0gmAAEsgi/d5054b054dbe51628a2c59445dd3c089/BlueCircle_Logo_-_3.png",
-        "details": {
-          "size": 115977,
-          "image": {
-            "width": 593,
-            "height": 587
-          }
-        },
-        "fileName": "BlueCircle Logo - 3.png",
-        "contentType": "image/png"
-      },
-      "title": "BlueCircle Logo - 3",
-      "description": "Company Logo",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "65c658bda78d5ab01627b372652be3fe",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c5iK4YzQ50IA0ccsgUwem8o": {
-      "id": "c5iK4YzQ50IA0ccsgUwem8o",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/ca5g612z8zfu/5iK4YzQ50IA0ccsgUwem8o/e744681cc3f651d6f55b65386f7ac191/deer-group-SMALL.jpg",
-        "details": {
-          "size": 103463,
-          "image": {
-            "width": 640,
-            "height": 279
-          }
-        },
-        "fileName": "deer-group-SMALL.jpg",
-        "contentType": "image/jpeg"
-      },
-      "title": "deer-group-SMALL",
-      "description": "Mob of deer",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "8fe29249a174bd24711925d77b4c3084",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c1jQ9u42vi8wgSwCag8koI0": {
-      "id": "c1jQ9u42vi8wgSwCag8koI0",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/ca5g612z8zfu/1jQ9u42vi8wgSwCag8koI0/0275efc11ef243b34b0203c799f8e3bb/deer-following-dom-SMALL.jpg",
-        "details": {
-          "size": 103479,
-          "image": {
-            "width": 640,
-            "height": 451
-          }
-        },
-        "fileName": "deer-following-dom-SMALL.jpg",
-        "contentType": "image/jpeg"
-      },
-      "title": "deer-following-dom-SMALL",
-      "description": "Deer following Dom",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "47ba532417d966dc5ee095997ab2fcec",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c6OQKqisUhyUAAIEuIaY0ok": {
-      "id": "c6OQKqisUhyUAAIEuIaY0ok",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/ca5g612z8zfu/6OQKqisUhyUAAIEuIaY0ok/e2bb6b489fdca33f1d5a457643318069/red-deer-close-up-SMALL.jpg",
-        "details": {
-          "size": 120742,
-          "image": {
-            "width": 640,
-            "height": 427
-          }
-        },
-        "fileName": "red-deer-close-up-SMALL.jpg",
-        "contentType": "image/jpeg"
-      },
-      "title": "red-deer-close-up-SMALL",
-      "description": "Red Deer Close Up",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "675b234f7a861bb794a307ab07bdfd5e",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c7pUCCUQkOAyyWwyAIQO2QU": {
-      "id": "c7pUCCUQkOAyyWwyAIQO2QU",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/ca5g612z8zfu/7pUCCUQkOAyyWwyAIQO2QU/befb910b8b34d282ee712cc5226d4947/red-deer-close-up-SMALL.jpg",
-        "details": {
-          "size": 120742,
-          "image": {
-            "width": 640,
-            "height": 427
-          }
-        },
-        "fileName": "red-deer-close-up-SMALL.jpg",
-        "contentType": "image/jpeg"
-      },
-      "title": "red-deer-close-up-SMALL",
-      "description": "Red deer close up",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "8459358fdb8014d2ef3c9ef6857dfdff",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c3265y7wpJecwQcO2cU4AqQ": {
-      "id": "c3265y7wpJecwQcO2cU4AqQ",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/ca5g612z8zfu/3265y7wpJecwQcO2cU4AqQ/1e9f5e7aab2d2dc79faa18f6f1237c92/quebec-cottage-SMALL.jpg",
-        "details": {
-          "size": 148717,
-          "image": {
-            "width": 640,
-            "height": 427
-          }
-        },
-        "fileName": "quebec-cottage-SMALL.jpg",
-        "contentType": "image/jpeg"
-      },
-      "title": "quebec-cottage-SMALL",
-      "description": "Quebec Cottage",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "99e860e1c65d6a2ae2e5ddf5a55d0d10",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c7hDoIb3xrGs2MIuASgYmY": {
-      "id": "c7hDoIb3xrGs2MIuASgYmY",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/ca5g612z8zfu/7hDoIb3xrGs2MIuASgYmY/4a327497be95c50b969e2c64be3dc921/farm-renovation-SMALL.jpg",
-        "details": {
-          "size": 121995,
-          "image": {
-            "width": 640,
-            "height": 421
-          }
-        },
-        "fileName": "farm-renovation-SMALL.jpg",
-        "contentType": "image/jpeg"
-      },
-      "title": "farm-renovation-SMALL",
-      "description": "Farm renovations work during the summer",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "7c018f9011822b7824119d1142e32e0e",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c60WU9kWFbyW8swEemuemiS": {
-      "id": "c60WU9kWFbyW8swEemuemiS",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/ca5g612z8zfu/60WU9kWFbyW8swEemuemiS/d5a957ac0a164bab9f7621d40974058b/dom-stroking-deer-SMALL.jpg",
-        "details": {
-          "size": 137164,
-          "image": {
-            "width": 640,
-            "height": 427
-          }
-        },
-        "fileName": "dom-stroking-deer-SMALL.jpg",
-        "contentType": "image/jpeg"
-      },
-      "title": "dom-stroking-deer-SMALL",
-      "description": "Dom Stroking A Deer",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "75e03338cf023a8ab768da2b1f79ec2d",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c4WlAFg8k8oSoYuI80QM2WK": {
-      "id": "c4WlAFg8k8oSoYuI80QM2WK",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/ca5g612z8zfu/4WlAFg8k8oSoYuI80QM2WK/54777219d302be7758baae84b4f2b4e4/deer-grazing-lensflare-SMALL.jpg",
-        "details": {
-          "size": 113154,
-          "image": {
-            "width": 640,
-            "height": 442
-          }
-        },
-        "fileName": "deer-grazing-lensflare-SMALL.jpg",
-        "contentType": "image/jpeg"
-      },
-      "title": "Deer Grazing",
-      "description": "It's a deer eating some grass",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "cadb0cbdde28bcfbc8d731f3b6de807c",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c2uqyFo9N8kYESGws4egoG4": {
-      "id": "c2uqyFo9N8kYESGws4egoG4",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/ca5g612z8zfu/2uqyFo9N8kYESGws4egoG4/2dba200bfac40089181bde31464a3907/mum-baby-deer-SMALL.jpg",
-        "details": {
-          "size": 192930,
-          "image": {
-            "width": 640,
-            "height": 587
-          }
-        },
-        "fileName": "mum-baby-deer-SMALL.jpg",
-        "contentType": "image/jpeg"
-      },
-      "title": "Mother with baby deer",
-      "description": "Mother deer with her baby",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "70b414995305e707714824924910ef29",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c2Y8LhXLnYAYqKCGEWG4EKI": {
-      "id": "c2Y8LhXLnYAYqKCGEWG4EKI",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/ca5g612z8zfu/2Y8LhXLnYAYqKCGEWG4EKI/fe12ecd6f282637a9c81d84042988d08/lemnos-logo.jpg",
-        "details": {
-          "size": 7149,
-          "image": {
-            "width": 175,
-            "height": 32
-          }
-        },
-        "fileName": "lemnos-logo.jpg",
-        "contentType": "image/jpeg"
-      },
-      "title": "Lemnos",
-      "description": "company logo",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "369592b49bc1dea95c15ea6885f6e614",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c3wtvPBbBjiMKqKKga8I2Cu": {
-      "id": "c3wtvPBbBjiMKqKKga8I2Cu",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/ca5g612z8zfu/3wtvPBbBjiMKqKKga8I2Cu/8fe0e380b3d3f1ed4d64e60eff88aa36/zJYzDlGk.jpeg",
-        "details": {
-          "size": 12302,
-          "image": {
-            "width": 353,
-            "height": 353
-          }
-        },
-        "fileName": "zJYzDlGk.jpeg",
-        "contentType": "image/jpeg"
-      },
-      "title": "Normann Copenhagen",
-      "description": "Brand logo",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "84c6bc3c1829627b1e4589e5988fb235",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "Xc0ny7GWsMEMCeASWO2um": {
-      "id": "Xc0ny7GWsMEMCeASWO2um",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/ca5g612z8zfu/Xc0ny7GWsMEMCeASWO2um/3127b262ab7b861fe63a1fcdfcea9b56/jqvtazcyfwseah9fmysz.jpg",
-        "details": {
-          "size": 48751,
-          "image": {
-            "width": 600,
-            "height": 600
-          }
-        },
-        "fileName": "jqvtazcyfwseah9fmysz.jpg",
-        "contentType": "image/jpeg"
-      },
-      "title": "Hudson Wall Cup ",
-      "description": "Merchandise image",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "b615ec9b8aa2ef2ece36daa847591334",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c6t4HKjytPi0mYgs240wkG": {
-      "id": "c6t4HKjytPi0mYgs240wkG",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/ca5g612z8zfu/6t4HKjytPi0mYgs240wkG/5db83dfbe0c32a2ac4066233f73d1f9b/toys_512pxGREY.png",
-        "details": {
-          "size": 6744,
-          "image": {
-            "width": 128,
-            "height": 128
-          }
-        },
-        "fileName": "toys_512pxGREY.png",
-        "contentType": "image/png"
-      },
-      "title": "Toys",
-      "description": "Category icon set",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "c5c00b0996f7aed2ea576886bed88ccd",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c4zj1ZOfHgQ8oqgaSKm4Qo2": {
-      "id": "c4zj1ZOfHgQ8oqgaSKm4Qo2",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/ca5g612z8zfu/4zj1ZOfHgQ8oqgaSKm4Qo2/fd1f8f3a4e3dc6535326504a76b29ab9/playsam.jpg",
-        "details": {
-          "size": 7003,
-          "image": {
-            "width": 100,
-            "height": 100
-          }
-        },
-        "fileName": "playsam.jpg",
-        "contentType": "image/jpeg"
-      },
-      "title": "Playsam",
-      "description": "Brand logo",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "833ab2acdfb10f7fe697fe246f19ee0f",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c6m5AJ9vMPKc8OUoQeoCS4o": {
-      "id": "c6m5AJ9vMPKc8OUoQeoCS4o",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/ca5g612z8zfu/6m5AJ9vMPKc8OUoQeoCS4o/48e305eca930aadaa05e91e6a247cb69/1418244847_Streamline-18-256.png",
-        "details": {
-          "size": 2977,
-          "image": {
-            "width": 256,
-            "height": 256
-          }
-        },
-        "fileName": "1418244847_Streamline-18-256.png",
-        "contentType": "image/png"
-      },
-      "title": "Home and Kitchen",
-      "description": "category icon",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "6f17e14f95e6a3ac0246c070994377e4",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "wtrHxeu3zEoEce2MokCSi": {
-      "id": "wtrHxeu3zEoEce2MokCSi",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/ca5g612z8zfu/wtrHxeu3zEoEce2MokCSi/61b01dcfb11af8e6f8031f8ae29daf26/quwowooybuqbl6ntboz3.jpg",
-        "details": {
-          "size": 27187,
-          "image": {
-            "width": 600,
-            "height": 446
-          }
-        },
-        "fileName": "quwowooybuqbl6ntboz3.jpg",
-        "contentType": "image/jpeg"
-      },
-      "title": "Playsam Streamliner",
-      "description": "Merchandise photo",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "0770df3c2e461e2f7a6031a4c2b8f445",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c1MgbdJNTsMWKI0W68oYqkU": {
-      "id": "c1MgbdJNTsMWKI0W68oYqkU",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/ca5g612z8zfu/1MgbdJNTsMWKI0W68oYqkU/030d46658c5a1caa565fca6d8a12b877/9ef190c59f0d375c0dea58b58a4bc1f0.jpeg",
-        "details": {
-          "size": 44089,
-          "image": {
-            "width": 500,
-            "height": 500
-          }
-        },
-        "fileName": "9ef190c59f0d375c0dea58b58a4bc1f0.jpeg",
-        "contentType": "image/jpeg"
-      },
-      "title": "Chive logo",
-      "description": "Brand logo",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "bdb07c701ff56fa0c76d5abcd4814f34",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c10TkaLheGeQG6qQGqWYqUI": {
-      "id": "c10TkaLheGeQG6qQGqWYqUI",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/ca5g612z8zfu/10TkaLheGeQG6qQGqWYqUI/0188ad723ff0dc7496c6d7459714e614/ryugj83mqwa1asojwtwb.jpg",
-        "details": {
-          "size": 28435,
-          "image": {
-            "width": 450,
-            "height": 600
-          }
-        },
-        "fileName": "ryugj83mqwa1asojwtwb.jpg",
-        "contentType": "image/jpeg"
-      },
-      "title": "Whisk beaters",
-      "description": "Merchandise photo",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "104e8fb11696868f38cf352862b24253",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c6s3iG2OVmoUcosmA8ocqsG": {
-      "id": "c6s3iG2OVmoUcosmA8ocqsG",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/ca5g612z8zfu/6s3iG2OVmoUcosmA8ocqsG/07cad3a6957dc8224cf4e1785ed90b05/1418244847_Streamline-18-256__1_.png",
-        "details": {
-          "size": 4244,
-          "image": {
-            "width": 250,
-            "height": 250
-          }
-        },
-        "fileName": "1418244847_Streamline-18-256 (1).png",
-        "contentType": "image/png"
-      },
-      "title": "House icon",
-      "description": "Category icon set",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "034577a0ac8aa46cc843c937b2f2c842",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c6dbjWqNd9SqccegcqYq224productNameTextNode >>> MarkdownRemark": {
-      "id": "c6dbjWqNd9SqccegcqYq224productNameTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c6dbjWqNd9SqccegcqYq224productNameTextNode",
-      "internal": {
-        "content": "Whisk Beater",
-        "contentDigest": "319eb210b22e35621c703bbe7a228e53",
+        "content": "Newly refurbished, luxury accomodation in the beautiful South Downs...",
+        "contentDigest": "c4f5eb470ae2198509fb9ad186a1fc37",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
         "title": "",
-        "_PARENT": "c6dbjWqNd9SqccegcqYq224productNameTextNode",
-        "parent": "c6dbjWqNd9SqccegcqYq224productNameTextNode"
+        "_PARENT": "c3rhG2dob44KaOK2wU8IKoaopeningParagraphTextNode",
+        "parent": "c3rhG2dob44KaOK2wU8IKoaopeningParagraphTextNode"
       }
     },
-    "c6dbjWqNd9SqccegcqYq224productDescriptionTextNode >>> MarkdownRemark": {
-      "id": "c6dbjWqNd9SqccegcqYq224productDescriptionTextNode >>> MarkdownRemark",
+    "c3rhG2dob44KaOK2wU8IKoafullArticleTextTextNode >>> MarkdownRemark": {
+      "id": "c3rhG2dob44KaOK2wU8IKoafullArticleTextTextNode >>> MarkdownRemark",
       "children": [],
-      "parent": "c6dbjWqNd9SqccegcqYq224productDescriptionTextNode",
+      "parent": "c3rhG2dob44KaOK2wU8IKoafullArticleTextTextNode",
       "internal": {
-        "content": "A creative little whisk that comes in 8 different colors. Handy and easy to clean after use. A great gift idea.",
-        "contentDigest": "76da3f05e0d096c93072083199639730",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\n",
+        "contentDigest": "167eb46b27e32dc418179fd7ab328c49",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
         "title": "",
-        "_PARENT": "c6dbjWqNd9SqccegcqYq224productDescriptionTextNode",
-        "parent": "c6dbjWqNd9SqccegcqYq224productDescriptionTextNode"
-      }
-    },
-    "c3DVqIYj4dOwwcKu6sgqOggproductNameTextNode >>> MarkdownRemark": {
-      "id": "c3DVqIYj4dOwwcKu6sgqOggproductNameTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c3DVqIYj4dOwwcKu6sgqOggproductNameTextNode",
-      "internal": {
-        "content": "Hudson Wall Cup",
-        "contentDigest": "00b37c374fe49d487af0eebd2d5b2a65",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c3DVqIYj4dOwwcKu6sgqOggproductNameTextNode",
-        "parent": "c3DVqIYj4dOwwcKu6sgqOggproductNameTextNode"
-      }
-    },
-    "c3DVqIYj4dOwwcKu6sgqOggproductDescriptionTextNode >>> MarkdownRemark": {
-      "id": "c3DVqIYj4dOwwcKu6sgqOggproductDescriptionTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c3DVqIYj4dOwwcKu6sgqOggproductDescriptionTextNode",
-      "internal": {
-        "content": "Wall Hanging Glass Flower Vase and Terrarium",
-        "contentDigest": "916e32673490559e61ab787a64e017f9",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c3DVqIYj4dOwwcKu6sgqOggproductDescriptionTextNode",
-        "parent": "c3DVqIYj4dOwwcKu6sgqOggproductDescriptionTextNode"
-      }
-    },
-    "c24DPGBDeGEaYy8ms4Y8QMQtitleTextNode >>> MarkdownRemark": {
-      "id": "c24DPGBDeGEaYy8ms4Y8QMQtitleTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c24DPGBDeGEaYy8ms4Y8QMQtitleTextNode",
-      "internal": {
-        "content": "Toys",
-        "contentDigest": "e6a63baab0b2dcf313fc93e4706f5fc8",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c24DPGBDeGEaYy8ms4Y8QMQtitleTextNode",
-        "parent": "c24DPGBDeGEaYy8ms4Y8QMQtitleTextNode"
-      }
-    },
-    "c24DPGBDeGEaYy8ms4Y8QMQcategoryDescriptionTextNode >>> MarkdownRemark": {
-      "id": "c24DPGBDeGEaYy8ms4Y8QMQcategoryDescriptionTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c24DPGBDeGEaYy8ms4Y8QMQcategoryDescriptionTextNode",
-      "internal": {
-        "content": "Shop for toys, games, educational aids",
-        "contentDigest": "18fb30059637f3ab704e48c384572af5",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c24DPGBDeGEaYy8ms4Y8QMQcategoryDescriptionTextNode",
-        "parent": "c24DPGBDeGEaYy8ms4Y8QMQcategoryDescriptionTextNode"
-      }
-    },
-    "c7LAnCobuuWYSqks6wAwY2atitleTextNode >>> MarkdownRemark": {
-      "id": "c7LAnCobuuWYSqks6wAwY2atitleTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c7LAnCobuuWYSqks6wAwY2atitleTextNode",
-      "internal": {
-        "content": "Home & Kitchen",
-        "contentDigest": "3d13bd516041dcc1dc173ed88d3c8171",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c7LAnCobuuWYSqks6wAwY2atitleTextNode",
-        "parent": "c7LAnCobuuWYSqks6wAwY2atitleTextNode"
-      }
-    },
-    "c7LAnCobuuWYSqks6wAwY2acategoryDescriptionTextNode >>> MarkdownRemark": {
-      "id": "c7LAnCobuuWYSqks6wAwY2acategoryDescriptionTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c7LAnCobuuWYSqks6wAwY2acategoryDescriptionTextNode",
-      "internal": {
-        "content": "Shop for furniture, bedding, bath, vacuums, kitchen products, and more",
-        "contentDigest": "58f36ae18b2778b189bc73813b95983a",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c7LAnCobuuWYSqks6wAwY2acategoryDescriptionTextNode",
-        "parent": "c7LAnCobuuWYSqks6wAwY2acategoryDescriptionTextNode"
-      }
-    },
-    "JrePkDVYomE8AwcuCUyMicompanyNameTextNode >>> MarkdownRemark": {
-      "id": "JrePkDVYomE8AwcuCUyMicompanyNameTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "JrePkDVYomE8AwcuCUyMicompanyNameTextNode",
-      "internal": {
-        "content": "Playsam",
-        "contentDigest": "02f66837c10342d2c59e01da3246283f",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "JrePkDVYomE8AwcuCUyMicompanyNameTextNode",
-        "parent": "JrePkDVYomE8AwcuCUyMicompanyNameTextNode"
-      }
-    },
-    "JrePkDVYomE8AwcuCUyMicompanyDescriptionTextNode >>> MarkdownRemark": {
-      "id": "JrePkDVYomE8AwcuCUyMicompanyDescriptionTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "JrePkDVYomE8AwcuCUyMicompanyDescriptionTextNode",
-      "internal": {
-        "content": "Playsam is the leading Scandinavian design company for executive wooden toy gift. Scandinavian design playful creativity, integrity and sophistication are Playsam. Scandinavian design and wooden toy makes Playsam gift lovely to the world of design since 1984.",
-        "contentDigest": "b23ae0da12c64ae8bafb01a2cddd186f",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "JrePkDVYomE8AwcuCUyMicompanyDescriptionTextNode",
-        "parent": "JrePkDVYomE8AwcuCUyMicompanyDescriptionTextNode"
-      }
-    },
-    "c4LgMotpNF6W20YKmuemW0acompanyNameTextNode >>> MarkdownRemark": {
-      "id": "c4LgMotpNF6W20YKmuemW0acompanyNameTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c4LgMotpNF6W20YKmuemW0acompanyNameTextNode",
-      "internal": {
-        "content": "Lemnos",
-        "contentDigest": "5424fe388b26428cd81396b51e981dfc",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c4LgMotpNF6W20YKmuemW0acompanyNameTextNode",
-        "parent": "c4LgMotpNF6W20YKmuemW0acompanyNameTextNode"
-      }
-    },
-    "c4LgMotpNF6W20YKmuemW0acompanyDescriptionTextNode >>> MarkdownRemark": {
-      "id": "c4LgMotpNF6W20YKmuemW0acompanyDescriptionTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c4LgMotpNF6W20YKmuemW0acompanyDescriptionTextNode",
-      "internal": {
-        "content": "TAKATA Lemnos Inc. was founded in 1947 as a brass casting manufacturing industry in Takaoka-city, Toyama Prefecture, Japan and we launched out into the full-scale business trade with Seiko Clock Co., Ltd. since 1966.\n\nWe entered into the development for the original planning from late 1980 and \"Lemnos Brand\" recognized as the global design clock by a masterpiece \"HOLA\" designed by Kazuo KAWASAKI which released in 1989.\n\nAfterwards, we made a lot of projects with well-known designers who took in active in Japan and overseas such as Riki WATANABE, Kazuo KAWASAKI, Shin AZUMI, Tomoko AZUMI, Kanae TSUKAMOTO etc. and we made announcement of their fine works abounding in artistry and prominent designs. In addition, we realized to make a special project by the collaboration with Andrea Branzi, a well-known architect in the world.\n\nLemnos brand products are now highly praised from the design shops and the interior shops all over the world.\n\nIn recent years, we also have been given high priority to develop interior accessories making full use of our traditional techniques by the founding manufacturer and we always focus our minds on the development for the new Lemnos products in the new market.\n\nOur Lemnos products are made carefully by our craftsmen finely honed skillful techniques in Japan. They surely bring out the attractiveness of the materials to the maximum and create fine products not being influenced on the fashion trend accordingly. TAKATA Lemnos Inc. definitely would like to be innovative and continuously propose the beauty lasts forever.",
-        "contentDigest": "e8b48a939573cb057a6afa530aef5d64",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c4LgMotpNF6W20YKmuemW0acompanyDescriptionTextNode",
-        "parent": "c4LgMotpNF6W20YKmuemW0acompanyDescriptionTextNode"
-      }
-    },
-    "c651CQ8rLoIYCeY6G0QG22qcompanyNameTextNode >>> MarkdownRemark": {
-      "id": "c651CQ8rLoIYCeY6G0QG22qcompanyNameTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c651CQ8rLoIYCeY6G0QG22qcompanyNameTextNode",
-      "internal": {
-        "content": "Normann Copenhagen",
-        "contentDigest": "9d259f475c1bcdb5a2d1809cd9ab2693",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c651CQ8rLoIYCeY6G0QG22qcompanyNameTextNode",
-        "parent": "c651CQ8rLoIYCeY6G0QG22qcompanyNameTextNode"
-      }
-    },
-    "c651CQ8rLoIYCeY6G0QG22qcompanyDescriptionTextNode >>> MarkdownRemark": {
-      "id": "c651CQ8rLoIYCeY6G0QG22qcompanyDescriptionTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c651CQ8rLoIYCeY6G0QG22qcompanyDescriptionTextNode",
-      "internal": {
-        "content": "Normann Copenhagen is a way of living - a mindset. We love to challenge the conventional design rules. This is why you will find traditional materials put into untraditional use such as a Stone Hook made of Icelandic stones, a vase made out of silicon and last but not least a dog made out of plastic.",
-        "contentDigest": "b718815076c1a66770578891b84e099d",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c651CQ8rLoIYCeY6G0QG22qcompanyDescriptionTextNode",
-        "parent": "c651CQ8rLoIYCeY6G0QG22qcompanyDescriptionTextNode"
-      }
-    },
-    "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode >>> MarkdownRemark": {
-      "id": "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode",
-      "internal": {
-        "content": "some text here...",
-        "contentDigest": "f869974ab67a9300ff8113fda1a2200e",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode",
-        "parent": "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode"
-      }
-    },
-    "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode >>> MarkdownRemark": {
-      "id": "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode",
-      "internal": {
-        "content": "dsfdsfsdfdsfdfd",
-        "contentDigest": "19f38343f6e006f975a361872188903e",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode",
-        "parent": "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode"
-      }
-    },
-    "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode >>> MarkdownRemark": {
-      "id": "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode",
-      "internal": {
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa",
-        "contentDigest": "70429362161d1424ef83820557dda398",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode",
-        "parent": "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode"
-      }
-    },
-    "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode >>> MarkdownRemark": {
-      "id": "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode",
-      "internal": {
-        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "84eba81d18c3da5d8b7b53577529477e",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode",
-        "parent": "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode"
-      }
-    },
-    "c69chYIzbvGOsgi6kKIE4MSopeningParagraphTextNode >>> MarkdownRemark": {
-      "id": "c69chYIzbvGOsgi6kKIE4MSopeningParagraphTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c69chYIzbvGOsgi6kKIE4MSopeningParagraphTextNode",
-      "internal": {
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in ralskdjhfdfjkhsdjfakjfdakj aljkdfhalfjh aljkh akjf ha kjhfadf jj;a ajkhdfj ;jhadkjhf a;jk a;jdfa ;ajkdsf;hahsf a;ljdf;asd;lf   a;dlkf; aldfjks.",
-        "contentDigest": "73118901c03adf1eab2fa8b65ba16da5",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c69chYIzbvGOsgi6kKIE4MSopeningParagraphTextNode",
-        "parent": "c69chYIzbvGOsgi6kKIE4MSopeningParagraphTextNode"
-      }
-    },
-    "c69chYIzbvGOsgi6kKIE4MSfullArticleTextTextNode >>> MarkdownRemark": {
-      "id": "c69chYIzbvGOsgi6kKIE4MSfullArticleTextTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c69chYIzbvGOsgi6kKIE4MSfullArticleTextTextNode",
-      "internal": {
-        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "84eba81d18c3da5d8b7b53577529477e",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c69chYIzbvGOsgi6kKIE4MSfullArticleTextTextNode",
-        "parent": "c69chYIzbvGOsgi6kKIE4MSfullArticleTextTextNode"
-      }
-    },
-    "EYibztPOACuaA6aSKi0WgopeningParagraphTextNode >>> MarkdownRemark": {
-      "id": "EYibztPOACuaA6aSKi0WgopeningParagraphTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "EYibztPOACuaA6aSKi0WgopeningParagraphTextNode",
-      "internal": {
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
-        "contentDigest": "20e4df5cc5f47720c24a7804a37ba0eb",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "EYibztPOACuaA6aSKi0WgopeningParagraphTextNode",
-        "parent": "EYibztPOACuaA6aSKi0WgopeningParagraphTextNode"
-      }
-    },
-    "EYibztPOACuaA6aSKi0WgfullArticleTextTextNode >>> MarkdownRemark": {
-      "id": "EYibztPOACuaA6aSKi0WgfullArticleTextTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "EYibztPOACuaA6aSKi0WgfullArticleTextTextNode",
-      "internal": {
-        "content": "#Pommy Ipsum bit title\nPommy ipsum two weeks on't trot blummin' upper class in the goolies you 'avin a laugh fork out, stupendous unhand me sir red telephone box daft cow baffled alright duck red telephone box, have a gander penny-dreadful punter fake tan rubbish what a doddle. Red telephone box eton mess fake tan ee bah gum ey up chuck bobby superb on the beat\n\n##smaller title with some more pommy ipsum to follow:\nPommy ipsum two weeks on't trot blummin' upper class in the goolies you 'avin a laugh fork out, stupendous unhand me sir red telephone box daft cow baffled alright duck red telephone box, have a gander penny-dreadful punter fake tan rubbish what a doddle. Red telephone box eton mess fake tan ee bah gum ey up chuck bobby superb on the beat",
-        "contentDigest": "97ed79c2b1ffead4c54362d3c3198d8c",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "EYibztPOACuaA6aSKi0WgfullArticleTextTextNode",
-        "parent": "EYibztPOACuaA6aSKi0WgfullArticleTextTextNode"
-      }
-    },
-    "c6DmftTMHrGC4akOkm4aGyyopeningParagraphTextNode >>> MarkdownRemark": {
-      "id": "c6DmftTMHrGC4akOkm4aGyyopeningParagraphTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c6DmftTMHrGC4akOkm4aGyyopeningParagraphTextNode",
-      "internal": {
-        "content": "Another wonderful example of an opening paragraph...",
-        "contentDigest": "dd76680fbfb079c3852550f17005ad03",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c6DmftTMHrGC4akOkm4aGyyopeningParagraphTextNode",
-        "parent": "c6DmftTMHrGC4akOkm4aGyyopeningParagraphTextNode"
-      }
-    },
-    "c6DmftTMHrGC4akOkm4aGyyfullArticleTextTextNode >>> MarkdownRemark": {
-      "id": "c6DmftTMHrGC4akOkm4aGyyfullArticleTextTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c6DmftTMHrGC4akOkm4aGyyfullArticleTextTextNode",
-      "internal": {
-        "content": "#Big Heading For a Little Pose\n\nPommy ipsum two weeks on't trot blummin' upper class in the goolies you 'avin a laugh fork out, stupendous unhand me sir red telephone box daft cow baffled alright duck red telephone box, have a gander penny-dreadful punter fake tan rubbish what a doddle. Red telephone box eton mess fake tan ee bah gum ey up chuck bobby superb on the beat\n\n##A smaller heading... More pommyipsum to follow:\nPommy ipsum two weeks on't trot blummin' upper class in the goolies you 'avin a laugh fork out, stupendous unhand me sir red telephone box daft cow baffled alright duck red telephone box, have a gander penny-dreadful punter fake tan rubbish what a doddle. Red telephone box eton mess fake tan ee bah gum ey up chuck bobby superb on the beat",
-        "contentDigest": "0bbca0e4db058668c8bdeb5be208a160",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c6DmftTMHrGC4akOkm4aGyyfullArticleTextTextNode",
-        "parent": "c6DmftTMHrGC4akOkm4aGyyfullArticleTextTextNode"
-      }
-    },
-    "c4kGErU9IRG8m420AKMuAMOopeningParagraphTextNode >>> MarkdownRemark": {
-      "id": "c4kGErU9IRG8m420AKMuAMOopeningParagraphTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c4kGErU9IRG8m420AKMuAMOopeningParagraphTextNode",
-      "internal": {
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
-        "contentDigest": "20e4df5cc5f47720c24a7804a37ba0eb",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c4kGErU9IRG8m420AKMuAMOopeningParagraphTextNode",
-        "parent": "c4kGErU9IRG8m420AKMuAMOopeningParagraphTextNode"
-      }
-    },
-    "c4kGErU9IRG8m420AKMuAMOfullArticleTextTextNode >>> MarkdownRemark": {
-      "id": "c4kGErU9IRG8m420AKMuAMOfullArticleTextTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c4kGErU9IRG8m420AKMuAMOfullArticleTextTextNode",
-      "internal": {
-        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "84eba81d18c3da5d8b7b53577529477e",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c4kGErU9IRG8m420AKMuAMOfullArticleTextTextNode",
-        "parent": "c4kGErU9IRG8m420AKMuAMOfullArticleTextTextNode"
-      }
-    },
-    "c3aEQonjc8wMgsqUKeWYwEAopeningParagraphTextNode >>> MarkdownRemark": {
-      "id": "c3aEQonjc8wMgsqUKeWYwEAopeningParagraphTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c3aEQonjc8wMgsqUKeWYwEAopeningParagraphTextNode",
-      "internal": {
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
-        "contentDigest": "20e4df5cc5f47720c24a7804a37ba0eb",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c3aEQonjc8wMgsqUKeWYwEAopeningParagraphTextNode",
-        "parent": "c3aEQonjc8wMgsqUKeWYwEAopeningParagraphTextNode"
-      }
-    },
-    "c3aEQonjc8wMgsqUKeWYwEAfullArticleTextTextNode >>> MarkdownRemark": {
-      "id": "c3aEQonjc8wMgsqUKeWYwEAfullArticleTextTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c3aEQonjc8wMgsqUKeWYwEAfullArticleTextTextNode",
-      "internal": {
-        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "84eba81d18c3da5d8b7b53577529477e",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c3aEQonjc8wMgsqUKeWYwEAfullArticleTextTextNode",
-        "parent": "c3aEQonjc8wMgsqUKeWYwEAfullArticleTextTextNode"
-      }
-    },
-    "c1HBfgSkpPSCOUWOUa4iouaopeningParagraphTextNode >>> MarkdownRemark": {
-      "id": "c1HBfgSkpPSCOUWOUa4iouaopeningParagraphTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c1HBfgSkpPSCOUWOUa4iouaopeningParagraphTextNode",
-      "internal": {
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
-        "contentDigest": "20e4df5cc5f47720c24a7804a37ba0eb",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c1HBfgSkpPSCOUWOUa4iouaopeningParagraphTextNode",
-        "parent": "c1HBfgSkpPSCOUWOUa4iouaopeningParagraphTextNode"
-      }
-    },
-    "c1HBfgSkpPSCOUWOUa4iouafullArticleTextTextNode >>> MarkdownRemark": {
-      "id": "c1HBfgSkpPSCOUWOUa4iouafullArticleTextTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c1HBfgSkpPSCOUWOUa4iouafullArticleTextTextNode",
-      "internal": {
-        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "84eba81d18c3da5d8b7b53577529477e",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c1HBfgSkpPSCOUWOUa4iouafullArticleTextTextNode",
-        "parent": "c1HBfgSkpPSCOUWOUa4iouafullArticleTextTextNode"
-      }
-    },
-    "c3i8EIZSlVuYUC8M0AsiYcEopeningParagraphTextNode >>> MarkdownRemark": {
-      "id": "c3i8EIZSlVuYUC8M0AsiYcEopeningParagraphTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c3i8EIZSlVuYUC8M0AsiYcEopeningParagraphTextNode",
-      "internal": {
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui",
-        "contentDigest": "20e4df5cc5f47720c24a7804a37ba0eb",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c3i8EIZSlVuYUC8M0AsiYcEopeningParagraphTextNode",
-        "parent": "c3i8EIZSlVuYUC8M0AsiYcEopeningParagraphTextNode"
-      }
-    },
-    "c3i8EIZSlVuYUC8M0AsiYcEfullArticleTextTextNode >>> MarkdownRemark": {
-      "id": "c3i8EIZSlVuYUC8M0AsiYcEfullArticleTextTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c3i8EIZSlVuYUC8M0AsiYcEfullArticleTextTextNode",
-      "internal": {
-        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "84eba81d18c3da5d8b7b53577529477e",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c3i8EIZSlVuYUC8M0AsiYcEfullArticleTextTextNode",
-        "parent": "c3i8EIZSlVuYUC8M0AsiYcEfullArticleTextTextNode"
-      }
-    },
-    "c67EOSEa42AUi4USW2iMsaUopeningParagraphTextNode >>> MarkdownRemark": {
-      "id": "c67EOSEa42AUi4USW2iMsaUopeningParagraphTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c67EOSEa42AUi4USW2iMsaUopeningParagraphTextNode",
-      "internal": {
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-        "contentDigest": "1d5d288d4a2ec6b8733bc1ccc83abd66",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c67EOSEa42AUi4USW2iMsaUopeningParagraphTextNode",
-        "parent": "c67EOSEa42AUi4USW2iMsaUopeningParagraphTextNode"
-      }
-    },
-    "c67EOSEa42AUi4USW2iMsaUfullArticleTextTextNode >>> MarkdownRemark": {
-      "id": "c67EOSEa42AUi4USW2iMsaUfullArticleTextTextNode >>> MarkdownRemark",
-      "children": [],
-      "parent": "c67EOSEa42AUi4USW2iMsaUfullArticleTextTextNode",
-      "internal": {
-        "content": "#Heading!!\n\n\n##Sub-Heading!!\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nNEW PARAGRAPH:Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "contentDigest": "84eba81d18c3da5d8b7b53577529477e",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "",
-        "_PARENT": "c67EOSEa42AUi4USW2iMsaUfullArticleTextTextNode",
-        "parent": "c67EOSEa42AUi4USW2iMsaUfullArticleTextTextNode"
+        "_PARENT": "c3rhG2dob44KaOK2wU8IKoafullArticleTextTextNode",
+        "parent": "c3rhG2dob44KaOK2wU8IKoafullArticleTextTextNode"
       }
     },
     "SitePage /404/": {
@@ -2892,19 +913,19 @@
       "jsonName": "404.json",
       "internalComponentName": "Component404",
       "path": "/404/",
-      "component": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/src/pages/404.js",
+      "component": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1516025632041,
+      "updatedAt": 1516201264982,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/src/pages/404.js",
+      "componentPath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
       "id": "SitePage /404/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "cb568b78b9cdb65bfe9ae61703384228",
+        "contentDigest": "f3dca5303e70a2e160cd86915f1f3b94",
         "owner": "internal-data-bridge"
       }
     },
@@ -2913,19 +934,19 @@
       "jsonName": "bookings-accommodation.json",
       "internalComponentName": "ComponentBookingsAccommodation",
       "path": "/bookings-accommodation/",
-      "component": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/src/pages/bookings-accommodation.js",
+      "component": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/bookings-accommodation.js",
       "componentChunkName": "component---src-pages-bookings-accommodation-js",
       "context": {},
-      "updatedAt": 1516025632043,
+      "updatedAt": 1516201264984,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/src/pages/bookings-accommodation.js",
+      "componentPath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/bookings-accommodation.js",
       "id": "SitePage /bookings-accommodation/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8fad21b8c6a17102bfa0821ed0230170",
+        "contentDigest": "b41617c93d9c44ac7bab513e2e117657",
         "owner": "internal-data-bridge"
       }
     },
@@ -2934,61 +955,19 @@
       "jsonName": "index.json",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/src/pages/index.js",
+      "component": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1516025632044,
+      "updatedAt": 1516201264989,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/src/pages/index.js",
+      "componentPath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "852e004cf8f6031d142f78d0bd40302c",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /page-2/": {
-      "layout": "index",
-      "jsonName": "page-2.json",
-      "internalComponentName": "ComponentPage2",
-      "path": "/page-2/",
-      "component": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/src/pages/page-2.js",
-      "componentChunkName": "component---src-pages-page-2-js",
-      "context": {},
-      "updatedAt": 1516025632046,
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/src/pages/page-2.js",
-      "id": "SitePage /page-2/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "72143d06e3377c925badb82bab2ee5b2",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404.html": {
-      "layout": "index",
-      "jsonName": "404-html.json",
-      "internalComponentName": "Component404Html",
-      "path": "/404.html",
-      "component": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "updatedAt": 1516025632049,
-      "pluginCreator___NODE": "Plugin prod-404",
-      "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/src/pages/404.js",
-      "id": "SitePage /404.html",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "0153b8cde8cffcd9312fec599996eeeb",
+        "contentDigest": "b28a3977f23b82d816161d3ff3205827",
         "owner": "internal-data-bridge"
       }
     },
@@ -2997,19 +976,61 @@
       "jsonName": "news-archive.json",
       "internalComponentName": "ComponentNewsArchive",
       "path": "/news-archive/",
-      "component": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/src/pages/news-archive.js",
+      "component": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
       "componentChunkName": "component---src-pages-news-archive-js",
       "context": {},
-      "updatedAt": 1516025632054,
+      "updatedAt": 1516201264992,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/src/pages/news-archive.js",
+      "componentPath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
       "id": "SitePage /news-archive/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3e2c09c593da3b49527bcc29185c377f",
+        "contentDigest": "f67d1a7441326dd867ac997bc8d9093f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /page-2/": {
+      "layout": "index",
+      "jsonName": "page-2.json",
+      "internalComponentName": "ComponentPage2",
+      "path": "/page-2/",
+      "component": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
+      "componentChunkName": "component---src-pages-page-2-js",
+      "context": {},
+      "updatedAt": 1516201264994,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
+      "id": "SitePage /page-2/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ec53468d33d3920c1663fec546b0f347",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "updatedAt": 1516201264999,
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "81bc3e411f59d44ff6cb98057a012377",
         "owner": "internal-data-bridge"
       }
     }
@@ -3017,151 +1038,35 @@
   "status": {
     "plugins": {
       "gatsby-source-contentful": {
-        "ca5g612z8zfu": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybDtmlOw6LDiVXDhS_DsH7DkcKKwot2woLCuMKbG0sMWmPChsK5GDHDrMK4wozDnzgUMMKOAcOlAELDpcO_w7lQwolPw6DCjQTDp8OLfh9FwppdDBIiK8ORTMKow5kOwpI"
+        "vs9k02isgfes": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybCpcO0CGDDncKgVMOswoJRAsKAw6LDkyt8MMOiAzAKwqxjwrbCtEpuwqTDuhjDlzdZWhbCiMOoC8OjNBrDvcOidcOHHSLDpE3ClBjDmMKUZMK9IsO5CsKdL8KiwqDCmws"
       }
     },
-    "PLUGINS_HASH": "c0545c3e38141600158516db1a640fa5"
+    "PLUGINS_HASH": "2969471e27a837e91a7c01c5b61547f9"
   },
   "componentDataDependencies": {
     "nodes": {
-      "c4cQGTrz9KwUQqk4EKo246c": [
-        "/",
-        "/news-archive/"
-      ],
-      "c2vusF4mPcAckEYiumkiG0MopeningParagraphTextNode": [
+      "c35yP6Ub9iEs82Qu2EGuam4": [
+        "/news-archive/",
         "/"
       ],
-      "c4WlAFg8k8oSoYuI80QM2WK": [
-        "/",
-        "/news-archive/"
-      ],
-      "c2rVTX3qjvqiYqAkyOSAASAopeningParagraphTextNode": [
+      "c3rhG2dob44KaOK2wU8IKoaopeningParagraphTextNode": [
         "/"
       ],
-      "c2uqyFo9N8kYESGws4egoG4": [
-        "/",
-        "/news-archive/"
-      ],
-      "c69chYIzbvGOsgi6kKIE4MSopeningParagraphTextNode": [
+      "c6siXnYRLjyCSuyM6W4gAko": [
         "/"
       ],
-      "c5iK4YzQ50IA0ccsgUwem8o": [
-        "/",
-        "/news-archive/"
-      ],
-      "EYibztPOACuaA6aSKi0WgopeningParagraphTextNode": [
+      "c3rhG2dob44KaOK2wU8IKoafullArticleTextTextNode": [
+        "/news-archive/",
         "/"
       ],
-      "c16Q5KoOTjq0Y6eQuE0aWU4": [
-        "/",
-        "/news-archive/"
-      ],
-      "c6DmftTMHrGC4akOkm4aGyyopeningParagraphTextNode": [
-        "/"
-      ],
-      "c6OQKqisUhyUAAIEuIaY0ok": [
-        "/",
-        "/news-archive/"
-      ],
-      "c4kGErU9IRG8m420AKMuAMOopeningParagraphTextNode": [
-        "/"
-      ],
-      "c1jQ9u42vi8wgSwCag8koI0": [
-        "/",
-        "/news-archive/"
-      ],
-      "c3aEQonjc8wMgsqUKeWYwEAopeningParagraphTextNode": [
-        "/"
-      ],
-      "c3265y7wpJecwQcO2cU4AqQ": [
-        "/",
-        "/news-archive/"
-      ],
-      "c1HBfgSkpPSCOUWOUa4iouaopeningParagraphTextNode": [
-        "/"
-      ],
-      "c7hDoIb3xrGs2MIuASgYmY": [
-        "/",
-        "/news-archive/"
-      ],
-      "c3i8EIZSlVuYUC8M0AsiYcEopeningParagraphTextNode": [
-        "/"
-      ],
-      "c4vUSRCAfTqcCYCMcCOSISE": [
-        "/",
-        "/news-archive/"
-      ],
-      "c67EOSEa42AUi4USW2iMsaUopeningParagraphTextNode": [
-        "/"
-      ],
-      "c3lrmkJDeruKiaAeAkmoG6W": [
-        "/"
-      ],
-      "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode": [
-        "/news-archive/"
-      ],
-      "c2vusF4mPcAckEYiumkiG0MfullArticleTextTextNode >>> MarkdownRemark": [
-        "/news-archive/"
-      ],
-      "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode": [
-        "/news-archive/"
-      ],
-      "c2rVTX3qjvqiYqAkyOSAASAfullArticleTextTextNode >>> MarkdownRemark": [
-        "/news-archive/"
-      ],
-      "c69chYIzbvGOsgi6kKIE4MSfullArticleTextTextNode": [
-        "/news-archive/"
-      ],
-      "c69chYIzbvGOsgi6kKIE4MSfullArticleTextTextNode >>> MarkdownRemark": [
-        "/news-archive/"
-      ],
-      "EYibztPOACuaA6aSKi0WgfullArticleTextTextNode": [
-        "/news-archive/"
-      ],
-      "EYibztPOACuaA6aSKi0WgfullArticleTextTextNode >>> MarkdownRemark": [
-        "/news-archive/"
-      ],
-      "c6DmftTMHrGC4akOkm4aGyyfullArticleTextTextNode": [
-        "/news-archive/"
-      ],
-      "c6DmftTMHrGC4akOkm4aGyyfullArticleTextTextNode >>> MarkdownRemark": [
-        "/news-archive/"
-      ],
-      "c4kGErU9IRG8m420AKMuAMOfullArticleTextTextNode": [
-        "/news-archive/"
-      ],
-      "c4kGErU9IRG8m420AKMuAMOfullArticleTextTextNode >>> MarkdownRemark": [
-        "/news-archive/"
-      ],
-      "c3aEQonjc8wMgsqUKeWYwEAfullArticleTextTextNode": [
-        "/news-archive/"
-      ],
-      "c3aEQonjc8wMgsqUKeWYwEAfullArticleTextTextNode >>> MarkdownRemark": [
-        "/news-archive/"
-      ],
-      "c1HBfgSkpPSCOUWOUa4iouafullArticleTextTextNode": [
-        "/news-archive/"
-      ],
-      "c1HBfgSkpPSCOUWOUa4iouafullArticleTextTextNode >>> MarkdownRemark": [
-        "/news-archive/"
-      ],
-      "c3i8EIZSlVuYUC8M0AsiYcEfullArticleTextTextNode": [
-        "/news-archive/"
-      ],
-      "c3i8EIZSlVuYUC8M0AsiYcEfullArticleTextTextNode >>> MarkdownRemark": [
-        "/news-archive/"
-      ],
-      "c67EOSEa42AUi4USW2iMsaUfullArticleTextTextNode": [
-        "/news-archive/"
-      ],
-      "c67EOSEa42AUi4USW2iMsaUfullArticleTextTextNode >>> MarkdownRemark": [
+      "c3rhG2dob44KaOK2wU8IKoafullArticleTextTextNode >>> MarkdownRemark": [
         "/news-archive/"
       ]
     },
     "connections": {
       "ContentfulNewsBlog": [
-        "/",
-        "/news-archive/"
+        "/news-archive/",
+        "/"
       ],
       "ContentfulHeroImage": [
         "/"

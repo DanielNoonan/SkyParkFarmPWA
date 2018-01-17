@@ -42,7 +42,7 @@ query BlogQuery {
             todaysDate(formatString: "DD MMMM, YYYY")
             id
             title
-            previewImage {
+            articleImage {
               file {
                 url
               }

@@ -22,7 +22,7 @@ class NewsArchiveContainer extends Component {
                         key={newsItem.node.id}
                         todaysDate={newsItem.node.todaysDate}
                         title={newsItem.node.title}
-                        src={`https:${newsItem.node.previewImage.file.url}?w=1000`}
+                        src={`https:${newsItem.node.articleImage.file.url}?w=1000`}
                         text={newsItem.node.childContentfulNewsBlogFullArticleTextTextNode.childMarkdownRemark.html}
                         >{this.props.children}</NewsArchiveArticle>
                     )
