@@ -8,7 +8,10 @@ const NewsColumnArticle = (props) => {
         <div>
             <h2 onClick={props.clicked}>&#8656; Front Page Story</h2>
             <NewsArticleHeadline>{props.title}</NewsArticleHeadline>
-            <NewsArticleImage src={props.image} alt='Dummy Alt Text' />
+            <NewsArticleImage>
+                <source media='(min-width: 650px)' srcSet={`${props.image}?w=650`} alt='source Dummy Alt Text' />
+                <img src={props.image} alt='img Dummy Alt Text' />
+            </NewsArticleImage>
             <NewsArticleText>{props.text}</NewsArticleText>
         </div>
     )
@@ -22,7 +25,7 @@ const NewsArticleHeadline = styled.h1`
     text-align: center;
 `
 
-const NewsArticleImage = styled.img`
+const NewsArticleImage = styled.picture`
     width: 96%;
     margin-left: 2%;
 `

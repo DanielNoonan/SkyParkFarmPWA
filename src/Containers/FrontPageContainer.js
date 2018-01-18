@@ -66,13 +66,13 @@ class FrontPageContainer extends Component {
                  )
              })}
           </NewsColumnWrapper>
-
+          
           <NewsColumnArticleWrapper>
             <NewsArticleBox>
                 {!this.state.frontpage ? 
                 <NewsColumnArticle 
                 title={this.state.articleData.node.title} 
-                image={`https:${this.state.articleData.node.articleImage.file.url}?w=1000`} 
+                image={`https:${this.state.articleData.node.articleImage.file.url}`} 
                 text={this.state.articleData.node.fullArticleText.fullArticleText}
                 clicked={this.reloadHomepageHandler} 
                 />
