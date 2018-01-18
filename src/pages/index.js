@@ -47,7 +47,7 @@ query TestQuery {
       node {
         id
         title
-        previewImage {
+        articleImage {
           description
           file {
             url
@@ -56,6 +56,9 @@ query TestQuery {
         openingSentence
         openingParagraph {
           openingParagraph
+        }
+        fullArticleText {
+          fullArticleText
         }
       }
     }

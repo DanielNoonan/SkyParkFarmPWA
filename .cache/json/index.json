@@ -4,161 +4,20 @@
             "edges": [
                 {
                     "node": {
-                        "id": "c2vusF4mPcAckEYiumkiG0M",
-                        "title": "New Post",
-                        "previewImage": {
-                            "description": "Quebec Cottage",
-                            "file": {
-                                "url": "//images.contentful.com/ca5g612z8zfu/4cQGTrz9KwUQqk4EKo246c/cd0977bcd4e293e24a06584b3335067e/quebec-cottage-SMALL.jpg"
-                            }
-                        },
-                        "openingSentence": "an opening sentence...",
-                        "openingParagraph": {
-                            "openingParagraph": "some text here..."
-                        }
-                    }
-                },
-                {
-                    "node": {
-                        "id": "c2rVTX3qjvqiYqAkyOSAASA",
-                        "title": "Deer Grazing",
-                        "previewImage": {
-                            "description": "It's a deer eating some grass",
-                            "file": {
-                                "url": "//images.contentful.com/ca5g612z8zfu/4WlAFg8k8oSoYuI80QM2WK/54777219d302be7758baae84b4f2b4e4/deer-grazing-lensflare-SMALL.jpg"
-                            }
-                        },
-                        "openingSentence": "It's a deer eating some grass",
-                        "openingParagraph": {
-                            "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa"
-                        }
-                    }
-                },
-                {
-                    "node": {
-                        "id": "c69chYIzbvGOsgi6kKIE4MS",
-                        "title": "First News Column Article",
-                        "previewImage": {
-                            "description": "Mother deer with her baby",
-                            "file": {
-                                "url": "//images.contentful.com/ca5g612z8zfu/2uqyFo9N8kYESGws4egoG4/2dba200bfac40089181bde31464a3907/mum-baby-deer-SMALL.jpg"
-                            }
-                        },
-                        "openingSentence": "Deer gives birth today.",
-                        "openingParagraph": {
-                            "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in ralskdjhfdfjkhsdjfakjfdakj aljkdfhalfjh aljkh akjf ha kjhfadf jj;a ajkhdfj ;jhadkjhf a;jk a;jdfa ;ajkdsf;hahsf a;ljdf;asd;lf   a;dlkf; aldfjks."
-                        }
-                    }
-                },
-                {
-                    "node": {
-                        "id": "EYibztPOACuaA6aSKi0Wg",
-                        "title": "Mob Of Deer",
-                        "previewImage": {
-                            "description": "Mob of deer",
-                            "file": {
-                                "url": "//images.contentful.com/ca5g612z8zfu/5iK4YzQ50IA0ccsgUwem8o/e744681cc3f651d6f55b65386f7ac191/deer-group-SMALL.jpg"
-                            }
-                        },
-                        "openingSentence": "A mob of deer hanging out at the edge of one of the fields",
-                        "openingParagraph": {
-                            "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui"
-                        }
-                    }
-                },
-                {
-                    "node": {
-                        "id": "c6DmftTMHrGC4akOkm4aGyy",
-                        "title": "Dom with deer",
-                        "previewImage": {
-                            "description": "Dom with deer",
-                            "file": {
-                                "url": "//images.contentful.com/ca5g612z8zfu/16Q5KoOTjq0Y6eQuE0aWU4/9a159460539ea4fd46b28bc8bc94fde9/dom-stroking-deer-SMALL.jpg"
-                            }
-                        },
-                        "openingSentence": "Another great opening sentence....",
-                        "openingParagraph": {
-                            "openingParagraph": "Another wonderful example of an opening paragraph..."
-                        }
-                    }
-                },
-                {
-                    "node": {
-                        "id": "c4kGErU9IRG8m420AKMuAMO",
-                        "title": "Red Deer Close Up",
-                        "previewImage": {
-                            "description": "Red Deer Close Up",
-                            "file": {
-                                "url": "//images.contentful.com/ca5g612z8zfu/6OQKqisUhyUAAIEuIaY0ok/e2bb6b489fdca33f1d5a457643318069/red-deer-close-up-SMALL.jpg"
-                            }
-                        },
-                        "openingSentence": "This is a Red Deer...",
-                        "openingParagraph": {
-                            "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui"
-                        }
-                    }
-                },
-                {
-                    "node": {
-                        "id": "c3aEQonjc8wMgsqUKeWYwEA",
-                        "title": "Deer Following Farm Manager",
-                        "previewImage": {
-                            "description": "Deer following Dom",
-                            "file": {
-                                "url": "//images.contentful.com/ca5g612z8zfu/1jQ9u42vi8wgSwCag8koI0/0275efc11ef243b34b0203c799f8e3bb/deer-following-dom-SMALL.jpg"
-                            }
-                        },
-                        "openingSentence": "Deer following the farm manager around the farm",
-                        "openingParagraph": {
-                            "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui"
-                        }
-                    }
-                },
-                {
-                    "node": {
-                        "id": "c1HBfgSkpPSCOUWOUa4ioua",
+                        "id": "c3rhG2dob44KaOK2wU8IKoa",
                         "title": "Quebec Cottage",
-                        "previewImage": {
-                            "description": "Quebec Cottage",
+                        "articleImage": {
+                            "description": "Picture of Quebec Cottage",
                             "file": {
-                                "url": "//images.contentful.com/ca5g612z8zfu/3265y7wpJecwQcO2cU4AqQ/1e9f5e7aab2d2dc79faa18f6f1237c92/quebec-cottage-SMALL.jpg"
+                                "url": "//images.contentful.com/vs9k02isgfes/35yP6Ub9iEs82Qu2EGuam4/1d8e84a62f56b86a90cbfc1d11dd960b/quebec-cottage-SMALL.jpg"
                             }
                         },
-                        "openingSentence": "Summer picture of Quebec Cottage - luxury holiday accommodation",
+                        "openingSentence": "Beautiful holiday accommodation",
                         "openingParagraph": {
-                            "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui"
-                        }
-                    }
-                },
-                {
-                    "node": {
-                        "id": "c3i8EIZSlVuYUC8M0AsiYcE",
-                        "title": "Farm Renovation",
-                        "previewImage": {
-                            "description": "Farm renovations work during the summer",
-                            "file": {
-                                "url": "//images.contentful.com/ca5g612z8zfu/7hDoIb3xrGs2MIuASgYmY/4a327497be95c50b969e2c64be3dc921/farm-renovation-SMALL.jpg"
-                            }
+                            "openingParagraph": "Newly refurbished, luxury accomodation in the beautiful South Downs..."
                         },
-                        "openingSentence": "Farm renovation work during the summer of 2017",
-                        "openingParagraph": {
-                            "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui"
-                        }
-                    }
-                },
-                {
-                    "node": {
-                        "id": "c67EOSEa42AUi4USW2iMsaU",
-                        "title": "From Phone",
-                        "previewImage": {
-                            "description": "Test from Phone",
-                            "file": {
-                                "url": "//images.contentful.com/ca5g612z8zfu/4vUSRCAfTqcCYCMcCOSISE/cdf9c2ec9ddf3ac4ecd5b88179c32352/2_Knitting_Balls.jpg"
-                            }
-                        },
-                        "openingSentence": "Test post from Phone",
-                        "openingParagraph": {
-                            "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+                        "fullArticleText": {
+                            "fullArticleText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\n"
                         }
                     }
                 }
@@ -170,7 +29,7 @@
                     "node": {
                         "heroImage": {
                             "file": {
-                                "url": "//images.contentful.com/ca5g612z8zfu/3lrmkJDeruKiaAeAkmoG6W/401f707aa77f003c68f4aa4123b7b139/hero3crop.jpg"
+                                "url": "//images.contentful.com/vs9k02isgfes/6siXnYRLjyCSuyM6W4gAko/0b939527b44aa38f601788cf8d730372/hero3crop.jpg"
                             }
                         }
                     }

@@ -1,8 +1,8 @@
 var plugins = [{
-      plugin: require('C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby-plugin-react-helmet/gatsby-ssr.js'),
+      plugin: require('/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby-plugin-react-helmet/gatsby-ssr.js'),
       options: {"plugins":[]},
     },{
-      plugin: require('C:/Users/Dan/Desktop/webDev/_my-websites/__skyParkFarm/SkyParkFarmPWA-gitRepo/node_modules/gatsby-plugin-styled-components/gatsby-ssr.js'),
+      plugin: require('/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/node_modules/gatsby-plugin-styled-components/gatsby-ssr.js'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:

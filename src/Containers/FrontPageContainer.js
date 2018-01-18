@@ -12,7 +12,7 @@ class FrontPageContainer extends Component {
         articleData: {
             node: {
                 title: '',
-                previewImage: {
+                articleImage: {
                     file: {
                         url: ''
                     }
@@ -58,8 +58,8 @@ class FrontPageContainer extends Component {
                     clicked={this.articleDataHandler.bind(this, index)} 
                     key={newsItem.node.id} 
                     index={index} title={newsItem.node.title} 
-                    image={`https:${newsItem.node.previewImage.file.url}?w=500`}
-                    altText={newsItem.node.previewImage.description} 
+                    image={`https:${newsItem.node.articleImage.file.url}?w=500`}
+                    altText={newsItem.node.articleImage.description} 
                     intro={newsItem.node.openingSentence}
                     itemBack={newsItem.node.openingParagraph.openingParagraph}
                     />
@@ -72,15 +72,15 @@ class FrontPageContainer extends Component {
                 {!this.state.frontpage ? 
                 <NewsColumnArticle 
                 title={this.state.articleData.node.title} 
-                image={`https:${this.state.articleData.node.previewImage.file.url}?w=1000`} 
-                text={this.state.articleData.node.openingParagraph.openingParagraph}
+                image={`https:${this.state.articleData.node.articleImage.file.url}?w=1000`} 
+                text={this.state.articleData.node.fullArticleText.fullArticleText}
                 clicked={this.reloadHomepageHandler} 
                 />
                 :null}
 
                 {this.state.frontpage ?
                 <DefaultFrontPage
-                title={this.props.data.allContentfulNewsBlog.edges[6].node.title}
+                title={this.props.data.allContentfulNewsBlog.edges[0].node.title}
                 />
                 : null}
 
