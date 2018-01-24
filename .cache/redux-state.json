@@ -8,7 +8,7 @@
       "component": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1516291008248,
+      "updatedAt": 1516808032810,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "61a5e80a8c7995e829ed1c336185e522",
+        "contentDigest": "9d9f00733424365feba65b3839289b01",
         "owner": "internal-data-bridge"
       }
     },
@@ -632,12 +632,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-01-18T15:56:42.794Z",
+      "buildTime": "2018-01-24T15:33:47.549Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "3eca1cb539ef0fe43b0c054b3c8de59e",
+        "contentDigest": "9b6808ef8eddd460ccfedaddfe1ac161",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -741,12 +741,12 @@
       "children": [
         "c3rhG2dob44KaOK2wU8IKoafullArticleTextTextNode >>> MarkdownRemark"
       ],
-      "fullArticleText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\n",
+      "fullArticleText": "# This is a Markdown Heading\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\n",
       "internal": {
         "type": "contentfulNewsBlogFullArticleTextTextNode",
         "mediaType": "text/markdown",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\n",
-        "contentDigest": "522d638ad6b33d6aef1056e2974b486a",
+        "content": "# This is a Markdown Heading\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\n",
+        "contentDigest": "0cd1356f1b07d6abded5e67179daafd5",
         "owner": "gatsby-source-contentful"
       }
     },
@@ -759,7 +759,7 @@
       "fullArticleText___NODE": "c3rhG2dob44KaOK2wU8IKoafullArticleTextTextNode",
       "id": "c3rhG2dob44KaOK2wU8IKoa",
       "createdAt": "2018-01-17T14:42:21.038Z",
-      "updatedAt": "2018-01-17T14:42:21.038Z",
+      "updatedAt": "2018-01-24T14:04:40.354Z",
       "parent": "News Blog",
       "children": [
         "c3rhG2dob44KaOK2wU8IKoaopeningParagraphTextNode",
@@ -767,7 +767,7 @@
       ],
       "internal": {
         "type": "ContentfulNewsBlog",
-        "contentDigest": "4c561bb1db57182ff1d8da48c9ed59bd",
+        "contentDigest": "5204ff9ad5dec8853938d17650b0eeda",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
@@ -897,8 +897,8 @@
       "children": [],
       "parent": "c3rhG2dob44KaOK2wU8IKoafullArticleTextTextNode",
       "internal": {
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\n",
-        "contentDigest": "167eb46b27e32dc418179fd7ab328c49",
+        "content": "# This is a Markdown Heading\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\n",
+        "contentDigest": "2619ba61402e602e62b589ac26c0c89a",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark"
       },
@@ -908,25 +908,118 @@
         "parent": "c3rhG2dob44KaOK2wU8IKoafullArticleTextTextNode"
       }
     },
-    "SitePage /404/": {
-      "layout": "index",
-      "jsonName": "404.json",
-      "internalComponentName": "Component404",
-      "path": "/404/",
-      "component": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "updatedAt": 1516291008261,
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
-      "id": "SitePage /404/",
-      "parent": "SOURCE",
+    "Default Front Page Article": {
+      "id": "Default Front Page Article",
+      "parent": null,
       "children": [],
+      "name": "Default Front Page Article",
+      "displayField": "mainTitle",
+      "description": "Default Front Page Article",
       "internal": {
-        "type": "SitePage",
-        "contentDigest": "0c2997670e2417687f4b6f9fbf7ec4c1",
-        "owner": "internal-data-bridge"
+        "type": "ContentfulContentType",
+        "contentDigest": "9176b0085c9e871985ffa07f4f5eac35",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c3biSOE5Gc0iK0A2esoYeAMfirstTextBlockTextNode": {
+      "id": "c3biSOE5Gc0iK0A2esoYeAMfirstTextBlockTextNode",
+      "parent": "c3biSOE5Gc0iK0A2esoYeAM",
+      "children": [
+        "c3biSOE5Gc0iK0A2esoYeAMfirstTextBlockTextNode >>> MarkdownRemark"
+      ],
+      "firstTextBlock": "# The Reintroduction of Red Deer into the Parish of Harting.\n## Hart - *An adult male deer, especially a red deer over five years old - Oxford Dictionary refers.*\n\n![deer-group-LARGE](//images.contentful.com/vs9k02isgfes/1Q60HMAKCk0gqeU6AkacME/f3957276a7ad6fa09ed75f5801137c09/deer-group-LARGE.jpg)\n\n### Putting the Hart back into Harting\n\nOver the last eight hundred years the manor of Harting has been home to a number of deer parks, in which red deer (the largest species of wild deer found in the UK) were emparked (enclosed within a fence) in landscaped parkland.\n\nIn the context of those times, a time when wild venison could not be freely sold; with these parks came enormous status to their owners. It should be borne in mind that the building of a park required a royal licence and there is little doubt that the associated earthworks and tree planting schemes must have influenced swathes of the landscape that this area of the South Downs National Park still benefits from today.",
+      "internal": {
+        "type": "contentfulDefaultFrontPageArticleFirstTextBlockTextNode",
+        "mediaType": "text/markdown",
+        "content": "# The Reintroduction of Red Deer into the Parish of Harting.\n## Hart - *An adult male deer, especially a red deer over five years old - Oxford Dictionary refers.*\n\n![deer-group-LARGE](//images.contentful.com/vs9k02isgfes/1Q60HMAKCk0gqeU6AkacME/f3957276a7ad6fa09ed75f5801137c09/deer-group-LARGE.jpg)\n\n### Putting the Hart back into Harting\n\nOver the last eight hundred years the manor of Harting has been home to a number of deer parks, in which red deer (the largest species of wild deer found in the UK) were emparked (enclosed within a fence) in landscaped parkland.\n\nIn the context of those times, a time when wild venison could not be freely sold; with these parks came enormous status to their owners. It should be borne in mind that the building of a park required a royal licence and there is little doubt that the associated earthworks and tree planting schemes must have influenced swathes of the landscape that this area of the South Downs National Park still benefits from today.",
+        "contentDigest": "fd4739e67796d304c3171d88d9da5c51",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c3biSOE5Gc0iK0A2esoYeAM": {
+      "mainTitle": "The Reintroduction of Red Deer into the Parish of Harting",
+      "mainSubtitle": "Hart - An adult male deer, especially a Red Deer over five years old - Oxford Dictionary refers.",
+      "firstSubheading": "Putting the Hart back into Harting",
+      "firstImage___NODE": "c5uG1BlQPhSCa0G8soSyA0S",
+      "firstTextBlock___NODE": "c3biSOE5Gc0iK0A2esoYeAMfirstTextBlockTextNode",
+      "id": "c3biSOE5Gc0iK0A2esoYeAM",
+      "createdAt": "2018-01-24T13:54:44.721Z",
+      "updatedAt": "2018-01-24T15:33:34.261Z",
+      "parent": "Default Front Page Article",
+      "children": [
+        "c3biSOE5Gc0iK0A2esoYeAMfirstTextBlockTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulDefaultFrontPageArticle",
+        "contentDigest": "f2a633f7ad1c029cc9a0fa3701346168",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c5uG1BlQPhSCa0G8soSyA0S": {
+      "id": "c5uG1BlQPhSCa0G8soSyA0S",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/5uG1BlQPhSCa0G8soSyA0S/04e98a46ef03562381c3f9299c921a96/deer-group-LARGE.jpg",
+        "details": {
+          "size": 488615,
+          "image": {
+            "width": 1920,
+            "height": 837
+          }
+        },
+        "fileName": "deer-group-LARGE.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "Deer Group",
+      "description": "Group of Red Deer",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "42e58b25242810d764fdca9a3cc9d9ce",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c3biSOE5Gc0iK0A2esoYeAMfirstTextBlockTextNode >>> MarkdownRemark": {
+      "id": "c3biSOE5Gc0iK0A2esoYeAMfirstTextBlockTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c3biSOE5Gc0iK0A2esoYeAMfirstTextBlockTextNode",
+      "internal": {
+        "content": "# The Reintroduction of Red Deer into the Parish of Harting.\n## Hart - *An adult male deer, especially a red deer over five years old - Oxford Dictionary refers.*\n\n![deer-group-LARGE](//images.contentful.com/vs9k02isgfes/1Q60HMAKCk0gqeU6AkacME/f3957276a7ad6fa09ed75f5801137c09/deer-group-LARGE.jpg)\n\n### Putting the Hart back into Harting\n\nOver the last eight hundred years the manor of Harting has been home to a number of deer parks, in which red deer (the largest species of wild deer found in the UK) were emparked (enclosed within a fence) in landscaped parkland.\n\nIn the context of those times, a time when wild venison could not be freely sold; with these parks came enormous status to their owners. It should be borne in mind that the building of a park required a royal licence and there is little doubt that the associated earthworks and tree planting schemes must have influenced swathes of the landscape that this area of the South Downs National Park still benefits from today.",
+        "contentDigest": "fab4017b088a26f0d35eccb9f66ca918",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c3biSOE5Gc0iK0A2esoYeAMfirstTextBlockTextNode",
+        "parent": "c3biSOE5Gc0iK0A2esoYeAMfirstTextBlockTextNode"
+      }
+    },
+    "c1Q60HMAKCk0gqeU6AkacME": {
+      "id": "c1Q60HMAKCk0gqeU6AkacME",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/1Q60HMAKCk0gqeU6AkacME/f3957276a7ad6fa09ed75f5801137c09/deer-group-LARGE.jpg",
+        "details": {
+          "size": 488615,
+          "image": {
+            "width": 1920,
+            "height": 837
+          }
+        },
+        "fileName": "deer-group-LARGE.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "deer-group-LARGE",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "38cf7477f77d9fa065dd919145a0b994",
+        "owner": "gatsby-source-contentful"
       }
     },
     "SitePage /bookings-accommodation/": {
@@ -937,7 +1030,7 @@
       "component": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/bookings-accommodation.js",
       "componentChunkName": "component---src-pages-bookings-accommodation-js",
       "context": {},
-      "updatedAt": 1516291008263,
+      "updatedAt": 1516808032825,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/bookings-accommodation.js",
@@ -946,7 +1039,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5387e158126f96ac5ee999bd7b087e88",
+        "contentDigest": "25d152a6e86b597146328c034c8da57d",
         "owner": "internal-data-bridge"
       }
     },
@@ -958,7 +1051,7 @@
       "component": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1516291008264,
+      "updatedAt": 1516808032827,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
@@ -967,7 +1060,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ab827deb972eb5b18e3f81efbf476e3a",
+        "contentDigest": "9cef87cb1b2cf1194ed3233fcd219dca",
         "owner": "internal-data-bridge"
       }
     },
@@ -979,7 +1072,7 @@
       "component": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
       "componentChunkName": "component---src-pages-news-archive-js",
       "context": {},
-      "updatedAt": 1516291008264,
+      "updatedAt": 1516808032828,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
@@ -988,7 +1081,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "037c8de1efcc44ef6662bda13b65ea39",
+        "contentDigest": "6a871cb03e3ef466ed64b92c3f1ddef8",
         "owner": "internal-data-bridge"
       }
     },
@@ -1000,7 +1093,7 @@
       "component": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
       "componentChunkName": "component---src-pages-page-2-js",
       "context": {},
-      "updatedAt": 1516291008265,
+      "updatedAt": 1516808032829,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
@@ -1009,7 +1102,28 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a462c720721e521fab5aaef80c960ff9",
+        "contentDigest": "e617a9cd3dae83a780936816a09f3922",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "updatedAt": 1516808032831,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2e4ce9155838135f284595d78dd39321",
         "owner": "internal-data-bridge"
       }
     },
@@ -1021,7 +1135,7 @@
       "component": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1516291008269,
+      "updatedAt": 1516808032844,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
@@ -1030,7 +1144,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3473cdf750c971259f81f2d0ee6aff83",
+        "contentDigest": "c0660b772acb5ef275d39833f790e495",
         "owner": "internal-data-bridge"
       }
     }
@@ -1038,7 +1152,7 @@
   "status": {
     "plugins": {
       "gatsby-source-contentful": {
-        "vs9k02isgfes": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybCpcO0CGDDncKgVMOswoJRAsKAw6LDkyt8MMOiAzAKwqxjwrbCtEpuwqTDuhjDlzdZWhbCiMOoC8OjNBrDvcOidcOHHSLDpE3ClBjDmMKUZMK9IsO5CsKdL8KiwqDCmws"
+        "vs9k02isgfes": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyYAZcO5GkXCsWTClQzDhsKiwq9_w4TCox_CtwZ0CMOjNcOSSEouw7LDj8K-HsKZwr0HPcOgLcKXcRdoMGHDvmfCgMKOwpB6K8Oja8KKwrDClAYiw43Dh8KrWGLCo8OkAg"
       }
     },
     "PLUGINS_HASH": "2969471e27a837e91a7c01c5b61547f9"
@@ -1060,8 +1174,16 @@
         "/"
       ],
       "c3rhG2dob44KaOK2wU8IKoafullArticleTextTextNode >>> MarkdownRemark": [
-        "/news-archive/"
-      ]
+        "/news-archive/",
+        "/"
+      ],
+      "c3biSOE5Gc0iK0A2esoYeAMfirstTextBlockTextNode": [
+        "/"
+      ],
+      "c3biSOE5Gc0iK0A2esoYeAMfirstTextBlockTextNode >>> MarkdownRemark": [
+        "/"
+      ],
+      "c3rhG2dob44KaOK2wU8IKoaopeningParagraphTextNode >>> MarkdownRemark": []
     },
     "connections": {
       "ContentfulNewsBlog": [
@@ -1076,7 +1198,12 @@
       ],
       "SitePage": [
         "/dev-404-page/"
-      ]
+      ],
+      "ContentfulDefaultFrontPageArticle": [
+        "/"
+      ],
+      "contentfulNewsBlogFullArticleTextTextNode": [],
+      "MarkdownRemark": []
     }
   }
 }

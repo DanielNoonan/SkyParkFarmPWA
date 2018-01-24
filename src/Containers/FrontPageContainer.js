@@ -9,19 +9,7 @@ import DefaultFrontPage from '../Components/DefaultFrontPage';
 class FrontPageContainer extends Component {
     state = {
         frontpage: true,
-        articleData: {
-            node: {
-                title: '',
-                articleImage: {
-                    file: {
-                        url: ''
-                    }
-                },
-                openingParagraph: {
-                    openingParagraph: ''
-                }
-            }
-        }
+        articleData: {}
     }
 
     articleDataHandler = (index) => {
@@ -73,15 +61,13 @@ class FrontPageContainer extends Component {
                 <NewsColumnArticle 
                 title={this.state.articleData.node.title} 
                 image={`https:${this.state.articleData.node.articleImage.file.url}`} 
-                text={this.state.articleData.node.fullArticleText.fullArticleText}
+                text={this.state.articleData.node.fullArticleText.childMarkdownRemark.html}
                 clicked={this.reloadHomepageHandler} 
                 />
                 :null}
 
                 {this.state.frontpage ?
-                <DefaultFrontPage
-                title={this.props.data.allContentfulNewsBlog.edges[0].node.title}
-                />
+                <DefaultFrontPage data={this.props.data} />
                 : null}
 
             </NewsArticleBox>

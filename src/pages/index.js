@@ -58,7 +58,9 @@ query TestQuery {
           openingParagraph
         }
         fullArticleText {
-          fullArticleText
+          childMarkdownRemark {
+            html
+          }
         }
       }
     }
@@ -74,5 +76,16 @@ query TestQuery {
         }
       }
     }
+    allContentfulDefaultFrontPageArticle {
+      edges {
+        node {
+         firstTextBlock {
+           childMarkdownRemark {
+             html
+           }
+         }
+        }
+      }
+     }
   }
 `

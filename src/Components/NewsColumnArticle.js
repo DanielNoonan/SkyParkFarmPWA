@@ -15,7 +15,7 @@ const NewsColumnArticle = (props) => {
                 <source media='(min-width: 650px)' srcSet={`${props.image}?w=650`} alt='source Dummy Alt Text' />
                 <img src={props.image} alt='img Dummy Alt Text' />
             </NewsArticleImage>
-            <NewsArticleText>{props.text}</NewsArticleText>
+            <NewsArticleText dangerouslySetInnerHTML={{ __html: props.text }} />
         </div>
     )
 }
@@ -33,6 +33,6 @@ const NewsArticleImage = styled.picture`
     margin-left: 2%;
 `
 
-const NewsArticleText = styled.p`
+const NewsArticleText = styled.div`
     text-align: center;
 `

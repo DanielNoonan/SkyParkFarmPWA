@@ -17,7 +17,9 @@
                             "openingParagraph": "Newly refurbished, luxury accomodation in the beautiful South Downs..."
                         },
                         "fullArticleText": {
-                            "fullArticleText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\n"
+                            "childMarkdownRemark": {
+                                "html": "<h1>This is a Markdown Heading</h1>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.</p>"
+                            }
                         }
                     }
                 }
@@ -30,6 +32,19 @@
                         "heroImage": {
                             "file": {
                                 "url": "//images.contentful.com/vs9k02isgfes/6siXnYRLjyCSuyM6W4gAko/0b939527b44aa38f601788cf8d730372/hero3crop.jpg"
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "allContentfulDefaultFrontPageArticle": {
+            "edges": [
+                {
+                    "node": {
+                        "firstTextBlock": {
+                            "childMarkdownRemark": {
+                                "html": "<h1>The Reintroduction of Red Deer into the Parish of Harting.</h1>\n<h2>Hart - <em>An adult male deer, especially a red deer over five years old - Oxford Dictionary refers.</em></h2>\n<p><img src=\"//images.contentful.com/vs9k02isgfes/1Q60HMAKCk0gqeU6AkacME/f3957276a7ad6fa09ed75f5801137c09/deer-group-LARGE.jpg\" alt=\"deer-group-LARGE\"></p>\n<h3>Putting the Hart back into Harting</h3>\n<p>Over the last eight hundred years the manor of Harting has been home to a number of deer parks, in which red deer (the largest species of wild deer found in the UK) were emparked (enclosed within a fence) in landscaped parkland.</p>\n<p>In the context of those times, a time when wild venison could not be freely sold; with these parks came enormous status to their owners. It should be borne in mind that the building of a park required a royal licence and there is little doubt that the associated earthworks and tree planting schemes must have influenced swathes of the landscape that this area of the South Downs National Park still benefits from today.</p>"
                             }
                         }
                     }

@@ -5,11 +5,6 @@
             "edges": [
                 {
                     "node": {
-                        "path": "/404/"
-                    }
-                },
-                {
-                    "node": {
                         "path": "/bookings-accommodation/"
                     }
                 },
@@ -26,6 +21,11 @@
                 {
                     "node": {
                         "path": "/page-2/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/404/"
                     }
                 },
                 {
