@@ -8,7 +8,7 @@
       "component": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1516885832656,
+      "updatedAt": 1516891864099,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "66a6e6fbf97cf8cb16deff8cf8cf31e3",
+        "contentDigest": "9aca50d5e8a85bfe20833d8ea7f2c9ab",
         "owner": "internal-data-bridge"
       }
     },
@@ -632,12 +632,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-01-25T13:10:25.995Z",
+      "buildTime": "2018-01-25T14:51:00.875Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "5c925581c8d112b546867dfd445260cf",
+        "contentDigest": "383ec8215111a424082725b54240068b",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1262,6 +1262,442 @@
         "parent": "c3biSOE5Gc0iK0A2esoYeAMfifthTextBlockTextNode"
       }
     },
+    "c2dqPnCNKWcga6IAOsAeo8CopeningParagraphTextNode": {
+      "id": "c2dqPnCNKWcga6IAOsAeo8CopeningParagraphTextNode",
+      "parent": "c2dqPnCNKWcga6IAOsAeo8C",
+      "children": [
+        "c2dqPnCNKWcga6IAOsAeo8CopeningParagraphTextNode >>> MarkdownRemark"
+      ],
+      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh.",
+      "internal": {
+        "type": "contentfulNewsBlogOpeningParagraphTextNode",
+        "mediaType": "text/markdown",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh.",
+        "contentDigest": "ad8b62ceef478fa761299a6059f971b0",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c2dqPnCNKWcga6IAOsAeo8CfullArticleTextTextNode": {
+      "id": "c2dqPnCNKWcga6IAOsAeo8CfullArticleTextTextNode",
+      "parent": "c2dqPnCNKWcga6IAOsAeo8C",
+      "children": [
+        "c2dqPnCNKWcga6IAOsAeo8CfullArticleTextTextNode >>> MarkdownRemark"
+      ],
+      "fullArticleText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.",
+      "internal": {
+        "type": "contentfulNewsBlogFullArticleTextTextNode",
+        "mediaType": "text/markdown",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.",
+        "contentDigest": "3e5971fe5e005d86d405747bde3a713b",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c2dqPnCNKWcga6IAOsAeo8C": {
+      "todaysDate": "2018-01-25",
+      "title": "Deer Fencing",
+      "openingSentence": "25km of premium deer fencing goes up at Sky Park Farm.",
+      "articleImage___NODE": "c6Ug84lzEQg04giigIMEeAW",
+      "openingParagraph___NODE": "c2dqPnCNKWcga6IAOsAeo8CopeningParagraphTextNode",
+      "fullArticleText___NODE": "c2dqPnCNKWcga6IAOsAeo8CfullArticleTextTextNode",
+      "id": "c2dqPnCNKWcga6IAOsAeo8C",
+      "createdAt": "2018-01-25T14:29:39.290Z",
+      "updatedAt": "2018-01-25T14:29:39.290Z",
+      "parent": "News Blog",
+      "children": [
+        "c2dqPnCNKWcga6IAOsAeo8CopeningParagraphTextNode",
+        "c2dqPnCNKWcga6IAOsAeo8CfullArticleTextTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulNewsBlog",
+        "contentDigest": "52594554c57cf8f18057e77a94dd3971",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c6Ug84lzEQg04giigIMEeAW": {
+      "id": "c6Ug84lzEQg04giigIMEeAW",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/6Ug84lzEQg04giigIMEeAW/8620514ec8b7eba2d57850d55db75760/mobile_1.jpg",
+        "details": {
+          "size": 20391,
+          "image": {
+            "width": 320,
+            "height": 213
+          }
+        },
+        "fileName": "mobile_1.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "Blog Post",
+      "description": "Deer Fencing",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "cd9bab2f715da135400a34a6f4b84a09",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c2dqPnCNKWcga6IAOsAeo8CopeningParagraphTextNode >>> MarkdownRemark": {
+      "id": "c2dqPnCNKWcga6IAOsAeo8CopeningParagraphTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c2dqPnCNKWcga6IAOsAeo8CopeningParagraphTextNode",
+      "internal": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh.",
+        "contentDigest": "477e949d22f3d74ac6c740f3a28b9442",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c2dqPnCNKWcga6IAOsAeo8CopeningParagraphTextNode",
+        "parent": "c2dqPnCNKWcga6IAOsAeo8CopeningParagraphTextNode"
+      }
+    },
+    "c2dqPnCNKWcga6IAOsAeo8CfullArticleTextTextNode >>> MarkdownRemark": {
+      "id": "c2dqPnCNKWcga6IAOsAeo8CfullArticleTextTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c2dqPnCNKWcga6IAOsAeo8CfullArticleTextTextNode",
+      "internal": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.",
+        "contentDigest": "bca721e27f0044a4e6f3110d6b834087",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c2dqPnCNKWcga6IAOsAeo8CfullArticleTextTextNode",
+        "parent": "c2dqPnCNKWcga6IAOsAeo8CfullArticleTextTextNode"
+      }
+    },
+    "c2dVYOEnmGEGYm46uqCMacUopeningParagraphTextNode": {
+      "id": "c2dVYOEnmGEGYm46uqCMacUopeningParagraphTextNode",
+      "parent": "c2dVYOEnmGEGYm46uqCMacU",
+      "children": [
+        "c2dVYOEnmGEGYm46uqCMacUopeningParagraphTextNode >>> MarkdownRemark"
+      ],
+      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh.",
+      "internal": {
+        "type": "contentfulNewsBlogOpeningParagraphTextNode",
+        "mediaType": "text/markdown",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh.",
+        "contentDigest": "ad8b62ceef478fa761299a6059f971b0",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c2dVYOEnmGEGYm46uqCMacUfullArticleTextTextNode": {
+      "id": "c2dVYOEnmGEGYm46uqCMacUfullArticleTextTextNode",
+      "parent": "c2dVYOEnmGEGYm46uqCMacU",
+      "children": [
+        "c2dVYOEnmGEGYm46uqCMacUfullArticleTextTextNode >>> MarkdownRemark"
+      ],
+      "fullArticleText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.",
+      "internal": {
+        "type": "contentfulNewsBlogFullArticleTextTextNode",
+        "mediaType": "text/markdown",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.",
+        "contentDigest": "3e5971fe5e005d86d405747bde3a713b",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c2dVYOEnmGEGYm46uqCMacU": {
+      "todaysDate": "2018-01-25",
+      "title": "Deer Grazing",
+      "openingSentence": "Deer enjoys the newly grown lush grass of a recently baron field in Sky Park Farm",
+      "articleImage___NODE": "c5MScI1fcg8ig40oC0QQkeA",
+      "openingParagraph___NODE": "c2dVYOEnmGEGYm46uqCMacUopeningParagraphTextNode",
+      "fullArticleText___NODE": "c2dVYOEnmGEGYm46uqCMacUfullArticleTextTextNode",
+      "id": "c2dVYOEnmGEGYm46uqCMacU",
+      "createdAt": "2018-01-25T14:34:22.782Z",
+      "updatedAt": "2018-01-25T14:34:22.782Z",
+      "parent": "News Blog",
+      "children": [
+        "c2dVYOEnmGEGYm46uqCMacUopeningParagraphTextNode",
+        "c2dVYOEnmGEGYm46uqCMacUfullArticleTextTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulNewsBlog",
+        "contentDigest": "7571b690440fa4b40cbba475a129e1fc",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c5MScI1fcg8ig40oC0QQkeA": {
+      "id": "c5MScI1fcg8ig40oC0QQkeA",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/5MScI1fcg8ig40oC0QQkeA/0e9449903987237ea9219047249fb5e3/mobile_2.jpg",
+        "details": {
+          "size": 21491,
+          "image": {
+            "width": 320,
+            "height": 221
+          }
+        },
+        "fileName": "mobile_2.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "Blog Post",
+      "description": "Deer Grazing",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "bcf2caf632e31ae70de8fbb16f629012",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c2dVYOEnmGEGYm46uqCMacUopeningParagraphTextNode >>> MarkdownRemark": {
+      "id": "c2dVYOEnmGEGYm46uqCMacUopeningParagraphTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c2dVYOEnmGEGYm46uqCMacUopeningParagraphTextNode",
+      "internal": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh.",
+        "contentDigest": "477e949d22f3d74ac6c740f3a28b9442",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c2dVYOEnmGEGYm46uqCMacUopeningParagraphTextNode",
+        "parent": "c2dVYOEnmGEGYm46uqCMacUopeningParagraphTextNode"
+      }
+    },
+    "c2dVYOEnmGEGYm46uqCMacUfullArticleTextTextNode >>> MarkdownRemark": {
+      "id": "c2dVYOEnmGEGYm46uqCMacUfullArticleTextTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c2dVYOEnmGEGYm46uqCMacUfullArticleTextTextNode",
+      "internal": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.",
+        "contentDigest": "bca721e27f0044a4e6f3110d6b834087",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c2dVYOEnmGEGYm46uqCMacUfullArticleTextTextNode",
+        "parent": "c2dVYOEnmGEGYm46uqCMacUfullArticleTextTextNode"
+      }
+    },
+    "c14FKq4DlEU8MIcei68OW6MopeningParagraphTextNode": {
+      "id": "c14FKq4DlEU8MIcei68OW6MopeningParagraphTextNode",
+      "parent": "c14FKq4DlEU8MIcei68OW6M",
+      "children": [
+        "c14FKq4DlEU8MIcei68OW6MopeningParagraphTextNode >>> MarkdownRemark"
+      ],
+      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh.",
+      "internal": {
+        "type": "contentfulNewsBlogOpeningParagraphTextNode",
+        "mediaType": "text/markdown",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh.",
+        "contentDigest": "ad8b62ceef478fa761299a6059f971b0",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c14FKq4DlEU8MIcei68OW6MfullArticleTextTextNode": {
+      "id": "c14FKq4DlEU8MIcei68OW6MfullArticleTextTextNode",
+      "parent": "c14FKq4DlEU8MIcei68OW6M",
+      "children": [
+        "c14FKq4DlEU8MIcei68OW6MfullArticleTextTextNode >>> MarkdownRemark"
+      ],
+      "fullArticleText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.",
+      "internal": {
+        "type": "contentfulNewsBlogFullArticleTextTextNode",
+        "mediaType": "text/markdown",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.",
+        "contentDigest": "3e5971fe5e005d86d405747bde3a713b",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c14FKq4DlEU8MIcei68OW6M": {
+      "todaysDate": "2018-01-25",
+      "title": "Deer up close",
+      "openingSentence": "Curious Red Deer is very interested in the camera",
+      "articleImage___NODE": "c7ArkSTWX9CamAim8IkUEMU",
+      "openingParagraph___NODE": "c14FKq4DlEU8MIcei68OW6MopeningParagraphTextNode",
+      "fullArticleText___NODE": "c14FKq4DlEU8MIcei68OW6MfullArticleTextTextNode",
+      "id": "c14FKq4DlEU8MIcei68OW6M",
+      "createdAt": "2018-01-25T14:37:53.912Z",
+      "updatedAt": "2018-01-25T14:37:53.912Z",
+      "parent": "News Blog",
+      "children": [
+        "c14FKq4DlEU8MIcei68OW6MopeningParagraphTextNode",
+        "c14FKq4DlEU8MIcei68OW6MfullArticleTextTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulNewsBlog",
+        "contentDigest": "cddf0be775dbe99ac0746404c4e4f3d4",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c7ArkSTWX9CamAim8IkUEMU": {
+      "id": "c7ArkSTWX9CamAim8IkUEMU",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/7ArkSTWX9CamAim8IkUEMU/d79d7808e0709aedfcbbcf535ce26dd2/mobile_3.jpg",
+        "details": {
+          "size": 21414,
+          "image": {
+            "width": 320,
+            "height": 221
+          }
+        },
+        "fileName": "mobile_3.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "Blog post",
+      "description": "Deer up close",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "8bddc58c358afa71b0887a0d98669386",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c14FKq4DlEU8MIcei68OW6MopeningParagraphTextNode >>> MarkdownRemark": {
+      "id": "c14FKq4DlEU8MIcei68OW6MopeningParagraphTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c14FKq4DlEU8MIcei68OW6MopeningParagraphTextNode",
+      "internal": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh.",
+        "contentDigest": "477e949d22f3d74ac6c740f3a28b9442",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c14FKq4DlEU8MIcei68OW6MopeningParagraphTextNode",
+        "parent": "c14FKq4DlEU8MIcei68OW6MopeningParagraphTextNode"
+      }
+    },
+    "c14FKq4DlEU8MIcei68OW6MfullArticleTextTextNode >>> MarkdownRemark": {
+      "id": "c14FKq4DlEU8MIcei68OW6MfullArticleTextTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c14FKq4DlEU8MIcei68OW6MfullArticleTextTextNode",
+      "internal": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.",
+        "contentDigest": "bca721e27f0044a4e6f3110d6b834087",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c14FKq4DlEU8MIcei68OW6MfullArticleTextTextNode",
+        "parent": "c14FKq4DlEU8MIcei68OW6MfullArticleTextTextNode"
+      }
+    },
+    "c3CscnqMd9SImowSSEsGkqoopeningParagraphTextNode": {
+      "id": "c3CscnqMd9SImowSSEsGkqoopeningParagraphTextNode",
+      "parent": "c3CscnqMd9SImowSSEsGkqo",
+      "children": [
+        "c3CscnqMd9SImowSSEsGkqoopeningParagraphTextNode >>> MarkdownRemark"
+      ],
+      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh.",
+      "internal": {
+        "type": "contentfulNewsBlogOpeningParagraphTextNode",
+        "mediaType": "text/markdown",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh.",
+        "contentDigest": "ad8b62ceef478fa761299a6059f971b0",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c3CscnqMd9SImowSSEsGkqofullArticleTextTextNode": {
+      "id": "c3CscnqMd9SImowSSEsGkqofullArticleTextTextNode",
+      "parent": "c3CscnqMd9SImowSSEsGkqo",
+      "children": [
+        "c3CscnqMd9SImowSSEsGkqofullArticleTextTextNode >>> MarkdownRemark"
+      ],
+      "fullArticleText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.",
+      "internal": {
+        "type": "contentfulNewsBlogFullArticleTextTextNode",
+        "mediaType": "text/markdown",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.",
+        "contentDigest": "3e5971fe5e005d86d405747bde3a713b",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c3CscnqMd9SImowSSEsGkqo": {
+      "todaysDate": "2018-01-25",
+      "title": "Deer Enclosure",
+      "openingSentence": "Numerous deer enclosures joined by 'races' in Sky Park Farm",
+      "articleImage___NODE": "c2mNOyiEvNGaQsS604KEAoY",
+      "openingParagraph___NODE": "c3CscnqMd9SImowSSEsGkqoopeningParagraphTextNode",
+      "fullArticleText___NODE": "c3CscnqMd9SImowSSEsGkqofullArticleTextTextNode",
+      "id": "c3CscnqMd9SImowSSEsGkqo",
+      "createdAt": "2018-01-25T14:41:15.519Z",
+      "updatedAt": "2018-01-25T14:41:15.519Z",
+      "parent": "News Blog",
+      "children": [
+        "c3CscnqMd9SImowSSEsGkqoopeningParagraphTextNode",
+        "c3CscnqMd9SImowSSEsGkqofullArticleTextTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulNewsBlog",
+        "contentDigest": "2aa4327356581f6da6ecce35ea317f43",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c2mNOyiEvNGaQsS604KEAoY": {
+      "id": "c2mNOyiEvNGaQsS604KEAoY",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/2mNOyiEvNGaQsS604KEAoY/c14555a9cc80e8b982c88e7a608cfa20/mobile_4.jpg",
+        "details": {
+          "size": 19312,
+          "image": {
+            "width": 320,
+            "height": 213
+          }
+        },
+        "fileName": "mobile_4.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "Blog Post",
+      "description": "Deer Enclosure",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "3ae028ae96cf49d700ba7ddd4db2029f",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c3CscnqMd9SImowSSEsGkqoopeningParagraphTextNode >>> MarkdownRemark": {
+      "id": "c3CscnqMd9SImowSSEsGkqoopeningParagraphTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c3CscnqMd9SImowSSEsGkqoopeningParagraphTextNode",
+      "internal": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh.",
+        "contentDigest": "477e949d22f3d74ac6c740f3a28b9442",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c3CscnqMd9SImowSSEsGkqoopeningParagraphTextNode",
+        "parent": "c3CscnqMd9SImowSSEsGkqoopeningParagraphTextNode"
+      }
+    },
+    "c3CscnqMd9SImowSSEsGkqofullArticleTextTextNode >>> MarkdownRemark": {
+      "id": "c3CscnqMd9SImowSSEsGkqofullArticleTextTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c3CscnqMd9SImowSSEsGkqofullArticleTextTextNode",
+      "internal": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.",
+        "contentDigest": "bca721e27f0044a4e6f3110d6b834087",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c3CscnqMd9SImowSSEsGkqofullArticleTextTextNode",
+        "parent": "c3CscnqMd9SImowSSEsGkqofullArticleTextTextNode"
+      }
+    },
     "SitePage /404/": {
       "layout": "index",
       "jsonName": "404.json",
@@ -1270,7 +1706,7 @@
       "component": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1516885832670,
+      "updatedAt": 1516891864112,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
@@ -1279,7 +1715,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6b34845dc10762bfa06336324e0eb260",
+        "contentDigest": "9e717afb45e8ee8daf3ccee1feeea008",
         "owner": "internal-data-bridge"
       }
     },
@@ -1291,7 +1727,7 @@
       "component": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/bookings-accommodation.js",
       "componentChunkName": "component---src-pages-bookings-accommodation-js",
       "context": {},
-      "updatedAt": 1516885832671,
+      "updatedAt": 1516891864114,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/bookings-accommodation.js",
@@ -1300,7 +1736,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "033e4e51b5c6a7cbbc33678b5b68f444",
+        "contentDigest": "7c7eeb182dd4db301a8494d186e2ee06",
         "owner": "internal-data-bridge"
       }
     },
@@ -1312,7 +1748,7 @@
       "component": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1516885832672,
+      "updatedAt": 1516891864116,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
@@ -1321,7 +1757,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0c0841d4b12ccb18fa76940389b80ba3",
+        "contentDigest": "c3e8708c1eedbc3a9569ae671231af0d",
         "owner": "internal-data-bridge"
       }
     },
@@ -1333,7 +1769,7 @@
       "component": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
       "componentChunkName": "component---src-pages-news-archive-js",
       "context": {},
-      "updatedAt": 1516885832673,
+      "updatedAt": 1516891864117,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
@@ -1342,7 +1778,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "622ba49158527162f4a9fcbb90d58c0d",
+        "contentDigest": "b635dc5d38a3d9b0d3d262c7951f713c",
         "owner": "internal-data-bridge"
       }
     },
@@ -1354,7 +1790,7 @@
       "component": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
       "componentChunkName": "component---src-pages-page-2-js",
       "context": {},
-      "updatedAt": 1516885832674,
+      "updatedAt": 1516891864117,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
@@ -1363,7 +1799,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "df06460a64d6e1f1845db8d823dff657",
+        "contentDigest": "22215da37c65fc6f2b6a4d385e79e316",
         "owner": "internal-data-bridge"
       }
     },
@@ -1375,7 +1811,7 @@
       "component": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1516885832678,
+      "updatedAt": 1516891864122,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
@@ -1384,7 +1820,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c260fa6499f5352453a12fca8a875dc9",
+        "contentDigest": "c458492fd2e3e64371d49b81d2e20704",
         "owner": "internal-data-bridge"
       }
     }
@@ -1392,7 +1828,7 @@
   "status": {
     "plugins": {
       "gatsby-source-contentful": {
-        "vs9k02isgfes": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyZlw4RFdwjDqBoiwrvCjcO9fsKeJsK7IAVUIsOwbcKHwqstw7UdQsOlwpDCtcK2w7bCvcOjLsK-YsOSwqjDtMOWG8KxazHDq8OXXnLDmivClcO3wozDpRBtw4XDuHDDqxfDmcO2"
+        "vs9k02isgfes": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyZ0w5xowpzDjsO-L8OyW8OrMVnCiMOLMgQDQ8KhSW16f3EpwqPDmcKSD8ODwrtRw5QFZ8Oywq_CvEjDm0bDiVEWwqlTX21sCworw50vUy3DjBnCuMK6elkFEA"
       }
     },
     "PLUGINS_HASH": "2969471e27a837e91a7c01c5b61547f9"
@@ -1461,6 +1897,66 @@
         "/"
       ],
       "c3biSOE5Gc0iK0A2esoYeAMfifthTextBlockTextNode >>> MarkdownRemark": [
+        "/"
+      ],
+      "c6Ug84lzEQg04giigIMEeAW": [
+        "/news-archive/",
+        "/"
+      ],
+      "c2dqPnCNKWcga6IAOsAeo8CfullArticleTextTextNode": [
+        "/news-archive/",
+        "/"
+      ],
+      "c2dqPnCNKWcga6IAOsAeo8CfullArticleTextTextNode >>> MarkdownRemark": [
+        "/news-archive/",
+        "/"
+      ],
+      "c2dqPnCNKWcga6IAOsAeo8CopeningParagraphTextNode": [
+        "/"
+      ],
+      "c5MScI1fcg8ig40oC0QQkeA": [
+        "/news-archive/",
+        "/"
+      ],
+      "c2dVYOEnmGEGYm46uqCMacUfullArticleTextTextNode": [
+        "/news-archive/",
+        "/"
+      ],
+      "c2dVYOEnmGEGYm46uqCMacUfullArticleTextTextNode >>> MarkdownRemark": [
+        "/news-archive/",
+        "/"
+      ],
+      "c2dVYOEnmGEGYm46uqCMacUopeningParagraphTextNode": [
+        "/"
+      ],
+      "c7ArkSTWX9CamAim8IkUEMU": [
+        "/news-archive/",
+        "/"
+      ],
+      "c14FKq4DlEU8MIcei68OW6MfullArticleTextTextNode": [
+        "/news-archive/",
+        "/"
+      ],
+      "c14FKq4DlEU8MIcei68OW6MfullArticleTextTextNode >>> MarkdownRemark": [
+        "/news-archive/",
+        "/"
+      ],
+      "c14FKq4DlEU8MIcei68OW6MopeningParagraphTextNode": [
+        "/"
+      ],
+      "c2mNOyiEvNGaQsS604KEAoY": [
+        "/news-archive/",
+        "/"
+      ],
+      "c3CscnqMd9SImowSSEsGkqofullArticleTextTextNode": [
+        "/news-archive/",
+        "/"
+      ],
+      "c3CscnqMd9SImowSSEsGkqofullArticleTextTextNode >>> MarkdownRemark": [
+        "/news-archive/",
+        "/"
+      ],
+      "c3CscnqMd9SImowSSEsGkqoopeningParagraphTextNode": [
         "/"
       ]
     },

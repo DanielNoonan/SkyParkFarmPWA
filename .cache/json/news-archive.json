@@ -4,6 +4,74 @@
             "edges": [
                 {
                     "node": {
+                        "todaysDate": "25 January, 2018",
+                        "id": "c3CscnqMd9SImowSSEsGkqo",
+                        "title": "Deer Enclosure",
+                        "articleImage": {
+                            "file": {
+                                "url": "//images.contentful.com/vs9k02isgfes/2mNOyiEvNGaQsS604KEAoY/c14555a9cc80e8b982c88e7a608cfa20/mobile_4.jpg"
+                            }
+                        },
+                        "childContentfulNewsBlogFullArticleTextTextNode": {
+                            "childMarkdownRemark": {
+                                "html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.</p>"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "todaysDate": "25 January, 2018",
+                        "id": "c14FKq4DlEU8MIcei68OW6M",
+                        "title": "Deer up close",
+                        "articleImage": {
+                            "file": {
+                                "url": "//images.contentful.com/vs9k02isgfes/7ArkSTWX9CamAim8IkUEMU/d79d7808e0709aedfcbbcf535ce26dd2/mobile_3.jpg"
+                            }
+                        },
+                        "childContentfulNewsBlogFullArticleTextTextNode": {
+                            "childMarkdownRemark": {
+                                "html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.</p>"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "todaysDate": "25 January, 2018",
+                        "id": "c2dVYOEnmGEGYm46uqCMacU",
+                        "title": "Deer Grazing",
+                        "articleImage": {
+                            "file": {
+                                "url": "//images.contentful.com/vs9k02isgfes/5MScI1fcg8ig40oC0QQkeA/0e9449903987237ea9219047249fb5e3/mobile_2.jpg"
+                            }
+                        },
+                        "childContentfulNewsBlogFullArticleTextTextNode": {
+                            "childMarkdownRemark": {
+                                "html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.</p>"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "todaysDate": "25 January, 2018",
+                        "id": "c2dqPnCNKWcga6IAOsAeo8C",
+                        "title": "Deer Fencing",
+                        "articleImage": {
+                            "file": {
+                                "url": "//images.contentful.com/vs9k02isgfes/6Ug84lzEQg04giigIMEeAW/8620514ec8b7eba2d57850d55db75760/mobile_1.jpg"
+                            }
+                        },
+                        "childContentfulNewsBlogFullArticleTextTextNode": {
+                            "childMarkdownRemark": {
+                                "html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.</p>"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
                         "todaysDate": "17 January, 2018",
                         "id": "c3rhG2dob44KaOK2wU8IKoa",
                         "title": "Quebec Cottage",

@@ -1,8 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
 
-import './ArticleStyles/article-styles.css'
-
 
 const DefaultFrontPage = (props) => {
     const firstImage = `https:${props.data.allContentfulDefaultFrontPageArticle.edges[0].node.firstImage.file.url}`;
