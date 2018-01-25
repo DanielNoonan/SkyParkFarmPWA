@@ -7,6 +7,13 @@
         "path": "/dev-404-page/"
     },
     {
+        "componentChunkName": "component---src-pages-404-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "404.json",
+        "path": "/404/"
+    },
+    {
         "componentChunkName": "component---src-pages-bookings-accommodation-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -33,13 +40,6 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "page-2.json",
         "path": "/page-2/"
-    },
-    {
-        "componentChunkName": "component---src-pages-404-js",
-        "layout": "index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "404.json",
-        "path": "/404/"
     },
     {
         "componentChunkName": "component---src-pages-404-js",

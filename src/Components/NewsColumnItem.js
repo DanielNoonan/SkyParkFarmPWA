@@ -32,7 +32,7 @@ const NewsItemWrapper = styled.div`
 
 const NewsItemBox = styled.div`
   border: 1px solid #80D4F7;
-  border-radius: 4%;
+  border-radius: 10px;
   background: #F6F6F6;
   position: relative;
   width: 94%;

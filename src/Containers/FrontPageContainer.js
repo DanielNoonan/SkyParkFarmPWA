@@ -108,7 +108,7 @@ const NewsColumnMainTitle = styled.h1`
     text-align: center;
     background: #F6F6F6;
     border: 1px solid #80D4F7;
-    border-radius: 8%;
+    border-radius: 10px;
 `
 
 const NewsColumnArticleWrapper = styled.div`
@@ -120,5 +120,5 @@ const NewsColumnArticleWrapper = styled.div`
 const NewsArticleBox = styled.div`
     flex: 0 0 calc(100% / 12 * 11);
     background: #F6F6F6;
-    border-radius: 2%;
+    border-radius: 20px;
 `
