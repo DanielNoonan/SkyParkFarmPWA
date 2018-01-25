@@ -58,7 +58,9 @@ query TestQuery {
           openingParagraph
         }
         fullArticleText {
-          fullArticleText
+          childMarkdownRemark {
+            html
+          }
         }
       }
     }
@@ -71,6 +73,69 @@ query TestQuery {
              url
            }
          }
+        }
+      }
+    }
+    allContentfulDefaultFrontPageArticle {
+      edges {
+        node {
+          mainTitle
+          mainSubtitle
+          firstImage {
+            file {
+              url
+            }
+          }
+          firstSubheading
+          firstTextBlock {
+            childMarkdownRemark {
+              html
+            }
+          }
+          secondImage {
+            file {
+              url
+            }
+          }
+          secondSubheading
+          secondTextBlock {
+            childMarkdownRemark {
+              html
+            }
+          }
+          thirdImage {
+            file {
+              url
+            }
+          }
+          thirdSubheading
+          thirdTextBlock {
+            childMarkdownRemark {
+              html
+            }
+          }
+          fourthImage {
+            file {
+              url
+            }
+          }
+          fourthSubheading
+          fourthTextBlock {
+            childMarkdownRemark {
+              html
+            }
+          }
+          fifthImage {
+            file {
+              url
+            }
+          }
+          fifthSubheading
+          fifthTextBlock {
+            childMarkdownRemark {
+              html
+            }
+          }
         }
       }
     }

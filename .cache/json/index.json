@@ -17,7 +17,9 @@
                             "openingParagraph": "Newly refurbished, luxury accomodation in the beautiful South Downs..."
                         },
                         "fullArticleText": {
-                            "fullArticleText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\n"
+                            "childMarkdownRemark": {
+                                "html": "<h1>This is a Markdown Heading</h1>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.</p>"
+                            }
                         }
                     }
                 }
@@ -30,6 +32,71 @@
                         "heroImage": {
                             "file": {
                                 "url": "//images.contentful.com/vs9k02isgfes/6siXnYRLjyCSuyM6W4gAko/0b939527b44aa38f601788cf8d730372/hero3crop.jpg"
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "allContentfulDefaultFrontPageArticle": {
+            "edges": [
+                {
+                    "node": {
+                        "mainSubtitle": "An adult male deer, especially a Red Deer over five years old - Oxford Dictionary refers.",
+                        "thirdImage": {
+                            "file": {
+                                "url": "//images.contentful.com/vs9k02isgfes/18OBDZR0quyEMSEeQgk6qa/fbb2ec4f669f93e1f7623cdb0937b6a4/spf-sunrise-LARGE.jpg"
+                            }
+                        },
+                        "firstImage": {
+                            "file": {
+                                "url": "//images.contentful.com/vs9k02isgfes/5uG1BlQPhSCa0G8soSyA0S/04e98a46ef03562381c3f9299c921a96/deer-group-LARGE.jpg"
+                            }
+                        },
+                        "firstSubheading": "Putting the Hart back into Harting",
+                        "firstTextBlock": {
+                            "childMarkdownRemark": {
+                                "html": "<p>Over the last eight hundred years the manor of Harting has been home to a number of deer parks, in which red deer (the largest species of wild deer found in the UK) were emparked (enclosed within a fence) in landscaped parkland.</p>\n<p>In the context of those times, a time when wild venison could not be freely sold; with these parks came enormous status to their owners. It should be borne in mind that the building of a park required a royal licence and there is little doubt that the associated earthworks and tree planting schemes must have influenced swathes of the landscape that this area of the South Downs National Park still benefits from today.</p>"
+                            }
+                        },
+                        "secondImage": {
+                            "file": {
+                                "url": "//images.contentful.com/vs9k02isgfes/6ftCdYCsw0Mi4WiAiu6oi6/2a15a76b8bec85e14bf996afc7ee9636/red-deer-close-up-LARGE.jpg"
+                            }
+                        },
+                        "secondSubheading": "A Rich History",
+                        "secondTextBlock": {
+                            "childMarkdownRemark": {
+                                "html": "<p>From as far back as medieval times through to the eighteenth century, ownership of a deer park was just about the pinnacle of achievement in terms of social standing, allowing the park's owner to entertain wealthy guests with hunting as well as the significant prestige associated with being able to bestow venison as a gift.</p>\n<p>Indeed, A History of Harting, by Rev. H. D. Gordon, published in 1876, said of one of the Harting deer parks that the Duke of Richmond, and three succeeding orthodox Protestant Bishops of Chichester had pronounced the red deer as being \"the best venison in the world.\"</p>"
+                            }
+                        },
+                        "mainTitle": "The Reintroduction of Red Deer into the Parish of Harting.",
+                        "thirdSubheading": "Changing Times",
+                        "thirdTextBlock": {
+                            "childMarkdownRemark": {
+                                "html": "<p>However, as the years rolled on and the laws relaxed, allowing the free trade of venison, so hunting and the keeping of red deer ceased to have the material value and status that it had held previously, and as a result deer parks fell into decline across the country and indeed into extinction in the Parish of Harting.</p>\n<p><strong>Sky Park Farm</strong> seeks to revive the tradition of enclosed red deer in the Parish.</p>\n<p>Our herd of red deer already numbers over 100 animals and these numbers will be bred-up over the coming years. As with the Harting deer parks of old, Sky Park Farm seeks to breed animals for both live sales and venison, but without the element of hunting that would have been of such significance to our ancestors.</p>"
+                            }
+                        },
+                        "fourthImage": {
+                            "file": {
+                                "url": "//images.contentful.com/vs9k02isgfes/3zBrcKYCD6sgYaoiQ4UIi2/5e4d556aeada1be0a41786248f90bf58/deer-following-dom-LARGE.jpg"
+                            }
+                        },
+                        "fourthSubheading": "History Revisited",
+                        "fourthTextBlock": {
+                            "childMarkdownRemark": {
+                                "html": "<p>Our aim at Sky Park Farm is to balance modern cutting edge deer farming techniques, with the beauty and traditions of the South Downs National Park, allowing these magnificent animals to be seen and enjoyed once again in the same fields and perhaps even under the same ancient oak trees where they once roamed. Sky Park Farm is lucky to have the benefit of numerous centuries-old oak trees, and with the same hindsight that our forebears showed by planting these trees, we have ourselves planted scores of new oaks and other native trees; together with hundreds of mixed native hedging plants which we hope will benefit future generations to come.</p>"
+                            }
+                        },
+                        "fifthImage": {
+                            "file": {
+                                "url": "//images.contentful.com/vs9k02isgfes/3qnaAlPNX2k4ISiQqaMQWu/a724135dfd65894bdb828d2d71c575f0/open-space-LARGE.jpg"
+                            }
+                        },
+                        "fifthSubheading": "Large Free Roaming spaces",
+                        "fifthTextBlock": {
+                            "childMarkdownRemark": {
+                                "html": "<p>There are 15 deer enclosures at Sky Park Farm all connected to one-another by a series of races, which are essential for the movement and rotation of deer between fields.</p>\n<p>When our deer are not being moved these races are ideal for for people to walk around and view these majestic animals close up. The setting of our red deer in the South Downs National Park is therefore much the same as in previous centuries, with the main difference being that our deer are no longer shot by our guests with bows and arrows or guns, but rather through the lens of a camera.</p>"
                             }
                         }
                     }

@@ -8,7 +8,7 @@
       "component": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1516291008248,
+      "updatedAt": 1516885832656,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "61a5e80a8c7995e829ed1c336185e522",
+        "contentDigest": "66a6e6fbf97cf8cb16deff8cf8cf31e3",
         "owner": "internal-data-bridge"
       }
     },
@@ -632,12 +632,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-01-18T15:56:42.794Z",
+      "buildTime": "2018-01-25T13:10:25.995Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "3eca1cb539ef0fe43b0c054b3c8de59e",
+        "contentDigest": "5c925581c8d112b546867dfd445260cf",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -741,12 +741,12 @@
       "children": [
         "c3rhG2dob44KaOK2wU8IKoafullArticleTextTextNode >>> MarkdownRemark"
       ],
-      "fullArticleText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\n",
+      "fullArticleText": "# This is a Markdown Heading\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\n",
       "internal": {
         "type": "contentfulNewsBlogFullArticleTextTextNode",
         "mediaType": "text/markdown",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\n",
-        "contentDigest": "522d638ad6b33d6aef1056e2974b486a",
+        "content": "# This is a Markdown Heading\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\n",
+        "contentDigest": "0cd1356f1b07d6abded5e67179daafd5",
         "owner": "gatsby-source-contentful"
       }
     },
@@ -759,7 +759,7 @@
       "fullArticleText___NODE": "c3rhG2dob44KaOK2wU8IKoafullArticleTextTextNode",
       "id": "c3rhG2dob44KaOK2wU8IKoa",
       "createdAt": "2018-01-17T14:42:21.038Z",
-      "updatedAt": "2018-01-17T14:42:21.038Z",
+      "updatedAt": "2018-01-24T14:04:40.354Z",
       "parent": "News Blog",
       "children": [
         "c3rhG2dob44KaOK2wU8IKoaopeningParagraphTextNode",
@@ -767,7 +767,7 @@
       ],
       "internal": {
         "type": "ContentfulNewsBlog",
-        "contentDigest": "4c561bb1db57182ff1d8da48c9ed59bd",
+        "contentDigest": "5204ff9ad5dec8853938d17650b0eeda",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
@@ -897,8 +897,8 @@
       "children": [],
       "parent": "c3rhG2dob44KaOK2wU8IKoafullArticleTextTextNode",
       "internal": {
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\n",
-        "contentDigest": "167eb46b27e32dc418179fd7ab328c49",
+        "content": "# This is a Markdown Heading\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.\n\n",
+        "contentDigest": "2619ba61402e602e62b589ac26c0c89a",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark"
       },
@@ -906,6 +906,360 @@
         "title": "",
         "_PARENT": "c3rhG2dob44KaOK2wU8IKoafullArticleTextTextNode",
         "parent": "c3rhG2dob44KaOK2wU8IKoafullArticleTextTextNode"
+      }
+    },
+    "Default Front Page Article": {
+      "id": "Default Front Page Article",
+      "parent": null,
+      "children": [],
+      "name": "Default Front Page Article",
+      "displayField": "mainTitle",
+      "description": "Default Front Page Article",
+      "internal": {
+        "type": "ContentfulContentType",
+        "contentDigest": "9176b0085c9e871985ffa07f4f5eac35",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c3biSOE5Gc0iK0A2esoYeAMfirstTextBlockTextNode": {
+      "id": "c3biSOE5Gc0iK0A2esoYeAMfirstTextBlockTextNode",
+      "parent": "c3biSOE5Gc0iK0A2esoYeAM",
+      "children": [
+        "c3biSOE5Gc0iK0A2esoYeAMfirstTextBlockTextNode >>> MarkdownRemark"
+      ],
+      "firstTextBlock": "Over the last eight hundred years the manor of Harting has been home to a number of deer parks, in which red deer (the largest species of wild deer found in the UK) were emparked (enclosed within a fence) in landscaped parkland.\n\nIn the context of those times, a time when wild venison could not be freely sold; with these parks came enormous status to their owners. It should be borne in mind that the building of a park required a royal licence and there is little doubt that the associated earthworks and tree planting schemes must have influenced swathes of the landscape that this area of the South Downs National Park still benefits from today.",
+      "internal": {
+        "type": "contentfulDefaultFrontPageArticleFirstTextBlockTextNode",
+        "mediaType": "text/markdown",
+        "content": "Over the last eight hundred years the manor of Harting has been home to a number of deer parks, in which red deer (the largest species of wild deer found in the UK) were emparked (enclosed within a fence) in landscaped parkland.\n\nIn the context of those times, a time when wild venison could not be freely sold; with these parks came enormous status to their owners. It should be borne in mind that the building of a park required a royal licence and there is little doubt that the associated earthworks and tree planting schemes must have influenced swathes of the landscape that this area of the South Downs National Park still benefits from today.",
+        "contentDigest": "6ab0e8ad94d8360a7d92ed7200a976e3",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c3biSOE5Gc0iK0A2esoYeAM": {
+      "mainTitle": "The Reintroduction of Red Deer into the Parish of Harting.",
+      "mainSubtitle": "An adult male deer, especially a Red Deer over five years old - Oxford Dictionary refers.",
+      "firstSubheading": "Putting the Hart back into Harting",
+      "secondSubheading": "A Rich History",
+      "thirdSubheading": "Changing Times",
+      "fourthSubheading": "History Revisited",
+      "fifthSubheading": "Large Free Roaming spaces",
+      "firstImage___NODE": "c5uG1BlQPhSCa0G8soSyA0S",
+      "secondImage___NODE": "c6ftCdYCsw0Mi4WiAiu6oi6",
+      "thirdImage___NODE": "c18OBDZR0quyEMSEeQgk6qa",
+      "fourthImage___NODE": "c3zBrcKYCD6sgYaoiQ4UIi2",
+      "fifthImage___NODE": "c3qnaAlPNX2k4ISiQqaMQWu",
+      "firstTextBlock___NODE": "c3biSOE5Gc0iK0A2esoYeAMfirstTextBlockTextNode",
+      "secondTextBlock___NODE": "c3biSOE5Gc0iK0A2esoYeAMsecondTextBlockTextNode",
+      "thirdTextBlock___NODE": "c3biSOE5Gc0iK0A2esoYeAMthirdTextBlockTextNode",
+      "fourthTextBlock___NODE": "c3biSOE5Gc0iK0A2esoYeAMfourthTextBlockTextNode",
+      "fifthTextBlock___NODE": "c3biSOE5Gc0iK0A2esoYeAMfifthTextBlockTextNode",
+      "id": "c3biSOE5Gc0iK0A2esoYeAM",
+      "createdAt": "2018-01-24T13:54:44.721Z",
+      "updatedAt": "2018-01-25T13:04:22.309Z",
+      "parent": "Default Front Page Article",
+      "children": [
+        "c3biSOE5Gc0iK0A2esoYeAMfirstTextBlockTextNode",
+        "c3biSOE5Gc0iK0A2esoYeAMsecondTextBlockTextNode",
+        "c3biSOE5Gc0iK0A2esoYeAMthirdTextBlockTextNode",
+        "c3biSOE5Gc0iK0A2esoYeAMfourthTextBlockTextNode",
+        "c3biSOE5Gc0iK0A2esoYeAMfifthTextBlockTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulDefaultFrontPageArticle",
+        "contentDigest": "ec3c3f354d64a58009ab9af74cbb7648",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c5uG1BlQPhSCa0G8soSyA0S": {
+      "id": "c5uG1BlQPhSCa0G8soSyA0S",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/5uG1BlQPhSCa0G8soSyA0S/04e98a46ef03562381c3f9299c921a96/deer-group-LARGE.jpg",
+        "details": {
+          "size": 488615,
+          "image": {
+            "width": 1920,
+            "height": 837
+          }
+        },
+        "fileName": "deer-group-LARGE.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "Deer Group",
+      "description": "Group of Red Deer",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "42e58b25242810d764fdca9a3cc9d9ce",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c3biSOE5Gc0iK0A2esoYeAMfirstTextBlockTextNode >>> MarkdownRemark": {
+      "id": "c3biSOE5Gc0iK0A2esoYeAMfirstTextBlockTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c3biSOE5Gc0iK0A2esoYeAMfirstTextBlockTextNode",
+      "internal": {
+        "content": "Over the last eight hundred years the manor of Harting has been home to a number of deer parks, in which red deer (the largest species of wild deer found in the UK) were emparked (enclosed within a fence) in landscaped parkland.\n\nIn the context of those times, a time when wild venison could not be freely sold; with these parks came enormous status to their owners. It should be borne in mind that the building of a park required a royal licence and there is little doubt that the associated earthworks and tree planting schemes must have influenced swathes of the landscape that this area of the South Downs National Park still benefits from today.",
+        "contentDigest": "933896f91866430ad342f0c58bf4f514",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c3biSOE5Gc0iK0A2esoYeAMfirstTextBlockTextNode",
+        "parent": "c3biSOE5Gc0iK0A2esoYeAMfirstTextBlockTextNode"
+      }
+    },
+    "c1Q60HMAKCk0gqeU6AkacME": {
+      "id": "c1Q60HMAKCk0gqeU6AkacME",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/1Q60HMAKCk0gqeU6AkacME/f3957276a7ad6fa09ed75f5801137c09/deer-group-LARGE.jpg",
+        "details": {
+          "size": 488615,
+          "image": {
+            "width": 1920,
+            "height": 837
+          }
+        },
+        "fileName": "deer-group-LARGE.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "deer-group-LARGE",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "38cf7477f77d9fa065dd919145a0b994",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c3biSOE5Gc0iK0A2esoYeAMsecondTextBlockTextNode": {
+      "id": "c3biSOE5Gc0iK0A2esoYeAMsecondTextBlockTextNode",
+      "parent": "c3biSOE5Gc0iK0A2esoYeAM",
+      "children": [
+        "c3biSOE5Gc0iK0A2esoYeAMsecondTextBlockTextNode >>> MarkdownRemark"
+      ],
+      "secondTextBlock": "From as far back as medieval times through to the eighteenth century, ownership of a deer park was just about the pinnacle of achievement in terms of social standing, allowing the park&#39;s owner to entertain wealthy guests with hunting as well as the significant prestige associated with being able to bestow venison as a gift.\n  \nIndeed, A History of Harting, by Rev. H. D. Gordon, published in 1876, said of one of the Harting deer parks that the Duke of Richmond, and three succeeding orthodox Protestant Bishops of Chichester had pronounced the red deer as being &quot;the best venison in the world.&quot;",
+      "internal": {
+        "type": "contentfulDefaultFrontPageArticleSecondTextBlockTextNode",
+        "mediaType": "text/markdown",
+        "content": "From as far back as medieval times through to the eighteenth century, ownership of a deer park was just about the pinnacle of achievement in terms of social standing, allowing the park&#39;s owner to entertain wealthy guests with hunting as well as the significant prestige associated with being able to bestow venison as a gift.\n  \nIndeed, A History of Harting, by Rev. H. D. Gordon, published in 1876, said of one of the Harting deer parks that the Duke of Richmond, and three succeeding orthodox Protestant Bishops of Chichester had pronounced the red deer as being &quot;the best venison in the world.&quot;",
+        "contentDigest": "1fd6ec28f248250e62d34caf8f3bd118",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c6ftCdYCsw0Mi4WiAiu6oi6": {
+      "id": "c6ftCdYCsw0Mi4WiAiu6oi6",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/6ftCdYCsw0Mi4WiAiu6oi6/2a15a76b8bec85e14bf996afc7ee9636/red-deer-close-up-LARGE.jpg",
+        "details": {
+          "size": 566403,
+          "image": {
+            "width": 1920,
+            "height": 1280
+          }
+        },
+        "fileName": "red-deer-close-up-LARGE.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "red-deer-close-up-LARGE",
+      "description": "Red Deer close up shot",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "ce3bf5c1ce01a6835f4dd2380bbc16e6",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c3biSOE5Gc0iK0A2esoYeAMsecondTextBlockTextNode >>> MarkdownRemark": {
+      "id": "c3biSOE5Gc0iK0A2esoYeAMsecondTextBlockTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c3biSOE5Gc0iK0A2esoYeAMsecondTextBlockTextNode",
+      "internal": {
+        "content": "From as far back as medieval times through to the eighteenth century, ownership of a deer park was just about the pinnacle of achievement in terms of social standing, allowing the park&#39;s owner to entertain wealthy guests with hunting as well as the significant prestige associated with being able to bestow venison as a gift.\n  \nIndeed, A History of Harting, by Rev. H. D. Gordon, published in 1876, said of one of the Harting deer parks that the Duke of Richmond, and three succeeding orthodox Protestant Bishops of Chichester had pronounced the red deer as being &quot;the best venison in the world.&quot;",
+        "contentDigest": "c776105406a4eb7654feaacfd5929c82",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c3biSOE5Gc0iK0A2esoYeAMsecondTextBlockTextNode",
+        "parent": "c3biSOE5Gc0iK0A2esoYeAMsecondTextBlockTextNode"
+      }
+    },
+    "c3biSOE5Gc0iK0A2esoYeAMthirdTextBlockTextNode": {
+      "id": "c3biSOE5Gc0iK0A2esoYeAMthirdTextBlockTextNode",
+      "parent": "c3biSOE5Gc0iK0A2esoYeAM",
+      "children": [
+        "c3biSOE5Gc0iK0A2esoYeAMthirdTextBlockTextNode >>> MarkdownRemark"
+      ],
+      "thirdTextBlock": "However, as the years rolled on and the laws relaxed, allowing the free trade of venison, so hunting and the keeping of red deer ceased to have the material value and status that it had held previously, and as a result deer parks fell into decline across the country and indeed into extinction in the Parish of Harting.\n\n__Sky Park Farm__ seeks to revive the tradition of enclosed red deer in the Parish.\n\nOur herd of red deer already numbers over 100 animals and these numbers will be bred-up over the coming years. As with the Harting deer parks of old, Sky Park Farm seeks to breed animals for both live sales and venison, but without the element of hunting that would have been of such significance to our ancestors.",
+      "internal": {
+        "type": "contentfulDefaultFrontPageArticleThirdTextBlockTextNode",
+        "mediaType": "text/markdown",
+        "content": "However, as the years rolled on and the laws relaxed, allowing the free trade of venison, so hunting and the keeping of red deer ceased to have the material value and status that it had held previously, and as a result deer parks fell into decline across the country and indeed into extinction in the Parish of Harting.\n\n__Sky Park Farm__ seeks to revive the tradition of enclosed red deer in the Parish.\n\nOur herd of red deer already numbers over 100 animals and these numbers will be bred-up over the coming years. As with the Harting deer parks of old, Sky Park Farm seeks to breed animals for both live sales and venison, but without the element of hunting that would have been of such significance to our ancestors.",
+        "contentDigest": "f260dbb848126868a1edfbe64b89b1cd",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c3biSOE5Gc0iK0A2esoYeAMfourthTextBlockTextNode": {
+      "id": "c3biSOE5Gc0iK0A2esoYeAMfourthTextBlockTextNode",
+      "parent": "c3biSOE5Gc0iK0A2esoYeAM",
+      "children": [
+        "c3biSOE5Gc0iK0A2esoYeAMfourthTextBlockTextNode >>> MarkdownRemark"
+      ],
+      "fourthTextBlock": "Our aim at Sky Park Farm is to balance modern cutting edge deer farming techniques, with the beauty and traditions of the South Downs National Park, allowing these magnificent animals to be seen and enjoyed once again in the same fields and perhaps even under the same ancient oak trees where they once roamed. Sky Park Farm is lucky to have the benefit of numerous centuries-old oak trees, and with the same hindsight that our forebears showed by planting these trees, we have ourselves planted scores of new oaks and other native trees; together with hundreds of mixed native hedging plants which we hope will benefit future generations to come.",
+      "internal": {
+        "type": "contentfulDefaultFrontPageArticleFourthTextBlockTextNode",
+        "mediaType": "text/markdown",
+        "content": "Our aim at Sky Park Farm is to balance modern cutting edge deer farming techniques, with the beauty and traditions of the South Downs National Park, allowing these magnificent animals to be seen and enjoyed once again in the same fields and perhaps even under the same ancient oak trees where they once roamed. Sky Park Farm is lucky to have the benefit of numerous centuries-old oak trees, and with the same hindsight that our forebears showed by planting these trees, we have ourselves planted scores of new oaks and other native trees; together with hundreds of mixed native hedging plants which we hope will benefit future generations to come.",
+        "contentDigest": "1b7f42cc924167d841f1e94aaf0e2b36",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c3biSOE5Gc0iK0A2esoYeAMfifthTextBlockTextNode": {
+      "id": "c3biSOE5Gc0iK0A2esoYeAMfifthTextBlockTextNode",
+      "parent": "c3biSOE5Gc0iK0A2esoYeAM",
+      "children": [
+        "c3biSOE5Gc0iK0A2esoYeAMfifthTextBlockTextNode >>> MarkdownRemark"
+      ],
+      "fifthTextBlock": "There are 15 deer enclosures at Sky Park Farm all connected to one-another by a series of races, which are essential for the movement and rotation of deer between fields.\n\nWhen our deer are not being moved these races are ideal for for people to walk around and view these majestic animals close up. The setting of our red deer in the South Downs National Park is therefore much the same as in previous centuries, with the main difference being that our deer are no longer shot by our guests with bows and arrows or guns, but rather through the lens of a camera.",
+      "internal": {
+        "type": "contentfulDefaultFrontPageArticleFifthTextBlockTextNode",
+        "mediaType": "text/markdown",
+        "content": "There are 15 deer enclosures at Sky Park Farm all connected to one-another by a series of races, which are essential for the movement and rotation of deer between fields.\n\nWhen our deer are not being moved these races are ideal for for people to walk around and view these majestic animals close up. The setting of our red deer in the South Downs National Park is therefore much the same as in previous centuries, with the main difference being that our deer are no longer shot by our guests with bows and arrows or guns, but rather through the lens of a camera.",
+        "contentDigest": "535232596cd42341c7cc6cdb5a77777c",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c3qnaAlPNX2k4ISiQqaMQWu": {
+      "id": "c3qnaAlPNX2k4ISiQqaMQWu",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/3qnaAlPNX2k4ISiQqaMQWu/a724135dfd65894bdb828d2d71c575f0/open-space-LARGE.jpg",
+        "details": {
+          "size": 468874,
+          "image": {
+            "width": 1920,
+            "height": 1141
+          }
+        },
+        "fileName": "open-space-LARGE.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "open-space-LARGE",
+      "description": "A few Red Deer with a backdrop of expansive open space countryside",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "629c658a88ce934586b70c859cd5f342",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c3zBrcKYCD6sgYaoiQ4UIi2": {
+      "id": "c3zBrcKYCD6sgYaoiQ4UIi2",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/3zBrcKYCD6sgYaoiQ4UIi2/5e4d556aeada1be0a41786248f90bf58/deer-following-dom-LARGE.jpg",
+        "details": {
+          "size": 465485,
+          "image": {
+            "width": 1920,
+            "height": 1353
+          }
+        },
+        "fileName": "deer-following-dom-LARGE.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "deer-following-dom-LARGE",
+      "description": "Large herd of Red Deer following the Estate Manager",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "12e383060d279a76485724c21d201838",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c18OBDZR0quyEMSEeQgk6qa": {
+      "id": "c18OBDZR0quyEMSEeQgk6qa",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/18OBDZR0quyEMSEeQgk6qa/fbb2ec4f669f93e1f7623cdb0937b6a4/spf-sunrise-LARGE.jpg",
+        "details": {
+          "size": 375725,
+          "image": {
+            "width": 1920,
+            "height": 1420
+          }
+        },
+        "fileName": "spf-sunrise-LARGE.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "spf-sunrise-LARGE",
+      "description": "Sky Park Farm Sunrise",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "e37c16e4ca59fde44e7d6e449f57e34b",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c3biSOE5Gc0iK0A2esoYeAMthirdTextBlockTextNode >>> MarkdownRemark": {
+      "id": "c3biSOE5Gc0iK0A2esoYeAMthirdTextBlockTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c3biSOE5Gc0iK0A2esoYeAMthirdTextBlockTextNode",
+      "internal": {
+        "content": "However, as the years rolled on and the laws relaxed, allowing the free trade of venison, so hunting and the keeping of red deer ceased to have the material value and status that it had held previously, and as a result deer parks fell into decline across the country and indeed into extinction in the Parish of Harting.\n\n__Sky Park Farm__ seeks to revive the tradition of enclosed red deer in the Parish.\n\nOur herd of red deer already numbers over 100 animals and these numbers will be bred-up over the coming years. As with the Harting deer parks of old, Sky Park Farm seeks to breed animals for both live sales and venison, but without the element of hunting that would have been of such significance to our ancestors.",
+        "contentDigest": "e9ebff47074976073a584bf7f6c9ccfc",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c3biSOE5Gc0iK0A2esoYeAMthirdTextBlockTextNode",
+        "parent": "c3biSOE5Gc0iK0A2esoYeAMthirdTextBlockTextNode"
+      }
+    },
+    "c3biSOE5Gc0iK0A2esoYeAMfourthTextBlockTextNode >>> MarkdownRemark": {
+      "id": "c3biSOE5Gc0iK0A2esoYeAMfourthTextBlockTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c3biSOE5Gc0iK0A2esoYeAMfourthTextBlockTextNode",
+      "internal": {
+        "content": "Our aim at Sky Park Farm is to balance modern cutting edge deer farming techniques, with the beauty and traditions of the South Downs National Park, allowing these magnificent animals to be seen and enjoyed once again in the same fields and perhaps even under the same ancient oak trees where they once roamed. Sky Park Farm is lucky to have the benefit of numerous centuries-old oak trees, and with the same hindsight that our forebears showed by planting these trees, we have ourselves planted scores of new oaks and other native trees; together with hundreds of mixed native hedging plants which we hope will benefit future generations to come.",
+        "contentDigest": "79f3e2c976108c2966158ca9d9e16cb6",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c3biSOE5Gc0iK0A2esoYeAMfourthTextBlockTextNode",
+        "parent": "c3biSOE5Gc0iK0A2esoYeAMfourthTextBlockTextNode"
+      }
+    },
+    "c3biSOE5Gc0iK0A2esoYeAMfifthTextBlockTextNode >>> MarkdownRemark": {
+      "id": "c3biSOE5Gc0iK0A2esoYeAMfifthTextBlockTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c3biSOE5Gc0iK0A2esoYeAMfifthTextBlockTextNode",
+      "internal": {
+        "content": "There are 15 deer enclosures at Sky Park Farm all connected to one-another by a series of races, which are essential for the movement and rotation of deer between fields.\n\nWhen our deer are not being moved these races are ideal for for people to walk around and view these majestic animals close up. The setting of our red deer in the South Downs National Park is therefore much the same as in previous centuries, with the main difference being that our deer are no longer shot by our guests with bows and arrows or guns, but rather through the lens of a camera.",
+        "contentDigest": "9f857f1333edc77c2618e88cfeca3db7",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c3biSOE5Gc0iK0A2esoYeAMfifthTextBlockTextNode",
+        "parent": "c3biSOE5Gc0iK0A2esoYeAMfifthTextBlockTextNode"
       }
     },
     "SitePage /404/": {
@@ -916,7 +1270,7 @@
       "component": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1516291008261,
+      "updatedAt": 1516885832670,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
@@ -925,7 +1279,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0c2997670e2417687f4b6f9fbf7ec4c1",
+        "contentDigest": "6b34845dc10762bfa06336324e0eb260",
         "owner": "internal-data-bridge"
       }
     },
@@ -937,7 +1291,7 @@
       "component": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/bookings-accommodation.js",
       "componentChunkName": "component---src-pages-bookings-accommodation-js",
       "context": {},
-      "updatedAt": 1516291008263,
+      "updatedAt": 1516885832671,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/bookings-accommodation.js",
@@ -946,7 +1300,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5387e158126f96ac5ee999bd7b087e88",
+        "contentDigest": "033e4e51b5c6a7cbbc33678b5b68f444",
         "owner": "internal-data-bridge"
       }
     },
@@ -958,7 +1312,7 @@
       "component": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1516291008264,
+      "updatedAt": 1516885832672,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
@@ -967,7 +1321,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ab827deb972eb5b18e3f81efbf476e3a",
+        "contentDigest": "0c0841d4b12ccb18fa76940389b80ba3",
         "owner": "internal-data-bridge"
       }
     },
@@ -979,7 +1333,7 @@
       "component": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
       "componentChunkName": "component---src-pages-news-archive-js",
       "context": {},
-      "updatedAt": 1516291008264,
+      "updatedAt": 1516885832673,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
@@ -988,7 +1342,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "037c8de1efcc44ef6662bda13b65ea39",
+        "contentDigest": "622ba49158527162f4a9fcbb90d58c0d",
         "owner": "internal-data-bridge"
       }
     },
@@ -1000,7 +1354,7 @@
       "component": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
       "componentChunkName": "component---src-pages-page-2-js",
       "context": {},
-      "updatedAt": 1516291008265,
+      "updatedAt": 1516885832674,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
@@ -1009,7 +1363,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a462c720721e521fab5aaef80c960ff9",
+        "contentDigest": "df06460a64d6e1f1845db8d823dff657",
         "owner": "internal-data-bridge"
       }
     },
@@ -1021,7 +1375,7 @@
       "component": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1516291008269,
+      "updatedAt": 1516885832678,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "/Users/dannoonan/Desktop/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
@@ -1030,7 +1384,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3473cdf750c971259f81f2d0ee6aff83",
+        "contentDigest": "c260fa6499f5352453a12fca8a875dc9",
         "owner": "internal-data-bridge"
       }
     }
@@ -1038,7 +1392,7 @@
   "status": {
     "plugins": {
       "gatsby-source-contentful": {
-        "vs9k02isgfes": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybCpcO0CGDDncKgVMOswoJRAsKAw6LDkyt8MMOiAzAKwqxjwrbCtEpuwqTDuhjDlzdZWhbCiMOoC8OjNBrDvcOidcOHHSLDpE3ClBjDmMKUZMK9IsO5CsKdL8KiwqDCmws"
+        "vs9k02isgfes": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyZlw4RFdwjDqBoiwrvCjcO9fsKeJsK7IAVUIsOwbcKHwqstw7UdQsOlwpDCtcK2w7bCvcOjLsK-YsOSwqjDtMOWG8KxazHDq8OXXnLDmivClcO3wozDpRBtw4XDuHDDqxfDmcO2"
       }
     },
     "PLUGINS_HASH": "2969471e27a837e91a7c01c5b61547f9"
@@ -1060,7 +1414,54 @@
         "/"
       ],
       "c3rhG2dob44KaOK2wU8IKoafullArticleTextTextNode >>> MarkdownRemark": [
-        "/news-archive/"
+        "/news-archive/",
+        "/"
+      ],
+      "c3biSOE5Gc0iK0A2esoYeAMfirstTextBlockTextNode": [
+        "/"
+      ],
+      "c3biSOE5Gc0iK0A2esoYeAMfirstTextBlockTextNode >>> MarkdownRemark": [
+        "/"
+      ],
+      "c3rhG2dob44KaOK2wU8IKoaopeningParagraphTextNode >>> MarkdownRemark": [],
+      "c5uG1BlQPhSCa0G8soSyA0S": [
+        "/"
+      ],
+      "c6ftCdYCsw0Mi4WiAiu6oi6": [
+        "/"
+      ],
+      "c3biSOE5Gc0iK0A2esoYeAMsecondTextBlockTextNode": [
+        "/"
+      ],
+      "c3biSOE5Gc0iK0A2esoYeAMsecondTextBlockTextNode >>> MarkdownRemark": [
+        "/"
+      ],
+      "c18OBDZR0quyEMSEeQgk6qa": [
+        "/"
+      ],
+      "c3biSOE5Gc0iK0A2esoYeAMthirdTextBlockTextNode": [
+        "/"
+      ],
+      "c3biSOE5Gc0iK0A2esoYeAMthirdTextBlockTextNode >>> MarkdownRemark": [
+        "/"
+      ],
+      "c3zBrcKYCD6sgYaoiQ4UIi2": [
+        "/"
+      ],
+      "c3biSOE5Gc0iK0A2esoYeAMfourthTextBlockTextNode": [
+        "/"
+      ],
+      "c3biSOE5Gc0iK0A2esoYeAMfourthTextBlockTextNode >>> MarkdownRemark": [
+        "/"
+      ],
+      "c3qnaAlPNX2k4ISiQqaMQWu": [
+        "/"
+      ],
+      "c3biSOE5Gc0iK0A2esoYeAMfifthTextBlockTextNode": [
+        "/"
+      ],
+      "c3biSOE5Gc0iK0A2esoYeAMfifthTextBlockTextNode >>> MarkdownRemark": [
+        "/"
       ]
     },
     "connections": {
@@ -1076,7 +1477,12 @@
       ],
       "SitePage": [
         "/dev-404-page/"
-      ]
+      ],
+      "ContentfulDefaultFrontPageArticle": [
+        "/"
+      ],
+      "contentfulNewsBlogFullArticleTextTextNode": [],
+      "MarkdownRemark": []
     }
   }
 }
