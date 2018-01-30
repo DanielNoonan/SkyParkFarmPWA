@@ -25,14 +25,13 @@ export default NewsColumnItem;
 
 //Styled Components
 const NewsItemWrapper = styled.div`
-  // border: 1px solid black;
   perspective: 700;
   cursor: pointer;
 `
 
 const NewsItemBox = styled.div`
   border: 1px solid #80D4F7;
-  border-radius: 10px;
+  // border-radius: 5px;
   background: #F6F6F6;
   position: relative;
   width: 94%;
@@ -45,6 +44,7 @@ const NewsItemBox = styled.div`
 `
 
 const NewsItemFront = styled.div`
+  padding: 5px;
   min-height: 250px;
   background: #F6F6F6;
   position: absolute:
@@ -54,8 +54,9 @@ const NewsItemFront = styled.div`
 `
 
 const NewsItemBack = styled.div`
+  padding: 5px;
+  text-align: left;
   min-height: 300px;
-  text-align: center;
   position: absolute;
   top: 0;
   left: 0;
@@ -76,9 +77,11 @@ const NewsItemHeadline = styled.h1`
 const NewsItemImage = styled.img`
   width: 96%;
   margin-left: 2%;
+  border-radius: 5px;
 `
 
 const NewsItemIntroText = styled.p`
   text-align: center;
+  font-size: 2em;
 `
 

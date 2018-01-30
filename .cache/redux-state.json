@@ -8,7 +8,7 @@
       "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1517239465761,
+      "updatedAt": 1517330782866,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4a99d2f89d6aaccb063eb35f9ec7cb88",
+        "contentDigest": "7a44b92209e65fd91d1ebc270be4152f",
         "owner": "internal-data-bridge"
       }
     },
@@ -632,12 +632,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-01-29T15:24:21.879Z",
+      "buildTime": "2018-01-30T16:46:19.952Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "9b775b4a93d01bd9ec7cae3c37fece9e",
+        "contentDigest": "4faafb16414e4ac75f4b27c14f1baf35",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -807,14 +807,14 @@
     },
     "c3CscnqMd9SImowSSEsGkqo": {
       "todaysDate": "2018-01-25",
-      "title": "Deer Enclosure",
+      "title": "Deer Grazing - Lens Flare",
       "openingSentence": "Numerous deer enclosures joined by 'races' in Sky Park Farm",
       "articleImage___NODE": "c2mNOyiEvNGaQsS604KEAoY",
       "openingParagraph___NODE": "c3CscnqMd9SImowSSEsGkqoopeningParagraphTextNode",
       "fullArticleText___NODE": "c3CscnqMd9SImowSSEsGkqofullArticleTextTextNode",
       "id": "c3CscnqMd9SImowSSEsGkqo",
       "createdAt": "2018-01-25T14:41:15.519Z",
-      "updatedAt": "2018-01-25T14:41:15.519Z",
+      "updatedAt": "2018-01-30T14:22:06.305Z",
       "parent": "News Blog",
       "children": [
         "c3CscnqMd9SImowSSEsGkqoopeningParagraphTextNode",
@@ -822,7 +822,7 @@
       ],
       "internal": {
         "type": "ContentfulNewsBlog",
-        "contentDigest": "2aa4327356581f6da6ecce35ea317f43",
+        "contentDigest": "b1956af472e931693eb05d4763d73735",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
@@ -851,14 +851,14 @@
     },
     "c2dVYOEnmGEGYm46uqCMacU": {
       "todaysDate": "2018-01-25",
-      "title": "Deer Grazing",
+      "title": "Deer 'Races'",
       "openingSentence": "Deer enjoys the newly grown lush grass of a recently baron field in Sky Park Farm",
-      "articleImage___NODE": "c5MScI1fcg8ig40oC0QQkeA",
+      "articleImage___NODE": "c3WRjQtPnvG06CiIYEoCWuy",
       "openingParagraph___NODE": "c2dVYOEnmGEGYm46uqCMacUopeningParagraphTextNode",
       "fullArticleText___NODE": "c2dVYOEnmGEGYm46uqCMacUfullArticleTextTextNode",
       "id": "c2dVYOEnmGEGYm46uqCMacU",
       "createdAt": "2018-01-25T14:34:22.782Z",
-      "updatedAt": "2018-01-25T14:34:22.782Z",
+      "updatedAt": "2018-01-30T14:57:18.565Z",
       "parent": "News Blog",
       "children": [
         "c2dVYOEnmGEGYm46uqCMacUopeningParagraphTextNode",
@@ -866,21 +866,21 @@
       ],
       "internal": {
         "type": "ContentfulNewsBlog",
-        "contentDigest": "7571b690440fa4b40cbba475a129e1fc",
+        "contentDigest": "e51c63075b3565c22f364de47edcae7c",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
     },
     "c2dqPnCNKWcga6IAOsAeo8C": {
       "todaysDate": "2018-01-25",
-      "title": "Deer Fencing",
+      "title": "Farm Renovation",
       "openingSentence": "25km of premium deer fencing goes up at Sky Park Farm.",
       "articleImage___NODE": "c6Ug84lzEQg04giigIMEeAW",
       "openingParagraph___NODE": "c2dqPnCNKWcga6IAOsAeo8CopeningParagraphTextNode",
       "fullArticleText___NODE": "c2dqPnCNKWcga6IAOsAeo8CfullArticleTextTextNode",
       "id": "c2dqPnCNKWcga6IAOsAeo8C",
       "createdAt": "2018-01-25T14:29:39.290Z",
-      "updatedAt": "2018-01-25T14:29:39.290Z",
+      "updatedAt": "2018-01-30T14:59:36.482Z",
       "parent": "News Blog",
       "children": [
         "c2dqPnCNKWcga6IAOsAeo8CopeningParagraphTextNode",
@@ -888,13 +888,13 @@
       ],
       "internal": {
         "type": "ContentfulNewsBlog",
-        "contentDigest": "52594554c57cf8f18057e77a94dd3971",
+        "contentDigest": "2a051d8084224288ae807458cb8648ea",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
     },
     "c3rhG2dob44KaOK2wU8IKoa": {
-      "todaysDate": "2018-01-17",
+      "todaysDate": "2018-01-30",
       "title": "Quebec Cottage",
       "openingSentence": "Beautiful holiday accommodation",
       "articleImage___NODE": "c35yP6Ub9iEs82Qu2EGuam4",
@@ -902,7 +902,7 @@
       "fullArticleText___NODE": "c3rhG2dob44KaOK2wU8IKoafullArticleTextTextNode",
       "id": "c3rhG2dob44KaOK2wU8IKoa",
       "createdAt": "2018-01-17T14:42:21.038Z",
-      "updatedAt": "2018-01-24T14:04:40.354Z",
+      "updatedAt": "2018-01-30T15:01:25.870Z",
       "parent": "News Blog",
       "children": [
         "c3rhG2dob44KaOK2wU8IKoaopeningParagraphTextNode",
@@ -910,7 +910,7 @@
       ],
       "internal": {
         "type": "ContentfulNewsBlog",
-        "contentDigest": "5204ff9ad5dec8853938d17650b0eeda",
+        "contentDigest": "8d7c6352b9e25472144b659e38989868",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
@@ -1099,23 +1099,23 @@
       "parent": null,
       "children": [],
       "file": {
-        "url": "//images.contentful.com/vs9k02isgfes/2mNOyiEvNGaQsS604KEAoY/c14555a9cc80e8b982c88e7a608cfa20/mobile_4.jpg",
+        "url": "//images.contentful.com/vs9k02isgfes/2mNOyiEvNGaQsS604KEAoY/23613d6c0b8c74e89640bd2c494c4fb3/deer-grazing-lensflare-LARGE.jpg",
         "details": {
-          "size": 19312,
+          "size": 486492,
           "image": {
-            "width": 320,
-            "height": 213
+            "width": 1920,
+            "height": 1327
           }
         },
-        "fileName": "mobile_4.jpg",
+        "fileName": "deer-grazing-lensflare-LARGE.jpg",
         "contentType": "image/jpeg"
       },
       "title": "Blog Post",
-      "description": "Deer Enclosure",
+      "description": "Deer Grazing - Lens Flare",
       "node_locale": "en-US",
       "internal": {
         "type": "ContentfulAsset",
-        "contentDigest": "3ae028ae96cf49d700ba7ddd4db2029f",
+        "contentDigest": "c3d74c73ab17ad9ec6d6bc671c5d70e8",
         "owner": "gatsby-source-contentful"
       }
     },
@@ -1124,15 +1124,15 @@
       "parent": null,
       "children": [],
       "file": {
-        "url": "//images.contentful.com/vs9k02isgfes/7ArkSTWX9CamAim8IkUEMU/d79d7808e0709aedfcbbcf535ce26dd2/mobile_3.jpg",
+        "url": "//images.contentful.com/vs9k02isgfes/7ArkSTWX9CamAim8IkUEMU/84c6ab240cddb76b51669969952c7f26/red-deer-close-up-LARGE.jpg",
         "details": {
-          "size": 21414,
+          "size": 566403,
           "image": {
-            "width": 320,
-            "height": 221
+            "width": 1920,
+            "height": 1280
           }
         },
-        "fileName": "mobile_3.jpg",
+        "fileName": "red-deer-close-up-LARGE.jpg",
         "contentType": "image/jpeg"
       },
       "title": "Blog post",
@@ -1140,7 +1140,7 @@
       "node_locale": "en-US",
       "internal": {
         "type": "ContentfulAsset",
-        "contentDigest": "8bddc58c358afa71b0887a0d98669386",
+        "contentDigest": "a0fd998013b48100c335b23de6e60a3f",
         "owner": "gatsby-source-contentful"
       }
     },
@@ -1174,23 +1174,23 @@
       "parent": null,
       "children": [],
       "file": {
-        "url": "//images.contentful.com/vs9k02isgfes/6Ug84lzEQg04giigIMEeAW/8620514ec8b7eba2d57850d55db75760/mobile_1.jpg",
+        "url": "//images.contentful.com/vs9k02isgfes/6Ug84lzEQg04giigIMEeAW/d1f70bd575778f2a6f127c40af032cb5/farm-renovation-LARGE.jpg",
         "details": {
-          "size": 20391,
+          "size": 623260,
           "image": {
-            "width": 320,
-            "height": 213
+            "width": 1920,
+            "height": 1263
           }
         },
-        "fileName": "mobile_1.jpg",
+        "fileName": "farm-renovation-LARGE.jpg",
         "contentType": "image/jpeg"
       },
       "title": "Blog Post",
-      "description": "Deer Fencing",
+      "description": "Farm Renovation",
       "node_locale": "en-US",
       "internal": {
         "type": "ContentfulAsset",
-        "contentDigest": "cd9bab2f715da135400a34a6f4b84a09",
+        "contentDigest": "5f9d9d92bf8fc030622070bad3b53f18",
         "owner": "gatsby-source-contentful"
       }
     },
@@ -1399,15 +1399,15 @@
       "parent": null,
       "children": [],
       "file": {
-        "url": "//images.contentful.com/vs9k02isgfes/35yP6Ub9iEs82Qu2EGuam4/1d8e84a62f56b86a90cbfc1d11dd960b/quebec-cottage-SMALL.jpg",
+        "url": "//images.contentful.com/vs9k02isgfes/35yP6Ub9iEs82Qu2EGuam4/7f9a8878ee5f678115c979b6e380cf57/quebec-cottage-LARGE.jpg",
         "details": {
-          "size": 148717,
+          "size": 828054,
           "image": {
-            "width": 640,
-            "height": 427
+            "width": 1920,
+            "height": 1280
           }
         },
-        "fileName": "quebec-cottage-SMALL.jpg",
+        "fileName": "quebec-cottage-LARGE.jpg",
         "contentType": "image/jpeg"
       },
       "title": "Quebec Cottage",
@@ -1415,7 +1415,7 @@
       "node_locale": "en-US",
       "internal": {
         "type": "ContentfulAsset",
-        "contentDigest": "68e5657ef5f0051835f0d9ad33ba551f",
+        "contentDigest": "fb9d5db00c69c602d134fb7cd7026572",
         "owner": "gatsby-source-contentful"
       }
     },
@@ -1659,6 +1659,31 @@
         "parent": "c3biSOE5Gc0iK0A2esoYeAMfifthTextBlockTextNode"
       }
     },
+    "c3WRjQtPnvG06CiIYEoCWuy": {
+      "id": "c3WRjQtPnvG06CiIYEoCWuy",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/3WRjQtPnvG06CiIYEoCWuy/cf56113bf45c9444c04a78d33be70063/races-LARGE.jpg",
+        "details": {
+          "size": 425565,
+          "image": {
+            "width": 1920,
+            "height": 891
+          }
+        },
+        "fileName": "races-LARGE.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "races-LARGE",
+      "description": "Deer 'Races'",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "d96dd993f2f8c8b21f10861565cfc4da",
+        "owner": "gatsby-source-contentful"
+      }
+    },
     "SitePage /404/": {
       "layout": "index",
       "jsonName": "404.json",
@@ -1667,7 +1692,7 @@
       "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1517239465775,
+      "updatedAt": 1517330782875,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
@@ -1676,7 +1701,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "82b65e5794a423c084261b8d959540ba",
+        "contentDigest": "b059d013ad3bb6cad319ca3c9ead9c45",
         "owner": "internal-data-bridge"
       }
     },
@@ -1688,7 +1713,7 @@
       "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/bookings-accommodation.js",
       "componentChunkName": "component---src-pages-bookings-accommodation-js",
       "context": {},
-      "updatedAt": 1517239465778,
+      "updatedAt": 1517330782876,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/bookings-accommodation.js",
@@ -1697,7 +1722,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fba59d751407691e970b482d313e5e15",
+        "contentDigest": "5c47ed555dd15fe1a06af5c3c8c057ac",
         "owner": "internal-data-bridge"
       }
     },
@@ -1709,7 +1734,7 @@
       "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1517239465779,
+      "updatedAt": 1517330782877,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
@@ -1718,7 +1743,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1f0fe356bd35fcf0fa0a1de6f7460b82",
+        "contentDigest": "618a7588458cddc07366fbc14e8d3f85",
         "owner": "internal-data-bridge"
       }
     },
@@ -1730,7 +1755,7 @@
       "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
       "componentChunkName": "component---src-pages-news-archive-js",
       "context": {},
-      "updatedAt": 1517239465780,
+      "updatedAt": 1517330782879,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
@@ -1739,7 +1764,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ddb065e5c6ef8fa9f47c932344ac527b",
+        "contentDigest": "27f3b6bf7b199f94443e353378dba66d",
         "owner": "internal-data-bridge"
       }
     },
@@ -1751,7 +1776,7 @@
       "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
       "componentChunkName": "component---src-pages-page-2-js",
       "context": {},
-      "updatedAt": 1517239465781,
+      "updatedAt": 1517330782880,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
@@ -1760,7 +1785,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0c54611ffd7279b8dd6f32980943d05f",
+        "contentDigest": "597f9fceeb83002510dc8203218a7b78",
         "owner": "internal-data-bridge"
       }
     },
@@ -1772,7 +1797,7 @@
       "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1517239465784,
+      "updatedAt": 1517330782883,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
@@ -1781,7 +1806,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "26ddeaa82e6c2551100bd02075a622b6",
+        "contentDigest": "25a69666aeb6fc19c8888514a7e5b20f",
         "owner": "internal-data-bridge"
       }
     }
@@ -1789,7 +1814,7 @@
   "status": {
     "plugins": {
       "gatsby-source-contentful": {
-        "vs9k02isgfes": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyZ0w5xowpzDjsO-L8OyW8OrMVnCiMOLMgQDQ8KhSW16f3EpwqPDmcKSD8ODwrtRw5QFZ8Oywq_CvEjDm0bDiVEWwqlTX21sCworw50vUy3DjBnCuMK6elkFEA"
+        "vs9k02isgfes": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybCnMK6w7bCgsOeNx1yw7Q8w4fDsMKjbcO0wrjCmRPChGXCp3lOw5_DmVdywrd5IyIawqLDp8OQwrUyw6TCjyzDq8OlwqDDpsK8ccKFQsOAwrHDsyDCosOYAE_Chw7Dh8K0w4LCtsKuwqs"
       }
     },
     "PLUGINS_HASH": "cdb36efe452a016efd8b08d79e0d1a3a"
@@ -1918,6 +1943,10 @@
       ],
       "c3biSOE5Gc0iK0A2esoYeAMfifthTextBlockTextNode >>> MarkdownRemark": [
         "/"
+      ],
+      "c3WRjQtPnvG06CiIYEoCWuy": [
+        "/",
+        "/news-archive/"
       ]
     },
     "connections": {
