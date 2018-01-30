@@ -16,6 +16,9 @@ const NewsColumnArticle = (props) => {
                 <img src={props.image} alt='News column article' />
             </NewsArticleImage>
             <NewsArticleText dangerouslySetInnerHTML={{ __html: props.text }} />
+            <div className="Sirv" data-effect="zoom" >
+                <img data-src="https://peggiblo.sirv.com/Images/VW%20Beetle.jpg" />
+            </div>
         </div>
     )
 }
