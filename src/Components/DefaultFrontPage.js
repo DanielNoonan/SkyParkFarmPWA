@@ -79,7 +79,8 @@ const DefaultFrontPageArticle = styled.div`
         text-align: left;
         font-size: 2em;
     }
-    img { border-radius: 4% }
+
+    img { border-radius: 5px }
     margin: 0 1%;
     
     @media (min-width: 750px) {

@@ -4,12 +4,63 @@
             "edges": [
                 {
                     "node": {
-                        "todaysDate": "25 January, 2018",
-                        "id": "c3CscnqMd9SImowSSEsGkqo",
-                        "title": "Deer Enclosure",
+                        "todaysDate": "30 January, 2018",
+                        "id": "c3rhG2dob44KaOK2wU8IKoa",
+                        "title": "Quebec Cottage",
                         "articleImage": {
                             "file": {
-                                "url": "//images.contentful.com/vs9k02isgfes/2mNOyiEvNGaQsS604KEAoY/c14555a9cc80e8b982c88e7a608cfa20/mobile_4.jpg"
+                                "url": "//images.contentful.com/vs9k02isgfes/35yP6Ub9iEs82Qu2EGuam4/7f9a8878ee5f678115c979b6e380cf57/quebec-cottage-LARGE.jpg"
+                            }
+                        },
+                        "childContentfulNewsBlogFullArticleTextTextNode": {
+                            "childMarkdownRemark": {
+                                "html": "<h1>This is a Markdown Heading</h1>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.</p>"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "todaysDate": "25 January, 2018",
+                        "id": "c2dqPnCNKWcga6IAOsAeo8C",
+                        "title": "Farm Renovation",
+                        "articleImage": {
+                            "file": {
+                                "url": "//images.contentful.com/vs9k02isgfes/6Ug84lzEQg04giigIMEeAW/d1f70bd575778f2a6f127c40af032cb5/farm-renovation-LARGE.jpg"
+                            }
+                        },
+                        "childContentfulNewsBlogFullArticleTextTextNode": {
+                            "childMarkdownRemark": {
+                                "html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.</p>"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "todaysDate": "25 January, 2018",
+                        "id": "c2dVYOEnmGEGYm46uqCMacU",
+                        "title": "Deer 'Races'",
+                        "articleImage": {
+                            "file": {
+                                "url": "//images.contentful.com/vs9k02isgfes/3WRjQtPnvG06CiIYEoCWuy/cf56113bf45c9444c04a78d33be70063/races-LARGE.jpg"
+                            }
+                        },
+                        "childContentfulNewsBlogFullArticleTextTextNode": {
+                            "childMarkdownRemark": {
+                                "html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.</p>"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "todaysDate": "25 January, 2018",
+                        "id": "c3CscnqMd9SImowSSEsGkqo",
+                        "title": "Deer Grazing - Lens Flare",
+                        "articleImage": {
+                            "file": {
+                                "url": "//images.contentful.com/vs9k02isgfes/2mNOyiEvNGaQsS604KEAoY/23613d6c0b8c74e89640bd2c494c4fb3/deer-grazing-lensflare-LARGE.jpg"
                             }
                         },
                         "childContentfulNewsBlogFullArticleTextTextNode": {
@@ -26,63 +77,12 @@
                         "title": "Deer up close",
                         "articleImage": {
                             "file": {
-                                "url": "//images.contentful.com/vs9k02isgfes/7ArkSTWX9CamAim8IkUEMU/d79d7808e0709aedfcbbcf535ce26dd2/mobile_3.jpg"
+                                "url": "//images.contentful.com/vs9k02isgfes/7ArkSTWX9CamAim8IkUEMU/84c6ab240cddb76b51669969952c7f26/red-deer-close-up-LARGE.jpg"
                             }
                         },
                         "childContentfulNewsBlogFullArticleTextTextNode": {
                             "childMarkdownRemark": {
                                 "html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.</p>"
-                            }
-                        }
-                    }
-                },
-                {
-                    "node": {
-                        "todaysDate": "25 January, 2018",
-                        "id": "c2dVYOEnmGEGYm46uqCMacU",
-                        "title": "Deer Grazing",
-                        "articleImage": {
-                            "file": {
-                                "url": "//images.contentful.com/vs9k02isgfes/5MScI1fcg8ig40oC0QQkeA/0e9449903987237ea9219047249fb5e3/mobile_2.jpg"
-                            }
-                        },
-                        "childContentfulNewsBlogFullArticleTextTextNode": {
-                            "childMarkdownRemark": {
-                                "html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.</p>"
-                            }
-                        }
-                    }
-                },
-                {
-                    "node": {
-                        "todaysDate": "25 January, 2018",
-                        "id": "c2dqPnCNKWcga6IAOsAeo8C",
-                        "title": "Deer Fencing",
-                        "articleImage": {
-                            "file": {
-                                "url": "//images.contentful.com/vs9k02isgfes/6Ug84lzEQg04giigIMEeAW/8620514ec8b7eba2d57850d55db75760/mobile_1.jpg"
-                            }
-                        },
-                        "childContentfulNewsBlogFullArticleTextTextNode": {
-                            "childMarkdownRemark": {
-                                "html": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non elit faucibus, mollis orci sed, scelerisque dui. Sed venenatis commodo mauris eu tempus. Sed aliquam blandit quam. Nulla imperdiet dui eget massa condimentum, a tristique dui ornare. Suspendisse potenti. Donec elementum id ligula at viverra. Ut at arcu condimentum, feugiat ex vel, imperdiet nibh. Integer nec iaculis ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum augue purus, nec rutrum sapien facilisis quis.</p>"
-                            }
-                        }
-                    }
-                },
-                {
-                    "node": {
-                        "todaysDate": "17 January, 2018",
-                        "id": "c3rhG2dob44KaOK2wU8IKoa",
-                        "title": "Quebec Cottage",
-                        "articleImage": {
-                            "file": {
-                                "url": "//images.contentful.com/vs9k02isgfes/35yP6Ub9iEs82Qu2EGuam4/1d8e84a62f56b86a90cbfc1d11dd960b/quebec-cottage-SMALL.jpg"
-                            }
-                        },
-                        "childContentfulNewsBlogFullArticleTextTextNode": {
-                            "childMarkdownRemark": {
-                                "html": "<h1>This is a Markdown Heading</h1>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lobortis dolor id turpis cursus, eget finibus augue semper. Vivamus egestas turpis eget tempus dapibus. Nam imperdiet ut neque id blandit. Aliquam lacinia enim lectus. Phasellus quis nisi eleifend, fermentum libero eu, dictum augue. Ut commodo sem at massa viverra, et accumsan metus mattis. Duis vel tellus sapien. Duis id porta elit. In et erat vitae ex eleifend gravida. Cras ut porttitor magna. Vivamus nulla orci, scelerisque a dolor at, imperdiet ornare libero.</p>"
                             }
                         }
                     }

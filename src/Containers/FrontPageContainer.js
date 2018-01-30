@@ -19,7 +19,7 @@ class FrontPageContainer extends Component {
             frontpage: false,
             articleData: this.props.data.allContentfulNewsBlog.edges[index],
         });
-        window.scrollTo(0, 500);
+        window.scrollTo(0, 420);
     }
 
     reloadHomepageHandler = () => {
@@ -46,7 +46,7 @@ class FrontPageContainer extends Component {
                     clicked={this.articleDataHandler.bind(this, index)} 
                     key={newsItem.node.id} 
                     index={index} title={newsItem.node.title} 
-                    image={`https:${newsItem.node.articleImage.file.url}?w=500`}
+                    image={`https:${newsItem.node.articleImage.file.url}?w=650`}
                     altText={newsItem.node.articleImage.description} 
                     intro={newsItem.node.openingSentence}
                     itemBack={newsItem.node.openingParagraph.openingParagraph}
@@ -108,7 +108,7 @@ const NewsColumnMainTitle = styled.h1`
     text-align: center;
     background: #F6F6F6;
     border: 1px solid #80D4F7;
-    border-radius: 10px;
+    // border-radius: 10px;
 `
 
 const NewsColumnArticleWrapper = styled.div`

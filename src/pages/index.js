@@ -31,7 +31,6 @@ const Hero = styled.div`
   flex: 0 0 100%;
   background: grey;
   color: white;
-  border: 1px solid black;
   text-align: center;
   h1 {
     margin-top: 150px;
