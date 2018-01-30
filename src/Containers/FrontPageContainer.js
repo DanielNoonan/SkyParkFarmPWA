@@ -115,10 +115,16 @@ const NewsColumnArticleWrapper = styled.div`
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    flex: 0 0 calc(100% / 12 * 9);
+    flex: 0 0 100%;
+        @media (min-width: 1024px) {
+            flex: 0 0 calc(100% / 12 * 9);
+        }
 `
 const NewsArticleBox = styled.div`
-    flex: 0 0 calc(100% / 12 * 11);
+    flex: 0 0 100%;
     background: #F6F6F6;
     border-radius: 20px;
+    @media (min-width: 1024px) {
+        flex: 0 0 calc(100% / 12 * 11);
+        }
 `
