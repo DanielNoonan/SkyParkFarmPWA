@@ -14,18 +14,18 @@
         "path": "/404/"
     },
     {
-        "componentChunkName": "component---src-pages-bookings-accommodation-js",
-        "layout": "index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "bookings-accommodation.json",
-        "path": "/bookings-accommodation/"
-    },
-    {
         "componentChunkName": "component---src-pages-index-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "index.json",
         "path": "/"
+    },
+    {
+        "componentChunkName": "component---src-pages-bookings-accommodation-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "bookings-accommodation.json",
+        "path": "/bookings-accommodation/"
     },
     {
         "componentChunkName": "component---src-pages-news-archive-js",
@@ -35,17 +35,17 @@
         "path": "/news-archive/"
     },
     {
-        "componentChunkName": "component---src-pages-page-2-js",
-        "layout": "index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "page-2.json",
-        "path": "/page-2/"
-    },
-    {
         "componentChunkName": "component---src-pages-404-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "404-html.json",
         "path": "/404.html"
+    },
+    {
+        "componentChunkName": "component---src-pages-page-2-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "page-2.json",
+        "path": "/page-2/"
     }
 ]
