@@ -27,7 +27,7 @@ const TemplateWrapper = ({data, children }) => (
       {children()}
     </div>
 
-      <Footer />
+      <Footer data={data} />
   </div>
 )
 
@@ -48,6 +48,17 @@ export const query = graphql`
               url
             }
           }
+        }
+      }
+    }
+    allContentfulHeroImage {
+      edges {
+        node {
+         heroImage {
+           file {
+             url
+           }
+         }
         }
       }
     }

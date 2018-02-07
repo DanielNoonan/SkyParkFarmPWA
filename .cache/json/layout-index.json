@@ -12,6 +12,19 @@
                     }
                 }
             ]
+        },
+        "allContentfulHeroImage": {
+            "edges": [
+                {
+                    "node": {
+                        "heroImage": {
+                            "file": {
+                                "url": "//images.contentful.com/vs9k02isgfes/6siXnYRLjyCSuyM6W4gAko/0b939527b44aa38f601788cf8d730372/hero3crop.jpg"
+                            }
+                        }
+                    }
+                }
+            ]
         }
     },
     "layoutContext": {}

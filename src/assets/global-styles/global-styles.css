@@ -63,3 +63,27 @@ a {
 .navbar-link:hover {
   color: white;
 }
+
+
+/* footer styles below */
+.footer-background-hero-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/hero3crop.jpg);
+  background-size: 170%;
+  height: 100%;
+  background-attachment: fixed;
+  overflow: hidden;
+  background-repeat: round;
+}
+
+@media (min-width: 446px) {
+  .footer-background-hero-image {
+    background-size: 120%;
+  }
+}
+
+@media (min-width: 731px) {
+  .footer-background-hero-image {
+    background-size: 100%;
+  }
+}
+/* footer styles above */

@@ -32,9 +32,6 @@ const Hero = styled.div`
   background: grey;
   color: white;
   text-align: center;
-  h1 {
-    margin-top: 150px;
-  }
 `
 
 
