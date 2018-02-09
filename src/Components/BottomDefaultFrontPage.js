@@ -1,79 +1,56 @@
 import React from 'react';
 import styled from 'styled-components';
 
-
-
-const DefaultFrontPage = (props) => {
-    const firstImage = `https:${props.data.allContentfulDefaultFrontPageArticle.edges[0].node.firstImage.file.url}`;
-    const secondImage = `https:${props.data.allContentfulDefaultFrontPageArticle.edges[0].node.secondImage.file.url}`;
+const BottomDefaultFrontPage = (props) => {
     const thirdImage = `https:${props.data.allContentfulDefaultFrontPageArticle.edges[0].node.thirdImage.file.url}`;
     const fourthImage = `https:${props.data.allContentfulDefaultFrontPageArticle.edges[0].node.fourthImage.file.url}`;
     const fifthImage = `https:${props.data.allContentfulDefaultFrontPageArticle.edges[0].node.fifthImage.file.url}`;
 
     return (
-        <DefaultFrontPageArticle>
-            <h1>{props.data.allContentfulDefaultFrontPageArticle.edges[0].node.mainTitle}</h1>
-            <h3>Hart - <i>{props.data.allContentfulDefaultFrontPageArticle.edges[0].node.mainSubtitle}</i></h3>
 
-            <DefaultFrontPageArticleImage>
-                <source media='(min-width: 1200px)' srcSet={`${firstImage}?w=1800`} alt='Group of Red Deer' />
-                <source media='(min-width: 900px)' srcSet={`${firstImage}?w=1200`} alt='Group of Red Deer' />
-                <source media='(min-width: 650px)' srcSet={`${firstImage}?w=900`} alt='Group of Red Deer' />
-                <source media='(max-width: 649px)' srcSet={`${firstImage}?w=650`} alt='Group of Red Deer' />
-                <img src={props.image} alt='Group of Red Deer' />
-            </DefaultFrontPageArticleImage>
-            <h3><i>{props.data.allContentfulDefaultFrontPageArticle.edges[0].node.firstSubheading}</i></h3>
-            <div dangerouslySetInnerHTML={{ __html: props.data.allContentfulDefaultFrontPageArticle.edges[0].node.firstTextBlock.childMarkdownRemark.html }} />
+        <BottomDefaultFrontPageArticle>
 
-            <DefaultFrontPageArticleImage>
-                <source media='(min-width: 1200px)' srcSet={`${secondImage}?w=1800`} alt='Close up of Red Deer' />
-                <source media='(min-width: 900px)' srcSet={`${secondImage}?w=1200`} alt='Close up of Red Deer' />
-                <source media='(min-width: 650px)' srcSet={`${secondImage}?w=900`} alt='Close up of Red Deer' />
-                <source media='(max-width: 649px)' srcSet={`${secondImage}?w=650`} alt='Close up of Red Deer' />
-                <img src={props.image} alt='Close up of Red Deer' />
-            </DefaultFrontPageArticleImage>
-            <h3><i>{props.data.allContentfulDefaultFrontPageArticle.edges[0].node.secondSubheading}</i></h3>
+        <h3><i>{props.data.allContentfulDefaultFrontPageArticle.edges[0].node.secondSubheading}</i></h3>
             <div dangerouslySetInnerHTML={{ __html: props.data.allContentfulDefaultFrontPageArticle.edges[0].node.secondTextBlock.childMarkdownRemark.html }} />
 
-            <DefaultFrontPageArticleImage>
+            <BottomDefaultFrontPageArticleImage>
                 <source media='(min-width: 1200px)' srcSet={`${thirdImage}?w=1800`} alt='Sky Park Farm Sunset' />
                 <source media='(min-width: 900px)' srcSet={`${thirdImage}?w=1200`} alt='Sky Park Farm Sunset' />
                 <source media='(min-width: 650px)' srcSet={`${thirdImage}?w=900`} alt='Sky Park Farm Sunset' />
                 <source media='(max-width: 649px)' srcSet={`${thirdImage}?w=650`} alt='Sky Park Farm Sunset' />
                 <img src={props.image} alt='Sky Park Farm Sunset' />
-            </DefaultFrontPageArticleImage>
+            </BottomDefaultFrontPageArticleImage>
             <h3><i>{props.data.allContentfulDefaultFrontPageArticle.edges[0].node.thirdSubheading}</i></h3>
             <div dangerouslySetInnerHTML={{ __html: props.data.allContentfulDefaultFrontPageArticle.edges[0].node.thirdTextBlock.childMarkdownRemark.html }} />
 
-            <DefaultFrontPageArticleImage>
+            <BottomDefaultFrontPageArticleImage>
                 <source media='(min-width: 1200px)' srcSet={`${fourthImage}?w=1800`} alt='Deer herd following Dom the farm manager' />
                 <source media='(min-width: 900px)' srcSet={`${fourthImage}?w=1200`} alt='Deer herd following Dom the farm manager' />
                 <source media='(min-width: 650px)' srcSet={`${fourthImage}?w=900`} alt='Deer herd following Dom the farm manager' />
                 <source media='(max-width: 649px)' srcSet={`${fourthImage}?w=650`} alt='Deer herd following Dom the farm manager' />
                 <img src={props.image} alt='Deer herd following Dom the farm manager' />
-            </DefaultFrontPageArticleImage>
+            </BottomDefaultFrontPageArticleImage>
             <h3><i>{props.data.allContentfulDefaultFrontPageArticle.edges[0].node.fourthSubheading}</i></h3>
             <div dangerouslySetInnerHTML={{ __html: props.data.allContentfulDefaultFrontPageArticle.edges[0].node.fourthTextBlock.childMarkdownRemark.html }} />
 
-            <DefaultFrontPageArticleImage>
+            <BottomDefaultFrontPageArticleImage>
                 <source media='(min-width: 1200px)' srcSet={`${fifthImage}?w=1800`} alt='Group of deer with beautiful sprawling country background' />
                 <source media='(min-width: 900px)' srcSet={`${fifthImage}?w=1200`} alt='Group of deer with beautiful sprawling country background' />
                 <source media='(min-width: 650px)' srcSet={`${fifthImage}?w=900`} alt='Group of deer with beautiful sprawling country background' />
                 <source media='(max-width: 649px)' srcSet={`${fifthImage}?w=650`} alt='Group of deer with beautiful sprawling country background' />
                 <img src={props.image} alt='Group of deer with beautiful sprawling country background' />
-            </DefaultFrontPageArticleImage>
+            </BottomDefaultFrontPageArticleImage>
             <h3><i>{props.data.allContentfulDefaultFrontPageArticle.edges[0].node.fifthSubheading}</i></h3>
             <div dangerouslySetInnerHTML={{ __html: props.data.allContentfulDefaultFrontPageArticle.edges[0].node.fifthTextBlock.childMarkdownRemark.html }} />
-
-        </DefaultFrontPageArticle>
+            </BottomDefaultFrontPageArticle>
     )
 }
 
-export default DefaultFrontPage;
+export default BottomDefaultFrontPage;
 
 
-
-const DefaultFrontPageArticle = styled.div`
+//Styled Components
+const BottomDefaultFrontPageArticle = styled.div`
     h1, h2, h3, h4, h5, h6 { text-align: center; font-size: 3em }
     p { 
         text-align: left;
@@ -88,6 +65,6 @@ const DefaultFrontPageArticle = styled.div`
     }
 `
 
-const DefaultFrontPageArticleImage = styled.picture`
+const BottomDefaultFrontPageArticleImage = styled.picture`
     margin: 0 auto;
 `

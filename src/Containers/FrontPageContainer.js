@@ -3,7 +3,8 @@ import styled from 'styled-components';
 
 import NewsColumnItem from '../Components/NewsColumnItem';
 import NewsColumnArticle from '../Components/NewsColumnArticle';
-import DefaultFrontPage from '../Components/DefaultFrontPage';
+import TopDefaultFrontPage from '../Components/TopDefaultFrontPage';
+import BottomDefaultFrontPage from '../Components/BottomDefaultFrontPage';
 
 
 class FrontPageContainer extends Component {
@@ -19,7 +20,7 @@ class FrontPageContainer extends Component {
             frontpage: false,
             articleData: this.props.data.allContentfulNewsBlog.edges[index],
         });
-        window.scrollTo(0, 420);
+        window.scrollTo(0, 150);
     }
 
     reloadHomepageHandler = () => {
@@ -56,7 +57,7 @@ class FrontPageContainer extends Component {
           </NewsColumnWrapper>
           
           <NewsColumnArticleWrapper>
-            <NewsArticleBox>
+            <TopNewsArticleBox>
                 {!this.state.frontpage ? 
                 <NewsColumnArticle 
                 title={this.state.articleData.node.title} 
@@ -67,11 +68,16 @@ class FrontPageContainer extends Component {
                 :null}
 
                 {this.state.frontpage ?
-                <DefaultFrontPage data={this.props.data} />
+                <TopDefaultFrontPage data={this.props.data} />
                 : null}
 
-            </NewsArticleBox>
+            </TopNewsArticleBox>
           </NewsColumnArticleWrapper>
+            {this.state.frontpage ? 
+                <BottomNewsArticleBox>
+                    <BottomDefaultFrontPage data={this.props.data} />
+                </BottomNewsArticleBox>
+            : null}        
 
         </FrontPageContentWrapper>
         )
@@ -120,11 +126,31 @@ const NewsColumnArticleWrapper = styled.div`
             flex: 0 0 calc(100% / 12 * 9);
         }
 `
-const NewsArticleBox = styled.div`
+const TopNewsArticleBox = styled.div`
     flex: 0 0 100%;
     background: #F6F6F6;
     border-radius: 20px;
     @media (min-width: 1024px) {
         flex: 0 0 calc(100% / 12 * 11);
+        margin-bottom: 8px;
         }
+`
+
+const BottomDefaultFrontPageWrapper = styled.div`
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex: 0 0 100%;
+    height: 500px;
+    border: 1px solid blue;
+`
+
+const BottomNewsArticleBox = styled.div`
+    flex: 0 0 100%;
+    background: #F6F6F6;
+    border-radius: 20px;
+    @media (min-width: 1024px) {
+        flex: 0 0 calc(100% / 12 * 11.25);
+        margin-bottom: 8px;
+    }
 `
