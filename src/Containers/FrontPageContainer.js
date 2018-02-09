@@ -130,9 +130,9 @@ const TopNewsArticleBox = styled.div`
     flex: 0 0 100%;
     background: #F6F6F6;
     border-radius: 20px;
-    margin-bottom: 8px;
     @media (min-width: 1024px) {
         flex: 0 0 calc(100% / 12 * 11);
+        margin-bottom: 8px;
         }
 `
 
