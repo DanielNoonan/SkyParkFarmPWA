@@ -20,7 +20,7 @@ class FrontPageContainer extends Component {
             frontpage: false,
             articleData: this.props.data.allContentfulNewsBlog.edges[index],
         });
-        window.scrollTo(0, 420);
+        window.scrollTo(0, 150);
     }
 
     reloadHomepageHandler = () => {
