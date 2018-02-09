@@ -36,31 +36,31 @@ const DefaultFrontPage = (props) => {
             <div dangerouslySetInnerHTML={{ __html: props.data.allContentfulDefaultFrontPageArticle.edges[0].node.secondTextBlock.childMarkdownRemark.html }} />
 
             <DefaultFrontPageArticleImage>
-                <source media='(min-width: 1200px)' srcSet={`${thirdImage}?w=1800`} alt='Close up of Red Deer' />
-                <source media='(min-width: 900px)' srcSet={`${thirdImage}?w=1200`} alt='Close up of Red Deer' />
-                <source media='(min-width: 650px)' srcSet={`${thirdImage}?w=900`} alt='Close up of Red Deer' />
-                <source media='(max-width: 649px)' srcSet={`${thirdImage}?w=650`} alt='Close up of Red Deer' />
-                <img src={props.image} alt='Close up of Red Deer' />
+                <source media='(min-width: 1200px)' srcSet={`${thirdImage}?w=1800`} alt='Sky Park Farm Sunset' />
+                <source media='(min-width: 900px)' srcSet={`${thirdImage}?w=1200`} alt='Sky Park Farm Sunset' />
+                <source media='(min-width: 650px)' srcSet={`${thirdImage}?w=900`} alt='Sky Park Farm Sunset' />
+                <source media='(max-width: 649px)' srcSet={`${thirdImage}?w=650`} alt='Sky Park Farm Sunset' />
+                <img src={props.image} alt='Sky Park Farm Sunset' />
             </DefaultFrontPageArticleImage>
             <h3><i>{props.data.allContentfulDefaultFrontPageArticle.edges[0].node.thirdSubheading}</i></h3>
             <div dangerouslySetInnerHTML={{ __html: props.data.allContentfulDefaultFrontPageArticle.edges[0].node.thirdTextBlock.childMarkdownRemark.html }} />
 
             <DefaultFrontPageArticleImage>
-                <source media='(min-width: 1200px)' srcSet={`${fourthImage}?w=1800`} alt='Close up of Red Deer' />
-                <source media='(min-width: 900px)' srcSet={`${fourthImage}?w=1200`} alt='Close up of Red Deer' />
-                <source media='(min-width: 650px)' srcSet={`${fourthImage}?w=900`} alt='Close up of Red Deer' />
-                <source media='(max-width: 649px)' srcSet={`${fourthImage}?w=650`} alt='Close up of Red Deer' />
-                <img src={props.image} alt='Close up of Red Deer' />
+                <source media='(min-width: 1200px)' srcSet={`${fourthImage}?w=1800`} alt='Deer herd following Dom the farm manager' />
+                <source media='(min-width: 900px)' srcSet={`${fourthImage}?w=1200`} alt='Deer herd following Dom the farm manager' />
+                <source media='(min-width: 650px)' srcSet={`${fourthImage}?w=900`} alt='Deer herd following Dom the farm manager' />
+                <source media='(max-width: 649px)' srcSet={`${fourthImage}?w=650`} alt='Deer herd following Dom the farm manager' />
+                <img src={props.image} alt='Deer herd following Dom the farm manager' />
             </DefaultFrontPageArticleImage>
             <h3><i>{props.data.allContentfulDefaultFrontPageArticle.edges[0].node.fourthSubheading}</i></h3>
             <div dangerouslySetInnerHTML={{ __html: props.data.allContentfulDefaultFrontPageArticle.edges[0].node.fourthTextBlock.childMarkdownRemark.html }} />
 
             <DefaultFrontPageArticleImage>
-                <source media='(min-width: 1200px)' srcSet={`${fifthImage}?w=1800`} alt='Close up of Red Deer' />
-                <source media='(min-width: 900px)' srcSet={`${fifthImage}?w=1200`} alt='Close up of Red Deer' />
-                <source media='(min-width: 650px)' srcSet={`${fifthImage}?w=900`} alt='Close up of Red Deer' />
-                <source media='(max-width: 649px)' srcSet={`${fifthImage}?w=650`} alt='Close up of Red Deer' />
-                <img src={props.image} alt='Close up of Red Deer' />
+                <source media='(min-width: 1200px)' srcSet={`${fifthImage}?w=1800`} alt='Group of deer with beautiful sprawling country background' />
+                <source media='(min-width: 900px)' srcSet={`${fifthImage}?w=1200`} alt='Group of deer with beautiful sprawling country background' />
+                <source media='(min-width: 650px)' srcSet={`${fifthImage}?w=900`} alt='Group of deer with beautiful sprawling country background' />
+                <source media='(max-width: 649px)' srcSet={`${fifthImage}?w=650`} alt='Group of deer with beautiful sprawling country background' />
+                <img src={props.image} alt='Group of deer with beautiful sprawling country background' />
             </DefaultFrontPageArticleImage>
             <h3><i>{props.data.allContentfulDefaultFrontPageArticle.edges[0].node.fifthSubheading}</i></h3>
             <div dangerouslySetInnerHTML={{ __html: props.data.allContentfulDefaultFrontPageArticle.edges[0].node.fifthTextBlock.childMarkdownRemark.html }} />

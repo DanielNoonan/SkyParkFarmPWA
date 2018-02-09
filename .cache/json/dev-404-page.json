@@ -10,12 +10,12 @@
                 },
                 {
                     "node": {
-                        "path": "/"
+                        "path": "/bookings-accommodation/"
                     }
                 },
                 {
                     "node": {
-                        "path": "/bookings-accommodation/"
+                        "path": "/"
                     }
                 },
                 {
