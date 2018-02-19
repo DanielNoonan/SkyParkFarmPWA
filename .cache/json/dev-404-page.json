@@ -15,17 +15,17 @@
                 },
                 {
                     "node": {
-                        "path": "/bookings-accommodation/"
-                    }
-                },
-                {
-                    "node": {
                         "path": "/news-archive/"
                     }
                 },
                 {
                     "node": {
                         "path": "/page-2/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/bookings-accommodation/"
                     }
                 },
                 {
