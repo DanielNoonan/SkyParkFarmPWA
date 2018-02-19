@@ -7,12 +7,15 @@ const Bookings = () => {
             <PageTitle>BOOKINGS</PageTitle>
                 <CalendarWrapper>
                     <IframeBox>
-                        <iframe width='100%' height='1000px' frameBorder='0' src='https://secure.supercontrol.co.uk/availability/availability_weekly.asp?ownerID=20403&cottageID=cottageID_522072&siteID=42646'></iframe>
+                    <iframe width='100%' height='1000px' frameBorder='0' src="http://secure.supercontrol.co.uk/availability/availability_weekly.asp?ownerID=20507&cottageID=cottageID_529198&siteID=42869&mode=iframe&iframew=auto"></iframe>
                     </IframeBox>
                 </CalendarWrapper>
         </BookingsPageWrapper>
     )
 }
+
+{/*Trial version: <iframe width='100%' height='1000px' frameBorder='0' src='https://secure.supercontrol.co.uk/availability/availability_weekly.asp?ownerID=20403&cottageID=cottageID_522072&siteID=42646'></iframe> */}
+
 
 export default Bookings;
 
@@ -21,7 +24,7 @@ const BookingsPageWrapper = styled.div`
 `
 
 const PageTitle = styled.h1`
-    font-size: 3em;
+    font-size: 2em;
     color: black;
     text-align: center;
     letter-spacing: 0.2em;
@@ -29,6 +32,10 @@ const PageTitle = styled.h1`
     border: 5px inset #E6E6E6;
     margin-left: auto;
     margin-right: auto;
+    @media (min-width: 350px) {
+        font-size: 3em;
+        letter-spacing: 0.2em;        
+    }
     @media (min-width: 800px) {
         font-size: 6em;
     }
