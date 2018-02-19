@@ -26,12 +26,20 @@ const FullPageWrapper = styled.div`
 const PageTitle = styled.h1`
     color: black;
     text-align: center;
-    font-size: 6em;
+    font-size: 2em;
     letter-spacing: 0.2em;
     width: 70%;
     border: 5px inset #E6E6E6;
     margin-left: auto;
     margin-right: auto;
+    @media (min-width: 450px) {
+        font-size: 4em;
+        letter-spacing: 0.2em;
+    }
+    @media (min-width: 650px) {
+        font-size: 6em;
+        letter-spacing: 0.2em;
+    }
 `
 
 export const BlogQuery = graphql`
