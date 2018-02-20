@@ -203,7 +203,8 @@ class Navbar extends Component {
             <Menu>
               <TopItem onClick={this.menuFiveToggleHandler}>ACCOMMODATION <DropdownArrow>&#9660;</DropdownArrow></TopItem>
               <SubMenu className={this.state.menuFive ? 'SubMenuDisplay' : null}>
-                <Link to='/bookings-accommodation/' onClick={this.resetHandler} className='navbar-link'><SubMenuItem>QUEBEC COTTAGE</SubMenuItem></Link>
+                <Link to='/bookings-accommodation/' onClick={this.resetHandler} className='navbar-link'><SubMenuItem>BOOKINGS</SubMenuItem></Link>
+                <Link to='/accommodation-gallery/' onClick={this.resetHandler} className='navbar-link'><SubMenuItem>QUEBEC COTTAGE</SubMenuItem></Link>
               </SubMenu>
             </Menu>
             <Menu>
