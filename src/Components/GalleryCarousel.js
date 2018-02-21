@@ -9,36 +9,32 @@ import 'react-responsive-carousel/lib/styles/carousel.min.css';
 
 
 class GalleryCarousel extends Component {
-    
+
     render() {
+
+        const sliderPictures = this.props.data.allContentfulAccommodationSlider.edges;
+
         return (
             <div>
                 <h1>accommodation gallery: CAROUSEL (COMPONENT) working...</h1>
-                <Carousel showArrows={true} autoPlay interval={3000} infiniteLoop transitionTime={1000} showThumbs={true} showIndicators={false} width={`${80}%`} stopOnHover={false} >
-                    <div>
-                        <img src={require('../assets/images/1.jpg')} alt='number 1' />
-                        <p className="legend">FRONT ASPECT</p>
-                    </div>
-                    <div>
-                        <img src={require('../assets/images/2.jpg')} alt='number 2'/>
-                        <p className="legend">LOUNGE</p>
-                    </div>
-                    <div>
-                        <img src={require('../assets/images/3.jpg')} alt='number 3' />
-                        <p className="legend">MASTER BEDROOM</p>
-                    </div>
-                    <div>
-                        <img src={require('../assets/images/4.jpg')} alt='number 4' />
-                        <p className="legend">KITCHEN</p>
-                    </div>
-                    <div>
-                        <img src={require('../assets/images/5.jpg')} alt='number 5' />
-                        <p className="legend">GYMN</p>
-                    </div>
-                    <div>
-                        <img src={require('../assets/images/6.jpg')} alt='number 6' />
-                        <p className="legend">BATHROOM</p>
-                    </div>
+
+                <Carousel showArrows={false} autoPlay interval={3500} infiniteLoop transitionTime={1500} showThumbs={false} showIndicators={false} width={`80%`} stopOnHover={false} >
+                    
+                    {sliderPictures.map(edge => {
+                        return (
+                            <div key={edge.node.image.id}>
+                                <picture>
+                                    <source media='(min-width: 1200px)' srcSet={`https:${edge.node.image.file.url}?w=1800`} alt='Accommodation slide show' />
+                                    <source media='(min-width: 900px)' srcSet={`https:${edge.node.image.file.url}?w=1200`} alt='Accommodation slide show' />
+                                    <source media='(min-width: 650px)' srcSet={`https:${edge.node.image.file.url}?w=900`} alt='Accommodation slide show' />
+                                    <source media='(max-width: 649px)' srcSet={`https:${edge.node.image.file.url}?w=650`} alt='Accommodation slide show' />
+                                    <img src={`https:${edge.node.image.file.url}`} alt='Accommodation slide show' />
+                                </picture>
+                                <p className="legend">{edge.node.title}</p>
+                            </div>
+                        )
+                    })}
+
                 </Carousel>
             </div>
         )

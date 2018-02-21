@@ -1,3 +1,31 @@
 {
+    "data": {
+        "allContentfulAccommodationSlider": {
+            "edges": [
+                {
+                    "node": {
+                        "title": "Quebec Cottage",
+                        "image": {
+                            "id": "c4YyWhSLHyEQqqsIuesQGYw",
+                            "file": {
+                                "url": "//images.contentful.com/vs9k02isgfes/4YyWhSLHyEQqqsIuesQGYw/a13ec83f11d5e427d8fca513833c5af9/3.jpg"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "title": "Deer flare",
+                        "image": {
+                            "id": "R0ok2Z460S4mQcOOeYqGA",
+                            "file": {
+                                "url": "//images.contentful.com/vs9k02isgfes/R0ok2Z460S4mQcOOeYqGA/42b751c9b153d8e228af79252a5bd543/2.jpg"
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
     "pathContext": {}
 }

@@ -14,7 +14,7 @@ class AccommodationGalleryContainer extends Component {
         return (
             <div>
                 <h1>accommodation gallery: CONTAINER working...</h1>
-                <GalleryCarousel />
+                <GalleryCarousel data={this.props.data} />
             </div>
         )
     }

@@ -5,6 +5,11 @@
             "edges": [
                 {
                     "node": {
+                        "path": "/404/"
+                    }
+                },
+                {
+                    "node": {
                         "path": "/accommodation-gallery/"
                     }
                 },
@@ -15,7 +20,12 @@
                 },
                 {
                     "node": {
-                        "path": "/404/"
+                        "path": "/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/news-archive/"
                     }
                 },
                 {
@@ -25,17 +35,7 @@
                 },
                 {
                     "node": {
-                        "path": "/"
-                    }
-                },
-                {
-                    "node": {
                         "path": "/404.html"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/news-archive/"
                     }
                 }
             ]
