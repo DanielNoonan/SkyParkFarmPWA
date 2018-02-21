@@ -8,7 +8,7 @@
       "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1519214586056,
+      "updatedAt": 1519226870209,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "abf0b5e902e5366904ff90edb62ca3ef",
+        "contentDigest": "7e19d4f6ef601f64edfe55096fad8167",
         "owner": "internal-data-bridge"
       }
     },
@@ -636,12 +636,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-02-21T12:03:02.170Z",
+      "buildTime": "2018-02-21T15:27:47.058Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "33e6b634e5606cab4f9c272529ce88a4",
+        "contentDigest": "81b976b11df1b027d7445e69cb132095",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1721,15 +1721,15 @@
       "parent": null,
       "children": [],
       "file": {
-        "url": "//images.contentful.com/vs9k02isgfes/4YyWhSLHyEQqqsIuesQGYw/a13ec83f11d5e427d8fca513833c5af9/3.jpg",
+        "url": "//images.contentful.com/vs9k02isgfes/4YyWhSLHyEQqqsIuesQGYw/10c655801c405325e406f64d4e9f73f2/footer-hero3crop.jpg",
         "details": {
-          "size": 148717,
+          "size": 722019,
           "image": {
-            "width": 640,
-            "height": 427
+            "width": 5472,
+            "height": 1101
           }
         },
-        "fileName": "3.jpg",
+        "fileName": "footer-hero3crop.jpg",
         "contentType": "image/jpeg"
       },
       "title": "3",
@@ -1737,7 +1737,7 @@
       "node_locale": "en-US",
       "internal": {
         "type": "ContentfulAsset",
-        "contentDigest": "a4fafc16d44a5eb6fa7e1ec73b7ff4c3",
+        "contentDigest": "ea5cae79499c3d01bb521685a784e798",
         "owner": "gatsby-source-contentful"
       }
     },
@@ -1761,7 +1761,235 @@
       "parent": null,
       "children": [],
       "file": {
-        "url": "//images.contentful.com/vs9k02isgfes/R0ok2Z460S4mQcOOeYqGA/42b751c9b153d8e228af79252a5bd543/2.jpg",
+        "url": "//images.contentful.com/vs9k02isgfes/R0ok2Z460S4mQcOOeYqGA/d10d577454a284220a33aebf5883db87/footer-hero3crop.jpg",
+        "details": {
+          "size": 722019,
+          "image": {
+            "width": 5472,
+            "height": 1101
+          }
+        },
+        "fileName": "footer-hero3crop.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "2",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "a0ed1e26622efcd44eb0c671abf2b07b",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "Quebec Cottage Slider": {
+      "id": "Quebec Cottage Slider",
+      "parent": null,
+      "children": [],
+      "name": "Quebec Cottage Slider",
+      "displayField": "title",
+      "description": "Quebec Cottage Images",
+      "internal": {
+        "type": "ContentfulContentType",
+        "contentDigest": "0dc74a08c24bdf8891d0c73f8111ca63",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c246TovKqMY84g0w6kiQQ0a": {
+      "title": "ENSUITE",
+      "image___NODE": "c51GxPLCHl6mm2Ck0EyKUSG",
+      "id": "c246TovKqMY84g0w6kiQQ0a",
+      "createdAt": "2018-02-21T15:22:41.101Z",
+      "updatedAt": "2018-02-21T15:22:41.101Z",
+      "parent": "Quebec Cottage Slider",
+      "children": [],
+      "internal": {
+        "type": "ContentfulQuebecCottageSlider",
+        "contentDigest": "ba89ca8fd588bcbbd791e646c4762038",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c6ifR6lWA5aA4QYEMg2w4Wg": {
+      "title": "MASTER BEDROOM",
+      "image___NODE": "c6bzVU0RahiC26IUWAU0qog",
+      "id": "c6ifR6lWA5aA4QYEMg2w4Wg",
+      "createdAt": "2018-02-21T15:22:01.677Z",
+      "updatedAt": "2018-02-21T15:22:01.677Z",
+      "parent": "Quebec Cottage Slider",
+      "children": [],
+      "internal": {
+        "type": "ContentfulQuebecCottageSlider",
+        "contentDigest": "fe2e27467af38d361a31ae6b24ac75e9",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "u0tnElS8esU8aiCwsmgSw": {
+      "title": "BEDROOM 1",
+      "image___NODE": "c4vV71TmWH6OokIGgmII8gE",
+      "id": "u0tnElS8esU8aiCwsmgSw",
+      "createdAt": "2018-02-21T15:21:31.786Z",
+      "updatedAt": "2018-02-21T15:21:31.786Z",
+      "parent": "Quebec Cottage Slider",
+      "children": [],
+      "internal": {
+        "type": "ContentfulQuebecCottageSlider",
+        "contentDigest": "54958027ea029abcb6f7752f6b1f56ac",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c69BGXzadgIcKWSsoeSKcu": {
+      "title": "EXTERIOR",
+      "image___NODE": "c5TKQuBXZTOyyYOGeW20amw",
+      "id": "c69BGXzadgIcKWSsoeSKcu",
+      "createdAt": "2018-02-21T15:20:11.734Z",
+      "updatedAt": "2018-02-21T15:20:32.536Z",
+      "parent": "Quebec Cottage Slider",
+      "children": [],
+      "internal": {
+        "type": "ContentfulQuebecCottageSlider",
+        "contentDigest": "0a6232f46334cc57fe052c05f68e8c79",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c2EGyhPm71WCuyeUGWs6QU0": {
+      "title": "KITCHEN",
+      "image___NODE": "c4ZMKyYWIMMqo6MsAAs4EiK",
+      "id": "c2EGyhPm71WCuyeUGWs6QU0",
+      "createdAt": "2018-02-21T15:19:34.915Z",
+      "updatedAt": "2018-02-21T15:19:34.915Z",
+      "parent": "Quebec Cottage Slider",
+      "children": [],
+      "internal": {
+        "type": "ContentfulQuebecCottageSlider",
+        "contentDigest": "2bde4b54125f78e27e32d4a29967442c",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c47yD63weyAcSoaEyWewycQ": {
+      "title": "LOUNGE",
+      "image___NODE": "c1KvnS0HHms4UiA88KgC8aS",
+      "id": "c47yD63weyAcSoaEyWewycQ",
+      "createdAt": "2018-02-21T15:18:36.095Z",
+      "updatedAt": "2018-02-21T15:18:36.095Z",
+      "parent": "Quebec Cottage Slider",
+      "children": [],
+      "internal": {
+        "type": "ContentfulQuebecCottageSlider",
+        "contentDigest": "2b1b2a9541f0afb9cf9112e769b3444d",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c51GxPLCHl6mm2Ck0EyKUSG": {
+      "id": "c51GxPLCHl6mm2Ck0EyKUSG",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/51GxPLCHl6mm2Ck0EyKUSG/f7207d325156793b1b4bd390c88e0924/6.jpg",
+        "details": {
+          "size": 120742,
+          "image": {
+            "width": 640,
+            "height": 427
+          }
+        },
+        "fileName": "6.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "6",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "e1dd4ed9de3e7c00b99e6376af489caa",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c6bzVU0RahiC26IUWAU0qog": {
+      "id": "c6bzVU0RahiC26IUWAU0qog",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/6bzVU0RahiC26IUWAU0qog/f99382443766d1b30a08a80bdcb5b16b/5.jpg",
+        "details": {
+          "size": 121995,
+          "image": {
+            "width": 640,
+            "height": 421
+          }
+        },
+        "fileName": "5.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "5",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "215f32c8faacab8e1b15cfca7f4f30ab",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c4vV71TmWH6OokIGgmII8gE": {
+      "id": "c4vV71TmWH6OokIGgmII8gE",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/4vV71TmWH6OokIGgmII8gE/969efb400f5ffe22ccfe52bce66aa3e4/4.jpg",
+        "details": {
+          "size": 137164,
+          "image": {
+            "width": 640,
+            "height": 427
+          }
+        },
+        "fileName": "4.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "4",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "1786a2723869ec6e987980fec8b708bc",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c5TKQuBXZTOyyYOGeW20amw": {
+      "id": "c5TKQuBXZTOyyYOGeW20amw",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/5TKQuBXZTOyyYOGeW20amw/f6fbc84235b7ead34593ce13fb366158/3.jpg",
+        "details": {
+          "size": 148717,
+          "image": {
+            "width": 640,
+            "height": 427
+          }
+        },
+        "fileName": "3.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "3",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "89fc70dcbdd9e719d23d9e5f3b3efa9d",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c4ZMKyYWIMMqo6MsAAs4EiK": {
+      "id": "c4ZMKyYWIMMqo6MsAAs4EiK",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/4ZMKyYWIMMqo6MsAAs4EiK/2aa42b5df3defa2d5f80e911f2087653/2.jpg",
         "details": {
           "size": 113154,
           "image": {
@@ -1777,7 +2005,32 @@
       "node_locale": "en-US",
       "internal": {
         "type": "ContentfulAsset",
-        "contentDigest": "3f96f3e7866184884fbdad4e8b4e47a7",
+        "contentDigest": "38115c102e5c1e5547cae753ab8a9e5e",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c1KvnS0HHms4UiA88KgC8aS": {
+      "id": "c1KvnS0HHms4UiA88KgC8aS",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/1KvnS0HHms4UiA88KgC8aS/2c798b6f3f0d399cd7af8818c8a82bb6/1.jpg",
+        "details": {
+          "size": 103479,
+          "image": {
+            "width": 640,
+            "height": 451
+          }
+        },
+        "fileName": "1.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "1",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "8d084fccf239bcc1ef9089522b8d71e4",
         "owner": "gatsby-source-contentful"
       }
     },
@@ -1789,7 +2042,7 @@
       "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1519214586067,
+      "updatedAt": 1519226870234,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
@@ -1798,7 +2051,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b546f802e4088542c55c116819f10c23",
+        "contentDigest": "d1c5e45a672a39b71ee965082ea82a14",
         "owner": "internal-data-bridge"
       }
     },
@@ -1810,7 +2063,7 @@
       "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/accommodation-gallery.js",
       "componentChunkName": "component---src-pages-accommodation-gallery-js",
       "context": {},
-      "updatedAt": 1519214586068,
+      "updatedAt": 1519226870237,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/accommodation-gallery.js",
@@ -1819,7 +2072,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7b1077cf7aeb79f3689343652ebc0fa1",
+        "contentDigest": "3745e94d3f46c283e2a040f088a82c7d",
         "owner": "internal-data-bridge"
       }
     },
@@ -1831,7 +2084,7 @@
       "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/bookings-accommodation.js",
       "componentChunkName": "component---src-pages-bookings-accommodation-js",
       "context": {},
-      "updatedAt": 1519214586070,
+      "updatedAt": 1519226870239,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/bookings-accommodation.js",
@@ -1840,7 +2093,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a0ff55eab0b71c5aa4151e918f43d5cf",
+        "contentDigest": "3915aad2d3d7d2fdc8bfcc03fab15d4f",
         "owner": "internal-data-bridge"
       }
     },
@@ -1852,7 +2105,7 @@
       "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1519214586072,
+      "updatedAt": 1519226870241,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
@@ -1861,7 +2114,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d876acee3c777b67476eb21aa6509ac2",
+        "contentDigest": "5390765b4e0b3c767ff1ff278fb26b33",
         "owner": "internal-data-bridge"
       }
     },
@@ -1873,7 +2126,7 @@
       "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
       "componentChunkName": "component---src-pages-news-archive-js",
       "context": {},
-      "updatedAt": 1519214586072,
+      "updatedAt": 1519226870242,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
@@ -1882,7 +2135,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f436733996beef0bb8f63d97feb28370",
+        "contentDigest": "ef2922c632494d1efc128b188c94e196",
         "owner": "internal-data-bridge"
       }
     },
@@ -1894,7 +2147,7 @@
       "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1519214586074,
+      "updatedAt": 1519226870244,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
@@ -1903,7 +2156,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "722fdb70e1fb9f62b4371d67dcef3d7d",
+        "contentDigest": "7740bc350db24fd0c6df2476e6d5c710",
         "owner": "internal-data-bridge"
       }
     },
@@ -1915,7 +2168,7 @@
       "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
       "componentChunkName": "component---src-pages-page-2-js",
       "context": {},
-      "updatedAt": 1519214586080,
+      "updatedAt": 1519226870249,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
@@ -1924,7 +2177,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "262e4e155ecd590826d19be84bfadb2d",
+        "contentDigest": "2f494468eac94bfdb54daa2cf83c2cb3",
         "owner": "internal-data-bridge"
       }
     }
@@ -1932,7 +2185,7 @@
   "status": {
     "plugins": {
       "gatsby-source-contentful": {
-        "vs9k02isgfes": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyYsw7HCgsKvVMOnwqHCtcKoN8O3FUh_wo9Sw5bCqDTDsUIaecOgSTtsw7Y6w4I2wr_Cq8OQw5vDpW4tw6ATNTRwwonDgsKbO8O6wrjCihFEwpXCscOwwpXCo8KUcsOMw7_CujFr"
+        "vs9k02isgfes": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyYgw7AwwqbChS0pQsONw6nCij3Cl0vDoGgAYcK1w6s9fMKxEMO2w6HCnsK_w7rDhBPDjMKcwrMjw5gyw7jDjxLCt8ObwobCli_DvGLDukUdNMKMwrg0H8OUw7DDpjZ6wrfDtsKNwqU"
       }
     },
     "PLUGINS_HASH": "74342f79aee85638b715f74be597962d"
@@ -2067,6 +2320,31 @@
         "/accommodation-gallery/"
       ],
       "R0ok2Z460S4mQcOOeYqGA": [
+        "/",
+        "/accommodation-gallery/"
+      ],
+      "c51GxPLCHl6mm2Ck0EyKUSG": [
+        "/",
+        "/accommodation-gallery/"
+      ],
+      "c6bzVU0RahiC26IUWAU0qog": [
+        "/",
+        "/accommodation-gallery/"
+      ],
+      "c4vV71TmWH6OokIGgmII8gE": [
+        "/",
+        "/accommodation-gallery/"
+      ],
+      "c5TKQuBXZTOyyYOGeW20amw": [
+        "/",
+        "/accommodation-gallery/"
+      ],
+      "c4ZMKyYWIMMqo6MsAAs4EiK": [
+        "/",
+        "/accommodation-gallery/"
+      ],
+      "c1KvnS0HHms4UiA88KgC8aS": [
+        "/",
         "/accommodation-gallery/"
       ]
     },
@@ -2089,6 +2367,9 @@
         "/dev-404-page/"
       ],
       "ContentfulAccommodationSlider": [
+        "/accommodation-gallery/"
+      ],
+      "ContentfulQuebecCottageSlider": [
         "/accommodation-gallery/"
       ]
     }

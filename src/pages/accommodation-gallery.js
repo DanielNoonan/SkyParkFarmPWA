@@ -1,15 +1,46 @@
-import React from 'react';
+import React, { Component } from 'react';
 import styled from 'styled-components';
 import AccommodationGalleryContainer from '../Containers/AccommodationGalleryContainer';
+import QuebecCottageSlider from '../Components/QuebecCottageSlider';
 
-const AccommodationGallery = ({ data }) => {
+class AccommodationGallery extends Component {
+    state = {
+        showGallery: false
+    }
 
-    return (
-        <div>
-            <h1>accommodation gallery: PAGE working...</h1>
-            <AccommodationGalleryContainer data={data} />
-        </div>
-    )
+    showGalleryHandler = () => {
+        console.log('ShowGalleryHandler Is Firing');
+        this.setState({
+            showGallery: !this.state.showGallery
+        });
+        window.scrollTo(0, 145);
+    }
+    
+    hideGalleryHandler = () => {
+        console.log('ShowGalleryHandler Is Firing');
+        this.setState({
+            showGallery: !this.state.showGallery
+        });
+        window.scrollTo(0, 0);
+    }
+
+    render() {
+        console.log(this.state.showGallery)
+
+        return (
+            <div>
+
+                {!this.state.showGallery ?
+                <div>
+                    <AccommodationGalleryContainer data={this.props.data} click={this.showGalleryHandler} />
+                    <GalleryBox onClick={this.showGalleryHandler} />
+                </div> :
+                <QuebecCottageSlider click={this.hideGalleryHandler} data={this.props.data} />
+                }
+
+            </div>
+        )
+    }
 }
 
 export default AccommodationGallery;
@@ -20,6 +51,13 @@ export default AccommodationGallery;
 
 
 //Styled Components
+const GalleryBox = styled.div`
+    width: 60%;
+    height: 300px;
+    margin: 0 auto;
+    background: brown;
+    border: 1px solid black;
+`
 
 
 // Graphql CMS query
@@ -33,6 +71,19 @@ export const SliderQuery = graphql`
                         id
                         file {
                              url
+                        }
+                    }
+                }
+            }
+        }
+        allContentfulQuebecCottageSlider {
+            edges {
+                node {
+                    title
+                    image {
+                        id
+                        file {
+                            url
                         }
                     }
                 }
