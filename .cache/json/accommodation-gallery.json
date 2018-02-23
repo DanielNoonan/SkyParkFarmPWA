@@ -4,22 +4,22 @@
             "edges": [
                 {
                     "node": {
-                        "title": "Quebec Cottage",
+                        "title": "Deer flare",
                         "image": {
-                            "id": "c4YyWhSLHyEQqqsIuesQGYw",
+                            "id": "R0ok2Z460S4mQcOOeYqGA",
                             "file": {
-                                "url": "//images.contentful.com/vs9k02isgfes/4YyWhSLHyEQqqsIuesQGYw/10c655801c405325e406f64d4e9f73f2/footer-hero3crop.jpg"
+                                "url": "//images.contentful.com/vs9k02isgfes/R0ok2Z460S4mQcOOeYqGA/d10d577454a284220a33aebf5883db87/footer-hero3crop.jpg"
                             }
                         }
                     }
                 },
                 {
                     "node": {
-                        "title": "Deer flare",
+                        "title": "Quebec Cottage",
                         "image": {
-                            "id": "R0ok2Z460S4mQcOOeYqGA",
+                            "id": "c4YyWhSLHyEQqqsIuesQGYw",
                             "file": {
-                                "url": "//images.contentful.com/vs9k02isgfes/R0ok2Z460S4mQcOOeYqGA/d10d577454a284220a33aebf5883db87/footer-hero3crop.jpg"
+                                "url": "//images.contentful.com/vs9k02isgfes/4YyWhSLHyEQqqsIuesQGYw/10c655801c405325e406f64d4e9f73f2/footer-hero3crop.jpg"
                             }
                         }
                     }

@@ -8,7 +8,7 @@
       "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1519226870209,
+      "updatedAt": 1519394293386,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7e19d4f6ef601f64edfe55096fad8167",
+        "contentDigest": "e1f285c18718426520be751d6638a702",
         "owner": "internal-data-bridge"
       }
     },
@@ -636,12 +636,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-02-21T15:27:47.058Z",
+      "buildTime": "2018-02-23T13:58:10.329Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "81b976b11df1b027d7445e69cb132095",
+        "contentDigest": "097aeb0d0f60587729e8dd5403781f26",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1097,6 +1097,352 @@
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
+    },
+    "Accommodation Slider": {
+      "id": "Accommodation Slider",
+      "parent": null,
+      "children": [],
+      "name": "Accommodation Slider",
+      "displayField": "title",
+      "description": "Slider Gallery For Accommodation Page",
+      "internal": {
+        "type": "ContentfulContentType",
+        "contentDigest": "309ac5d6cb836eda967804ea91f6a73b",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c22TbLCvI6woMQW0gAcEumW": {
+      "title": "Deer flare",
+      "image___NODE": "R0ok2Z460S4mQcOOeYqGA",
+      "id": "c22TbLCvI6woMQW0gAcEumW",
+      "createdAt": "2018-02-21T11:10:03.813Z",
+      "updatedAt": "2018-02-21T11:10:03.813Z",
+      "parent": "Accommodation Slider",
+      "children": [],
+      "internal": {
+        "type": "ContentfulAccommodationSlider",
+        "contentDigest": "479ec29cc40415e99b37b4ba405449ec",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c3JXubZmZz2yg8UCOsg00QC": {
+      "title": "Quebec Cottage",
+      "image___NODE": "c4YyWhSLHyEQqqsIuesQGYw",
+      "id": "c3JXubZmZz2yg8UCOsg00QC",
+      "createdAt": "2018-02-21T10:27:31.666Z",
+      "updatedAt": "2018-02-21T10:27:31.666Z",
+      "parent": "Accommodation Slider",
+      "children": [],
+      "internal": {
+        "type": "ContentfulAccommodationSlider",
+        "contentDigest": "c5cbf19415ad2db151b7b92deac2801d",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "Quebec Cottage Slider": {
+      "id": "Quebec Cottage Slider",
+      "parent": null,
+      "children": [],
+      "name": "Quebec Cottage Slider",
+      "displayField": "title",
+      "description": "Quebec Cottage Images",
+      "internal": {
+        "type": "ContentfulContentType",
+        "contentDigest": "0dc74a08c24bdf8891d0c73f8111ca63",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c246TovKqMY84g0w6kiQQ0a": {
+      "title": "ENSUITE",
+      "image___NODE": "c51GxPLCHl6mm2Ck0EyKUSG",
+      "id": "c246TovKqMY84g0w6kiQQ0a",
+      "createdAt": "2018-02-21T15:22:41.101Z",
+      "updatedAt": "2018-02-21T15:22:41.101Z",
+      "parent": "Quebec Cottage Slider",
+      "children": [],
+      "internal": {
+        "type": "ContentfulQuebecCottageSlider",
+        "contentDigest": "ba89ca8fd588bcbbd791e646c4762038",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c6ifR6lWA5aA4QYEMg2w4Wg": {
+      "title": "MASTER BEDROOM",
+      "image___NODE": "c6bzVU0RahiC26IUWAU0qog",
+      "id": "c6ifR6lWA5aA4QYEMg2w4Wg",
+      "createdAt": "2018-02-21T15:22:01.677Z",
+      "updatedAt": "2018-02-21T15:22:01.677Z",
+      "parent": "Quebec Cottage Slider",
+      "children": [],
+      "internal": {
+        "type": "ContentfulQuebecCottageSlider",
+        "contentDigest": "fe2e27467af38d361a31ae6b24ac75e9",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "u0tnElS8esU8aiCwsmgSw": {
+      "title": "BEDROOM 1",
+      "image___NODE": "c4vV71TmWH6OokIGgmII8gE",
+      "id": "u0tnElS8esU8aiCwsmgSw",
+      "createdAt": "2018-02-21T15:21:31.786Z",
+      "updatedAt": "2018-02-21T15:21:31.786Z",
+      "parent": "Quebec Cottage Slider",
+      "children": [],
+      "internal": {
+        "type": "ContentfulQuebecCottageSlider",
+        "contentDigest": "54958027ea029abcb6f7752f6b1f56ac",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c69BGXzadgIcKWSsoeSKcu": {
+      "title": "EXTERIOR",
+      "image___NODE": "c5TKQuBXZTOyyYOGeW20amw",
+      "id": "c69BGXzadgIcKWSsoeSKcu",
+      "createdAt": "2018-02-21T15:20:11.734Z",
+      "updatedAt": "2018-02-21T15:20:32.536Z",
+      "parent": "Quebec Cottage Slider",
+      "children": [],
+      "internal": {
+        "type": "ContentfulQuebecCottageSlider",
+        "contentDigest": "0a6232f46334cc57fe052c05f68e8c79",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c2EGyhPm71WCuyeUGWs6QU0": {
+      "title": "KITCHEN",
+      "image___NODE": "c4ZMKyYWIMMqo6MsAAs4EiK",
+      "id": "c2EGyhPm71WCuyeUGWs6QU0",
+      "createdAt": "2018-02-21T15:19:34.915Z",
+      "updatedAt": "2018-02-21T15:19:34.915Z",
+      "parent": "Quebec Cottage Slider",
+      "children": [],
+      "internal": {
+        "type": "ContentfulQuebecCottageSlider",
+        "contentDigest": "2bde4b54125f78e27e32d4a29967442c",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c47yD63weyAcSoaEyWewycQ": {
+      "title": "LOUNGE",
+      "image___NODE": "c1KvnS0HHms4UiA88KgC8aS",
+      "id": "c47yD63weyAcSoaEyWewycQ",
+      "createdAt": "2018-02-21T15:18:36.095Z",
+      "updatedAt": "2018-02-21T15:18:36.095Z",
+      "parent": "Quebec Cottage Slider",
+      "children": [],
+      "internal": {
+        "type": "ContentfulQuebecCottageSlider",
+        "contentDigest": "2b1b2a9541f0afb9cf9112e769b3444d",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c51GxPLCHl6mm2Ck0EyKUSG": {
+      "id": "c51GxPLCHl6mm2Ck0EyKUSG",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/51GxPLCHl6mm2Ck0EyKUSG/f7207d325156793b1b4bd390c88e0924/6.jpg",
+        "details": {
+          "size": 120742,
+          "image": {
+            "width": 640,
+            "height": 427
+          }
+        },
+        "fileName": "6.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "6",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "e1dd4ed9de3e7c00b99e6376af489caa",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c6bzVU0RahiC26IUWAU0qog": {
+      "id": "c6bzVU0RahiC26IUWAU0qog",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/6bzVU0RahiC26IUWAU0qog/f99382443766d1b30a08a80bdcb5b16b/5.jpg",
+        "details": {
+          "size": 121995,
+          "image": {
+            "width": 640,
+            "height": 421
+          }
+        },
+        "fileName": "5.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "5",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "215f32c8faacab8e1b15cfca7f4f30ab",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c4vV71TmWH6OokIGgmII8gE": {
+      "id": "c4vV71TmWH6OokIGgmII8gE",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/4vV71TmWH6OokIGgmII8gE/969efb400f5ffe22ccfe52bce66aa3e4/4.jpg",
+        "details": {
+          "size": 137164,
+          "image": {
+            "width": 640,
+            "height": 427
+          }
+        },
+        "fileName": "4.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "4",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "1786a2723869ec6e987980fec8b708bc",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c5TKQuBXZTOyyYOGeW20amw": {
+      "id": "c5TKQuBXZTOyyYOGeW20amw",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/5TKQuBXZTOyyYOGeW20amw/f6fbc84235b7ead34593ce13fb366158/3.jpg",
+        "details": {
+          "size": 148717,
+          "image": {
+            "width": 640,
+            "height": 427
+          }
+        },
+        "fileName": "3.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "3",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "89fc70dcbdd9e719d23d9e5f3b3efa9d",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c4ZMKyYWIMMqo6MsAAs4EiK": {
+      "id": "c4ZMKyYWIMMqo6MsAAs4EiK",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/4ZMKyYWIMMqo6MsAAs4EiK/2aa42b5df3defa2d5f80e911f2087653/2.jpg",
+        "details": {
+          "size": 113154,
+          "image": {
+            "width": 640,
+            "height": 442
+          }
+        },
+        "fileName": "2.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "2",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "38115c102e5c1e5547cae753ab8a9e5e",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c1KvnS0HHms4UiA88KgC8aS": {
+      "id": "c1KvnS0HHms4UiA88KgC8aS",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/1KvnS0HHms4UiA88KgC8aS/2c798b6f3f0d399cd7af8818c8a82bb6/1.jpg",
+        "details": {
+          "size": 103479,
+          "image": {
+            "width": 640,
+            "height": 451
+          }
+        },
+        "fileName": "1.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "1",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "8d084fccf239bcc1ef9089522b8d71e4",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c4YyWhSLHyEQqqsIuesQGYw": {
+      "id": "c4YyWhSLHyEQqqsIuesQGYw",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/4YyWhSLHyEQqqsIuesQGYw/10c655801c405325e406f64d4e9f73f2/footer-hero3crop.jpg",
+        "details": {
+          "size": 722019,
+          "image": {
+            "width": 5472,
+            "height": 1101
+          }
+        },
+        "fileName": "footer-hero3crop.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "3",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "ea5cae79499c3d01bb521685a784e798",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "R0ok2Z460S4mQcOOeYqGA": {
+      "id": "R0ok2Z460S4mQcOOeYqGA",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/R0ok2Z460S4mQcOOeYqGA/d10d577454a284220a33aebf5883db87/footer-hero3crop.jpg",
+        "details": {
+          "size": 722019,
+          "image": {
+            "width": 5472,
+            "height": 1101
+          }
+        },
+        "fileName": "footer-hero3crop.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "2",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "a0ed1e26622efcd44eb0c671abf2b07b",
+        "owner": "gatsby-source-contentful"
+      }
     },
     "c35yP6Ub9iEs82Qu2EGuam4": {
       "id": "c35yP6Ub9iEs82Qu2EGuam4",
@@ -1688,352 +2034,6 @@
         "parent": "c3biSOE5Gc0iK0A2esoYeAMfifthTextBlockTextNode"
       }
     },
-    "Accommodation Slider": {
-      "id": "Accommodation Slider",
-      "parent": null,
-      "children": [],
-      "name": "Accommodation Slider",
-      "displayField": "title",
-      "description": "Slider Gallery For Accommodation Page",
-      "internal": {
-        "type": "ContentfulContentType",
-        "contentDigest": "309ac5d6cb836eda967804ea91f6a73b",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c3JXubZmZz2yg8UCOsg00QC": {
-      "title": "Quebec Cottage",
-      "image___NODE": "c4YyWhSLHyEQqqsIuesQGYw",
-      "id": "c3JXubZmZz2yg8UCOsg00QC",
-      "createdAt": "2018-02-21T10:27:31.666Z",
-      "updatedAt": "2018-02-21T10:27:31.666Z",
-      "parent": "Accommodation Slider",
-      "children": [],
-      "internal": {
-        "type": "ContentfulAccommodationSlider",
-        "contentDigest": "c5cbf19415ad2db151b7b92deac2801d",
-        "owner": "gatsby-source-contentful"
-      },
-      "node_locale": "en-US"
-    },
-    "c4YyWhSLHyEQqqsIuesQGYw": {
-      "id": "c4YyWhSLHyEQqqsIuesQGYw",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/vs9k02isgfes/4YyWhSLHyEQqqsIuesQGYw/10c655801c405325e406f64d4e9f73f2/footer-hero3crop.jpg",
-        "details": {
-          "size": 722019,
-          "image": {
-            "width": 5472,
-            "height": 1101
-          }
-        },
-        "fileName": "footer-hero3crop.jpg",
-        "contentType": "image/jpeg"
-      },
-      "title": "3",
-      "description": "",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "ea5cae79499c3d01bb521685a784e798",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c22TbLCvI6woMQW0gAcEumW": {
-      "title": "Deer flare",
-      "image___NODE": "R0ok2Z460S4mQcOOeYqGA",
-      "id": "c22TbLCvI6woMQW0gAcEumW",
-      "createdAt": "2018-02-21T11:10:03.813Z",
-      "updatedAt": "2018-02-21T11:10:03.813Z",
-      "parent": "Accommodation Slider",
-      "children": [],
-      "internal": {
-        "type": "ContentfulAccommodationSlider",
-        "contentDigest": "479ec29cc40415e99b37b4ba405449ec",
-        "owner": "gatsby-source-contentful"
-      },
-      "node_locale": "en-US"
-    },
-    "R0ok2Z460S4mQcOOeYqGA": {
-      "id": "R0ok2Z460S4mQcOOeYqGA",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/vs9k02isgfes/R0ok2Z460S4mQcOOeYqGA/d10d577454a284220a33aebf5883db87/footer-hero3crop.jpg",
-        "details": {
-          "size": 722019,
-          "image": {
-            "width": 5472,
-            "height": 1101
-          }
-        },
-        "fileName": "footer-hero3crop.jpg",
-        "contentType": "image/jpeg"
-      },
-      "title": "2",
-      "description": "",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "a0ed1e26622efcd44eb0c671abf2b07b",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "Quebec Cottage Slider": {
-      "id": "Quebec Cottage Slider",
-      "parent": null,
-      "children": [],
-      "name": "Quebec Cottage Slider",
-      "displayField": "title",
-      "description": "Quebec Cottage Images",
-      "internal": {
-        "type": "ContentfulContentType",
-        "contentDigest": "0dc74a08c24bdf8891d0c73f8111ca63",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c246TovKqMY84g0w6kiQQ0a": {
-      "title": "ENSUITE",
-      "image___NODE": "c51GxPLCHl6mm2Ck0EyKUSG",
-      "id": "c246TovKqMY84g0w6kiQQ0a",
-      "createdAt": "2018-02-21T15:22:41.101Z",
-      "updatedAt": "2018-02-21T15:22:41.101Z",
-      "parent": "Quebec Cottage Slider",
-      "children": [],
-      "internal": {
-        "type": "ContentfulQuebecCottageSlider",
-        "contentDigest": "ba89ca8fd588bcbbd791e646c4762038",
-        "owner": "gatsby-source-contentful"
-      },
-      "node_locale": "en-US"
-    },
-    "c6ifR6lWA5aA4QYEMg2w4Wg": {
-      "title": "MASTER BEDROOM",
-      "image___NODE": "c6bzVU0RahiC26IUWAU0qog",
-      "id": "c6ifR6lWA5aA4QYEMg2w4Wg",
-      "createdAt": "2018-02-21T15:22:01.677Z",
-      "updatedAt": "2018-02-21T15:22:01.677Z",
-      "parent": "Quebec Cottage Slider",
-      "children": [],
-      "internal": {
-        "type": "ContentfulQuebecCottageSlider",
-        "contentDigest": "fe2e27467af38d361a31ae6b24ac75e9",
-        "owner": "gatsby-source-contentful"
-      },
-      "node_locale": "en-US"
-    },
-    "u0tnElS8esU8aiCwsmgSw": {
-      "title": "BEDROOM 1",
-      "image___NODE": "c4vV71TmWH6OokIGgmII8gE",
-      "id": "u0tnElS8esU8aiCwsmgSw",
-      "createdAt": "2018-02-21T15:21:31.786Z",
-      "updatedAt": "2018-02-21T15:21:31.786Z",
-      "parent": "Quebec Cottage Slider",
-      "children": [],
-      "internal": {
-        "type": "ContentfulQuebecCottageSlider",
-        "contentDigest": "54958027ea029abcb6f7752f6b1f56ac",
-        "owner": "gatsby-source-contentful"
-      },
-      "node_locale": "en-US"
-    },
-    "c69BGXzadgIcKWSsoeSKcu": {
-      "title": "EXTERIOR",
-      "image___NODE": "c5TKQuBXZTOyyYOGeW20amw",
-      "id": "c69BGXzadgIcKWSsoeSKcu",
-      "createdAt": "2018-02-21T15:20:11.734Z",
-      "updatedAt": "2018-02-21T15:20:32.536Z",
-      "parent": "Quebec Cottage Slider",
-      "children": [],
-      "internal": {
-        "type": "ContentfulQuebecCottageSlider",
-        "contentDigest": "0a6232f46334cc57fe052c05f68e8c79",
-        "owner": "gatsby-source-contentful"
-      },
-      "node_locale": "en-US"
-    },
-    "c2EGyhPm71WCuyeUGWs6QU0": {
-      "title": "KITCHEN",
-      "image___NODE": "c4ZMKyYWIMMqo6MsAAs4EiK",
-      "id": "c2EGyhPm71WCuyeUGWs6QU0",
-      "createdAt": "2018-02-21T15:19:34.915Z",
-      "updatedAt": "2018-02-21T15:19:34.915Z",
-      "parent": "Quebec Cottage Slider",
-      "children": [],
-      "internal": {
-        "type": "ContentfulQuebecCottageSlider",
-        "contentDigest": "2bde4b54125f78e27e32d4a29967442c",
-        "owner": "gatsby-source-contentful"
-      },
-      "node_locale": "en-US"
-    },
-    "c47yD63weyAcSoaEyWewycQ": {
-      "title": "LOUNGE",
-      "image___NODE": "c1KvnS0HHms4UiA88KgC8aS",
-      "id": "c47yD63weyAcSoaEyWewycQ",
-      "createdAt": "2018-02-21T15:18:36.095Z",
-      "updatedAt": "2018-02-21T15:18:36.095Z",
-      "parent": "Quebec Cottage Slider",
-      "children": [],
-      "internal": {
-        "type": "ContentfulQuebecCottageSlider",
-        "contentDigest": "2b1b2a9541f0afb9cf9112e769b3444d",
-        "owner": "gatsby-source-contentful"
-      },
-      "node_locale": "en-US"
-    },
-    "c51GxPLCHl6mm2Ck0EyKUSG": {
-      "id": "c51GxPLCHl6mm2Ck0EyKUSG",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/vs9k02isgfes/51GxPLCHl6mm2Ck0EyKUSG/f7207d325156793b1b4bd390c88e0924/6.jpg",
-        "details": {
-          "size": 120742,
-          "image": {
-            "width": 640,
-            "height": 427
-          }
-        },
-        "fileName": "6.jpg",
-        "contentType": "image/jpeg"
-      },
-      "title": "6",
-      "description": "",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "e1dd4ed9de3e7c00b99e6376af489caa",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c6bzVU0RahiC26IUWAU0qog": {
-      "id": "c6bzVU0RahiC26IUWAU0qog",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/vs9k02isgfes/6bzVU0RahiC26IUWAU0qog/f99382443766d1b30a08a80bdcb5b16b/5.jpg",
-        "details": {
-          "size": 121995,
-          "image": {
-            "width": 640,
-            "height": 421
-          }
-        },
-        "fileName": "5.jpg",
-        "contentType": "image/jpeg"
-      },
-      "title": "5",
-      "description": "",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "215f32c8faacab8e1b15cfca7f4f30ab",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c4vV71TmWH6OokIGgmII8gE": {
-      "id": "c4vV71TmWH6OokIGgmII8gE",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/vs9k02isgfes/4vV71TmWH6OokIGgmII8gE/969efb400f5ffe22ccfe52bce66aa3e4/4.jpg",
-        "details": {
-          "size": 137164,
-          "image": {
-            "width": 640,
-            "height": 427
-          }
-        },
-        "fileName": "4.jpg",
-        "contentType": "image/jpeg"
-      },
-      "title": "4",
-      "description": "",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "1786a2723869ec6e987980fec8b708bc",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c5TKQuBXZTOyyYOGeW20amw": {
-      "id": "c5TKQuBXZTOyyYOGeW20amw",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/vs9k02isgfes/5TKQuBXZTOyyYOGeW20amw/f6fbc84235b7ead34593ce13fb366158/3.jpg",
-        "details": {
-          "size": 148717,
-          "image": {
-            "width": 640,
-            "height": 427
-          }
-        },
-        "fileName": "3.jpg",
-        "contentType": "image/jpeg"
-      },
-      "title": "3",
-      "description": "",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "89fc70dcbdd9e719d23d9e5f3b3efa9d",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c4ZMKyYWIMMqo6MsAAs4EiK": {
-      "id": "c4ZMKyYWIMMqo6MsAAs4EiK",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/vs9k02isgfes/4ZMKyYWIMMqo6MsAAs4EiK/2aa42b5df3defa2d5f80e911f2087653/2.jpg",
-        "details": {
-          "size": 113154,
-          "image": {
-            "width": 640,
-            "height": 442
-          }
-        },
-        "fileName": "2.jpg",
-        "contentType": "image/jpeg"
-      },
-      "title": "2",
-      "description": "",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "38115c102e5c1e5547cae753ab8a9e5e",
-        "owner": "gatsby-source-contentful"
-      }
-    },
-    "c1KvnS0HHms4UiA88KgC8aS": {
-      "id": "c1KvnS0HHms4UiA88KgC8aS",
-      "parent": null,
-      "children": [],
-      "file": {
-        "url": "//images.contentful.com/vs9k02isgfes/1KvnS0HHms4UiA88KgC8aS/2c798b6f3f0d399cd7af8818c8a82bb6/1.jpg",
-        "details": {
-          "size": 103479,
-          "image": {
-            "width": 640,
-            "height": 451
-          }
-        },
-        "fileName": "1.jpg",
-        "contentType": "image/jpeg"
-      },
-      "title": "1",
-      "description": "",
-      "node_locale": "en-US",
-      "internal": {
-        "type": "ContentfulAsset",
-        "contentDigest": "8d084fccf239bcc1ef9089522b8d71e4",
-        "owner": "gatsby-source-contentful"
-      }
-    },
     "SitePage /404/": {
       "layout": "index",
       "jsonName": "404.json",
@@ -2042,7 +2042,7 @@
       "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1519226870234,
+      "updatedAt": 1519394293398,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
@@ -2051,7 +2051,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d1c5e45a672a39b71ee965082ea82a14",
+        "contentDigest": "a32e457d97458799f7ad337f4df316da",
         "owner": "internal-data-bridge"
       }
     },
@@ -2063,7 +2063,7 @@
       "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/accommodation-gallery.js",
       "componentChunkName": "component---src-pages-accommodation-gallery-js",
       "context": {},
-      "updatedAt": 1519226870237,
+      "updatedAt": 1519394293400,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/accommodation-gallery.js",
@@ -2072,7 +2072,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3745e94d3f46c283e2a040f088a82c7d",
+        "contentDigest": "5193e9509cfd9d8511a6566445a2e9de",
         "owner": "internal-data-bridge"
       }
     },
@@ -2084,7 +2084,7 @@
       "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/bookings-accommodation.js",
       "componentChunkName": "component---src-pages-bookings-accommodation-js",
       "context": {},
-      "updatedAt": 1519226870239,
+      "updatedAt": 1519394293401,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/bookings-accommodation.js",
@@ -2093,28 +2093,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3915aad2d3d7d2fdc8bfcc03fab15d4f",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /": {
-      "layout": "index",
-      "jsonName": "index.json",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
-      "componentChunkName": "component---src-pages-index-js",
-      "context": {},
-      "updatedAt": 1519226870241,
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
-      "id": "SitePage /",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "5390765b4e0b3c767ff1ff278fb26b33",
+        "contentDigest": "e2a9538cd7e06f727ceb4819a7c73997",
         "owner": "internal-data-bridge"
       }
     },
@@ -2126,7 +2105,7 @@
       "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
       "componentChunkName": "component---src-pages-news-archive-js",
       "context": {},
-      "updatedAt": 1519226870242,
+      "updatedAt": 1519394293403,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
@@ -2135,28 +2114,28 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ef2922c632494d1efc128b188c94e196",
+        "contentDigest": "3bbca0e5c039b13d827bab42a56d421b",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /404.html": {
+    "SitePage /": {
       "layout": "index",
-      "jsonName": "404-html.json",
-      "internalComponentName": "Component404Html",
-      "path": "/404.html",
-      "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1519226870244,
-      "pluginCreator___NODE": "Plugin prod-404",
-      "pluginCreatorId": "Plugin prod-404",
-      "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
-      "id": "SitePage /404.html",
+      "updatedAt": 1519394293404,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
+      "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7740bc350db24fd0c6df2476e6d5c710",
+        "contentDigest": "677156ba139ad7e761bfaf74c1b60485",
         "owner": "internal-data-bridge"
       }
     },
@@ -2168,7 +2147,7 @@
       "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
       "componentChunkName": "component---src-pages-page-2-js",
       "context": {},
-      "updatedAt": 1519226870249,
+      "updatedAt": 1519394293405,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
@@ -2177,7 +2156,28 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2f494468eac94bfdb54daa2cf83c2cb3",
+        "contentDigest": "54f946fe13ce09f13c37c8803d9a0ecd",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "updatedAt": 1519394293408,
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4bfad3de52026f4e8b4baf050f3810e3",
         "owner": "internal-data-bridge"
       }
     }
@@ -2192,6 +2192,30 @@
   },
   "componentDataDependencies": {
     "nodes": {
+      "R0ok2Z460S4mQcOOeYqGA": [
+        "/accommodation-gallery/"
+      ],
+      "c4YyWhSLHyEQqqsIuesQGYw": [
+        "/accommodation-gallery/"
+      ],
+      "c51GxPLCHl6mm2Ck0EyKUSG": [
+        "/accommodation-gallery/"
+      ],
+      "c6bzVU0RahiC26IUWAU0qog": [
+        "/accommodation-gallery/"
+      ],
+      "c4vV71TmWH6OokIGgmII8gE": [
+        "/accommodation-gallery/"
+      ],
+      "c5TKQuBXZTOyyYOGeW20amw": [
+        "/accommodation-gallery/"
+      ],
+      "c4ZMKyYWIMMqo6MsAAs4EiK": [
+        "/accommodation-gallery/"
+      ],
+      "c1KvnS0HHms4UiA88KgC8aS": [
+        "/accommodation-gallery/"
+      ],
       "c35yP6Ub9iEs82Qu2EGuam4": [
         "/news-archive/",
         "/"
@@ -2314,41 +2338,15 @@
       ],
       "c3biSOE5Gc0iK0A2esoYeAMfifthTextBlockTextNode >>> MarkdownRemark": [
         "/"
-      ],
-      "c4YyWhSLHyEQqqsIuesQGYw": [
-        "/",
-        "/accommodation-gallery/"
-      ],
-      "R0ok2Z460S4mQcOOeYqGA": [
-        "/",
-        "/accommodation-gallery/"
-      ],
-      "c51GxPLCHl6mm2Ck0EyKUSG": [
-        "/",
-        "/accommodation-gallery/"
-      ],
-      "c6bzVU0RahiC26IUWAU0qog": [
-        "/",
-        "/accommodation-gallery/"
-      ],
-      "c4vV71TmWH6OokIGgmII8gE": [
-        "/",
-        "/accommodation-gallery/"
-      ],
-      "c5TKQuBXZTOyyYOGeW20amw": [
-        "/",
-        "/accommodation-gallery/"
-      ],
-      "c4ZMKyYWIMMqo6MsAAs4EiK": [
-        "/",
-        "/accommodation-gallery/"
-      ],
-      "c1KvnS0HHms4UiA88KgC8aS": [
-        "/",
-        "/accommodation-gallery/"
       ]
     },
     "connections": {
+      "ContentfulAccommodationSlider": [
+        "/accommodation-gallery/"
+      ],
+      "ContentfulQuebecCottageSlider": [
+        "/accommodation-gallery/"
+      ],
       "ContentfulNewsBlog": [
         "/news-archive/",
         "/"
@@ -2365,12 +2363,6 @@
       ],
       "SitePage": [
         "/dev-404-page/"
-      ],
-      "ContentfulAccommodationSlider": [
-        "/accommodation-gallery/"
-      ],
-      "ContentfulQuebecCottageSlider": [
-        "/accommodation-gallery/"
       ]
     }
   }

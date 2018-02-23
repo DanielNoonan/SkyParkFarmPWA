@@ -9,15 +9,6 @@ class AccommodationGallery extends Component {
     }
 
     showGalleryHandler = () => {
-        console.log('ShowGalleryHandler Is Firing');
-        this.setState({
-            showGallery: !this.state.showGallery
-        });
-        window.scrollTo(0, 145);
-    }
-    
-    hideGalleryHandler = () => {
-        console.log('ShowGalleryHandler Is Firing');
         this.setState({
             showGallery: !this.state.showGallery
         });
@@ -35,9 +26,8 @@ class AccommodationGallery extends Component {
                     <AccommodationGalleryContainer data={this.props.data} click={this.showGalleryHandler} />
                     <GalleryBox onClick={this.showGalleryHandler} />
                 </div> :
-                <QuebecCottageSlider click={this.hideGalleryHandler} data={this.props.data} />
+                <QuebecCottageSlider click={this.showGalleryHandler} data={this.props.data} />
                 }
-
             </div>
         )
     }

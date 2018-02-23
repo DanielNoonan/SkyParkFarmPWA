@@ -20,22 +20,22 @@
                 },
                 {
                     "node": {
-                        "path": "/"
-                    }
-                },
-                {
-                    "node": {
                         "path": "/news-archive/"
                     }
                 },
                 {
                     "node": {
-                        "path": "/404.html"
+                        "path": "/"
                     }
                 },
                 {
                     "node": {
                         "path": "/page-2/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/404.html"
                     }
                 }
             ]

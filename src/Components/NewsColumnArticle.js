@@ -27,6 +27,13 @@ export default NewsColumnArticle;
 const ReturnLink = styled.h2`
     color: #BC7817;
     cursor: pointer;
+    text-decoration: underline;
+    text-align: right;
+    width: 150px;
+    &&:hover {
+        color: #404040;
+    }
+    text-align: right;
 `
 
 const NewsArticleHeadline = styled.h1`

@@ -16,8 +16,8 @@ class AccommodationGalleryContainer extends Component {
         const sliderPictures = this.props.data.allContentfulAccommodationSlider.edges;
 
         return (
-            <CarouselContainer onClick={this.props.click}>
-                <Carousel showArrows={false} showStatus={false} autoPlay interval={3000} infiniteLoop transitionTime={1500} showThumbs={false} showIndicators={false} width={`100%`} stopOnHover={false} >
+            <CarouselContainer style={{cursor: 'pointer'}} onClick={this.props.click}>
+                <Carousel showArrows={false} showStatus={false} autoPlay interval={2000} infiniteLoop transitionTime={300} showThumbs={false} showIndicators={false} width={`100%`} stopOnHover={false} >
                     
                     {sliderPictures.map(edge => {
                         return (

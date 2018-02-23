@@ -1,18 +1,21 @@
-import React from 'react';
+import React, { Component } from 'react';
 import styled from 'styled-components';
 import { Carousel } from 'react-responsive-carousel';
 
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
 
 
-const QuebecCottageSlider = props => {
+class QuebecCottageSlider extends Component {
 
-    const sliderPictures = props.data.allContentfulQuebecCottageSlider.edges;
-
+    render() {
+        const sliderPictures = this.props.data.allContentfulQuebecCottageSlider.edges;
+    
     return (
+        <div>
+        <PageTitle>Quebec Cottage</PageTitle>
         <BlueBox>
             <GreyBox>
-                <h1 onClick={props.click} >{'<-----RETURN TO ACCOMMODATION PAGE'}</h1>
+                <ReturnLink onClick={this.props.click}>&#8656; INFORMATION PAGE</ReturnLink>
                 <CarouselContainer>
                     <Carousel showArrows={true} showStatus={false} transitionTime={1000} showThumbs={true} showIndicators={false} width={`100%`} >
 
@@ -40,12 +43,14 @@ const QuebecCottageSlider = props => {
                             <img src={`https:${sliderPictures[5].node.image.file.url}`} alt='Quebec Cottage Rooms' />
                             <p className="legend">{sliderPictures[5].node.title}</p>
                         </div>
-
                     </Carousel>
                 </CarouselContainer>
             </GreyBox>
         </BlueBox>
+        </div>
     )
+    
+}
 }
 
 export default QuebecCottageSlider;
@@ -54,16 +59,51 @@ export default QuebecCottageSlider;
 //NOTE: FOR STYLING SEE THE 'NEWS ARCHIVE' AND 'BOOKINGS' PAGES
 
 //Styled Components
+const PageTitle = styled.h1`
+    color: black;
+    text-align: center;
+    font-size: 2em;
+    letter-spacing: 0.2em;
+    width: 70%;
+    border: 5px inset #E6E6E6;
+    margin-left: auto;
+    margin-right: auto;
+    @media (min-width: 450px) {
+        font-size: 4em;
+        letter-spacing: 0.2em;
+    }
+    @media (min-width: 650px) {
+        font-size: 6em;
+        letter-spacing: 0.2em;
+    }
+`
+
 const BlueBox = styled.div`
-    width: 80%;
-    background-color: blue;
-    margin: 0 auto;
+color: #404040;
+width: 98%;
+margin: 0 auto;
+padding-top: 20px;
+padding-bottom: 20px;
+background: #000034;
 `
 
 const GreyBox = styled.div`
-    width: 90%;
-    background-color: Grey;
-    margin: 0 auto;
+width: 95%;
+margin: 0 auto;
+border: 5px double #80D4F7;
+background: #F6F6F6;
+margin-bottom: 20px;
+`
+
+const ReturnLink = styled.h2`
+    color: #BC7817;
+    cursor: pointer;
+    text-decoration: underline;
+    width: 200px;
+    &&:hover {
+        color: #404040;
+    }
+    text-align: right;
 `
 
 const CarouselContainer = styled.div`
