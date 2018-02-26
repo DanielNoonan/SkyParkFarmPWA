@@ -7,8 +7,8 @@ exports.components = {
   "component---src-pages-404-js": preferDefault(require("C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\src\\pages\\404.js")),
   "component---src-pages-accommodation-gallery-js": preferDefault(require("C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\src\\pages\\accommodation-gallery.js")),
   "component---src-pages-bookings-accommodation-js": preferDefault(require("C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\src\\pages\\bookings-accommodation.js")),
-  "component---src-pages-news-archive-js": preferDefault(require("C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\src\\pages\\news-archive.js")),
   "component---src-pages-index-js": preferDefault(require("C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\src\\pages\\index.js")),
+  "component---src-pages-news-archive-js": preferDefault(require("C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\src\\pages\\news-archive.js")),
   "component---src-pages-page-2-js": preferDefault(require("C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\src\\pages\\page-2.js"))
 }
 
@@ -22,9 +22,9 @@ exports.json = {
   "layout-index.json": require("C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\layout-index.json"),
   "bookings-accommodation.json": require("C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\bookings-accommodation.json"),
   "layout-index.json": require("C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\layout-index.json"),
-  "news-archive.json": require("C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\news-archive.json"),
-  "layout-index.json": require("C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\layout-index.json"),
   "index.json": require("C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\index.json"),
+  "layout-index.json": require("C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\layout-index.json"),
+  "news-archive.json": require("C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\news-archive.json"),
   "layout-index.json": require("C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\layout-index.json"),
   "page-2.json": require("C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\page-2.json"),
   "layout-index.json": require("C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\layout-index.json"),

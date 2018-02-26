@@ -15,7 +15,7 @@ class QuebecCottageSlider extends Component {
         <PageTitle>Quebec Cottage</PageTitle>
         <BlueBox>
             <GreyBox>
-                <ReturnLink onClick={this.props.click}>&#8656; INFORMATION PAGE</ReturnLink>
+                <ReturnLink onClick={this.props.click}>X</ReturnLink>
                 <CarouselContainer>
                     <Carousel showArrows={true} showStatus={false} transitionTime={1000} showThumbs={true} showIndicators={false} width={`100%`} >
 
@@ -79,34 +79,50 @@ const PageTitle = styled.h1`
 `
 
 const BlueBox = styled.div`
-color: #404040;
-width: 98%;
-margin: 0 auto;
-padding-top: 20px;
-padding-bottom: 20px;
-background: #000034;
+    color: #404040;
+    width: 98%;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: #000034;
 `
 
 const GreyBox = styled.div`
-width: 95%;
-margin: 0 auto;
-border: 5px double #80D4F7;
-background: #F6F6F6;
-margin-bottom: 20px;
+    position: relative;
+    width: 95%;
+    margin: 0 auto;
+    border: 5px double #80D4F7;
+    background: #F6F6F6;
+    margin-bottom: 20px;
 `
 
-const ReturnLink = styled.h2`
-    color: #BC7817;
+const ReturnLink = styled.h1`
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    font-size: 4em;
+    border: 3px solid #BC7817;
+    padding: 0 15px;
+    color: #80D4F7;
     cursor: pointer;
-    text-decoration: underline;
-    width: 200px;
-    &&:hover {
-        color: #404040;
-    }
     text-align: right;
+    margin: 0 0 0 85%;
+    background-color: #000034;
+    transition: all 0.5s;
+    &&:hover {
+        color: #BC7817;
+        border-color: #80D4F7;
+    }
+    @media (min-width: 500px) {
+        margin: 0 0 0 90%;
+    }
+    @media (min-width: 800px) {
+        margin: 0 0 0 95%;
+    }
 `
 
 const CarouselContainer = styled.div`
     width: 90%;
-    margin: 0 auto;
+    margin: 70px  auto 0 auto;
 `
+

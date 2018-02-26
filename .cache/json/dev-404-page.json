@@ -20,12 +20,12 @@
                 },
                 {
                     "node": {
-                        "path": "/news-archive/"
+                        "path": "/"
                     }
                 },
                 {
                     "node": {
-                        "path": "/"
+                        "path": "/news-archive/"
                     }
                 },
                 {

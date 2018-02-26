@@ -61,21 +61,3 @@ const IframeBox = styled.div`
     margin: 0 auto;
 `
 
-
-// const CalendarWrapper = styled.div`
-//     color: #404040;
-//     width: 94%;
-//     margin: 0 auto;
-//     padding-top: 20px;
-//     padding-bottom: 20px;
-//     background: #000034;
-// `
-
-// const IframeBox = styled.div`
-//     width: 90%;
-//     border: 5px double #80D4F7;
-//     background: #F6F6F6;
-//     margin-bottom: 20px;
-//     margin-left: auto;
-//     margin-right: auto;
-// `
