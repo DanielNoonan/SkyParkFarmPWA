@@ -15,11 +15,6 @@
                 },
                 {
                     "node": {
-                        "path": "/accommodation-gallery/"
-                    }
-                },
-                {
-                    "node": {
                         "path": "/"
                     }
                 },
@@ -36,6 +31,11 @@
                 {
                     "node": {
                         "path": "/404.html"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/accommodation-gallery/"
                     }
                 }
             ]

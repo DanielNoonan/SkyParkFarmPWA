@@ -21,13 +21,6 @@
         "path": "/bookings-accommodation/"
     },
     {
-        "componentChunkName": "component---src-pages-accommodation-gallery-js",
-        "layout": "index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "accommodation-gallery.json",
-        "path": "/accommodation-gallery/"
-    },
-    {
         "componentChunkName": "component---src-pages-index-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -54,5 +47,12 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "404-html.json",
         "path": "/404.html"
+    },
+    {
+        "componentChunkName": "component---src-pages-accommodation-gallery-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "accommodation-gallery.json",
+        "path": "/accommodation-gallery/"
     }
 ]
