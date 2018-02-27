@@ -127,6 +127,7 @@ const NewsColumnArticleWrapper = styled.div`
         }
 `
 const TopNewsArticleBox = styled.div`
+    position: relative;
     flex: 0 0 100%;
     background: #F6F6F6;
     border-radius: 20px;

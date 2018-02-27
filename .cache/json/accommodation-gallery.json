@@ -1,0 +1,101 @@
+{
+    "data": {
+        "allContentfulAccommodationSlider": {
+            "edges": [
+                {
+                    "node": {
+                        "title": "Deer flare",
+                        "image": {
+                            "id": "R0ok2Z460S4mQcOOeYqGA",
+                            "file": {
+                                "url": "//images.contentful.com/vs9k02isgfes/R0ok2Z460S4mQcOOeYqGA/d10d577454a284220a33aebf5883db87/footer-hero3crop.jpg"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "title": "Quebec Cottage",
+                        "image": {
+                            "id": "c4YyWhSLHyEQqqsIuesQGYw",
+                            "file": {
+                                "url": "//images.contentful.com/vs9k02isgfes/4YyWhSLHyEQqqsIuesQGYw/10c655801c405325e406f64d4e9f73f2/footer-hero3crop.jpg"
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "allContentfulQuebecCottageSlider": {
+            "edges": [
+                {
+                    "node": {
+                        "title": "ENSUITE",
+                        "image": {
+                            "id": "c51GxPLCHl6mm2Ck0EyKUSG",
+                            "file": {
+                                "url": "//images.contentful.com/vs9k02isgfes/51GxPLCHl6mm2Ck0EyKUSG/f7207d325156793b1b4bd390c88e0924/6.jpg"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "title": "MASTER BEDROOM",
+                        "image": {
+                            "id": "c6bzVU0RahiC26IUWAU0qog",
+                            "file": {
+                                "url": "//images.contentful.com/vs9k02isgfes/6bzVU0RahiC26IUWAU0qog/f99382443766d1b30a08a80bdcb5b16b/5.jpg"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "title": "BEDROOM 1",
+                        "image": {
+                            "id": "c4vV71TmWH6OokIGgmII8gE",
+                            "file": {
+                                "url": "//images.contentful.com/vs9k02isgfes/4vV71TmWH6OokIGgmII8gE/969efb400f5ffe22ccfe52bce66aa3e4/4.jpg"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "title": "EXTERIOR",
+                        "image": {
+                            "id": "c5TKQuBXZTOyyYOGeW20amw",
+                            "file": {
+                                "url": "//images.contentful.com/vs9k02isgfes/5TKQuBXZTOyyYOGeW20amw/f6fbc84235b7ead34593ce13fb366158/3.jpg"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "title": "KITCHEN",
+                        "image": {
+                            "id": "c4ZMKyYWIMMqo6MsAAs4EiK",
+                            "file": {
+                                "url": "//images.contentful.com/vs9k02isgfes/4ZMKyYWIMMqo6MsAAs4EiK/2aa42b5df3defa2d5f80e911f2087653/2.jpg"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "title": "LOUNGE",
+                        "image": {
+                            "id": "c1KvnS0HHms4UiA88KgC8aS",
+                            "file": {
+                                "url": "//images.contentful.com/vs9k02isgfes/1KvnS0HHms4UiA88KgC8aS/2c798b6f3f0d399cd7af8818c8a82bb6/1.jpg"
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "pathContext": {}
+}

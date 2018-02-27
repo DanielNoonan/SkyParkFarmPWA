@@ -74,10 +74,6 @@ const NewsArticleImage = styled.picture`
     }
 `
 
-// const Image = styled.img`
-//     margin: 0 auto 10px auto;
-// `
-
 const Text = styled.div`
     flex: 0 0 80%;
     margin-left: auto;

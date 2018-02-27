@@ -41,6 +41,7 @@ a {
 
 .SubMenuDisplay {
   display: block;
+  z-index: 999;
 }
 
 .main-title-link {
@@ -67,7 +68,7 @@ a {
 
 /* footer styles below */
 .footer-background-hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/hero3crop.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/footer-hero3crop.jpg);
   background-size: 170%;
   height: 100%;
   background-attachment: fixed;

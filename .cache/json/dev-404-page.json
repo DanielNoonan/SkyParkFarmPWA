@@ -1,11 +1,21 @@
 {
     "data": {
         "allSitePage": {
-            "totalCount": 6,
+            "totalCount": 7,
             "edges": [
                 {
                     "node": {
                         "path": "/404/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/bookings-accommodation/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/accommodation-gallery/"
                     }
                 },
                 {
@@ -21,11 +31,6 @@
                 {
                     "node": {
                         "path": "/page-2/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/bookings-accommodation/"
                     }
                 },
                 {

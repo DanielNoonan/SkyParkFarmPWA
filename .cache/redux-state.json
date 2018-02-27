@@ -8,7 +8,7 @@
       "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1519052018744,
+      "updatedAt": 1519727795812,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ed8b6c4962c47bf7ca8050f53fc3b5bf",
+        "contentDigest": "844186c155f88cb3ef69254bc38c32c4",
         "owner": "internal-data-bridge"
       }
     },
@@ -602,6 +602,10 @@
             "version": "^1.7.23"
           },
           {
+            "name": "react-responsive-carousel",
+            "version": "^3.1.33"
+          },
+          {
             "name": "styled-components",
             "version": "^2.2.4"
           }
@@ -632,12 +636,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-02-19T14:53:35.159Z",
+      "buildTime": "2018-02-27T10:36:30.874Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "4660b12e66beb074d437b55047a8b66c",
+        "contentDigest": "cd6630176b282d1d09a22752ea1ee541",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1093,6 +1097,352 @@
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
+    },
+    "Accommodation Slider": {
+      "id": "Accommodation Slider",
+      "parent": null,
+      "children": [],
+      "name": "Accommodation Slider",
+      "displayField": "title",
+      "description": "Slider Gallery For Accommodation Page",
+      "internal": {
+        "type": "ContentfulContentType",
+        "contentDigest": "309ac5d6cb836eda967804ea91f6a73b",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c22TbLCvI6woMQW0gAcEumW": {
+      "title": "Deer flare",
+      "image___NODE": "R0ok2Z460S4mQcOOeYqGA",
+      "id": "c22TbLCvI6woMQW0gAcEumW",
+      "createdAt": "2018-02-21T11:10:03.813Z",
+      "updatedAt": "2018-02-21T11:10:03.813Z",
+      "parent": "Accommodation Slider",
+      "children": [],
+      "internal": {
+        "type": "ContentfulAccommodationSlider",
+        "contentDigest": "479ec29cc40415e99b37b4ba405449ec",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c3JXubZmZz2yg8UCOsg00QC": {
+      "title": "Quebec Cottage",
+      "image___NODE": "c4YyWhSLHyEQqqsIuesQGYw",
+      "id": "c3JXubZmZz2yg8UCOsg00QC",
+      "createdAt": "2018-02-21T10:27:31.666Z",
+      "updatedAt": "2018-02-21T10:27:31.666Z",
+      "parent": "Accommodation Slider",
+      "children": [],
+      "internal": {
+        "type": "ContentfulAccommodationSlider",
+        "contentDigest": "c5cbf19415ad2db151b7b92deac2801d",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "Quebec Cottage Slider": {
+      "id": "Quebec Cottage Slider",
+      "parent": null,
+      "children": [],
+      "name": "Quebec Cottage Slider",
+      "displayField": "title",
+      "description": "Quebec Cottage Images",
+      "internal": {
+        "type": "ContentfulContentType",
+        "contentDigest": "0dc74a08c24bdf8891d0c73f8111ca63",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c246TovKqMY84g0w6kiQQ0a": {
+      "title": "ENSUITE",
+      "image___NODE": "c51GxPLCHl6mm2Ck0EyKUSG",
+      "id": "c246TovKqMY84g0w6kiQQ0a",
+      "createdAt": "2018-02-21T15:22:41.101Z",
+      "updatedAt": "2018-02-21T15:22:41.101Z",
+      "parent": "Quebec Cottage Slider",
+      "children": [],
+      "internal": {
+        "type": "ContentfulQuebecCottageSlider",
+        "contentDigest": "ba89ca8fd588bcbbd791e646c4762038",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c6ifR6lWA5aA4QYEMg2w4Wg": {
+      "title": "MASTER BEDROOM",
+      "image___NODE": "c6bzVU0RahiC26IUWAU0qog",
+      "id": "c6ifR6lWA5aA4QYEMg2w4Wg",
+      "createdAt": "2018-02-21T15:22:01.677Z",
+      "updatedAt": "2018-02-21T15:22:01.677Z",
+      "parent": "Quebec Cottage Slider",
+      "children": [],
+      "internal": {
+        "type": "ContentfulQuebecCottageSlider",
+        "contentDigest": "fe2e27467af38d361a31ae6b24ac75e9",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "u0tnElS8esU8aiCwsmgSw": {
+      "title": "BEDROOM 1",
+      "image___NODE": "c4vV71TmWH6OokIGgmII8gE",
+      "id": "u0tnElS8esU8aiCwsmgSw",
+      "createdAt": "2018-02-21T15:21:31.786Z",
+      "updatedAt": "2018-02-21T15:21:31.786Z",
+      "parent": "Quebec Cottage Slider",
+      "children": [],
+      "internal": {
+        "type": "ContentfulQuebecCottageSlider",
+        "contentDigest": "54958027ea029abcb6f7752f6b1f56ac",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c69BGXzadgIcKWSsoeSKcu": {
+      "title": "EXTERIOR",
+      "image___NODE": "c5TKQuBXZTOyyYOGeW20amw",
+      "id": "c69BGXzadgIcKWSsoeSKcu",
+      "createdAt": "2018-02-21T15:20:11.734Z",
+      "updatedAt": "2018-02-21T15:20:32.536Z",
+      "parent": "Quebec Cottage Slider",
+      "children": [],
+      "internal": {
+        "type": "ContentfulQuebecCottageSlider",
+        "contentDigest": "0a6232f46334cc57fe052c05f68e8c79",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c2EGyhPm71WCuyeUGWs6QU0": {
+      "title": "KITCHEN",
+      "image___NODE": "c4ZMKyYWIMMqo6MsAAs4EiK",
+      "id": "c2EGyhPm71WCuyeUGWs6QU0",
+      "createdAt": "2018-02-21T15:19:34.915Z",
+      "updatedAt": "2018-02-21T15:19:34.915Z",
+      "parent": "Quebec Cottage Slider",
+      "children": [],
+      "internal": {
+        "type": "ContentfulQuebecCottageSlider",
+        "contentDigest": "2bde4b54125f78e27e32d4a29967442c",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c47yD63weyAcSoaEyWewycQ": {
+      "title": "LOUNGE",
+      "image___NODE": "c1KvnS0HHms4UiA88KgC8aS",
+      "id": "c47yD63weyAcSoaEyWewycQ",
+      "createdAt": "2018-02-21T15:18:36.095Z",
+      "updatedAt": "2018-02-21T15:18:36.095Z",
+      "parent": "Quebec Cottage Slider",
+      "children": [],
+      "internal": {
+        "type": "ContentfulQuebecCottageSlider",
+        "contentDigest": "2b1b2a9541f0afb9cf9112e769b3444d",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c51GxPLCHl6mm2Ck0EyKUSG": {
+      "id": "c51GxPLCHl6mm2Ck0EyKUSG",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/51GxPLCHl6mm2Ck0EyKUSG/f7207d325156793b1b4bd390c88e0924/6.jpg",
+        "details": {
+          "size": 120742,
+          "image": {
+            "width": 640,
+            "height": 427
+          }
+        },
+        "fileName": "6.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "6",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "e1dd4ed9de3e7c00b99e6376af489caa",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c6bzVU0RahiC26IUWAU0qog": {
+      "id": "c6bzVU0RahiC26IUWAU0qog",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/6bzVU0RahiC26IUWAU0qog/f99382443766d1b30a08a80bdcb5b16b/5.jpg",
+        "details": {
+          "size": 121995,
+          "image": {
+            "width": 640,
+            "height": 421
+          }
+        },
+        "fileName": "5.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "5",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "215f32c8faacab8e1b15cfca7f4f30ab",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c4vV71TmWH6OokIGgmII8gE": {
+      "id": "c4vV71TmWH6OokIGgmII8gE",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/4vV71TmWH6OokIGgmII8gE/969efb400f5ffe22ccfe52bce66aa3e4/4.jpg",
+        "details": {
+          "size": 137164,
+          "image": {
+            "width": 640,
+            "height": 427
+          }
+        },
+        "fileName": "4.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "4",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "1786a2723869ec6e987980fec8b708bc",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c5TKQuBXZTOyyYOGeW20amw": {
+      "id": "c5TKQuBXZTOyyYOGeW20amw",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/5TKQuBXZTOyyYOGeW20amw/f6fbc84235b7ead34593ce13fb366158/3.jpg",
+        "details": {
+          "size": 148717,
+          "image": {
+            "width": 640,
+            "height": 427
+          }
+        },
+        "fileName": "3.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "3",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "89fc70dcbdd9e719d23d9e5f3b3efa9d",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c4ZMKyYWIMMqo6MsAAs4EiK": {
+      "id": "c4ZMKyYWIMMqo6MsAAs4EiK",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/4ZMKyYWIMMqo6MsAAs4EiK/2aa42b5df3defa2d5f80e911f2087653/2.jpg",
+        "details": {
+          "size": 113154,
+          "image": {
+            "width": 640,
+            "height": 442
+          }
+        },
+        "fileName": "2.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "2",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "38115c102e5c1e5547cae753ab8a9e5e",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c1KvnS0HHms4UiA88KgC8aS": {
+      "id": "c1KvnS0HHms4UiA88KgC8aS",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/1KvnS0HHms4UiA88KgC8aS/2c798b6f3f0d399cd7af8818c8a82bb6/1.jpg",
+        "details": {
+          "size": 103479,
+          "image": {
+            "width": 640,
+            "height": 451
+          }
+        },
+        "fileName": "1.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "1",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "8d084fccf239bcc1ef9089522b8d71e4",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c4YyWhSLHyEQqqsIuesQGYw": {
+      "id": "c4YyWhSLHyEQqqsIuesQGYw",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/4YyWhSLHyEQqqsIuesQGYw/10c655801c405325e406f64d4e9f73f2/footer-hero3crop.jpg",
+        "details": {
+          "size": 722019,
+          "image": {
+            "width": 5472,
+            "height": 1101
+          }
+        },
+        "fileName": "footer-hero3crop.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "3",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "ea5cae79499c3d01bb521685a784e798",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "R0ok2Z460S4mQcOOeYqGA": {
+      "id": "R0ok2Z460S4mQcOOeYqGA",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/R0ok2Z460S4mQcOOeYqGA/d10d577454a284220a33aebf5883db87/footer-hero3crop.jpg",
+        "details": {
+          "size": 722019,
+          "image": {
+            "width": 5472,
+            "height": 1101
+          }
+        },
+        "fileName": "footer-hero3crop.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "2",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "a0ed1e26622efcd44eb0c671abf2b07b",
+        "owner": "gatsby-source-contentful"
+      }
     },
     "c35yP6Ub9iEs82Qu2EGuam4": {
       "id": "c35yP6Ub9iEs82Qu2EGuam4",
@@ -1684,6 +2034,140 @@
         "parent": "c3biSOE5Gc0iK0A2esoYeAMfifthTextBlockTextNode"
       }
     },
+    "ylb7mK9Ut20ucyYmGsi8uopeningParagraphTextNode": {
+      "id": "ylb7mK9Ut20ucyYmGsi8uopeningParagraphTextNode",
+      "parent": "ylb7mK9Ut20ucyYmGsi8u",
+      "children": [
+        "ylb7mK9Ut20ucyYmGsi8uopeningParagraphTextNode >>> MarkdownRemark"
+      ],
+      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus faucibus tincidunt nisl vitae aliquam. Phasellus mollis porta eros in vehicula. Morbi ultricies nec tortor vel hendrerit. Quisque at nunc nec nibh eleifend mollis. Cras non tristique augue, vitae posuere turpis. Nunc fermentum, dui in feugiat imperdiet.",
+      "internal": {
+        "type": "contentfulNewsBlogOpeningParagraphTextNode",
+        "mediaType": "text/markdown",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus faucibus tincidunt nisl vitae aliquam. Phasellus mollis porta eros in vehicula. Morbi ultricies nec tortor vel hendrerit. Quisque at nunc nec nibh eleifend mollis. Cras non tristique augue, vitae posuere turpis. Nunc fermentum, dui in feugiat imperdiet.",
+        "contentDigest": "354070c087b9d4ab544b2aadb397f8ac",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "ylb7mK9Ut20ucyYmGsi8ufullArticleTextTextNode": {
+      "id": "ylb7mK9Ut20ucyYmGsi8ufullArticleTextTextNode",
+      "parent": "ylb7mK9Ut20ucyYmGsi8u",
+      "children": [
+        "ylb7mK9Ut20ucyYmGsi8ufullArticleTextTextNode >>> MarkdownRemark"
+      ],
+      "fullArticleText": "# MARKDOWN WITH RESPONSIVE IMAGE!\n\n## READ ALL ABOUT IT...\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus faucibus tincidunt nisl vitae aliquam. Phasellus mollis porta eros in vehicula. Morbi ultricies nec tortor vel hendrerit. Quisque at nunc nec nibh eleifend mollis. Cras non tristique augue, vitae posuere turpis. Nunc fermentum, dui in feugiat imperdiet, purus orci posuere risus, et ornare nisl est consequat metus. Phasellus ultrices mollis magna sit amet finibus. Nunc vel nibh luctus massa aliquam ornare ut sit amet dolor. Phasellus vitae lobortis ex.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus faucibus tincidunt nisl vitae aliquam. Phasellus mollis porta eros in vehicula. Morbi ultricies nec tortor vel hendrerit. Quisque at nunc nec nibh eleifend mollis. Cras non tristique augue, vitae posuere turpis. Nunc fermentum, dui in feugiat imperdiet, purus orci posuere risus, et ornare nisl est consequat metus. Phasellus ultrices mollis magna sit amet finibus. Nunc vel nibh luctus massa aliquam ornare ut sit amet dolor. Phasellus vitae lobortis ex.\n\n![farm-2](//images.contentful.com/vs9k02isgfes/2jeCfPtKbeI8Ew280iGYM/aff02868149a550727e1b6e98b762bff/farm-2.jpg)\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus faucibus tincidunt nisl vitae aliquam. Phasellus mollis porta eros in vehicula. Morbi ultricies nec tortor vel hendrerit. Quisque at nunc nec nibh eleifend mollis. Cras non tristique augue, vitae posuere turpis. Nunc fermentum, dui in feugiat imperdiet, purus orci posuere risus, et ornare nisl est consequat metus. Phasellus ultrices mollis magna sit amet finibus. Nunc vel nibh luctus massa aliquam ornare ut sit amet dolor. Phasellus vitae lobortis ex.",
+      "internal": {
+        "type": "contentfulNewsBlogFullArticleTextTextNode",
+        "mediaType": "text/markdown",
+        "content": "# MARKDOWN WITH RESPONSIVE IMAGE!\n\n## READ ALL ABOUT IT...\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus faucibus tincidunt nisl vitae aliquam. Phasellus mollis porta eros in vehicula. Morbi ultricies nec tortor vel hendrerit. Quisque at nunc nec nibh eleifend mollis. Cras non tristique augue, vitae posuere turpis. Nunc fermentum, dui in feugiat imperdiet, purus orci posuere risus, et ornare nisl est consequat metus. Phasellus ultrices mollis magna sit amet finibus. Nunc vel nibh luctus massa aliquam ornare ut sit amet dolor. Phasellus vitae lobortis ex.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus faucibus tincidunt nisl vitae aliquam. Phasellus mollis porta eros in vehicula. Morbi ultricies nec tortor vel hendrerit. Quisque at nunc nec nibh eleifend mollis. Cras non tristique augue, vitae posuere turpis. Nunc fermentum, dui in feugiat imperdiet, purus orci posuere risus, et ornare nisl est consequat metus. Phasellus ultrices mollis magna sit amet finibus. Nunc vel nibh luctus massa aliquam ornare ut sit amet dolor. Phasellus vitae lobortis ex.\n\n![farm-2](//images.contentful.com/vs9k02isgfes/2jeCfPtKbeI8Ew280iGYM/aff02868149a550727e1b6e98b762bff/farm-2.jpg)\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus faucibus tincidunt nisl vitae aliquam. Phasellus mollis porta eros in vehicula. Morbi ultricies nec tortor vel hendrerit. Quisque at nunc nec nibh eleifend mollis. Cras non tristique augue, vitae posuere turpis. Nunc fermentum, dui in feugiat imperdiet, purus orci posuere risus, et ornare nisl est consequat metus. Phasellus ultrices mollis magna sit amet finibus. Nunc vel nibh luctus massa aliquam ornare ut sit amet dolor. Phasellus vitae lobortis ex.",
+        "contentDigest": "af84619326798cbae2cf474cb1ac96db",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "ylb7mK9Ut20ucyYmGsi8u": {
+      "todaysDate": "2018-02-27",
+      "title": "Markdown With Image Test",
+      "openingSentence": "This is a test to see if Responsive images can be produced from markdown",
+      "articleImage___NODE": "c5FT2texN1Sm6CmsA0waO0I",
+      "openingParagraph___NODE": "ylb7mK9Ut20ucyYmGsi8uopeningParagraphTextNode",
+      "fullArticleText___NODE": "ylb7mK9Ut20ucyYmGsi8ufullArticleTextTextNode",
+      "id": "ylb7mK9Ut20ucyYmGsi8u",
+      "createdAt": "2018-02-27T10:36:09.702Z",
+      "updatedAt": "2018-02-27T10:36:09.702Z",
+      "parent": "News Blog",
+      "children": [
+        "ylb7mK9Ut20ucyYmGsi8uopeningParagraphTextNode",
+        "ylb7mK9Ut20ucyYmGsi8ufullArticleTextTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulNewsBlog",
+        "contentDigest": "037534352b6d75e74ed8fb0552a1e9bd",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c2jeCfPtKbeI8Ew280iGYM": {
+      "id": "c2jeCfPtKbeI8Ew280iGYM",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/2jeCfPtKbeI8Ew280iGYM/aff02868149a550727e1b6e98b762bff/farm-2.jpg",
+        "details": {
+          "size": 6059620,
+          "image": {
+            "width": 4928,
+            "height": 3264
+          }
+        },
+        "fileName": "farm-2.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "farm-2",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "64ad2c52cc900ca945c6c20ce5a7ec06",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c5FT2texN1Sm6CmsA0waO0I": {
+      "id": "c5FT2texN1Sm6CmsA0waO0I",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/5FT2texN1Sm6CmsA0waO0I/daf239feba469ff479c8d2f9f104cf7f/detritus-LARGE.jpg",
+        "details": {
+          "size": 674035,
+          "image": {
+            "width": 1920,
+            "height": 1280
+          }
+        },
+        "fileName": "detritus-LARGE.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "detritus-LARGE",
+      "description": "Detritus to be cleared",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "5a538b8cca6dda301c4dca96f78ce188",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "ylb7mK9Ut20ucyYmGsi8uopeningParagraphTextNode >>> MarkdownRemark": {
+      "id": "ylb7mK9Ut20ucyYmGsi8uopeningParagraphTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "ylb7mK9Ut20ucyYmGsi8uopeningParagraphTextNode",
+      "internal": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus faucibus tincidunt nisl vitae aliquam. Phasellus mollis porta eros in vehicula. Morbi ultricies nec tortor vel hendrerit. Quisque at nunc nec nibh eleifend mollis. Cras non tristique augue, vitae posuere turpis. Nunc fermentum, dui in feugiat imperdiet.",
+        "contentDigest": "25f7d009604c5bcf2206d4b7fb35c24d",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "ylb7mK9Ut20ucyYmGsi8uopeningParagraphTextNode",
+        "parent": "ylb7mK9Ut20ucyYmGsi8uopeningParagraphTextNode"
+      }
+    },
+    "ylb7mK9Ut20ucyYmGsi8ufullArticleTextTextNode >>> MarkdownRemark": {
+      "id": "ylb7mK9Ut20ucyYmGsi8ufullArticleTextTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "ylb7mK9Ut20ucyYmGsi8ufullArticleTextTextNode",
+      "internal": {
+        "content": "# MARKDOWN WITH RESPONSIVE IMAGE!\n\n## READ ALL ABOUT IT...\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus faucibus tincidunt nisl vitae aliquam. Phasellus mollis porta eros in vehicula. Morbi ultricies nec tortor vel hendrerit. Quisque at nunc nec nibh eleifend mollis. Cras non tristique augue, vitae posuere turpis. Nunc fermentum, dui in feugiat imperdiet, purus orci posuere risus, et ornare nisl est consequat metus. Phasellus ultrices mollis magna sit amet finibus. Nunc vel nibh luctus massa aliquam ornare ut sit amet dolor. Phasellus vitae lobortis ex.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus faucibus tincidunt nisl vitae aliquam. Phasellus mollis porta eros in vehicula. Morbi ultricies nec tortor vel hendrerit. Quisque at nunc nec nibh eleifend mollis. Cras non tristique augue, vitae posuere turpis. Nunc fermentum, dui in feugiat imperdiet, purus orci posuere risus, et ornare nisl est consequat metus. Phasellus ultrices mollis magna sit amet finibus. Nunc vel nibh luctus massa aliquam ornare ut sit amet dolor. Phasellus vitae lobortis ex.\n\n![farm-2](//images.contentful.com/vs9k02isgfes/2jeCfPtKbeI8Ew280iGYM/aff02868149a550727e1b6e98b762bff/farm-2.jpg)\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus faucibus tincidunt nisl vitae aliquam. Phasellus mollis porta eros in vehicula. Morbi ultricies nec tortor vel hendrerit. Quisque at nunc nec nibh eleifend mollis. Cras non tristique augue, vitae posuere turpis. Nunc fermentum, dui in feugiat imperdiet, purus orci posuere risus, et ornare nisl est consequat metus. Phasellus ultrices mollis magna sit amet finibus. Nunc vel nibh luctus massa aliquam ornare ut sit amet dolor. Phasellus vitae lobortis ex.",
+        "contentDigest": "e2d37722a709e37a64c71f1b58bb54ee",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "ylb7mK9Ut20ucyYmGsi8ufullArticleTextTextNode",
+        "parent": "ylb7mK9Ut20ucyYmGsi8ufullArticleTextTextNode"
+      }
+    },
     "SitePage /404/": {
       "layout": "index",
       "jsonName": "404.json",
@@ -1692,7 +2176,7 @@
       "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1519052018755,
+      "updatedAt": 1519727795825,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
@@ -1701,70 +2185,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "cce28d52cec96e9d402fa410ecf3e0e1",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /": {
-      "layout": "index",
-      "jsonName": "index.json",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
-      "componentChunkName": "component---src-pages-index-js",
-      "context": {},
-      "updatedAt": 1519052018756,
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
-      "id": "SitePage /",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "97ad634c7138482591438469a1b9eff3",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /news-archive/": {
-      "layout": "index",
-      "jsonName": "news-archive.json",
-      "internalComponentName": "ComponentNewsArchive",
-      "path": "/news-archive/",
-      "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
-      "componentChunkName": "component---src-pages-news-archive-js",
-      "context": {},
-      "updatedAt": 1519052018757,
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
-      "id": "SitePage /news-archive/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "e9b0757d3467a7d76cdb1c62a9b69349",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /page-2/": {
-      "layout": "index",
-      "jsonName": "page-2.json",
-      "internalComponentName": "ComponentPage2",
-      "path": "/page-2/",
-      "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
-      "componentChunkName": "component---src-pages-page-2-js",
-      "context": {},
-      "updatedAt": 1519052018759,
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
-      "id": "SitePage /page-2/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "7eea562dc5a661bffa881fc479bdd58c",
+        "contentDigest": "df7c5c245571b05711116a38544f3e2c",
         "owner": "internal-data-bridge"
       }
     },
@@ -1776,7 +2197,7 @@
       "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/bookings-accommodation.js",
       "componentChunkName": "component---src-pages-bookings-accommodation-js",
       "context": {},
-      "updatedAt": 1519052018760,
+      "updatedAt": 1519727795827,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/bookings-accommodation.js",
@@ -1785,7 +2206,91 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0cd8e5efc93894f1bd76d5552fba25bd",
+        "contentDigest": "fef3fbdc54a9f297b00c9a4f623c8945",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /accommodation-gallery/": {
+      "layout": "index",
+      "jsonName": "accommodation-gallery.json",
+      "internalComponentName": "ComponentAccommodationGallery",
+      "path": "/accommodation-gallery/",
+      "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/accommodation-gallery.js",
+      "componentChunkName": "component---src-pages-accommodation-gallery-js",
+      "context": {},
+      "updatedAt": 1519727795828,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/accommodation-gallery.js",
+      "id": "SitePage /accommodation-gallery/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ed91b91d1a183ea5fafbf7f833e8b462",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "updatedAt": 1519727795830,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "82daaed39e3630f98fbb8115139e9c92",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /news-archive/": {
+      "layout": "index",
+      "jsonName": "news-archive.json",
+      "internalComponentName": "ComponentNewsArchive",
+      "path": "/news-archive/",
+      "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
+      "componentChunkName": "component---src-pages-news-archive-js",
+      "context": {},
+      "updatedAt": 1519727795831,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
+      "id": "SitePage /news-archive/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9e1508cebd11ad2e9c8cd130632a9bdd",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /page-2/": {
+      "layout": "index",
+      "jsonName": "page-2.json",
+      "internalComponentName": "ComponentPage2",
+      "path": "/page-2/",
+      "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
+      "componentChunkName": "component---src-pages-page-2-js",
+      "context": {},
+      "updatedAt": 1519727795832,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
+      "id": "SitePage /page-2/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "84ac101fb048ac63dfa3c54a1ac339ca",
         "owner": "internal-data-bridge"
       }
     },
@@ -1797,7 +2302,7 @@
       "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1519052018763,
+      "updatedAt": 1519727795835,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
@@ -1806,7 +2311,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6504692f1ed7ebacc9ca2651fdec36fd",
+        "contentDigest": "8b13b340fd31f2882b95e49f258c39f2",
         "owner": "internal-data-bridge"
       }
     }
@@ -1814,87 +2319,111 @@
   "status": {
     "plugins": {
       "gatsby-source-contentful": {
-        "vs9k02isgfes": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybCnMK6w7bCgsOeNx1yw7Q8w4fDsMKjbcO0wrjCmRPChGXCp3lOw5_DmVdywrd5IyIawqLDp8OQwrUyw6TCjyzDq8OlwqDDpsK8ccKFQsOAwrHDsyDCosOYAE_Chw7Dh8K0w4LCtsKuwqs"
+        "vs9k02isgfes": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybDk8O9wphZwrzCnQHDgQ7DhkfCk3vDp8KYw7bCtEfDojtnw5A3GMKdXMOcMMOOwpcGw74xw7hZXmDDrMKswq_CjsO8woJBwpzDgy5WLEY1w6ARCj_CtsKuwowXEsKBw6YBOQ"
       }
     },
-    "PLUGINS_HASH": "2d31f84c4a4a5ecd087e137258c058b0"
+    "PLUGINS_HASH": "74342f79aee85638b715f74be597962d"
   },
   "componentDataDependencies": {
     "nodes": {
+      "R0ok2Z460S4mQcOOeYqGA": [
+        "/accommodation-gallery/"
+      ],
+      "c4YyWhSLHyEQqqsIuesQGYw": [
+        "/accommodation-gallery/"
+      ],
+      "c51GxPLCHl6mm2Ck0EyKUSG": [
+        "/accommodation-gallery/"
+      ],
+      "c6bzVU0RahiC26IUWAU0qog": [
+        "/accommodation-gallery/"
+      ],
+      "c4vV71TmWH6OokIGgmII8gE": [
+        "/accommodation-gallery/"
+      ],
+      "c5TKQuBXZTOyyYOGeW20amw": [
+        "/accommodation-gallery/"
+      ],
+      "c4ZMKyYWIMMqo6MsAAs4EiK": [
+        "/accommodation-gallery/"
+      ],
+      "c1KvnS0HHms4UiA88KgC8aS": [
+        "/accommodation-gallery/"
+      ],
       "c35yP6Ub9iEs82Qu2EGuam4": [
-        "/",
-        "/news-archive/"
+        "/news-archive/",
+        "/"
+      ],
+      "c3rhG2dob44KaOK2wU8IKoafullArticleTextTextNode": [
+        "/news-archive/",
+        "/"
+      ],
+      "c3rhG2dob44KaOK2wU8IKoafullArticleTextTextNode >>> MarkdownRemark": [
+        "/news-archive/",
+        "/"
+      ],
+      "c6Ug84lzEQg04giigIMEeAW": [
+        "/news-archive/",
+        "/"
+      ],
+      "c2dqPnCNKWcga6IAOsAeo8CfullArticleTextTextNode": [
+        "/news-archive/",
+        "/"
+      ],
+      "c2dqPnCNKWcga6IAOsAeo8CfullArticleTextTextNode >>> MarkdownRemark": [
+        "/news-archive/",
+        "/"
+      ],
+      "c3WRjQtPnvG06CiIYEoCWuy": [
+        "/news-archive/",
+        "/"
+      ],
+      "c2dVYOEnmGEGYm46uqCMacUfullArticleTextTextNode": [
+        "/news-archive/",
+        "/"
+      ],
+      "c2dVYOEnmGEGYm46uqCMacUfullArticleTextTextNode >>> MarkdownRemark": [
+        "/news-archive/",
+        "/"
+      ],
+      "c2mNOyiEvNGaQsS604KEAoY": [
+        "/news-archive/",
+        "/"
+      ],
+      "c3CscnqMd9SImowSSEsGkqofullArticleTextTextNode": [
+        "/news-archive/",
+        "/"
+      ],
+      "c3CscnqMd9SImowSSEsGkqofullArticleTextTextNode >>> MarkdownRemark": [
+        "/news-archive/",
+        "/"
+      ],
+      "c7ArkSTWX9CamAim8IkUEMU": [
+        "/news-archive/",
+        "/"
+      ],
+      "c14FKq4DlEU8MIcei68OW6MfullArticleTextTextNode": [
+        "/news-archive/",
+        "/"
+      ],
+      "c14FKq4DlEU8MIcei68OW6MfullArticleTextTextNode >>> MarkdownRemark": [
+        "/news-archive/",
+        "/"
       ],
       "c3rhG2dob44KaOK2wU8IKoaopeningParagraphTextNode": [
         "/"
       ],
-      "c3rhG2dob44KaOK2wU8IKoafullArticleTextTextNode": [
-        "/",
-        "/news-archive/"
-      ],
-      "c3rhG2dob44KaOK2wU8IKoafullArticleTextTextNode >>> MarkdownRemark": [
-        "/",
-        "/news-archive/"
-      ],
-      "c6Ug84lzEQg04giigIMEeAW": [
-        "/",
-        "/news-archive/"
-      ],
       "c2dqPnCNKWcga6IAOsAeo8CopeningParagraphTextNode": [
         "/"
-      ],
-      "c2dqPnCNKWcga6IAOsAeo8CfullArticleTextTextNode": [
-        "/",
-        "/news-archive/"
-      ],
-      "c2dqPnCNKWcga6IAOsAeo8CfullArticleTextTextNode >>> MarkdownRemark": [
-        "/",
-        "/news-archive/"
-      ],
-      "c3WRjQtPnvG06CiIYEoCWuy": [
-        "/",
-        "/news-archive/"
       ],
       "c2dVYOEnmGEGYm46uqCMacUopeningParagraphTextNode": [
         "/"
       ],
-      "c2dVYOEnmGEGYm46uqCMacUfullArticleTextTextNode": [
-        "/",
-        "/news-archive/"
-      ],
-      "c2dVYOEnmGEGYm46uqCMacUfullArticleTextTextNode >>> MarkdownRemark": [
-        "/",
-        "/news-archive/"
-      ],
-      "c2mNOyiEvNGaQsS604KEAoY": [
-        "/",
-        "/news-archive/"
-      ],
       "c3CscnqMd9SImowSSEsGkqoopeningParagraphTextNode": [
         "/"
       ],
-      "c3CscnqMd9SImowSSEsGkqofullArticleTextTextNode": [
-        "/",
-        "/news-archive/"
-      ],
-      "c3CscnqMd9SImowSSEsGkqofullArticleTextTextNode >>> MarkdownRemark": [
-        "/",
-        "/news-archive/"
-      ],
-      "c7ArkSTWX9CamAim8IkUEMU": [
-        "/",
-        "/news-archive/"
-      ],
       "c14FKq4DlEU8MIcei68OW6MopeningParagraphTextNode": [
         "/"
-      ],
-      "c14FKq4DlEU8MIcei68OW6MfullArticleTextTextNode": [
-        "/",
-        "/news-archive/"
-      ],
-      "c14FKq4DlEU8MIcei68OW6MfullArticleTextTextNode >>> MarkdownRemark": [
-        "/",
-        "/news-archive/"
       ],
       "c6siXnYRLjyCSuyM6W4gAko": [
         "/"
@@ -1943,12 +2472,33 @@
       ],
       "c3biSOE5Gc0iK0A2esoYeAMfifthTextBlockTextNode >>> MarkdownRemark": [
         "/"
+      ],
+      "c5FT2texN1Sm6CmsA0waO0I": [
+        "/news-archive/",
+        "/"
+      ],
+      "ylb7mK9Ut20ucyYmGsi8ufullArticleTextTextNode": [
+        "/news-archive/",
+        "/"
+      ],
+      "ylb7mK9Ut20ucyYmGsi8ufullArticleTextTextNode >>> MarkdownRemark": [
+        "/news-archive/",
+        "/"
+      ],
+      "ylb7mK9Ut20ucyYmGsi8uopeningParagraphTextNode": [
+        "/"
       ]
     },
     "connections": {
+      "ContentfulAccommodationSlider": [
+        "/accommodation-gallery/"
+      ],
+      "ContentfulQuebecCottageSlider": [
+        "/accommodation-gallery/"
+      ],
       "ContentfulNewsBlog": [
-        "/",
-        "/news-archive/"
+        "/news-archive/",
+        "/"
       ],
       "ContentfulHeroImage": [
         "/",

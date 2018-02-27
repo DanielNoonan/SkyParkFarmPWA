@@ -22,9 +22,9 @@ export default IndexPage
 
 //Styled Comonents
 const FullPageWrapper = styled.div`
-display: flex;
-flex-wrap: wrap;
-justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 `
 
 const Hero = styled.div`
