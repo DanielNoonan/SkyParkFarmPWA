@@ -14,18 +14,18 @@
         "path": "/404/"
     },
     {
-        "componentChunkName": "component---src-pages-accommodation-gallery-js",
-        "layout": "index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "accommodation-gallery.json",
-        "path": "/accommodation-gallery/"
-    },
-    {
         "componentChunkName": "component---src-pages-bookings-accommodation-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "bookings-accommodation.json",
         "path": "/bookings-accommodation/"
+    },
+    {
+        "componentChunkName": "component---src-pages-accommodation-gallery-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "accommodation-gallery.json",
+        "path": "/accommodation-gallery/"
     },
     {
         "componentChunkName": "component---src-pages-index-js",

@@ -8,7 +8,7 @@
       "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1519640600205,
+      "updatedAt": 1519727795812,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "14aa0d9ecc488eaac46239b29e49d21e",
+        "contentDigest": "844186c155f88cb3ef69254bc38c32c4",
         "owner": "internal-data-bridge"
       }
     },
@@ -636,12 +636,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-02-26T10:23:15.508Z",
+      "buildTime": "2018-02-27T10:36:30.874Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "37d5c5c0ada6fe1ba3a2fc6f3b7b3c33",
+        "contentDigest": "cd6630176b282d1d09a22752ea1ee541",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2034,6 +2034,140 @@
         "parent": "c3biSOE5Gc0iK0A2esoYeAMfifthTextBlockTextNode"
       }
     },
+    "ylb7mK9Ut20ucyYmGsi8uopeningParagraphTextNode": {
+      "id": "ylb7mK9Ut20ucyYmGsi8uopeningParagraphTextNode",
+      "parent": "ylb7mK9Ut20ucyYmGsi8u",
+      "children": [
+        "ylb7mK9Ut20ucyYmGsi8uopeningParagraphTextNode >>> MarkdownRemark"
+      ],
+      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus faucibus tincidunt nisl vitae aliquam. Phasellus mollis porta eros in vehicula. Morbi ultricies nec tortor vel hendrerit. Quisque at nunc nec nibh eleifend mollis. Cras non tristique augue, vitae posuere turpis. Nunc fermentum, dui in feugiat imperdiet.",
+      "internal": {
+        "type": "contentfulNewsBlogOpeningParagraphTextNode",
+        "mediaType": "text/markdown",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus faucibus tincidunt nisl vitae aliquam. Phasellus mollis porta eros in vehicula. Morbi ultricies nec tortor vel hendrerit. Quisque at nunc nec nibh eleifend mollis. Cras non tristique augue, vitae posuere turpis. Nunc fermentum, dui in feugiat imperdiet.",
+        "contentDigest": "354070c087b9d4ab544b2aadb397f8ac",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "ylb7mK9Ut20ucyYmGsi8ufullArticleTextTextNode": {
+      "id": "ylb7mK9Ut20ucyYmGsi8ufullArticleTextTextNode",
+      "parent": "ylb7mK9Ut20ucyYmGsi8u",
+      "children": [
+        "ylb7mK9Ut20ucyYmGsi8ufullArticleTextTextNode >>> MarkdownRemark"
+      ],
+      "fullArticleText": "# MARKDOWN WITH RESPONSIVE IMAGE!\n\n## READ ALL ABOUT IT...\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus faucibus tincidunt nisl vitae aliquam. Phasellus mollis porta eros in vehicula. Morbi ultricies nec tortor vel hendrerit. Quisque at nunc nec nibh eleifend mollis. Cras non tristique augue, vitae posuere turpis. Nunc fermentum, dui in feugiat imperdiet, purus orci posuere risus, et ornare nisl est consequat metus. Phasellus ultrices mollis magna sit amet finibus. Nunc vel nibh luctus massa aliquam ornare ut sit amet dolor. Phasellus vitae lobortis ex.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus faucibus tincidunt nisl vitae aliquam. Phasellus mollis porta eros in vehicula. Morbi ultricies nec tortor vel hendrerit. Quisque at nunc nec nibh eleifend mollis. Cras non tristique augue, vitae posuere turpis. Nunc fermentum, dui in feugiat imperdiet, purus orci posuere risus, et ornare nisl est consequat metus. Phasellus ultrices mollis magna sit amet finibus. Nunc vel nibh luctus massa aliquam ornare ut sit amet dolor. Phasellus vitae lobortis ex.\n\n![farm-2](//images.contentful.com/vs9k02isgfes/2jeCfPtKbeI8Ew280iGYM/aff02868149a550727e1b6e98b762bff/farm-2.jpg)\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus faucibus tincidunt nisl vitae aliquam. Phasellus mollis porta eros in vehicula. Morbi ultricies nec tortor vel hendrerit. Quisque at nunc nec nibh eleifend mollis. Cras non tristique augue, vitae posuere turpis. Nunc fermentum, dui in feugiat imperdiet, purus orci posuere risus, et ornare nisl est consequat metus. Phasellus ultrices mollis magna sit amet finibus. Nunc vel nibh luctus massa aliquam ornare ut sit amet dolor. Phasellus vitae lobortis ex.",
+      "internal": {
+        "type": "contentfulNewsBlogFullArticleTextTextNode",
+        "mediaType": "text/markdown",
+        "content": "# MARKDOWN WITH RESPONSIVE IMAGE!\n\n## READ ALL ABOUT IT...\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus faucibus tincidunt nisl vitae aliquam. Phasellus mollis porta eros in vehicula. Morbi ultricies nec tortor vel hendrerit. Quisque at nunc nec nibh eleifend mollis. Cras non tristique augue, vitae posuere turpis. Nunc fermentum, dui in feugiat imperdiet, purus orci posuere risus, et ornare nisl est consequat metus. Phasellus ultrices mollis magna sit amet finibus. Nunc vel nibh luctus massa aliquam ornare ut sit amet dolor. Phasellus vitae lobortis ex.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus faucibus tincidunt nisl vitae aliquam. Phasellus mollis porta eros in vehicula. Morbi ultricies nec tortor vel hendrerit. Quisque at nunc nec nibh eleifend mollis. Cras non tristique augue, vitae posuere turpis. Nunc fermentum, dui in feugiat imperdiet, purus orci posuere risus, et ornare nisl est consequat metus. Phasellus ultrices mollis magna sit amet finibus. Nunc vel nibh luctus massa aliquam ornare ut sit amet dolor. Phasellus vitae lobortis ex.\n\n![farm-2](//images.contentful.com/vs9k02isgfes/2jeCfPtKbeI8Ew280iGYM/aff02868149a550727e1b6e98b762bff/farm-2.jpg)\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus faucibus tincidunt nisl vitae aliquam. Phasellus mollis porta eros in vehicula. Morbi ultricies nec tortor vel hendrerit. Quisque at nunc nec nibh eleifend mollis. Cras non tristique augue, vitae posuere turpis. Nunc fermentum, dui in feugiat imperdiet, purus orci posuere risus, et ornare nisl est consequat metus. Phasellus ultrices mollis magna sit amet finibus. Nunc vel nibh luctus massa aliquam ornare ut sit amet dolor. Phasellus vitae lobortis ex.",
+        "contentDigest": "af84619326798cbae2cf474cb1ac96db",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "ylb7mK9Ut20ucyYmGsi8u": {
+      "todaysDate": "2018-02-27",
+      "title": "Markdown With Image Test",
+      "openingSentence": "This is a test to see if Responsive images can be produced from markdown",
+      "articleImage___NODE": "c5FT2texN1Sm6CmsA0waO0I",
+      "openingParagraph___NODE": "ylb7mK9Ut20ucyYmGsi8uopeningParagraphTextNode",
+      "fullArticleText___NODE": "ylb7mK9Ut20ucyYmGsi8ufullArticleTextTextNode",
+      "id": "ylb7mK9Ut20ucyYmGsi8u",
+      "createdAt": "2018-02-27T10:36:09.702Z",
+      "updatedAt": "2018-02-27T10:36:09.702Z",
+      "parent": "News Blog",
+      "children": [
+        "ylb7mK9Ut20ucyYmGsi8uopeningParagraphTextNode",
+        "ylb7mK9Ut20ucyYmGsi8ufullArticleTextTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulNewsBlog",
+        "contentDigest": "037534352b6d75e74ed8fb0552a1e9bd",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c2jeCfPtKbeI8Ew280iGYM": {
+      "id": "c2jeCfPtKbeI8Ew280iGYM",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/2jeCfPtKbeI8Ew280iGYM/aff02868149a550727e1b6e98b762bff/farm-2.jpg",
+        "details": {
+          "size": 6059620,
+          "image": {
+            "width": 4928,
+            "height": 3264
+          }
+        },
+        "fileName": "farm-2.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "farm-2",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "64ad2c52cc900ca945c6c20ce5a7ec06",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c5FT2texN1Sm6CmsA0waO0I": {
+      "id": "c5FT2texN1Sm6CmsA0waO0I",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.contentful.com/vs9k02isgfes/5FT2texN1Sm6CmsA0waO0I/daf239feba469ff479c8d2f9f104cf7f/detritus-LARGE.jpg",
+        "details": {
+          "size": 674035,
+          "image": {
+            "width": 1920,
+            "height": 1280
+          }
+        },
+        "fileName": "detritus-LARGE.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "detritus-LARGE",
+      "description": "Detritus to be cleared",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "5a538b8cca6dda301c4dca96f78ce188",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "ylb7mK9Ut20ucyYmGsi8uopeningParagraphTextNode >>> MarkdownRemark": {
+      "id": "ylb7mK9Ut20ucyYmGsi8uopeningParagraphTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "ylb7mK9Ut20ucyYmGsi8uopeningParagraphTextNode",
+      "internal": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus faucibus tincidunt nisl vitae aliquam. Phasellus mollis porta eros in vehicula. Morbi ultricies nec tortor vel hendrerit. Quisque at nunc nec nibh eleifend mollis. Cras non tristique augue, vitae posuere turpis. Nunc fermentum, dui in feugiat imperdiet.",
+        "contentDigest": "25f7d009604c5bcf2206d4b7fb35c24d",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "ylb7mK9Ut20ucyYmGsi8uopeningParagraphTextNode",
+        "parent": "ylb7mK9Ut20ucyYmGsi8uopeningParagraphTextNode"
+      }
+    },
+    "ylb7mK9Ut20ucyYmGsi8ufullArticleTextTextNode >>> MarkdownRemark": {
+      "id": "ylb7mK9Ut20ucyYmGsi8ufullArticleTextTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "ylb7mK9Ut20ucyYmGsi8ufullArticleTextTextNode",
+      "internal": {
+        "content": "# MARKDOWN WITH RESPONSIVE IMAGE!\n\n## READ ALL ABOUT IT...\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus faucibus tincidunt nisl vitae aliquam. Phasellus mollis porta eros in vehicula. Morbi ultricies nec tortor vel hendrerit. Quisque at nunc nec nibh eleifend mollis. Cras non tristique augue, vitae posuere turpis. Nunc fermentum, dui in feugiat imperdiet, purus orci posuere risus, et ornare nisl est consequat metus. Phasellus ultrices mollis magna sit amet finibus. Nunc vel nibh luctus massa aliquam ornare ut sit amet dolor. Phasellus vitae lobortis ex.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus faucibus tincidunt nisl vitae aliquam. Phasellus mollis porta eros in vehicula. Morbi ultricies nec tortor vel hendrerit. Quisque at nunc nec nibh eleifend mollis. Cras non tristique augue, vitae posuere turpis. Nunc fermentum, dui in feugiat imperdiet, purus orci posuere risus, et ornare nisl est consequat metus. Phasellus ultrices mollis magna sit amet finibus. Nunc vel nibh luctus massa aliquam ornare ut sit amet dolor. Phasellus vitae lobortis ex.\n\n![farm-2](//images.contentful.com/vs9k02isgfes/2jeCfPtKbeI8Ew280iGYM/aff02868149a550727e1b6e98b762bff/farm-2.jpg)\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus faucibus tincidunt nisl vitae aliquam. Phasellus mollis porta eros in vehicula. Morbi ultricies nec tortor vel hendrerit. Quisque at nunc nec nibh eleifend mollis. Cras non tristique augue, vitae posuere turpis. Nunc fermentum, dui in feugiat imperdiet, purus orci posuere risus, et ornare nisl est consequat metus. Phasellus ultrices mollis magna sit amet finibus. Nunc vel nibh luctus massa aliquam ornare ut sit amet dolor. Phasellus vitae lobortis ex.",
+        "contentDigest": "e2d37722a709e37a64c71f1b58bb54ee",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "ylb7mK9Ut20ucyYmGsi8ufullArticleTextTextNode",
+        "parent": "ylb7mK9Ut20ucyYmGsi8ufullArticleTextTextNode"
+      }
+    },
     "SitePage /404/": {
       "layout": "index",
       "jsonName": "404.json",
@@ -2042,7 +2176,7 @@
       "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1519640600223,
+      "updatedAt": 1519727795825,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
@@ -2051,28 +2185,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "14b2ba38b934a48bbd77e13154cb25bb",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /accommodation-gallery/": {
-      "layout": "index",
-      "jsonName": "accommodation-gallery.json",
-      "internalComponentName": "ComponentAccommodationGallery",
-      "path": "/accommodation-gallery/",
-      "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/accommodation-gallery.js",
-      "componentChunkName": "component---src-pages-accommodation-gallery-js",
-      "context": {},
-      "updatedAt": 1519640600224,
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/accommodation-gallery.js",
-      "id": "SitePage /accommodation-gallery/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "92a649caa176c014c9d206bf7c1316e3",
+        "contentDigest": "df7c5c245571b05711116a38544f3e2c",
         "owner": "internal-data-bridge"
       }
     },
@@ -2084,7 +2197,7 @@
       "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/bookings-accommodation.js",
       "componentChunkName": "component---src-pages-bookings-accommodation-js",
       "context": {},
-      "updatedAt": 1519640600225,
+      "updatedAt": 1519727795827,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/bookings-accommodation.js",
@@ -2093,7 +2206,28 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0faafb87f2e17017c51668f6f398000a",
+        "contentDigest": "fef3fbdc54a9f297b00c9a4f623c8945",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /accommodation-gallery/": {
+      "layout": "index",
+      "jsonName": "accommodation-gallery.json",
+      "internalComponentName": "ComponentAccommodationGallery",
+      "path": "/accommodation-gallery/",
+      "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/accommodation-gallery.js",
+      "componentChunkName": "component---src-pages-accommodation-gallery-js",
+      "context": {},
+      "updatedAt": 1519727795828,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/accommodation-gallery.js",
+      "id": "SitePage /accommodation-gallery/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ed91b91d1a183ea5fafbf7f833e8b462",
         "owner": "internal-data-bridge"
       }
     },
@@ -2105,7 +2239,7 @@
       "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1519640600228,
+      "updatedAt": 1519727795830,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/index.js",
@@ -2114,7 +2248,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "830d08c7905569c06cabaa1d675bdbbf",
+        "contentDigest": "82daaed39e3630f98fbb8115139e9c92",
         "owner": "internal-data-bridge"
       }
     },
@@ -2126,7 +2260,7 @@
       "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
       "componentChunkName": "component---src-pages-news-archive-js",
       "context": {},
-      "updatedAt": 1519640600229,
+      "updatedAt": 1519727795831,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/news-archive.js",
@@ -2135,7 +2269,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "135e8ff69b4912d1e228a4822189401e",
+        "contentDigest": "9e1508cebd11ad2e9c8cd130632a9bdd",
         "owner": "internal-data-bridge"
       }
     },
@@ -2147,7 +2281,7 @@
       "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
       "componentChunkName": "component---src-pages-page-2-js",
       "context": {},
-      "updatedAt": 1519640600231,
+      "updatedAt": 1519727795832,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/page-2.js",
@@ -2156,7 +2290,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "93549c87fdb30e72acd46b8ade20759a",
+        "contentDigest": "84ac101fb048ac63dfa3c54a1ac339ca",
         "owner": "internal-data-bridge"
       }
     },
@@ -2168,7 +2302,7 @@
       "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1519640600235,
+      "updatedAt": 1519727795835,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/404.js",
@@ -2177,7 +2311,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b402ae84734ffca3a8169715a7affe74",
+        "contentDigest": "8b13b340fd31f2882b95e49f258c39f2",
         "owner": "internal-data-bridge"
       }
     }
@@ -2185,7 +2319,7 @@
   "status": {
     "plugins": {
       "gatsby-source-contentful": {
-        "vs9k02isgfes": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyYgw7AwwqbChS0pQsONw6nCij3Cl0vDoGgAYcK1w6s9fMKxEMO2w6HCnsK_w7rDhBPDjMKcwrMjw5gyw7jDjxLCt8ObwobCli_DvGLDukUdNMKMwrg0H8OUw7DDpjZ6wrfDtsKNwqU"
+        "vs9k02isgfes": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybDk8O9wphZwrzCnQHDgQ7DhkfCk3vDp8KYw7bCtEfDojtnw5A3GMKdXMOcMMOOwpcGw74xw7hZXmDDrMKswq_CjsO8woJBwpzDgy5WLEY1w6ARCj_CtsKuwowXEsKBw6YBOQ"
       }
     },
     "PLUGINS_HASH": "74342f79aee85638b715f74be597962d"
@@ -2337,6 +2471,21 @@
         "/"
       ],
       "c3biSOE5Gc0iK0A2esoYeAMfifthTextBlockTextNode >>> MarkdownRemark": [
+        "/"
+      ],
+      "c5FT2texN1Sm6CmsA0waO0I": [
+        "/news-archive/",
+        "/"
+      ],
+      "ylb7mK9Ut20ucyYmGsi8ufullArticleTextTextNode": [
+        "/news-archive/",
+        "/"
+      ],
+      "ylb7mK9Ut20ucyYmGsi8ufullArticleTextTextNode >>> MarkdownRemark": [
+        "/news-archive/",
+        "/"
+      ],
+      "ylb7mK9Ut20ucyYmGsi8uopeningParagraphTextNode": [
         "/"
       ]
     },
