@@ -27,6 +27,17 @@ export default NewsColumnItem;
 const NewsItemWrapper = styled.div`
   perspective: 700;
   cursor: pointer;
+
+  
+  @media (max-width: 1023px) {
+    flex: 0 0 calc(100% / 12 * 3);
+    display: flex; //makes these items stretch to the bottom of their flex container
+  }
+
+  @media (max-width: 470px) {
+    flex: 0 0 calc(100% / 12 * 6);
+  }
+  
 `
 
 const NewsItemBox = styled.div`
@@ -37,14 +48,18 @@ const NewsItemBox = styled.div`
   margin: 0 auto 10px auto;
   transition: all 0.6s ease;
   transform-style: preserve-3d;
-  &:hover {
-    transform: rotateY(-170deg);
+
+  // flip effect only for larger screens
+  @media (min-width: 1024px) {
+    &:hover {
+      transform: rotateY(-170deg);
+    }
   }
 `
 
 const NewsItemFront = styled.div`
   padding: 5px;
-  min-height: 250px;
+  // min-height: 250px;
   background: #F6F6F6;
   position: absolute:
   top: 0;
@@ -53,15 +68,24 @@ const NewsItemFront = styled.div`
 `
 
 const NewsItemBack = styled.div`
-  padding: 5px;
-  text-align: left;
-  min-height: 300px;
-  position: absolute;
-  top: 0;
-  left: 0;
-  backface-visibility: hidden;
-  transform: rotateY(180deg);
-  font-size: 2em;
+    padding: 5px;
+    text-align: left;
+    min-height: 300px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    backface-visibility: hidden;
+    transform: rotateY(180deg);
+    font-size: 1.5em;
+    @media (min-width: 1150px) {
+      font-size: 1.7em;
+    }
+    @media (min-width: 1250px) {
+      font-size: 1.8em;
+    }
+    @media (min-width: 1350px) {
+      font-size: 1.9em;
+    }
 `
 
 const BackContinued = styled.h1`
@@ -82,5 +106,10 @@ const NewsItemImage = styled.img`
 const NewsItemIntroText = styled.p`
   text-align: center;
   font-size: 2em;
+
+  @media(max-width: 749px) {
+    display: none;
+  }
+
 `
 

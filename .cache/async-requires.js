@@ -31,5 +31,5 @@ exports.json = {
 }
 
 exports.layouts = {
-  "component---src-layouts-index-js": require("gatsby-module-loader?name=component---src-layouts-index-js!C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/layouts/index.js")
+  "layout---index": require("gatsby-module-loader?name=component---src-layouts-index-js!C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/layouts/index.js")
 }

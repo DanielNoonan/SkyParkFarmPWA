@@ -20,7 +20,7 @@ class FrontPageContainer extends Component {
             frontpage: false,
             articleData: this.props.data.allContentfulNewsBlog.edges[index],
         });
-        window.scrollTo(0, 150);
+        window.scrollTo(0, 170);
     }
 
     reloadHomepageHandler = () => {
@@ -97,10 +97,18 @@ const FrontPageContentWrapper = styled.div`
 `
 
 const NewsColumnWrapper = styled.div`
-    display: none;
+    // display: none;
+
     flex: 0 0 calc(100% / 12 * 3);
     @media (min-width: 1024px) {
         display: block;
+    }
+
+    @media (max-width: 1023px) {
+        display: flex;
+        flex-wrap: wrap;
+        border: 1px solid black;
+        flex: 0 0 100%;
     }
 `
 
@@ -114,7 +122,6 @@ const NewsColumnMainTitle = styled.h1`
     text-align: center;
     background: #F6F6F6;
     border: 1px solid #80D4F7;
-    // border-radius: 10px;
 `
 
 const NewsColumnArticleWrapper = styled.div`
