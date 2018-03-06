@@ -2,6 +2,10 @@
 const preferDefault = m => m && m.default || m
 
 
+exports.layouts = {
+  "layout---index": preferDefault(require("C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/layouts/index.js"))
+}
+
 exports.components = {
   "component---cache-dev-404-page-js": preferDefault(require("C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\dev-404-page.js")),
   "component---src-pages-404-js": preferDefault(require("C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\src\\pages\\404.js")),
@@ -26,11 +30,7 @@ exports.json = {
   "layout-index.json": require("C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\layout-index.json"),
   "news-archive.json": require("C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\news-archive.json"),
   "layout-index.json": require("C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\layout-index.json"),
-  "404-html.json": require("C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\404-html.json"),
+  "page-2.json": require("C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\page-2.json"),
   "layout-index.json": require("C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\layout-index.json"),
-  "page-2.json": require("C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\page-2.json")
-}
-
-exports.layouts = {
-  "component---src-layouts-index-js": preferDefault(require("C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/layouts/index.js"))
+  "404-html.json": require("C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\404-html.json")
 }
