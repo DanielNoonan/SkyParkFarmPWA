@@ -10,11 +10,11 @@ const Footer = (props) => {
             <FooterHero className='footer-background-hero-image'>
                 <FooterContentBox>
                     <FooterContentBoxTitle>ADDRESS</FooterContentBoxTitle>
-                    <FooterText>Sky Park Farm, A road somewhere in Hampshire with a postcode</FooterText>
+                    <FooterText>Sky Park Farm, Durford Lane, West Harting, GU315PF</FooterText>
                 </FooterContentBox>
                 <FooterContentBox>
                     <FooterContentBoxTitle>PHONE</FooterContentBoxTitle>
-                    <FooterText>01234 567 8910</FooterText>
+                    <FooterText>01730 821 866</FooterText>
                 </FooterContentBox>
                 <FooterContentBox>
                     <FooterContentBoxTitle>EMAIL</FooterContentBoxTitle>
