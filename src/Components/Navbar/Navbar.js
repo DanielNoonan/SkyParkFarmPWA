@@ -276,7 +276,7 @@ const Title = styled.h1`
     font-size: 6em;
   }
 `
-
+//Keep NavToggler and NavbarMenu components together for reasons similar to those stated below for the TopItem and SubMenu components below.
 //Small Screen Navbar Toggle
 const NavToggler = styled.h1`
   position: absolute;
@@ -297,8 +297,6 @@ const NavToggler = styled.h1`
     }
 `
 
-//////SubMenu component was here
-
 const NavbarMenu = styled.ul`
 display: none;
 position: absolute;
@@ -316,6 +314,7 @@ padding: 0;
   flex: 0 0 calc(100% / 12 * 12);
 }
 `
+/////////////////////////^^^^^^^^^^^^^^^^
 
 const Menu = styled.li`
 position: relative;
@@ -327,18 +326,14 @@ padding: 10px 20px;
 }
 `
 
+
+/////////////////Must keep TopItem and SubMenu components together (next to eachother) because otherwise the CSS specificity of the .SubMenuDisplay className applied with the onclick javascript conditional will not be high enough on the 'specificity tree' to apply the display:block style. This seems to be as a result of the 'gatsby build' command and occurs during this build step as it is only an issue on the production build. It will appear to be working in the Dev Server environment - making it difficult to debug.
 const TopItem = styled.p`
 cursor: pointer;
 padding: 5px 0;
 &:hover {
   color: white;
 }
-`
-
-
-const DropdownArrow = styled.span`
-font-size: 0.7em;
-transition: all 1s;
 `
 
 const SubMenu = styled.ul`
@@ -351,4 +346,12 @@ const SubMenu = styled.ul`
   @media (min-width: 1024px) {
     position: absolute;
   }
+`///////////////////////^^^^^^^^^^^^
+
+
+
+
+const DropdownArrow = styled.span`
+font-size: 0.7em;
+transition: all 1s;
 `
