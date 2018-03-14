@@ -102,7 +102,7 @@ class Navbar extends Component {
 
   //////////
   //close menus if click outside.
-  componentWillMount() {
+  componentDidMount() {
     document.addEventListener('click', this.handleClick, false);
   }
   componentWillUnmount() {
@@ -142,6 +142,8 @@ class Navbar extends Component {
 
     ///////////
     //resets the Navbar for larger screens if user increase the viewport from 'mobile' to 'desktop' view. ONLY triggers the setState if - mobileMenu: true
+
+    if (typeof window !== `undefined`) {
     let mq = window.matchMedia('(min-width: 1024px)');
 
     mq.addListener((changed) => {
@@ -157,6 +159,8 @@ class Navbar extends Component {
         });
       }
     });
+  }
+
     ///////////
 
     const logoImage = this.props.data.allContentfulLogo.edges[0].node.logo.file.url;
@@ -166,7 +170,9 @@ class Navbar extends Component {
         <TitleAndMenu>
           <Title><Link to='/' onClick={this.resetHandler} className='main-title-link'>SKY PARK FARM</Link></Title>
           <NavToggler onClick={this.mobileMenuToggleHandler} >X</NavToggler>
+
           <NavbarMenu className={this.state.mobileMenu ? 'SubMenuDisplay' : null} >
+
             <Menu>
               <TopItem onClick={this.menuOneToggleHandler}>ABOUT US <DropdownArrow>&#9660;</DropdownArrow></TopItem>
               <SubMenu className={this.state.menuOne ? 'SubMenuDisplay' : null}>
@@ -176,6 +182,8 @@ class Navbar extends Component {
                 <Link to='/page-2/' onClick={this.resetHandler} className='navbar-link'><SubMenuItem>THEN AND NOW</SubMenuItem></Link>
               </SubMenu>
             </Menu>
+
+            
             <Menu>
               <TopItem onClick={this.menuTwoToggleHandler}>NEWS <DropdownArrow>&#9660;</DropdownArrow></TopItem>
               <SubMenu className={this.state.menuTwo ? 'SubMenuDisplay' : null}>
@@ -289,49 +297,52 @@ const NavToggler = styled.h1`
     }
 `
 
+//////SubMenu component was here
+
 const NavbarMenu = styled.ul`
-  display: none;
-  position: absolute;
-  top: 135px;
-  left: 0;
-  margin: 0;
-  text-align: center;
-  background: #000034;
-  width: 100%;
-  padding: 0;
-  @media (min-width: 1024px) {
-    position: static;
-    display: flex;
-    justify-content: space-around;
-    flex: 0 0 calc(100% / 12 * 12);
-  }
-  `
+display: none;
+position: absolute;
+top: 135px;
+left: 0;
+margin: 0;
+text-align: center;
+background: #000034;
+width: 100%;
+padding: 0;
+@media (min-width: 1024px) {
+  position: static;
+  display: flex;
+  justify-content: space-around;
+  flex: 0 0 calc(100% / 12 * 12);
+}
+`
 
 const Menu = styled.li`
 position: relative;
-  font-size: 1.6em;
-  list-style: none;
-  padding: 10px 20px;
-  @media (min-width: 1024px) {
-    padding: 0 20px;
-  }
+font-size: 1.6em;
+list-style: none;
+padding: 10px 20px;
+@media (min-width: 1024px) {
+  padding: 0 20px;
+}
 `
 
 const TopItem = styled.p`
-  cursor: pointer;
-  padding: 5px 0;
-  &:hover {
-    color: white;
-  }
+cursor: pointer;
+padding: 5px 0;
+&:hover {
+  color: white;
+}
 `
 
+
 const DropdownArrow = styled.span`
-  font-size: 0.7em;
-  transition: all 1s;
+font-size: 0.7em;
+transition: all 1s;
 `
 
 const SubMenu = styled.ul`
-  z-index: 9999;
+  z-index: 999;
   display: none;
   left: 0;
   background: #000034;
