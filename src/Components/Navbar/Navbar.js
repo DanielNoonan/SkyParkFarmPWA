@@ -298,23 +298,25 @@ const NavToggler = styled.h1`
 `
 
 const NavbarMenu = styled.ul`
-display: none;
-position: absolute;
-top: 135px;
-left: 0;
-margin: 0;
-text-align: center;
-background: #000034;
-width: 100%;
-padding: 0;
-@media (min-width: 1024px) {
-  position: static;
-  display: flex;
-  justify-content: space-around;
-  flex: 0 0 calc(100% / 12 * 12);
-}
+  display: none;
+  position: absolute;
+  top: 135px;
+  left: 0;
+  margin: 0;
+  text-align: center;
+  background: #000034;
+  width: 100%;
+  padding: 0;
+  @media (min-width: 1024px) {
+    position: static;
+    display: flex;
+    justify-content: space-around;
+    flex: 0 0 calc(100% / 12 * 12);
+  }
 `
 /////////////////////////^^^^^^^^^^^^^^^^
+
+
 
 const Menu = styled.li`
 position: relative;
@@ -329,11 +331,11 @@ padding: 10px 20px;
 
 /////////////////Must keep TopItem and SubMenu components together (next to eachother) because otherwise the CSS specificity of the .SubMenuDisplay className applied with the onclick javascript conditional will not be high enough on the 'specificity tree' to apply the display:block style. This seems to be as a result of the 'gatsby build' command and occurs during this build step as it is only an issue on the production build. It will appear to be working in the Dev Server environment - making it difficult to debug.
 const TopItem = styled.p`
-cursor: pointer;
-padding: 5px 0;
-&:hover {
-  color: white;
-}
+  cursor: pointer;
+  padding: 5px 0;
+  &:hover {
+    color: white;
+  }
 `
 
 const SubMenu = styled.ul`
@@ -352,6 +354,6 @@ const SubMenu = styled.ul`
 
 
 const DropdownArrow = styled.span`
-font-size: 0.7em;
-transition: all 1s;
+  font-size: 0.7em;
+  transition: all 1s;
 `
