@@ -1,13 +1,22 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
+      "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "b78bd0de8ee8f6e0232e6a26c9b95e28",
         "owner": "internal-data-bridge"
       }
     },
@@ -664,14 +673,16 @@
       "siteMetadata": {
         "title": "Sky Park Farm"
       },
+      "port": "8000",
+      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-03-14T11:14:33.846Z",
+      "buildTime": "2018-04-16T12:12:31.565Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "18a0a24552502a94dd27b8819f64599c",
+        "contentDigest": "8c26dc222a11f9d2ef39b170def6df25",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2248,7 +2259,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "888f49188fccb2b207d5e0d9310c8f18",
+        "contentDigest": "25b7fe7f8653ef9a91140440099c761e",
         "owner": "internal-data-bridge"
       }
     },
@@ -2268,7 +2279,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "671d4ef67dec304608ef24f56c1c1766",
+        "contentDigest": "1b62971f2eee57177075649c4d00f9ae",
         "owner": "internal-data-bridge"
       }
     },
@@ -2288,7 +2299,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "cb3d71313de3c1cdca44efbd6d7ad3a9",
+        "contentDigest": "a9a0f9ffc38459d24ad46af4afda8029",
         "owner": "internal-data-bridge"
       }
     },
@@ -2308,7 +2319,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a98f49d1317639ada5143efcb3fc1d49",
+        "contentDigest": "ee0361b6f359343d7e69dcb9f63ddc2f",
         "owner": "internal-data-bridge"
       }
     },
@@ -2328,7 +2339,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "dfccb1160e10baf349a031be391c841f",
+        "contentDigest": "658a4cb2a971508a1f6cddb5c4cee38d",
         "owner": "internal-data-bridge"
       }
     },
@@ -2348,7 +2359,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a5d9c7758b570eef77212fb366aa8120",
+        "contentDigest": "51a1ac2e2061a3a85e0f4632febf9018",
         "owner": "internal-data-bridge"
       }
     },
@@ -2368,7 +2379,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "dea11532b935dc7d9c10e90d7cfb6c3c",
+        "contentDigest": "177e7c259da34fb78dc9db859ed4c7c6",
         "owner": "internal-data-bridge"
       }
     }

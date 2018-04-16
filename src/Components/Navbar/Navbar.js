@@ -18,7 +18,7 @@ class Navbar extends Component {
     mobileMenu: false
   }
   //////////
-  //Navbar submenu toggles - deliberately WET code so that the Nav Bar is 'modular'. This makes it simple to add/remove menus/submenus/sub-sub menus etc.
+  //Navbar submenu toggles - deliberately WET code so that the Nav Bar is 'modular'. To make it simple to add/remove menus/submenus/sub-sub menus etc.
   menuOneToggleHandler = () => {
     const currentState = this.state.menuOne;
     this.setState({
@@ -102,7 +102,7 @@ class Navbar extends Component {
 
   //////////
   //close menus if click outside.
-  componentWillMount() {
+  componentDidMount() {
     document.addEventListener('click', this.handleClick, false);
   }
   componentWillUnmount() {
@@ -142,6 +142,8 @@ class Navbar extends Component {
 
     ///////////
     //resets the Navbar for larger screens if user increase the viewport from 'mobile' to 'desktop' view. ONLY triggers the setState if - mobileMenu: true
+
+    if (typeof window !== `undefined`) {
     let mq = window.matchMedia('(min-width: 1024px)');
 
     mq.addListener((changed) => {
@@ -157,6 +159,8 @@ class Navbar extends Component {
         });
       }
     });
+  }
+
     ///////////
 
     const logoImage = this.props.data.allContentfulLogo.edges[0].node.logo.file.url;
@@ -166,7 +170,9 @@ class Navbar extends Component {
         <TitleAndMenu>
           <Title><Link to='/' onClick={this.resetHandler} className='main-title-link'>SKY PARK FARM</Link></Title>
           <NavToggler onClick={this.mobileMenuToggleHandler} >X</NavToggler>
+
           <NavbarMenu className={this.state.mobileMenu ? 'SubMenuDisplay' : null} >
+
             <Menu>
               <TopItem onClick={this.menuOneToggleHandler}>ABOUT US <DropdownArrow>&#9660;</DropdownArrow></TopItem>
               <SubMenu className={this.state.menuOne ? 'SubMenuDisplay' : null}>
@@ -176,6 +182,8 @@ class Navbar extends Component {
                 <Link to='/page-2/' onClick={this.resetHandler} className='navbar-link'><SubMenuItem>THEN AND NOW</SubMenuItem></Link>
               </SubMenu>
             </Menu>
+
+            
             <Menu>
               <TopItem onClick={this.menuTwoToggleHandler}>NEWS <DropdownArrow>&#9660;</DropdownArrow></TopItem>
               <SubMenu className={this.state.menuTwo ? 'SubMenuDisplay' : null}>
@@ -268,7 +276,7 @@ const Title = styled.h1`
     font-size: 6em;
   }
 `
-
+//Keep NavToggler and NavbarMenu components together for reasons similar to those stated below for the TopItem and SubMenu components below.
 //Small Screen Navbar Toggle
 const NavToggler = styled.h1`
   position: absolute;
@@ -305,18 +313,23 @@ const NavbarMenu = styled.ul`
     justify-content: space-around;
     flex: 0 0 calc(100% / 12 * 12);
   }
-  `
+`
+/////////////////////////^^^^^^^^^^^^^^^^
+
+
 
 const Menu = styled.li`
 position: relative;
-  font-size: 1.6em;
-  list-style: none;
-  padding: 10px 20px;
-  @media (min-width: 1024px) {
-    padding: 0 20px;
-  }
+font-size: 1.6em;
+list-style: none;
+padding: 10px 20px;
+@media (min-width: 1024px) {
+  padding: 0 20px;
+}
 `
 
+
+/////////////////Must keep TopItem and SubMenu components together (next to eachother) because otherwise the CSS specificity of the .SubMenuDisplay className applied with the onclick javascript conditional will not be high enough on the 'specificity tree' to apply the display:block style. This seems to be as a result of the 'gatsby build' command and occurs during this build step as it is only an issue on the production build. It will appear to be working in the Dev Server environment - making it difficult to debug.
 const TopItem = styled.p`
   cursor: pointer;
   padding: 5px 0;
@@ -325,13 +338,8 @@ const TopItem = styled.p`
   }
 `
 
-const DropdownArrow = styled.span`
-  font-size: 0.7em;
-  transition: all 1s;
-`
-
 const SubMenu = styled.ul`
-  z-index: 9999;
+  z-index: 999;
   display: none;
   left: 0;
   background: #000034;
@@ -340,4 +348,12 @@ const SubMenu = styled.ul`
   @media (min-width: 1024px) {
     position: absolute;
   }
+`///////////////////////^^^^^^^^^^^^
+
+
+
+
+const DropdownArrow = styled.span`
+  font-size: 0.7em;
+  transition: all 1s;
 `
