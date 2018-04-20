@@ -16,7 +16,11 @@
       "children": [],
       "internal": {
         "type": "SitePage",
+<<<<<<< HEAD
         "contentDigest": "bab1bc3eec72b5cc5cdd5148131ccaa6",
+=======
+        "contentDigest": "02c252e38b1a6df9e815f9de0d6e08ae",
+>>>>>>> 57f9646a6ac67d8dfb6e1d764e1e460364a20944
         "owner": "internal-data-bridge"
       }
     },
@@ -677,12 +681,20 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
+<<<<<<< HEAD
       "buildTime": "2018-04-20T11:41:12.764Z",
+=======
+      "buildTime": "2018-04-20T08:43:46.123Z",
+>>>>>>> 57f9646a6ac67d8dfb6e1d764e1e460364a20944
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
+<<<<<<< HEAD
         "contentDigest": "afd9ffd381fbcb461810ee05775cdeb0",
+=======
+        "contentDigest": "6e90005b19350857b298d472b70f4d18",
+>>>>>>> 57f9646a6ac67d8dfb6e1d764e1e460364a20944
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2259,7 +2271,11 @@
       "children": [],
       "internal": {
         "type": "SitePage",
+<<<<<<< HEAD
         "contentDigest": "9f114b473e00a30887a053898e5d5ea9",
+=======
+        "contentDigest": "f0e73d53d118793eee0f01a15c1dc528",
+>>>>>>> 57f9646a6ac67d8dfb6e1d764e1e460364a20944
         "owner": "internal-data-bridge"
       }
     },
@@ -2279,7 +2295,11 @@
       "children": [],
       "internal": {
         "type": "SitePage",
+<<<<<<< HEAD
         "contentDigest": "3ad26d3520daa571e0efc0c78b5686d3",
+=======
+        "contentDigest": "6e9b4509f997ac44ca7df648b7086e34",
+>>>>>>> 57f9646a6ac67d8dfb6e1d764e1e460364a20944
         "owner": "internal-data-bridge"
       }
     },
@@ -2299,7 +2319,11 @@
       "children": [],
       "internal": {
         "type": "SitePage",
+<<<<<<< HEAD
         "contentDigest": "c9e0dfe89d4924982d882ca11024b3ff",
+=======
+        "contentDigest": "fd5c3f82b7983367104386ef317618fa",
+>>>>>>> 57f9646a6ac67d8dfb6e1d764e1e460364a20944
         "owner": "internal-data-bridge"
       }
     },
@@ -2319,7 +2343,31 @@
       "children": [],
       "internal": {
         "type": "SitePage",
+<<<<<<< HEAD
         "contentDigest": "b72693130075dbeac5f0b4b2abff4484",
+=======
+        "contentDigest": "45e2776c502557c4cd95df46389dc1fa",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /map-contact/": {
+      "layout": "index",
+      "jsonName": "map-contact.json",
+      "internalComponentName": "ComponentMapContact",
+      "path": "/map-contact/",
+      "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/map-contact.js",
+      "componentChunkName": "component---src-pages-map-contact-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/map-contact.js",
+      "id": "SitePage /map-contact/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e3053c3c867500caad5870a78d70f89d",
+>>>>>>> 57f9646a6ac67d8dfb6e1d764e1e460364a20944
         "owner": "internal-data-bridge"
       }
     },
@@ -2339,7 +2387,11 @@
       "children": [],
       "internal": {
         "type": "SitePage",
+<<<<<<< HEAD
         "contentDigest": "1bfadbe13751a7100efe12cf55bd6fb3",
+=======
+        "contentDigest": "b74198a03ebdb802efbce5cbcef9e4c8",
+>>>>>>> 57f9646a6ac67d8dfb6e1d764e1e460364a20944
         "owner": "internal-data-bridge"
       }
     },
@@ -2359,7 +2411,11 @@
       "children": [],
       "internal": {
         "type": "SitePage",
+<<<<<<< HEAD
         "contentDigest": "7dd954e0d0e9926755d5f8caaa59ac44",
+=======
+        "contentDigest": "54bc205dea6ac8f5ff213a2ce9a16023",
+>>>>>>> 57f9646a6ac67d8dfb6e1d764e1e460364a20944
         "owner": "internal-data-bridge"
       }
     },
@@ -2379,7 +2435,11 @@
       "children": [],
       "internal": {
         "type": "SitePage",
+<<<<<<< HEAD
         "contentDigest": "16043853d0cc72270e8853e5e0ea34ab",
+=======
+        "contentDigest": "68c12a8f2fdb7dc8e06a44859173c89c",
+>>>>>>> 57f9646a6ac67d8dfb6e1d764e1e460364a20944
         "owner": "internal-data-bridge"
       }
     }
