@@ -16,11 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-<<<<<<< HEAD
-        "contentDigest": "bab1bc3eec72b5cc5cdd5148131ccaa6",
-=======
-        "contentDigest": "02c252e38b1a6df9e815f9de0d6e08ae",
->>>>>>> 57f9646a6ac67d8dfb6e1d764e1e460364a20944
+        "contentDigest": "7842ab587b05cc283107603c46d2a3b5",
         "owner": "internal-data-bridge"
       }
     },
@@ -681,20 +677,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-<<<<<<< HEAD
-      "buildTime": "2018-04-20T11:41:12.764Z",
-=======
-      "buildTime": "2018-04-20T08:43:46.123Z",
->>>>>>> 57f9646a6ac67d8dfb6e1d764e1e460364a20944
+      "buildTime": "2018-04-20T12:08:57.611Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-<<<<<<< HEAD
-        "contentDigest": "afd9ffd381fbcb461810ee05775cdeb0",
-=======
-        "contentDigest": "6e90005b19350857b298d472b70f4d18",
->>>>>>> 57f9646a6ac67d8dfb6e1d764e1e460364a20944
+        "contentDigest": "289e8a53a0c92fc53c124f2caaedd2ab",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2255,6 +2243,118 @@
       },
       "excerpt": ""
     },
+    "c21vH6TQT6UIUGWYG2sWuM2openingParagraphTextNode": {
+      "id": "c21vH6TQT6UIUGWYG2sWuM2openingParagraphTextNode",
+      "parent": "c21vH6TQT6UIUGWYG2sWuM2",
+      "children": [
+        "c21vH6TQT6UIUGWYG2sWuM2openingParagraphTextNode >>> MarkdownRemark"
+      ],
+      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut dolor porta, condimentum orci et, mollis diam. Quisque non libero risus. Nullam at ornare quam. Suspendisse potenti. Nullam iaculis risus non justo sollicitudin, a pharetra urna tincidunt. Suspendisse lobortis,",
+      "internal": {
+        "type": "contentfulNewsBlogOpeningParagraphTextNode",
+        "mediaType": "text/markdown",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut dolor porta, condimentum orci et, mollis diam. Quisque non libero risus. Nullam at ornare quam. Suspendisse potenti. Nullam iaculis risus non justo sollicitudin, a pharetra urna tincidunt. Suspendisse lobortis,",
+        "contentDigest": "1a5b5a2ac89053236346c72c1db2c14d",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c21vH6TQT6UIUGWYG2sWuM2fullArticleTextTextNode": {
+      "id": "c21vH6TQT6UIUGWYG2sWuM2fullArticleTextTextNode",
+      "parent": "c21vH6TQT6UIUGWYG2sWuM2",
+      "children": [
+        "c21vH6TQT6UIUGWYG2sWuM2fullArticleTextTextNode >>> MarkdownRemark"
+      ],
+      "fullArticleText": "# Main Heading\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut dolor porta, condimentum orci et, mollis diam. Quisque non libero risus. Nullam at ornare quam. Suspendisse potenti. Nullam iaculis risus non justo sollicitudin, a pharetra urna tincidunt. Suspendisse lobortis, turpis eget vestibulum aliquam, orci ligula lacinia elit, sed porttitor ante libero in ante. Quisque in turpis sagittis nibh vehicula efficitur. Curabitur egestas porttitor magna, et commodo lacus consequat eu.\n\n## Sub Heading\nIn scelerisque lacus sapien, laoreet bibendum quam egestas vitae. Proin sed efficitur ante. Sed ut ligula malesuada, varius elit ut, finibus sapien. Mauris ultrices eget magna auctor viverra. Phasellus in felis molestie, luctus ligula at, semper diam. Ut malesuada vestibulum enim, id sollicitudin quam. Integer dui purus, posuere vel fermentum vitae, pharetra in dui. Mauris et aliquam libero. Nullam finibus leo a arcu feugiat, rhoncus pulvinar nibh efficitur.",
+      "internal": {
+        "type": "contentfulNewsBlogFullArticleTextTextNode",
+        "mediaType": "text/markdown",
+        "content": "# Main Heading\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut dolor porta, condimentum orci et, mollis diam. Quisque non libero risus. Nullam at ornare quam. Suspendisse potenti. Nullam iaculis risus non justo sollicitudin, a pharetra urna tincidunt. Suspendisse lobortis, turpis eget vestibulum aliquam, orci ligula lacinia elit, sed porttitor ante libero in ante. Quisque in turpis sagittis nibh vehicula efficitur. Curabitur egestas porttitor magna, et commodo lacus consequat eu.\n\n## Sub Heading\nIn scelerisque lacus sapien, laoreet bibendum quam egestas vitae. Proin sed efficitur ante. Sed ut ligula malesuada, varius elit ut, finibus sapien. Mauris ultrices eget magna auctor viverra. Phasellus in felis molestie, luctus ligula at, semper diam. Ut malesuada vestibulum enim, id sollicitudin quam. Integer dui purus, posuere vel fermentum vitae, pharetra in dui. Mauris et aliquam libero. Nullam finibus leo a arcu feugiat, rhoncus pulvinar nibh efficitur.",
+        "contentDigest": "d1c113f366fd5c6c517ab167ebdf2f99",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c21vH6TQT6UIUGWYG2sWuM2": {
+      "todaysDate": "2018-04-20",
+      "title": "Feeding Deer",
+      "openingSentence": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "articleImage___NODE": "c141gk6YsMcUY0y0GikEag0",
+      "openingParagraph___NODE": "c21vH6TQT6UIUGWYG2sWuM2openingParagraphTextNode",
+      "fullArticleText___NODE": "c21vH6TQT6UIUGWYG2sWuM2fullArticleTextTextNode",
+      "id": "c21vH6TQT6UIUGWYG2sWuM2",
+      "contentful_id": "21vH6TQT6UIUGWYG2sWuM2",
+      "createdAt": "2018-04-20T12:07:49.065Z",
+      "updatedAt": "2018-04-20T12:07:49.065Z",
+      "parent": "News Blog",
+      "children": [
+        "c21vH6TQT6UIUGWYG2sWuM2openingParagraphTextNode",
+        "c21vH6TQT6UIUGWYG2sWuM2fullArticleTextTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulNewsBlog",
+        "contentDigest": "f7f46fe60826b380cb2cc036af194b35",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c141gk6YsMcUY0y0GikEag0": {
+      "id": "c141gk6YsMcUY0y0GikEag0",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.ctfassets.net/vs9k02isgfes/141gk6YsMcUY0y0GikEag0/a7048560359172bb8ee3192db6fdb2ac/deer-following-dom-SMALL.jpg",
+        "details": {
+          "size": 103479,
+          "image": {
+            "width": 640,
+            "height": 451
+          }
+        },
+        "fileName": "deer-following-dom-SMALL.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "Deer Feeding",
+      "description": "Feeding the deer",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "bc053ed4c71f85406e9ab1b67f8672c9",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "c21vH6TQT6UIUGWYG2sWuM2openingParagraphTextNode >>> MarkdownRemark": {
+      "id": "c21vH6TQT6UIUGWYG2sWuM2openingParagraphTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c21vH6TQT6UIUGWYG2sWuM2openingParagraphTextNode",
+      "internal": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut dolor porta, condimentum orci et, mollis diam. Quisque non libero risus. Nullam at ornare quam. Suspendisse potenti. Nullam iaculis risus non justo sollicitudin, a pharetra urna tincidunt. Suspendisse lobortis,",
+        "contentDigest": "94ff0d9841586e9d360e21b967da32d6",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c21vH6TQT6UIUGWYG2sWuM2openingParagraphTextNode",
+        "parent": "c21vH6TQT6UIUGWYG2sWuM2openingParagraphTextNode"
+      },
+      "excerpt": ""
+    },
+    "c21vH6TQT6UIUGWYG2sWuM2fullArticleTextTextNode >>> MarkdownRemark": {
+      "id": "c21vH6TQT6UIUGWYG2sWuM2fullArticleTextTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "c21vH6TQT6UIUGWYG2sWuM2fullArticleTextTextNode",
+      "internal": {
+        "content": "# Main Heading\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut dolor porta, condimentum orci et, mollis diam. Quisque non libero risus. Nullam at ornare quam. Suspendisse potenti. Nullam iaculis risus non justo sollicitudin, a pharetra urna tincidunt. Suspendisse lobortis, turpis eget vestibulum aliquam, orci ligula lacinia elit, sed porttitor ante libero in ante. Quisque in turpis sagittis nibh vehicula efficitur. Curabitur egestas porttitor magna, et commodo lacus consequat eu.\n\n## Sub Heading\nIn scelerisque lacus sapien, laoreet bibendum quam egestas vitae. Proin sed efficitur ante. Sed ut ligula malesuada, varius elit ut, finibus sapien. Mauris ultrices eget magna auctor viverra. Phasellus in felis molestie, luctus ligula at, semper diam. Ut malesuada vestibulum enim, id sollicitudin quam. Integer dui purus, posuere vel fermentum vitae, pharetra in dui. Mauris et aliquam libero. Nullam finibus leo a arcu feugiat, rhoncus pulvinar nibh efficitur.",
+        "contentDigest": "fe9cdadc329e2e9871ea58097cd0defe",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "c21vH6TQT6UIUGWYG2sWuM2fullArticleTextTextNode",
+        "parent": "c21vH6TQT6UIUGWYG2sWuM2fullArticleTextTextNode"
+      },
+      "excerpt": ""
+    },
     "SitePage /404/": {
       "layout": "index",
       "jsonName": "404.json",
@@ -2271,11 +2371,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-<<<<<<< HEAD
-        "contentDigest": "9f114b473e00a30887a053898e5d5ea9",
-=======
-        "contentDigest": "f0e73d53d118793eee0f01a15c1dc528",
->>>>>>> 57f9646a6ac67d8dfb6e1d764e1e460364a20944
+        "contentDigest": "e97cf57912cbef3db4761b730b319d8b",
         "owner": "internal-data-bridge"
       }
     },
@@ -2295,11 +2391,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-<<<<<<< HEAD
-        "contentDigest": "3ad26d3520daa571e0efc0c78b5686d3",
-=======
-        "contentDigest": "6e9b4509f997ac44ca7df648b7086e34",
->>>>>>> 57f9646a6ac67d8dfb6e1d764e1e460364a20944
+        "contentDigest": "b8287834a8e580db9a5e8cee6f821fd8",
         "owner": "internal-data-bridge"
       }
     },
@@ -2319,11 +2411,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-<<<<<<< HEAD
-        "contentDigest": "c9e0dfe89d4924982d882ca11024b3ff",
-=======
-        "contentDigest": "fd5c3f82b7983367104386ef317618fa",
->>>>>>> 57f9646a6ac67d8dfb6e1d764e1e460364a20944
+        "contentDigest": "cf650fba87dd2f50966c8d83025e48c5",
         "owner": "internal-data-bridge"
       }
     },
@@ -2343,10 +2431,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-<<<<<<< HEAD
-        "contentDigest": "b72693130075dbeac5f0b4b2abff4484",
-=======
-        "contentDigest": "45e2776c502557c4cd95df46389dc1fa",
+        "contentDigest": "4593cf934e9b1f4ef68c59dec0a30a76",
         "owner": "internal-data-bridge"
       }
     },
@@ -2366,8 +2451,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e3053c3c867500caad5870a78d70f89d",
->>>>>>> 57f9646a6ac67d8dfb6e1d764e1e460364a20944
+        "contentDigest": "e95819d40f1bb0fd77c4cd21414e456b",
         "owner": "internal-data-bridge"
       }
     },
@@ -2387,11 +2471,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-<<<<<<< HEAD
-        "contentDigest": "1bfadbe13751a7100efe12cf55bd6fb3",
-=======
-        "contentDigest": "b74198a03ebdb802efbce5cbcef9e4c8",
->>>>>>> 57f9646a6ac67d8dfb6e1d764e1e460364a20944
+        "contentDigest": "0739cd56f27a18696fde60a68f82641a",
         "owner": "internal-data-bridge"
       }
     },
@@ -2411,11 +2491,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-<<<<<<< HEAD
-        "contentDigest": "7dd954e0d0e9926755d5f8caaa59ac44",
-=======
-        "contentDigest": "54bc205dea6ac8f5ff213a2ce9a16023",
->>>>>>> 57f9646a6ac67d8dfb6e1d764e1e460364a20944
+        "contentDigest": "54b509f9cb5d309f0d96555d67035424",
         "owner": "internal-data-bridge"
       }
     },
@@ -2435,11 +2511,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-<<<<<<< HEAD
-        "contentDigest": "16043853d0cc72270e8853e5e0ea34ab",
-=======
-        "contentDigest": "68c12a8f2fdb7dc8e06a44859173c89c",
->>>>>>> 57f9646a6ac67d8dfb6e1d764e1e460364a20944
+        "contentDigest": "cc60bbc9d9c3300e02d36babbe7ec992",
         "owner": "internal-data-bridge"
       }
     }
@@ -2447,7 +2519,7 @@
   "status": {
     "plugins": {
       "gatsby-source-contentful": {
-        "vs9k02isgfes": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybDk8O9wphZwrzCnQHDgQ7DhkfCk3vDp8KYw7bCtEfDojtnw5A3GMKdXMOcMMOOwpcGw74xw7hZXmDDrMKswq_CjsO8woJBwpzDgy5WLEY1w6ARCj_CtsKuwowXEsKBw6YBOQ"
+        "vs9k02isgfes": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybCk8K9Ak_DoQnCnXzDlwghOsKJw6fClsORwpxQMMO5cTfDmMOvw685El7DhcKzYcKgM2dDw5bDmyoRwrMVQTM5R8KKW8KFw4bCrMKhdC3CssKseGZxw5bDujtYRcO1"
       }
     },
     "PLUGINS_HASH": "c225888c9448958cb53c3eb50c3a243a"
@@ -2614,6 +2686,21 @@
         "/"
       ],
       "c3biSOE5Gc0iK0A2esoYeAMfifthTextBlockTextNode >>> MarkdownRemark": [
+        "/"
+      ],
+      "c141gk6YsMcUY0y0GikEag0": [
+        "/news-archive/",
+        "/"
+      ],
+      "c21vH6TQT6UIUGWYG2sWuM2fullArticleTextTextNode": [
+        "/news-archive/",
+        "/"
+      ],
+      "c21vH6TQT6UIUGWYG2sWuM2fullArticleTextTextNode >>> MarkdownRemark": [
+        "/news-archive/",
+        "/"
+      ],
+      "c21vH6TQT6UIUGWYG2sWuM2openingParagraphTextNode": [
         "/"
       ]
     },
