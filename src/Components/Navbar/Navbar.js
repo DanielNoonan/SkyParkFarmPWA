@@ -216,9 +216,9 @@ class Navbar extends Component {
               </SubMenu>
             </Menu>
             <Menu>
-              <TopItem onClick={this.menuSixToggleHandler}>CONTACT <DropdownArrow>&#9660;</DropdownArrow></TopItem>
+              <TopItem onClick={this.menuSixToggleHandler}>LOCATION <DropdownArrow>&#9660;</DropdownArrow></TopItem>
               <SubMenu className={this.state.menuSix ? 'SubMenuDisplay' : null}>
-                <Link to='/page-2/' onClick={this.resetHandler} className='navbar-link'><SubMenuItem>MAP AND EMAIL</SubMenuItem></Link>
+                <Link to='/map-contact/' onClick={this.resetHandler} className='navbar-link'><SubMenuItem>MAP & DIRECTIONS</SubMenuItem></Link>
               </SubMenu>
             </Menu>
           </NavbarMenu>

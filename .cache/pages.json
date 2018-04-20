@@ -35,6 +35,13 @@
         "path": "/"
     },
     {
+        "componentChunkName": "component---src-pages-map-contact-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "map-contact.json",
+        "path": "/map-contact/"
+    },
+    {
         "componentChunkName": "component---src-pages-news-archive-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",

@@ -7,6 +7,7 @@ exports.components = {
   "component---src-pages-accommodation-gallery-js": require("gatsby-module-loader?name=component---src-pages-accommodation-gallery-js!C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\src\\pages\\accommodation-gallery.js"),
   "component---src-pages-bookings-accommodation-js": require("gatsby-module-loader?name=component---src-pages-bookings-accommodation-js!C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\src\\pages\\bookings-accommodation.js"),
   "component---src-pages-index-js": require("gatsby-module-loader?name=component---src-pages-index-js!C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\src\\pages\\index.js"),
+  "component---src-pages-map-contact-js": require("gatsby-module-loader?name=component---src-pages-map-contact-js!C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\src\\pages\\map-contact.js"),
   "component---src-pages-news-archive-js": require("gatsby-module-loader?name=component---src-pages-news-archive-js!C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\src\\pages\\news-archive.js"),
   "component---src-pages-page-2-js": require("gatsby-module-loader?name=component---src-pages-page-2-js!C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\src\\pages\\page-2.js")
 }
@@ -22,6 +23,8 @@ exports.json = {
   "bookings-accommodation.json": require("gatsby-module-loader?name=path---bookings-accommodation!C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\bookings-accommodation.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\layout-index.json"),
   "index.json": require("gatsby-module-loader?name=path---index!C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\index.json"),
+  "layout-index.json": require("gatsby-module-loader?name=path---!C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\layout-index.json"),
+  "map-contact.json": require("gatsby-module-loader?name=path---map-contact!C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\map-contact.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\layout-index.json"),
   "news-archive.json": require("gatsby-module-loader?name=path---news-archive!C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\news-archive.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\layout-index.json"),

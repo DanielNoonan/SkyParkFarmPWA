@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b78bd0de8ee8f6e0232e6a26c9b95e28",
+        "contentDigest": "02c252e38b1a6df9e815f9de0d6e08ae",
         "owner": "internal-data-bridge"
       }
     },
@@ -677,12 +677,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-04-16T12:12:31.565Z",
+      "buildTime": "2018-04-20T08:43:46.123Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "8c26dc222a11f9d2ef39b170def6df25",
+        "contentDigest": "6e90005b19350857b298d472b70f4d18",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2259,7 +2259,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "25b7fe7f8653ef9a91140440099c761e",
+        "contentDigest": "f0e73d53d118793eee0f01a15c1dc528",
         "owner": "internal-data-bridge"
       }
     },
@@ -2279,7 +2279,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1b62971f2eee57177075649c4d00f9ae",
+        "contentDigest": "6e9b4509f997ac44ca7df648b7086e34",
         "owner": "internal-data-bridge"
       }
     },
@@ -2299,7 +2299,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a9a0f9ffc38459d24ad46af4afda8029",
+        "contentDigest": "fd5c3f82b7983367104386ef317618fa",
         "owner": "internal-data-bridge"
       }
     },
@@ -2319,7 +2319,27 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ee0361b6f359343d7e69dcb9f63ddc2f",
+        "contentDigest": "45e2776c502557c4cd95df46389dc1fa",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /map-contact/": {
+      "layout": "index",
+      "jsonName": "map-contact.json",
+      "internalComponentName": "ComponentMapContact",
+      "path": "/map-contact/",
+      "component": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/map-contact.js",
+      "componentChunkName": "component---src-pages-map-contact-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "C:/Users/danno/Documents/webDev/SkyParkFarm/SkyParkFarmPWA--gitRepo/src/pages/map-contact.js",
+      "id": "SitePage /map-contact/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e3053c3c867500caad5870a78d70f89d",
         "owner": "internal-data-bridge"
       }
     },
@@ -2339,7 +2359,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "658a4cb2a971508a1f6cddb5c4cee38d",
+        "contentDigest": "b74198a03ebdb802efbce5cbcef9e4c8",
         "owner": "internal-data-bridge"
       }
     },
@@ -2359,7 +2379,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "51a1ac2e2061a3a85e0f4632febf9018",
+        "contentDigest": "54bc205dea6ac8f5ff213a2ce9a16023",
         "owner": "internal-data-bridge"
       }
     },
@@ -2379,7 +2399,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "177e7c259da34fb78dc9db859ed4c7c6",
+        "contentDigest": "68c12a8f2fdb7dc8e06a44859173c89c",
         "owner": "internal-data-bridge"
       }
     }
