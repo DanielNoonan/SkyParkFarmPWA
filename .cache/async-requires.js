@@ -2,6 +2,7 @@
 const preferDefault = m => m && m.default || m
 
 exports.components = {
+  "component---cache-dev-404-page-js": require("gatsby-module-loader?name=component---cache-dev-404-page-js!C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\dev-404-page.js"),
   "component---src-pages-404-js": require("gatsby-module-loader?name=component---src-pages-404-js!C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\src\\pages\\404.js"),
   "component---src-pages-accommodation-gallery-js": require("gatsby-module-loader?name=component---src-pages-accommodation-gallery-js!C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\src\\pages\\accommodation-gallery.js"),
   "component---src-pages-bookings-accommodation-js": require("gatsby-module-loader?name=component---src-pages-bookings-accommodation-js!C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\src\\pages\\bookings-accommodation.js"),
@@ -12,6 +13,8 @@ exports.components = {
 }
 
 exports.json = {
+  "layout-index.json": require("gatsby-module-loader?name=path---!C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\layout-index.json"),
+  "dev-404-page.json": require("gatsby-module-loader?name=path---dev-404-page!C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\dev-404-page.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\layout-index.json"),
   "404.json": require("gatsby-module-loader?name=path---404!C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\404.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!C:\\Users\\danno\\Documents\\webDev\\SkyParkFarm\\SkyParkFarmPWA--gitRepo\\.cache\\json\\layout-index.json"),
