@@ -168,7 +168,7 @@ class Navbar extends Component {
       <NavbarWrapper>
         <Link to='/' onClick={this.resetHandler} className='logo-link'><Logo src={`https:${logoImage}`} /></Link>
         <TitleAndMenu>
-          <Title><Link to='/' onClick={this.resetHandler} className='main-title-link'>Sky Park Farm</Link></Title>
+          <Title><Link to='/' onClick={this.resetHandler} className='main-title-link'>TEST PARK FARM</Link></Title>
           <NavToggler onClick={this.mobileMenuToggleHandler} >X</NavToggler>
 
           <NavbarMenu className={this.state.mobileMenu ? 'SubMenuDisplay' : null} >
