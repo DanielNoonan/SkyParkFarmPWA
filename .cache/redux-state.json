@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "14ab5a412b23673d09b1014f11bcb7ef",
+        "contentDigest": "ad536c90677c5d6911f6e2415aa0a9d3",
         "owner": "internal-data-bridge"
       }
     },
@@ -677,12 +677,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-04-24T11:49:49.418Z",
+      "buildTime": "2018-04-24T12:07:11.051Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "e0ffd6e1d3e19aabf0fd84a1e40ff300",
+        "contentDigest": "12166c0557792bce2202211548b11171",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2915,6 +2915,118 @@
       },
       "excerpt": ""
     },
+    "tOpSPZx3DqMcC8CEW24UMopeningParagraphTextNode": {
+      "id": "tOpSPZx3DqMcC8CEW24UMopeningParagraphTextNode",
+      "parent": "tOpSPZx3DqMcC8CEW24UM",
+      "children": [
+        "tOpSPZx3DqMcC8CEW24UMopeningParagraphTextNode >>> MarkdownRemark"
+      ],
+      "openingParagraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eros quam, lobortis et felis sit amet, dictum rhoncus ligula. Curabitur dictum turpis metus, nec laoreet lorem sagittis vitae. Proin a justo augue. Fusce ut sagittis dolor. Nulla facilisi. Mauris ac sapien mattis, lobortis ante vitae, bibendum neque. ",
+      "internal": {
+        "type": "contentfulNewsBlogOpeningParagraphTextNode",
+        "mediaType": "text/markdown",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eros quam, lobortis et felis sit amet, dictum rhoncus ligula. Curabitur dictum turpis metus, nec laoreet lorem sagittis vitae. Proin a justo augue. Fusce ut sagittis dolor. Nulla facilisi. Mauris ac sapien mattis, lobortis ante vitae, bibendum neque. ",
+        "contentDigest": "50da6e047d3cbe8b3164685c60d41ef7",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "tOpSPZx3DqMcC8CEW24UMfullArticleTextTextNode": {
+      "id": "tOpSPZx3DqMcC8CEW24UMfullArticleTextTextNode",
+      "parent": "tOpSPZx3DqMcC8CEW24UM",
+      "children": [
+        "tOpSPZx3DqMcC8CEW24UMfullArticleTextTextNode >>> MarkdownRemark"
+      ],
+      "fullArticleText": "# Lipsum\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eros quam, lobortis et felis sit amet, dictum rhoncus ligula. Curabitur dictum turpis metus, nec laoreet lorem sagittis vitae. Proin a justo augue. Fusce ut sagittis dolor. Nulla facilisi. Mauris ac sapien mattis, lobortis ante vitae, bibendum neque. Maecenas suscipit felis viverra facilisis ultrices. Etiam tempor maximus dui, ut posuere ante. Vestibulum est enim, luctus sed euismod non, fermentum vitae ipsum. Etiam iaculis odio id libero facilisis iaculis.\n\n## +Lipsum\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eros quam, lobortis et felis sit amet, dictum rhoncus ligula. Curabitur dictum turpis metus, nec laoreet lorem sagittis vitae. Proin a justo augue. Fusce ut sagittis dolor. Nulla facilisi. Mauris ac sapien mattis, lobortis ante vitae, bibendum neque. Maecenas suscipit felis viverra facilisis ultrices. Etiam tempor maximus dui, ut posuere ante. Vestibulum est enim, luctus sed euismod non, fermentum vitae ipsum. Etiam iaculis odio id libero facilisis iaculis.",
+      "internal": {
+        "type": "contentfulNewsBlogFullArticleTextTextNode",
+        "mediaType": "text/markdown",
+        "content": "# Lipsum\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eros quam, lobortis et felis sit amet, dictum rhoncus ligula. Curabitur dictum turpis metus, nec laoreet lorem sagittis vitae. Proin a justo augue. Fusce ut sagittis dolor. Nulla facilisi. Mauris ac sapien mattis, lobortis ante vitae, bibendum neque. Maecenas suscipit felis viverra facilisis ultrices. Etiam tempor maximus dui, ut posuere ante. Vestibulum est enim, luctus sed euismod non, fermentum vitae ipsum. Etiam iaculis odio id libero facilisis iaculis.\n\n## +Lipsum\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eros quam, lobortis et felis sit amet, dictum rhoncus ligula. Curabitur dictum turpis metus, nec laoreet lorem sagittis vitae. Proin a justo augue. Fusce ut sagittis dolor. Nulla facilisi. Mauris ac sapien mattis, lobortis ante vitae, bibendum neque. Maecenas suscipit felis viverra facilisis ultrices. Etiam tempor maximus dui, ut posuere ante. Vestibulum est enim, luctus sed euismod non, fermentum vitae ipsum. Etiam iaculis odio id libero facilisis iaculis.",
+        "contentDigest": "ea582388a4c6b2efb5c692734c3500e8",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "tOpSPZx3DqMcC8CEW24UM": {
+      "todaysDate": "2018-04-24",
+      "title": "Title required",
+      "openingSentence": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "articleImage___NODE": "c2Fhme8JLWUIc0q6OcAuGOC",
+      "openingParagraph___NODE": "tOpSPZx3DqMcC8CEW24UMopeningParagraphTextNode",
+      "fullArticleText___NODE": "tOpSPZx3DqMcC8CEW24UMfullArticleTextTextNode",
+      "id": "tOpSPZx3DqMcC8CEW24UM",
+      "contentful_id": "tOpSPZx3DqMcC8CEW24UM",
+      "createdAt": "2018-04-24T12:03:58.991Z",
+      "updatedAt": "2018-04-24T12:03:58.991Z",
+      "parent": "News Blog",
+      "children": [
+        "tOpSPZx3DqMcC8CEW24UMopeningParagraphTextNode",
+        "tOpSPZx3DqMcC8CEW24UMfullArticleTextTextNode"
+      ],
+      "internal": {
+        "type": "ContentfulNewsBlog",
+        "contentDigest": "65e9dc5d6a54faca76f66d347ebbc84f",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "c2Fhme8JLWUIc0q6OcAuGOC": {
+      "id": "c2Fhme8JLWUIc0q6OcAuGOC",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.ctfassets.net/vs9k02isgfes/2Fhme8JLWUIc0q6OcAuGOC/24e8e656c64d7ab4b3fb68ff624f1ca2/DSCF4556.jpg",
+        "details": {
+          "size": 2350962,
+          "image": {
+            "width": 4630,
+            "height": 3087
+          }
+        },
+        "fileName": "DSCF4556.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "DSCF4556",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "cbb7feb0410cef902a3dbd408213d74d",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "tOpSPZx3DqMcC8CEW24UMopeningParagraphTextNode >>> MarkdownRemark": {
+      "id": "tOpSPZx3DqMcC8CEW24UMopeningParagraphTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "tOpSPZx3DqMcC8CEW24UMopeningParagraphTextNode",
+      "internal": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eros quam, lobortis et felis sit amet, dictum rhoncus ligula. Curabitur dictum turpis metus, nec laoreet lorem sagittis vitae. Proin a justo augue. Fusce ut sagittis dolor. Nulla facilisi. Mauris ac sapien mattis, lobortis ante vitae, bibendum neque. ",
+        "contentDigest": "35782748f273ee19676146e1ffa86448",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "tOpSPZx3DqMcC8CEW24UMopeningParagraphTextNode",
+        "parent": "tOpSPZx3DqMcC8CEW24UMopeningParagraphTextNode"
+      },
+      "excerpt": ""
+    },
+    "tOpSPZx3DqMcC8CEW24UMfullArticleTextTextNode >>> MarkdownRemark": {
+      "id": "tOpSPZx3DqMcC8CEW24UMfullArticleTextTextNode >>> MarkdownRemark",
+      "children": [],
+      "parent": "tOpSPZx3DqMcC8CEW24UMfullArticleTextTextNode",
+      "internal": {
+        "content": "# Lipsum\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eros quam, lobortis et felis sit amet, dictum rhoncus ligula. Curabitur dictum turpis metus, nec laoreet lorem sagittis vitae. Proin a justo augue. Fusce ut sagittis dolor. Nulla facilisi. Mauris ac sapien mattis, lobortis ante vitae, bibendum neque. Maecenas suscipit felis viverra facilisis ultrices. Etiam tempor maximus dui, ut posuere ante. Vestibulum est enim, luctus sed euismod non, fermentum vitae ipsum. Etiam iaculis odio id libero facilisis iaculis.\n\n## +Lipsum\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eros quam, lobortis et felis sit amet, dictum rhoncus ligula. Curabitur dictum turpis metus, nec laoreet lorem sagittis vitae. Proin a justo augue. Fusce ut sagittis dolor. Nulla facilisi. Mauris ac sapien mattis, lobortis ante vitae, bibendum neque. Maecenas suscipit felis viverra facilisis ultrices. Etiam tempor maximus dui, ut posuere ante. Vestibulum est enim, luctus sed euismod non, fermentum vitae ipsum. Etiam iaculis odio id libero facilisis iaculis.",
+        "contentDigest": "b1e717f2a5a4c67335dc98df4fd0c5f7",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "",
+        "_PARENT": "tOpSPZx3DqMcC8CEW24UMfullArticleTextTextNode",
+        "parent": "tOpSPZx3DqMcC8CEW24UMfullArticleTextTextNode"
+      },
+      "excerpt": ""
+    },
     "SitePage /404/": {
       "layout": "index",
       "jsonName": "404.json",
@@ -2931,7 +3043,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6f1dcac6c536c2a8f9e6bea3831cf705",
+        "contentDigest": "67368a7406a5861b2803513e598078a8",
         "owner": "internal-data-bridge"
       }
     },
@@ -2951,7 +3063,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5c7e604dfc9691d4c2c3fb48108fcddc",
+        "contentDigest": "52fdfc8100c3d67618e9d1c7ed9e1cad",
         "owner": "internal-data-bridge"
       }
     },
@@ -2971,7 +3083,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "abca01b90827e1f76c3488cd9c2d0e78",
+        "contentDigest": "37bd39f80acebc66796c41160bf72245",
         "owner": "internal-data-bridge"
       }
     },
@@ -2991,7 +3103,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "929f09222132c324dedbd4bffcec433f",
+        "contentDigest": "ed79dba9b826f2f542b83c43e6836e66",
         "owner": "internal-data-bridge"
       }
     },
@@ -3011,7 +3123,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "79643089593136ceb3a7e1983e4fffbd",
+        "contentDigest": "1b06422f2268c3d1756231adfbfc4c0d",
         "owner": "internal-data-bridge"
       }
     },
@@ -3031,7 +3143,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b2f90449095f4b96f6a69535744ef6d1",
+        "contentDigest": "fb5371d6f5ab1ab50f1b9642982e2baf",
         "owner": "internal-data-bridge"
       }
     },
@@ -3051,7 +3163,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1eda1229de4ff31a27f3758694cbcea9",
+        "contentDigest": "d2ad02cd8a83b512a819aa0ee991ac8e",
         "owner": "internal-data-bridge"
       }
     },
@@ -3071,7 +3183,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "617936568caeb467a62b26477338346e",
+        "contentDigest": "7fcf997f991a242ab6e9c32ccf86e984",
         "owner": "internal-data-bridge"
       }
     }
@@ -3079,7 +3191,7 @@
   "status": {
     "plugins": {
       "gatsby-source-contentful": {
-        "vs9k02isgfes": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybDu086HMOILsKPOVfDh8Oea0TCh8OxwrfDoEMdw4vCl8KZwpfDr1bDh8Kxwp5XTDzDucK8w57Dg8K4wo43cMOTw44oDsOeKMOqwonCjsOJw5ALw6HCjMKuGsKJw7ALLcOFwrbChzpA"
+        "vs9k02isgfes": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybDgVVXNcOWw4s4DEcwwpHCkw1SwrwAJTZxw6DCqsOaZmvDvG_CuWfDrBVIwr4Hw6XClX5oTsKRwrI9U8O5w5bCg8O8w5rCoMKmRMK7w7AhIGFOw6TDjcKwIMKIw6jDrMOt"
       }
     },
     "PLUGINS_HASH": "c225888c9448958cb53c3eb50c3a243a"
@@ -3336,6 +3448,21 @@
         "/"
       ],
       "c21vH6TQT6UIUGWYG2sWuM2openingParagraphTextNode": [
+        "/"
+      ],
+      "c2Fhme8JLWUIc0q6OcAuGOC": [
+        "/news-archive/",
+        "/"
+      ],
+      "tOpSPZx3DqMcC8CEW24UMfullArticleTextTextNode": [
+        "/news-archive/",
+        "/"
+      ],
+      "tOpSPZx3DqMcC8CEW24UMfullArticleTextTextNode >>> MarkdownRemark": [
+        "/news-archive/",
+        "/"
+      ],
+      "tOpSPZx3DqMcC8CEW24UMopeningParagraphTextNode": [
         "/"
       ]
     },
