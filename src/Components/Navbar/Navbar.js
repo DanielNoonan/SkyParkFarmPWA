@@ -300,7 +300,7 @@ const NavToggler = styled.h1`
 const NavbarMenu = styled.ul`
   display: none;
   position: absolute;
-  top: 135px;
+  top: 144px;
   left: 0;
   margin: 0;
   text-align: center;
