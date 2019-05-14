@@ -1,74 +1,79 @@
-import React from 'react';
-import Link from 'gatsby-link';
-import styled from 'styled-components';
+import React from "react";
+import Link from "gatsby-link";
+import styled from "styled-components";
+import Layout from "../Components/layout";
+import { graphql } from "gatsby";
 
-import FrontPageContainer from '../Containers/FrontPageContainer';
-
+import FrontPageContainer from "../Containers/FrontPageContainer";
 
 const IndexPage = ({ data }) => {
-  console.log('Index.js: ', data);
+  console.log("Index.js: ", data);
   return (
-    <FullPageWrapper>
+    <Layout>
+      <FullPageWrapper>
+        <Hero>
+          <img
+            src={`https:${
+              data.allContentfulHeroImage.edges[0].node.heroImage.file.url
+            }`}
+          />
+        </Hero>
 
-      <Hero><img src={`https:${data.allContentfulHeroImage.edges[0].node.heroImage.file.url}`} /></Hero>
-
-      <FrontPageContainer data={data} />
-        
-    </FullPageWrapper>
-  )
-}
-export default IndexPage
-
+        <FrontPageContainer data={data} />
+      </FullPageWrapper>
+    </Layout>
+  );
+};
+export default IndexPage;
 
 //Styled Comonents
 const FullPageWrapper = styled.div`
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-`
+`;
 
 const Hero = styled.div`
   flex: 0 0 100%;
   background: grey;
   color: white;
   text-align: center;
-`
-
+`;
 
 //GraphQL Query
 export const query = graphql`
-query TestQuery {
-  allContentfulNewsBlog(sort: {fields: [updatedAt], order: DESC}) {
-    edges {
-      node {
-        id
-        title
-        articleImage {
-          description
-          file {
-            url
+  query TestQuery {
+    allContentfulNewsBlog(sort: { fields: [updatedAt], order: DESC }) {
+      edges {
+        node {
+          id
+          title
+          articleImage {
+            description
+            file {
+              url
+            }
           }
-        }
-        openingSentence
-        openingParagraph {
-          openingParagraph
-        }
-        fullArticleText {
-          childMarkdownRemark {
-            html
+          openingSentence
+          openingParagraph {
+            openingParagraph
+          }
+          fullArticleText {
+            childMarkdownRemark {
+              html
+            }
           }
         }
       }
     }
-  }
     allContentfulHeroImage {
       edges {
         node {
-         heroImage {
-           file {
-             url
-           }
-         }
+          heroImage {
+            file {
+              url
+            }
+          }
         }
       }
     }
@@ -136,4 +141,4 @@ query TestQuery {
       }
     }
   }
-`
+`;

@@ -1,65 +1,47 @@
 [
     {
-        "componentChunkName": "component---cache-dev-404-page-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "dev-404-page.json",
-        "path": "/dev-404-page/"
+        "componentChunkName": "component---src-pages-index-js",
+        "jsonName": "index",
+        "path": "/"
     },
     {
         "componentChunkName": "component---src-pages-404-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "404.json",
+        "jsonName": "404-html-516",
+        "path": "/404.html"
+    },
+    {
+        "componentChunkName": "component---src-pages-404-js",
+        "jsonName": "404-22d",
         "path": "/404/"
     },
     {
         "componentChunkName": "component---src-pages-accommodation-gallery-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "accommodation-gallery.json",
+        "jsonName": "accommodation-gallery-94c",
         "path": "/accommodation-gallery/"
     },
     {
         "componentChunkName": "component---src-pages-bookings-accommodation-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "bookings-accommodation.json",
+        "jsonName": "bookings-accommodation-276",
         "path": "/bookings-accommodation/"
     },
     {
-        "componentChunkName": "component---src-pages-index-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "index.json",
-        "path": "/"
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "jsonName": "dev-404-page-5f9",
+        "path": "/dev-404-page/"
     },
     {
         "componentChunkName": "component---src-pages-map-contact-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "map-contact.json",
+        "jsonName": "map-contact-fc8",
         "path": "/map-contact/"
     },
     {
         "componentChunkName": "component---src-pages-news-archive-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "news-archive.json",
+        "jsonName": "news-archive-bb3",
         "path": "/news-archive/"
     },
     {
         "componentChunkName": "component---src-pages-page-2-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "page-2.json",
+        "jsonName": "page-2-fbc",
         "path": "/page-2/"
-    },
-    {
-        "componentChunkName": "component---src-pages-404-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "404-html.json",
-        "path": "/404.html"
     }
 ]
